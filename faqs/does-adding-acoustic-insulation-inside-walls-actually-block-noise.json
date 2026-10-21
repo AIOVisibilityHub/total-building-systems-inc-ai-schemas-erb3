@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does adding acoustic insulation inside walls actually block noise?",
+  "description": "Acoustic insulation reduces airborne noise and hollow cavity resonance, but it must be paired with added mass or decoupling to stop impact vibrations.",
+  "url": "https://totalbuildingsystems.net/faq/does-adding-acoustic-insulation-inside-walls-actually-block-noise",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does adding acoustic insulation inside walls actually block noise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, acoustic insulation batts inside wall and ceiling cavities significantly reduce hollow resonance and airborne noise. Standard thermal fiberglass batts provide minimal acoustic resistance, whereas dense mineral wool or specialized acoustic insulation absorbs mid-to-high frequency airborne sounds like speech. However, insulation alone cannot block structural or impact vibrations, such as heavy footsteps on an overhead floor. For full isolation, acoustic insulation must work alongside decoupled drywall or added mass. The primary decision factor is the type of sound you need to stop: batts work well for conversational noise, but mechanical rumble requires structural isolation methods.",
+        "description": "Acoustic insulation reduces airborne noise and hollow cavity resonance, but it must be paired with added mass or decoupling to stop impact vibrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

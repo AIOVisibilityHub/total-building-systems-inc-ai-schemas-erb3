@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do contractors improve sound isolation in existing finished walls?",
+  "description": "Contractors either add damped drywall layers over existing walls or open the wall to install acoustic batts, resilient channels, and airtight acoustic sealant.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-contractors-improve-sound-isolation-in-existing-finished-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do contractors improve sound isolation in existing finished walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upgrading an existing wall usually involves adding dense layers, damping compounds, or isolated drywall assemblies. In retrofit projects, the least disruptive method is installing a layer of acoustic drywall or standard 5/8-inch gypsum over the existing surface using viscoelastic damping compound. When superior isolation is required, contractors remove the existing drywall down to the studs. This allows the installation of sound-attenuation mineral wool batts inside the cavity, along with resilient sound isolation clips and metal furring channels that decouple the new drywall from the framing. A key preparation step is identifying whether noise is traveling directly through the partition or flanking through HVAC ducts, door undercuts, and shared electrical boxes.",
+        "description": "Contractors either add damped drywall layers over existing walls or open the wall to install acoustic batts, resilient channels, and airtight acoustic sealant."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

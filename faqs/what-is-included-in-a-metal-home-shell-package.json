@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a metal-home shell package?",
+  "description": "A metal-home shell provides a fully enclosed, weather-tight exterior with concrete, steel framing, siding, and roofing, leaving the interior open for later fini",
+  "url": "https://totalbuildingsystems.net/faq/what-is-included-in-a-metal-home-shell-package",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a metal-home shell package?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal-home shell includes the structural exterior components needed to make the building weather-tight. This typically encompasses the foundation slab, primary steel framing, exterior metal wall panels, roofing, trim, gutters, and rough openings for doors and windows. The interior remains completely unfinished—meaning no interior framing walls, drywall, insulation, electrical wiring, or plumbing lines are included. Choosing a shell package allows owners to secure a durable, enclosed envelope while deferring interior layout choices or completing the finish work independently.",
+        "description": "A metal-home shell provides a fully enclosed, weather-tight exterior with concrete, steel framing, siding, and roofing, leaving the interior open for later finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

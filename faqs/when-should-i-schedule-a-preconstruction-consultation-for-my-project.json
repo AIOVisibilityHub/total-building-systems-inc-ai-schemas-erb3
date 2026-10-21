@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I schedule a preconstruction consultation for my project?",
+  "description": "Schedule a preconstruction consultation while designs are still in the schematic or conceptual phase, well before submitting plans for municipal permits.",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-schedule-a-preconstruction-consultation-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I schedule a preconstruction consultation for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should schedule a preconstruction consultation before finalizing your architectural drawings or submitting for building permits. Bringing a general contractor to the table early allows us to perform constructability reviews while design changes are still inexpensive to make on paper. If you wait until plans are stamped and submitted, discovering structural challenges or budget mismatches often requires paying engineers for revisions and delaying permit approvals. Scheduling early creates a synchronized team between the owner, designer, and builder from day one.",
+        "description": "Schedule a preconstruction consultation while designs are still in the schematic or conceptual phase, well before submitting plans for municipal permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

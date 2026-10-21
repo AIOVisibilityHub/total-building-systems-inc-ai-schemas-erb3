@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure proper ventilation inside an equine facility?",
+  "description": "Proper airflow is achieved using raised ridge vents, high ceilings, eave openings, and Dutch doors to allow continuous passive air exchange.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-ensure-proper-ventilation-inside-an-equine-facility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure proper ventilation inside an equine facility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective barn ventilation relies on continuous air exchange that moves hot air and ammonia fumes out without creating drafty ground-level conditions. You achieve this through high-pitched roofs, continuous ridge vents, vented overhangs, and Dutch doors that open to individual paddocks. Cupolas can also act as functional exhaust vents rather than purely decorative additions. Incorporating adequate ceiling clearance ensures natural convection draws rising warm air up and away, reducing the risk of respiratory illnesses and mold in stored hay.",
+        "description": "Proper airflow is achieved using raised ridge vents, high ceilings, eave openings, and Dutch doors to allow continuous passive air exchange."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

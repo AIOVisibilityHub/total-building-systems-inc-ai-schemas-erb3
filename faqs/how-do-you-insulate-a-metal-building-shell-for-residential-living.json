@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you insulate a metal building shell for residential living?",
+  "description": "Spray foam or continuous rigid insulation must be applied to prevent condensation, block thermal bridging, and maintain comfortable interior temperatures.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-insulate-a-metal-building-shell-for-residential-living",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you insulate a metal building shell for residential living?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal-home shell must be properly insulated to prevent condensation, control thermal bridging, and maintain comfortable interior temperatures. Because steel conducts heat rapidly, uninsulated metal panels will sweat when warm interior air meets cold exterior steel. Spray polyurethane foam is one of the most effective solutions because it acts as both a continuous air barrier and a vapor retarder, adhering directly to the metal skin. Alternatively, continuous rigid board insulation or heavy-duty fiberglass blanket systems can be used beneath the framing.",
+        "description": "Spray foam or continuous rigid insulation must be applied to prevent condensation, block thermal bridging, and maintain comfortable interior temperatures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

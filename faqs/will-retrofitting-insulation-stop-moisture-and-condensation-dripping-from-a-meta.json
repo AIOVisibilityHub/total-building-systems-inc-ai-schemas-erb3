@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will retrofitting insulation stop moisture and condensation dripping from a metal roof?",
+  "description": "Yes, retrofitting with a properly sealed vapor retarder stops warm, humid indoor air from hitting cold roof panels, eliminating condensation.",
+  "url": "https://totalbuildingsystems.net/faq/will-retrofitting-insulation-stop-moisture-and-condensation-dripping-from-a-meta",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will retrofitting insulation stop moisture and condensation dripping from a metal roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A proper retrofit stops condensation by installing an unbroken vapor retarder that prevents warm, humid interior air from reaching cold exterior metal roof panels. When the steel drops below the dew point, unprotected metal sweats and drips. The retrofit process requires sealed overlap seams, reinforced vapor barrier facings, and tight thermal gaskets around penetrations like vents and skylights. A crucial preparation detail is inspecting and maintaining building ventilation: pairing new insulation with ridge vents, louvers, or exhaust fans ensures controlled air exchange and prevents moisture pockets from forming in unconditioned workshops.",
+        "description": "Yes, retrofitting with a properly sealed vapor retarder stops warm, humid indoor air from hitting cold roof panels, eliminating condensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

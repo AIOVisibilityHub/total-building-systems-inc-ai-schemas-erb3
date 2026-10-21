@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a general contractor assess a building for insulation and moisture needs?",
+  "description": "Contractors measure existing insulation, check framing moisture levels, inspect attic and crawlspace ventilation, and evaluate air leakage paths.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-general-contractor-assess-a-building-for-insulation-and-moisture-need",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a general contractor assess a building for insulation and moisture needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A contractor determines the approach by measuring existing insulation depth, testing framing moisture levels, and identifying air leakage paths with visual and diagnostic checks. They review framing construction, attic venting, crawlspace grade dampness, and roof flashing interfaces. This evaluation determines whether an assembly requires unvented, sealed crawlspace solutions or standard ventilated attics paired with targeted continuous insulation and interior air sealing.",
+        "description": "Contractors measure existing insulation, check framing moisture levels, inspect attic and crawlspace ventilation, and evaluate air leakage paths."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

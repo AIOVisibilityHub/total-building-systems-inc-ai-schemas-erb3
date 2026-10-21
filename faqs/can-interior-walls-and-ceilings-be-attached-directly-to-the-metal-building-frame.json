@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can interior walls and ceilings be attached directly to the metal building frame?",
+  "description": "Interior framing is typically anchored to the slab or attached via engineered non-rigid clips; never cut or drill into primary rigid frames without engineering",
+  "url": "https://totalbuildingsystems.net/faq/can-interior-walls-and-ceilings-be-attached-directly-to-the-metal-building-frame",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can interior walls and ceilings be attached directly to the metal building frame?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cutting or drilling into primary structural frames or rigid rafters is generally prohibited, as it compromises the engineered load capacity of the building shell. Pre-engineered steel buildings are designed to carry specific live, dead, wind, and seismic loads. Instead of altering primary frames, contractors attach interior walls using light-gauge tracks secured to the concrete slab, floating clips on secondary purlins, or self-supporting ceiling joist systems. If you must hang heavy mechanical units or build a mezzanine, an engineer must review the framing plans to verify whether reinforcement or dedicated posts are necessary.",
+        "description": "Interior framing is typically anchored to the slab or attached via engineered non-rigid clips; never cut or drill into primary rigid frames without engineering approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

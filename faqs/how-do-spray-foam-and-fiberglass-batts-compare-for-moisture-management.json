@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do spray foam and fiberglass batts compare for moisture management?",
+  "description": "Closed-cell spray foam provides insulation and a vapor barrier in one step. Fiberglass batts require separate air-sealing and vapor membranes to control moistur",
+  "url": "https://totalbuildingsystems.net/faq/how-do-spray-foam-and-fiberglass-batts-compare-for-moisture-management",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do spray foam and fiberglass batts compare for moisture management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Closed-cell spray foam acts as both an insulation layer and a built-in vapor retarder, while fiberglass batts require a separate, carefully detailed vapor and air barrier. Closed-cell foam creates a rigid, airtight seal that blocks bulk water and vapor movement, which is beneficial in crawlspaces and exterior envelopes. Fiberglass offers a lower upfront installation cost and easy adjustment around utilities, but it remains vapor-permeable and relies entirely on external house wraps or interior membranes to manage humidity.",
+        "description": "Closed-cell spray foam provides insulation and a vapor barrier in one step. Fiberglass batts require separate air-sealing and vapor membranes to control moisture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

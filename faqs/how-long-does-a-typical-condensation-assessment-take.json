@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical condensation assessment take?",
+  "description": "The on-site evaluation takes two to four hours, with a comprehensive diagnostic findings report delivered within two to five business days.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-typical-condensation-assessment-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical condensation assessment take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard condensation assessment typically takes between two and four hours on-site, depending on the building footprint and structural access. The inspector will inspect attics, crawlspaces, living areas, and mechanical zones to log temperature differentials and thermal bridges. Following the physical inspection, compiling the data and preparing an actionable diagnostic report usually takes two to five business days. Complex commercial metal buildings or structures with vaulted ceilings and limited attic access may require additional diagnostic time.",
+        "description": "The on-site evaluation takes two to four hours, with a comprehensive diagnostic findings report delivered within two to five business days."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do contractors prevent roof leaks where the new metal addition joins the old building?",
+  "description": "Contractors use custom transition flashing, closure strips, and engineered water drainage paths tucked under existing panels to prevent leaks at tie-in points.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-contractors-prevent-roof-leaks-where-the-new-metal-addition-joins-the-old",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do contractors prevent roof leaks where the new metal addition joins the old building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper weatherproofing relies on engineered transition flashings, rubber closure strips, and high-grade sealants specifically placed where the addition meets the existing roof and walls. Water management is critical at roof tie-ins: your contractor must account for drainage slope and ensure the new roof does not dump stormwater runoff onto the existing structure. Depending on the design, counter-flashing must be tucked under the original metal panels, and expanded valleys or gutters must be sized to handle heavy downpours without backing up under seams.",
+        "description": "Contractors use custom transition flashing, closure strips, and engineered water drainage paths tucked under existing panels to prevent leaks at tie-in points."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

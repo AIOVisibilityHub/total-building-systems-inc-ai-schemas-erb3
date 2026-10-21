@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my shop or commercial steel building before insulation work begins?",
+  "description": "Clear floor space for scissor lifts, fix existing roof leaks, identify bay and purlin measurements, and plan staging areas for tools and materials.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-shop-or-commercial-steel-building-before-insulation-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my shop or commercial steel building before insulation work begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contractors arrive, clear a perimeter path along walls and create wide, open lanes under roof purlins so scissor lifts and scaffolding can move freely. Gather details on your building's frame specs, including bay spacing, purlin depth, and roof clearance. Disclose any roof leaks or damaged skylight panels upfront, as water intrusion must be repaired before placing new fiberglass or foam boards. If your facility houses active operations, plan whether your team can shift equipment to one side of the structure to allow installers to complete the retrofit bay by bay.",
+        "description": "Clear floor space for scissor lifts, fix existing roof leaks, identify bay and purlin measurements, and plan staging areas for tools and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a shop-and-home combination building?",
+  "description": "A shop-and-home combination is a single building that integrates residential living quarters directly with an attached workshop or commercial workspace under on",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-shop-and-home-combination-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a shop-and-home combination building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A shop-and-home combination, often referred to as a shouse or barndominium, integrates fully finished living quarters with an attached, dedicated workshop or garage within a single building structure. The design can range from a workshop on the ground level with living quarters above to a side-by-side layout under one unified roofline. Building both spaces together typically reduces excavation, foundation, and exterior siding costs compared to constructing two detached structures. When planning the layout, homeowners must consider practical separation, including fire-rated partition walls, dedicated HVAC zoning, and sound-dampening insulation to prevent workshop noises and fumes from entering living spaces.",
+        "description": "A shop-and-home combination is a single building that integrates residential living quarters directly with an attached workshop or commercial workspace under one roofline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

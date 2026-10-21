@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What building code and site requirements apply to metal building additions in the Verde Valley?",
+  "description": "Additions must comply with Yavapai County or local municipal codes for wind loads and drainage, and historic areas may require specific exterior finish approval",
+  "url": "https://totalbuildingsystems.net/faq/what-building-code-and-site-requirements-apply-to-metal-building-additions-in-th",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What building code and site requirements apply to metal building additions in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Metal building additions in the Verde Valley—including Cottonwood, Clarkdale, Jerome, Camp Verde, and Cornville—require building permits and plan reviews through the city or Yavapai County. Structural designs must account for local environmental demands, such as high summer temperatures, seasonal monsoon downpours, and local wind load criteria. In historic areas like Jerome or Clarkdale, exterior finishes, color palettes, and panel profiles may also need design review approval to match local commercial or residential architectural standards. Working with a local general contractor ensures these site-specific requirements are met properly.",
+        "description": "Additions must comply with Yavapai County or local municipal codes for wind loads and drainage, and historic areas may require specific exterior finish approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

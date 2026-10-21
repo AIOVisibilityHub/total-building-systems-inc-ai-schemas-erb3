@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What details should I prepare before meeting with a builder for a shop-home design?",
+  "description": "Bring property surveys, utility details, desired living square footage, and an inventory of tools or vehicles to establish ceiling heights, slab thickness, and",
+  "url": "https://totalbuildingsystems.net/faq/what-details-should-i-prepare-before-meeting-with-a-builder-for-a-shop-home-desi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What details should I prepare before meeting with a builder for a shop-home design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before consulting a general contractor, define your workshop operational requirements and document your property boundaries. Determine what equipment will occupy the shop, including car lifts, heavy machinery, or welding rigs, because these dictate ceiling heights, door clearances, and electrical panel amperage. You should also obtain a current boundary survey, check available utility capacities (especially 200-amp vs. 400-amp electric service), and list your essential residential needs, such as bedroom count and square footage. Having a clear inventory of machinery and space dimensions allows the builder to engineer adequate concrete slab thickness and structural beam spans accurately.",
+        "description": "Bring property surveys, utility details, desired living square footage, and an inventory of tools or vehicles to establish ceiling heights, slab thickness, and electrical needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

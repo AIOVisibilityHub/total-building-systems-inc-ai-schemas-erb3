@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a homeowner prepare before an insulation and moisture-control project begins?",
+  "description": "Clear access to crawlspaces and attics, document existing damp spots, and ensure roof leaks or plumbing drips are repaired before work starts.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-a-homeowner-prepare-before-an-insulation-and-moisture-control-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a homeowner prepare before an insulation and moisture-control project begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before scheduling work, clear access pathways to attics, basements, and crawlspaces, and document any recurring damp spots or drafts you have observed during seasonal storms. Homeowners should also verify whether roof flashings, gutters, and plumbing lines are leak-free, as external liquid leaks must be resolved before installing interior insulation and vapor retarders. Having existing utility and framing plans on hand also helps contractors identify hidden wall cavities.",
+        "description": "Clear access to crawlspaces and attics, document existing damp spots, and ensure roof leaks or plumbing drips are repaired before work starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

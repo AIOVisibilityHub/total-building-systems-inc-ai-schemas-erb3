@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my metal building before insulation work begins?",
+  "description": "Clear vehicles and equipment away from walls and roof areas, provide lift access, and finalize rough electrical or plumbing rough-ins first.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-metal-building-before-insulation-work-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my metal building before insulation work begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before the installation team arrives, clear a continuous working perimeter of at least five to ten feet along all interior walls and directly beneath roof purlins. Move vehicles, tool chests, and palletized materials out of the building to allow scissor lifts and scaffolding to move safely. You should also mark or complete any rough-in electrical lines, plumbing vents, and overhead crane rails so technicians do not cover up critical utility penetrations during the installation process.",
+        "description": "Clear vehicles and equipment away from walls and roof areas, provide lift access, and finalize rough electrical or plumbing rough-ins first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

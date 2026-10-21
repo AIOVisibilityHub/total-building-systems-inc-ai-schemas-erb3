@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does boat and RV storage construction differ from standard mini-storage?",
+  "description": "RV storage requires 40- to 50-foot drive aisles, taller 14-foot doors, longer bays, and reinforced pavement to carry heavy axle weights.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-boat-and-rv-storage-construction-differ-from-standard-mini-storage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does boat and RV storage construction differ from standard mini-storage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding boat and RV storage requires wider drive aisles, taller clear heights, and heavier-duty pavement compared to standard mini-storage. Standard drive aisles are typically 25 to 30 feet wide, but RV turning radiuses require 40 to 50 feet between buildings. Enclosed RV bays often need 14-foot-high overhead doors and lengths up to 45 to 50 feet. Slabs and asphalt sections must be engineered with thicker cross-sections and subbase reinforcement to support heavy axle loads without cracking or rutting.",
+        "description": "RV storage requires 40- to 50-foot drive aisles, taller 14-foot doors, longer bays, and reinforced pavement to carry heavy axle weights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

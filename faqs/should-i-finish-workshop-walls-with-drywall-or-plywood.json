@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I finish workshop walls with drywall or plywood?",
+  "description": "Plywood lets you mount tools anywhere easily, while drywall provides better fire resistance, sound deadening, and a brighter, cleaner aesthetic.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-finish-workshop-walls-with-drywall-or-plywood",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I finish workshop walls with drywall or plywood?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plywood or OSB wall sheeting offers practical advantages over standard drywall in active workshops, though it comes with tradeoffs. Wood paneling allows you to hang heavy tools, cabinets, and shelving anywhere on the wall without finding studs. However, drywall delivers superior fire resistance, a cleaner painted finish, and better sound dampening between the shop and neighboring properties. Many shop owners compromise by installing high-durability plywood on the primary tool walls and standard drywall on ceilings and secondary walls.",
+        "description": "Plywood lets you mount tools anywhere easily, while drywall provides better fire resistance, sound deadening, and a brighter, cleaner aesthetic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

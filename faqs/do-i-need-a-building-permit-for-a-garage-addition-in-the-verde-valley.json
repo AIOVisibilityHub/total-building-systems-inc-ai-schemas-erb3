@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for a garage addition in the Verde Valley?",
+  "description": "Yes, building permits are required by local jurisdictions to verify structural engineering, property setbacks, and building code compliance before construction",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-a-garage-addition-in-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for a garage addition in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building a garage addition always requires a building permit from your local city or county building department. Before work starts, your contractor must submit detailed architectural drawings, structural engineering calculations, and a site plan showing property lines and setbacks. In communities within the Verde Valley like Cottonwood or Camp Verde, building officials review the plans to verify wind load resistance, foundation depth, and zoning compliance before issuing permits. Starting construction without approved permits can result in stop-work orders, fines, and problems when selling your property.",
+        "description": "Yes, building permits are required by local jurisdictions to verify structural engineering, property setbacks, and building code compliance before construction begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

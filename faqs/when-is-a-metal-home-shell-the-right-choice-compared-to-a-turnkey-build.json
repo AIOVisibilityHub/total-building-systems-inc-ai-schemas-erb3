@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is a metal-home shell the right choice compared to a turnkey build?",
+  "description": "It is ideal if you prioritize structural longevity, fire resistance, and flexible open layouts, but may conflict with strict HOA exterior guidelines.",
+  "url": "https://totalbuildingsystems.net/faq/when-is-a-metal-home-shell-the-right-choice-compared-to-a-turnkey-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a metal-home shell the right choice compared to a turnkey build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal shell is practical if you want an open floor plan, rapid dry-in timeline, and resistance to termites and rot, or if you plan to phase out interior construction to manage your budget. However, if your neighborhood has strict homeowner association covenants prohibiting visible metal siding, or if your plan requires complex, multi-story rooflines that are costly to execute in pre-engineered steel, conventional framing or a hybrid construction approach may be a more sensible alternative.",
+        "description": "It is ideal if you prioritize structural longevity, fire resistance, and flexible open layouts, but may conflict with strict HOA exterior guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

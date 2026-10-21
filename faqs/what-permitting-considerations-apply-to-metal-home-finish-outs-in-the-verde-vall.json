@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permitting considerations apply to metal-home finish-outs in the Verde Valley?",
+  "description": "Permits must comply with Yavapai County or local town codes (like Cottonwood or Camp Verde), focusing on energy compliance, egress, and living/garage fire separ",
+  "url": "https://totalbuildingsystems.net/faq/what-permitting-considerations-apply-to-metal-home-finish-outs-in-the-verde-vall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permitting considerations apply to metal-home finish-outs in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, building codes and permitting requirements differ depending on whether your site falls under Yavapai County jurisdiction or municipal boundaries in Cottonwood, Camp Verde, Jerome, or Clarkdale. While clear-span metal shells are engineered for regional wind loads, local inspectors closely examine residential energy code compliance, framing anchors, and proper fire separation between living quarters and shop or garage areas. Coordinating your finish-out plans with the specific local building department early ensures your insulation values, egress windows, and mechanical ventilation meet municipal standards without costly retrofit delays.",
+        "description": "Permits must comply with Yavapai County or local town codes (like Cottonwood or Camp Verde), focusing on energy compliance, egress, and living/garage fire separation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

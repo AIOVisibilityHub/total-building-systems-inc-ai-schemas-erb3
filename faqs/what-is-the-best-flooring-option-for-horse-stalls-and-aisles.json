@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best flooring option for horse stalls and aisles?",
+  "description": "Compacted crushed stone topped with heavy rubber mats works best for stall comfort, while concrete is ideal for durability in center aisles and wash bays.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-best-flooring-option-for-horse-stalls-and-aisles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best flooring option for horse stalls and aisles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clay-based dirt and decomposed granite over a well-drained rock base are common stall flooring choices, often paired with heavy rubber mats. Concrete is durable and easy to sanitize in center aisles and wash racks, but standing directly on concrete can cause joint fatigue in horses. A practical tradeoff is installing concrete aisles for clean equipment handling while keeping stalls on compacted screenings with seamless rubber mats. This combination delivers orthopedic cushion and easy stall cleaning without compromising the building's structural foundation.",
+        "description": "Compacted crushed stone topped with heavy rubber mats works best for stall comfort, while concrete is ideal for durability in center aisles and wash bays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

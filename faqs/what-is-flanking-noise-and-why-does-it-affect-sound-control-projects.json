@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is flanking noise, and why does it affect sound-control projects?",
+  "description": "Flanking noise is sound that travels around a soundproof wall through ductwork, unsealed joints, or floors. Sealing all air gaps is essential for success.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-flanking-noise-and-why-does-it-affect-sound-control-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is flanking noise, and why does it affect sound-control projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sound flanking occurs when acoustic energy bypasses a soundproof wall or ceiling by traveling through indirect paths like ductwork, floorboards, or shared plumbing chases. Even if a partition has high sound isolation, sound can escape through unsealed perimeter edges, back-to-back electrical boxes, ceiling registers, or hollow doors. Process clarity during installation is critical: contractors use non-hardening acoustical sealant along every wall-to-floor and wall-to-ceiling perimeter joint to maintain an airtight seal. Putty pads are wrapped around junction boxes inside the wall cavity to stop air leaks. If flanking paths are ignored, the perceived sound reduction of the room drops drastically.",
+        "description": "Flanking noise is sound that travels around a soundproof wall through ductwork, unsealed joints, or floors. Sealing all air gaps is essential for success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

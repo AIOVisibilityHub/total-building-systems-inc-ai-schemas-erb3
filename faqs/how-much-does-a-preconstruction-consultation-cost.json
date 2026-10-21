@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a preconstruction consultation cost?",
+  "description": "Initial project reviews are usually complimentary, while detailed preconstruction services involving full estimating and site evaluations involve a professional",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-a-preconstruction-consultation-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a preconstruction consultation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initial discovery discussions are typically complimentary, while comprehensive preconstruction services involving formal estimating, site visits, and constructability reviews are structured as an agreed-upon service agreement. The final scope depends on project size, existing site complexity, and whether you require detailed cost breakdowns, trade walk-throughs, or assistance with permit submittal packages. Investing in paid preconstruction planning often saves thousands of dollars during construction by identifying grading obstacles, utility issues, and structural inefficiencies before field work begins.",
+        "description": "Initial project reviews are usually complimentary, while detailed preconstruction services involving full estimating and site evaluations involve a professional fee."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

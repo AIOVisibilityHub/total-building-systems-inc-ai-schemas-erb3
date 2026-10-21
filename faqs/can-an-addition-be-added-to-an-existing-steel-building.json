@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can an addition be added to an existing steel building?",
+  "description": "Yes, steel buildings can be expanded by extending endwalls, modifying sidewalls, or erecting a self-supporting frame tied into the existing structure with weath",
+  "url": "https://totalbuildingsystems.net/faq/can-an-addition-be-added-to-an-existing-steel-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can an addition be added to an existing steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can add an expansion to an existing steel building, provided the original structure can accommodate the tie-in. The process involves evaluating whether the addition will attach to an endwall, extend a sidewall, or stand as an independent structure tied in with flashing. An endwall expansion is typically the simplest approach if the original building was engineered with expandable frames. If it was built with non-expandable endwall posts, a general contractor will need to design an independent structural frame adjacent to the existing wall to prevent overloading the original components.",
+        "description": "Yes, steel buildings can be expanded by extending endwalls, modifying sidewalls, or erecting a self-supporting frame tied into the existing structure with weather-tight flashing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

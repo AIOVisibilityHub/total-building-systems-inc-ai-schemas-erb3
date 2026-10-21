@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the tradeoff between venting an attic and fully encapsulating it?",
+  "description": "Venting costs less and uses outside air to flush moisture, whereas encapsulation protects ductwork and seals out humid exterior air entirely.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-tradeoff-between-venting-an-attic-and-fully-encapsulating-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the tradeoff between venting an attic and fully encapsulating it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Venting brings outside air through soffit and ridge vents to clear humidity, while encapsulating completely seals and insulates the perimeter walls of an attic or crawlspace. Encapsulation keeps mechanical ductwork inside conditioned space, reducing energy losses and eliminating humid summer air intake. Traditional venting costs less upfront and works well with simple rooflines, but requires strict ceiling air sealing to prevent conditioned room air from escaping into the unconditioned space.",
+        "description": "Venting costs less and uses outside air to flush moisture, whereas encapsulation protects ductwork and seals out humid exterior air entirely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

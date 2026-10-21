@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a barndominium compared to a standard house?",
+  "description": "The exterior metal shell often costs less per square foot, but interior finishes match standard home costs. Total pricing depends heavily on site prep, septic,",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-it-cost-to-build-a-barndominium-compared-to-a-standard-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a barndominium compared to a standard house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Overall barndominium costs depend on your finish level, foundation design, and utility access. While the exterior steel building shell is often less expensive to erect per square foot than standard framing, the interior living finishes cost roughly the same as a conventional home. Site preparation is a major cost variable. If your parcel in areas like Camp Verde or Cornville requires grading, long utility trenching, or an engineered septic system, your upfront site work will take up a larger portion of the total budget than the building kit itself.",
+        "description": "The exterior metal shell often costs less per square foot, but interior finishes match standard home costs. Total pricing depends heavily on site prep, septic, and utility installation needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

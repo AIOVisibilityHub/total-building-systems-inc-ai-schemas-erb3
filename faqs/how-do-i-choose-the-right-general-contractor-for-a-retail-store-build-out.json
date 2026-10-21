@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right general contractor for a retail store build-out?",
+  "description": "Select a licensed commercial contractor with proven tenant build-out experience, reliable subcontractor relationships, transparent scheduling, and strong commun",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-general-contractor-for-a-retail-store-build-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right general contractor for a retail store build-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a commercial contractor with proven experience in tenant improvements, active commercial licensing, and a reliable network of regional trade subcontractors. Ask candidates how they manage communication with commercial landlords, property managers, and municipal building inspectors. The right contractor provides transparent project schedules, coordinates permit submissions, and identifies long-lead materials before construction starts. They should also demonstrate practical problem-solving skills when addressing field conditions, such as uneven slab floors or hidden utility conflicts, ensuring your store opens on schedule without compromise to safety or aesthetic quality.",
+        "description": "Select a licensed commercial contractor with proven tenant build-out experience, reliable subcontractor relationships, transparent scheduling, and strong communication skills."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

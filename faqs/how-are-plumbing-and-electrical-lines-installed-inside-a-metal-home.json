@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are plumbing and electrical lines installed inside a metal home?",
+  "description": "Plumbing lines are set in or through the slab, while electrical wiring runs through interior stud walls and protective conduit chases to avoid friction against",
+  "url": "https://totalbuildingsystems.net/faq/how-are-plumbing-and-electrical-lines-installed-inside-a-metal-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are plumbing and electrical lines installed inside a metal home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plumbing and electrical rough-ins require deliberate planning around the structural steel frame and concrete foundation. Drainage lines must be placed accurately before the slab pour or retrofitted by saw-cutting the concrete if adapting an existing shell. For electrical, wiring cannot be stapled directly to structural steel red iron or purlins without protective conduits or proper grommets to prevent chafe and shorts. Electrical runs are commonly housed inside the newly framed interior partition walls or dropped down through ceiling chases. Thoroughly marking fixture locations before slab prep prevents expensive concrete cutting later.",
+        "description": "Plumbing lines are set in or through the slab, while electrical wiring runs through interior stud walls and protective conduit chases to avoid friction against structural steel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

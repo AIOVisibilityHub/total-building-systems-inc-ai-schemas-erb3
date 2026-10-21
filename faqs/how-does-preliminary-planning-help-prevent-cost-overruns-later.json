@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does preliminary planning help prevent cost overruns later?",
+  "description": "It identifies major cost drivers and site hurdles early, letting you adjust materials and design before construction documents are finalized.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-preliminary-planning-help-prevent-cost-overruns-later",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does preliminary planning help prevent cost overruns later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preliminary budget planning directly prevents cost overruns by identifying site challenges, utility needs, and structural complexities before construction starts. The process includes establishing dedicated line items for contingencies and permit fees rather than treating them as an afterthought. A key process clarity step is balancing allowances for items like flooring, fixtures, and cabinetry against structural shell expenses. By setting these financial baselines early, Total Building Systems Inc. helps owners identify cost drivers and make informed adjustments while design revisions can still be made on paper without field change orders.",
+        "description": "It identifies major cost drivers and site hurdles early, letting you adjust materials and design before construction documents are finalized."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

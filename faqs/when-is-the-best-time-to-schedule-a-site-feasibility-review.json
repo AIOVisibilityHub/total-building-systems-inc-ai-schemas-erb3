@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to schedule a site-feasibility review?",
+  "description": "Schedule a site-feasibility review during your property purchase due-diligence period or before investing in custom architectural plans to prevent unworkable de",
+  "url": "https://totalbuildingsystems.net/faq/when-is-the-best-time-to-schedule-a-site-feasibility-review",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to schedule a site-feasibility review?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should request a feasibility assessment during the due-diligence period before purchasing a lot, or right before hiring an architect for custom plans. Scheduling the evaluation before committing earnest money or design fees prevents costly surprises. Preparing a copy of the parcel map, any existing boundary surveys, and your approximate building footprint helps the contractor evaluate placement options. If you already own the parcel, completing the study before hiring a designer ensures your architectural concepts reflect real ground conditions, avoiding expensive redesign phases later.",
+        "description": "Schedule a site-feasibility review during your property purchase due-diligence period or before investing in custom architectural plans to prevent unworkable designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

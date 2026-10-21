@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can acoustic ceiling upgrades be completed in historic commercial properties around Jerome and Clarkdale?",
+  "description": "Yes, historic buildings often utilize surface-mounted panels or suspended baffles that preserve architectural features and account for older framing.",
+  "url": "https://totalbuildingsystems.net/faq/can-acoustic-ceiling-upgrades-be-completed-in-historic-commercial-properties-aro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can acoustic ceiling upgrades be completed in historic commercial properties around Jerome and Clarkdale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In many historic commercial buildings around Jerome and Clarkdale, ceilings feature irregular timber framing, exposed conduit, or non-standard ceiling heights that require custom suspension designs. Upgrades in these structures often require surface-mounted acoustic solutions, custom dropped grids, or acoustic baffles that preserve original architectural character without damaging historic materials. Working in these properties requires verifying weight capacities on older ceiling joists before hanging heavy sound-dampening assemblies.",
+        "description": "Yes, historic buildings often utilize surface-mounted panels or suspended baffles that preserve architectural features and account for older framing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

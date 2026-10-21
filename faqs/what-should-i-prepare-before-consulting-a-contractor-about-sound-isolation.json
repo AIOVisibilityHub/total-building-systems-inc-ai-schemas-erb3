@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about sound isolation?",
+  "description": "Note whether the sound is airborne or impact vibration, track when it occurs, inspect for vents or shared outlets, and measure the room dimensions.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-consulting-a-contractor-about-sound-isolation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about sound isolation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before requesting an estimate, document exactly what types of noises you hear, when they occur, and where they seem to originate. Take note of whether the disturbance is airborne sound—like voices, television audio, or street traffic—or impact vibration, like heavy footsteps or rumbling laundry equipment. Measure the room dimensions and inspect the space for potential flanking routes, including shared supply and return ducts, recessed can lights, and electrical outlets positioned back-to-back on common walls. Providing this information helps the general contractor determine whether your project requires mass addition, framing decoupling, or specialized ceiling isolation assemblies.",
+        "description": "Note whether the sound is airborne or impact vibration, track when it occurs, inspect for vents or shared outlets, and measure the room dimensions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

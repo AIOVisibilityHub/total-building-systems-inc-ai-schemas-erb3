@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are interior partition upgrades and when are they needed?",
+  "description": "Interior partition upgrades modify or add non-load-bearing interior walls to alter room layouts, add privacy, or create dedicated spaces for home or commercial",
+  "url": "https://totalbuildingsystems.net/faq/what-are-interior-partition-upgrades-and-when-are-they-needed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are interior partition upgrades and when are they needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior partition upgrades involve modifying, replacing, or building interior non-load-bearing walls to reconfigure rooms, improve layout, or add functional space. Homeowners and business owners often pursue upgrades to divide large rooms, add private offices, improve acoustic privacy, or update aging drywall. A major decision factor is whether the partition houses mechanical, electrical, or plumbing lines, as shifting those utilities expands the work beyond basic framing and drywalling. Evaluating whether a wall is load-bearing is also critical before any demolition or layout changes begin.",
+        "description": "Interior partition upgrades modify or add non-load-bearing interior walls to alter room layouts, add privacy, or create dedicated spaces for home or commercial use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

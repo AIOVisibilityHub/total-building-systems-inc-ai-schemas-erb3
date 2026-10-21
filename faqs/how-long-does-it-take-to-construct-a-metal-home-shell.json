@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a metal-home shell?",
+  "description": "Once permits are approved and the foundation is ready, raising the metal shell usually takes two to four weeks, depending on design complexity.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-construct-a-metal-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a metal-home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Erecting the structural steel shell of an average residential metal home typically takes two to four weeks once materials arrive on-site. However, the total project duration depends heavily on prior site preparation, engineering reviews, and local permitting, which often add several months. Foundations require proper curing time before steel erection begins. Factors such as adverse weather, custom roof pitches, and the complexity of window or door cutouts can also extend the erection schedule before the building is ready for interior trades.",
+        "description": "Once permits are approved and the foundation is ready, raising the metal shell usually takes two to four weeks, depending on design complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

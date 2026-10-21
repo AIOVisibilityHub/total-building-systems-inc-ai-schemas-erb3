@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a condensation assessment differ from a roof leak inspection?",
+  "description": "Condensation assessments find moisture caused by indoor humidity hitting cold surfaces, while leak inspections check for rainwater breaching exterior roofing.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-condensation-assessment-differ-from-a-roof-leak-inspection",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a condensation assessment differ from a roof leak inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A condensation assessment evaluates air moisture interacting with cold surfaces, whereas a roof leak inspection checks for direct exterior water entry through the building shell. Roof leaks usually produce localized staining immediately following rainfall, regardless of indoor humidity. In contrast, condensation commonly happens during cold snaps without any precipitation, often across broad ceiling sections, under metal decks, or near uninsulated structural fasteners. Choosing a condensation assessment prevents the common mistake of repairing shingles or flashing when the real culprit is warm interior air bypassing vapor barriers.",
+        "description": "Condensation assessments find moisture caused by indoor humidity hitting cold surfaces, while leak inspections check for rainwater breaching exterior roofing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

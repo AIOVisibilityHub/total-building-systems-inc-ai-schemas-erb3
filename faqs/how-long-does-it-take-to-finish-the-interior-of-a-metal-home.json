@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to finish the interior of a metal home?",
+  "description": "Interior finish-outs typically take four to eight months after the shell and slab are ready, depending on home size, layout complexity, and inspection schedules",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-finish-the-interior-of-a-metal-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to finish the interior of a metal home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Completing an interior finish-out for a metal home generally takes four to eight months after the shell and concrete foundation are fully constructed. Timing varies depending on square footage, mechanical layout complexity, and material procurement. The initial phase involves framing interior partition walls and running rough mechanicals, which requires coordinated trade inspections before walls are closed. Drywall, painting, flooring, and cabinet installations follow. Delays most commonly occur during custom finish sourcing or municipal inspection scheduling, so having finalized architectural plans before framing begins keeps the schedule moving steadily.",
+        "description": "Interior finish-outs typically take four to eight months after the shell and slab are ready, depending on home size, layout complexity, and inspection schedules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

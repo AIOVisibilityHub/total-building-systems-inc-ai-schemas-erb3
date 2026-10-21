@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right general contractor for preconstruction planning?",
+  "description": "Choose an experienced local builder who provides transparent, itemized estimates and actively suggests cost-saving design alternatives.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-general-contractor-for-preconstruction-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right general contractor for preconstruction planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To select the right contractor for preliminary planning, evaluate their local building experience, transparency in estimating, and willingness to review options collaboratively. Look for a builder who provides clear breakdowns rather than vague lump sums, and ask how they handle supply chain variability and regional subcontractor pricing. A key decision factor is choosing a general contractor who listens to your functional goals and actively suggests cost-effective alternatives. Total Building Systems Inc. offers local insight across Cottonwood and surrounding areas to keep preliminary numbers grounded in current market reality.",
+        "description": "Choose an experienced local builder who provides transparent, itemized estimates and actively suggests cost-saving design alternatives."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

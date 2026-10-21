@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right R-value and insulation system for my shop?",
+  "description": "Match the system to your space usage: basic condensation blankets for unconditioned storage, and higher R-value banded systems for fully climate-controlled shop",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-r-value-and-insulation-system-for-my-shop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right R-value and insulation system for my shop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Select your insulation system based on how the space is conditioned, local energy codes, ceiling heights, and budget priorities. If the structure is an unconditioned storage shed, a basic single-layer blanket primarily intended to block condensation dripping may be sufficient. For full-time automotive shops, commercial offices, or conditioned workspaces, invest in a liner system or banding system that accommodates thick fiberglass or rigid boards to reach code-mandated roof and wall R-values.",
+        "description": "Match the system to your space usage: basic condensation blankets for unconditioned storage, and higher R-value banded systems for fully climate-controlled shops."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

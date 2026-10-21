@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do commercial tenant improvements require a building permit?",
+  "description": "Permits are required whenever you alter walls, plumbing, electrical, mechanical systems, or accessibility features. Purely cosmetic updates like paint typically",
+  "url": "https://totalbuildingsystems.net/faq/when-do-commercial-tenant-improvements-require-a-building-permit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do commercial tenant improvements require a building permit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial tenant buildouts require building permits whenever the work impacts life safety, accessibility, structural elements, or mechanical systems. Cosmetic updates like painting, replacing existing carpet, or basic trim work rarely require permits. However, building or removing interior partitions, altering plumbing lines, reconfiguring fire sprinklers, adding commercial electrical circuits, or modifying exits will trigger municipal reviews. Securing permits involves submitting engineered architectural plans to the local building department to ensure full compliance with current building codes, energy standards, and ADA accessibility guidelines.",
+        "description": "Permits are required whenever you alter walls, plumbing, electrical, mechanical systems, or accessibility features. Purely cosmetic updates like paint typically do not."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

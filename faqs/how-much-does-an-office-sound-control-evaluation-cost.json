@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an office sound-control evaluation cost?",
+  "description": "Costs vary by square footage and layout complexity, with single conference rooms requiring less time to evaluate than multi-suite commercial spaces.",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-an-office-sound-control-evaluation-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an office sound-control evaluation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs depend on the total square footage, the number of enclosed rooms, and the complexity of the building layout. Evaluating a single conference room or executive office involves significantly less time than assessing a multi-suite commercial building with shared plenum ceilings. Factors influencing the final scope include whether the space has hard lid ceilings or drop grids, complex HVAC routing, or shared demising walls between different tenants. Following the site visit, you receive a detailed breakdown of findings alongside practical construction options tailored to your specific budget and acoustic goals.",
+        "description": "Costs vary by square footage and layout complexity, with single conference rooms requiring less time to evaluate than multi-suite commercial spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

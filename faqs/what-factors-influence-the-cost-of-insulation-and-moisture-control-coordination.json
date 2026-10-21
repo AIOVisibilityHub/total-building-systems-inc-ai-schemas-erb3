@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of insulation and moisture-control coordination?",
+  "description": "Cost depends on square footage, the insulation material selected, crawlspace accessibility, and whether existing moisture damage requires repair first.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-insulation-and-moisture-control-coordination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of insulation and moisture-control coordination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total cost depends heavily on project square footage, chosen insulation type, accessibility of crawlspaces or attics, and whether moisture remediation is needed first. Simple retrofit projects using blown-in insulation with targeted air sealing represent the lower end of the pricing spectrum. Extensive envelopes requiring closed-cell spray foam, specialized vapor-permeable membranes, or replacing water-damaged subfloor framing increase the labor and materials investment. Structural repairs or mold abatement must always be addressed before installing new insulation layers.",
+        "description": "Cost depends on square footage, the insulation material selected, crawlspace accessibility, and whether existing moisture damage requires repair first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

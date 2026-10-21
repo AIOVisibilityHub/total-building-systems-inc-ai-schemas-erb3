@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during the onsite sound-control walkthrough?",
+  "description": "The contractor inspects wall assemblies, above-ceiling plenums, doors, and HVAC routes without disrupting normal office operations.",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-during-the-onsite-sound-control-walkthrough",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during the onsite sound-control walkthrough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sound-control walkthrough involves an examination of room boundaries, mechanical pathways, and structural transitions. The contractor inspects above drop-ceiling tiles to verify if partition walls extend full-height to the roof deck or stop at the grid. They check door sweeps, frame seals, electrical outlet alignments between shared walls, and return air pathways. Expect the evaluator to ask about your specific privacy requirements and inspect mechanical closets or air handlers that share boundaries with work areas. The process is non-destructive and causes minimal disruption to daily office routines.",
+        "description": "The contractor inspects wall assemblies, above-ceiling plenums, doors, and HVAC routes without disrupting normal office operations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

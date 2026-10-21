@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete an interior partition upgrade?",
+  "description": "Most single-wall partition upgrades take three to five business days, depending on utility work and multi-coat drywall drying times.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-complete-an-interior-partition-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete an interior partition upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard interior partition upgrade on a single wall usually takes three to five workdays from framing to a paint-ready finish. The timeline can stretch longer if the wall requires recessed electrical boxes, plumbing lines, or specialized doors. Drying times for multi-coat drywall compound also dictate the schedule, as each coat must fully cure before sanding and applying the next layer. Scheduling inspections, if electrical or structural changes are involved, can also influence the total completion timeframe.",
+        "description": "Most single-wall partition upgrades take three to five business days, depending on utility work and multi-coat drywall drying times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

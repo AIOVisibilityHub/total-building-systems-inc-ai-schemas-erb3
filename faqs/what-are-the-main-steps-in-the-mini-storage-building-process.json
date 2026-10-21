@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main steps in the mini-storage building process?",
+  "description": "Steps include civil engineering, site grading, pouring the slab, erecting the steel structure, framing interior units, and finishing paving and security.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-main-steps-in-the-mini-storage-building-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main steps in the mini-storage building process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Self-storage construction starts with feasibility, zoning verification, and civil engineering before physical work begins. Once plans are approved, the contractor handles grading, utilities, and stormwater retention basins. Next, crews pour the monolithic concrete slab with vapor barriers and recessed edges for weatherproofing. Framing crews then erect the structural steel, install roof and wall panels, set interior partitions, and hang roll-up doors. Finally, contractors install asphalt drive aisles, perimeter fencing, access gates, exterior lighting, and cameras before final inspection.",
+        "description": "Steps include civil engineering, site grading, pouring the slab, erecting the steel structure, framing interior units, and finishing paving and security."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

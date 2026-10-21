@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare before scheduling an interior partition project?",
+  "description": "Outline your room layout, identify needed outlets or wall-mounted items for internal blocking, and decide on soundproofing or door types before work starts.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-prepare-before-scheduling-an-interior-partition-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare before scheduling an interior partition project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before requesting an estimate or starting work, document how you plan to use the divided space, note where furniture or electronics will sit, and locate existing electrical outlets, vents, and switches. Decide whether the new wall requires solid-core doors, sound dampening, or reinforced blocking for heavy wall-mounted TVs or upper cabinets. Sharing these functional needs early prevents change orders and ensures the framing crew installs backing lumber in the correct locations before drywall encloses the partition.",
+        "description": "Outline your room layout, identify needed outlets or wall-mounted items for internal blocking, and decide on soundproofing or door types before work starts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

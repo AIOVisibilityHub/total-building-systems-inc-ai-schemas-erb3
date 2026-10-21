@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you insulate an existing metal building after it is already built?",
+  "description": "Yes. Retrofitting involves using stick-pin systems, rigid foam boards, or spray foam directly between existing girts and purlins.",
+  "url": "https://totalbuildingsystems.net/faq/can-you-insulate-an-existing-metal-building-after-it-is-already-built",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you insulate an existing metal building after it is already built?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can insulate a metal building after construction using retrofit insulation systems, stick-pin blanket attachments, rigid foam panels, or closed-cell spray foam. The installation process is more complex on an existing structure than during initial erection because framing components and wall girts are already closed in. If your building has existing wall panels attached directly to purlins without a thermal block, installers must work around framing braces, interior electrical conduits, and overhead doors to secure facing materials cleanly.",
+        "description": "Yes. Retrofitting involves using stick-pin systems, rigid foam boards, or spray foam directly between existing girts and purlins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

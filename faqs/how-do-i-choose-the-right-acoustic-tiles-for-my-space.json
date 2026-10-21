@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right acoustic tiles for my space?",
+  "description": "Select high-NRC tiles to reduce echo inside the room, and choose high-CAC tiles to stop sound from traveling over walls into neighboring spaces.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-acoustic-tiles-for-my-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right acoustic tiles for my space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose your system based on the Noise Reduction Coefficient (NRC) and Ceiling Attenuation Class (CAC) ratings. NRC measures sound absorption within the room to stop echoes, while CAC measures how well the ceiling prevents sound from traveling through the plenum into neighboring rooms. For open offices, classrooms, and conference spaces, prioritize an NRC of 0.70 or higher. For executive suites, exam rooms, or private counseling spaces where wall partitions stop at the ceiling grid, choose a high CAC rating to stop sound flanking over wall tops.",
+        "description": "Select high-NRC tiles to reduce echo inside the room, and choose high-CAC tiles to stop sound from traveling over walls into neighboring spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

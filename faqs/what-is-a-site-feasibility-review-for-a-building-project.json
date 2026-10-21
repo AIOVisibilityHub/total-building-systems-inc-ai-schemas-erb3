@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a site-feasibility review for a building project?",
+  "description": "A site-feasibility review evaluates zoning, terrain, utilities, and access on a parcel of land to determine if your planned build is practical and cost-effectiv",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-site-feasibility-review-for-a-building-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a site-feasibility review for a building project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A site-feasibility review evaluates whether a piece of land can realistically support your intended construction project before you finalize a property purchase or complete engineered plans. A general contractor inspects zoning classifications, utility availability, physical topography, and access constraints. For rural parcels in areas like Cornville or Camp Verde, the review checks key requirements such as private well feasibility, soil suitability for conventional or alternative septic systems, and local building setbacks. Identifying rock outcroppings, steep slopes, or missing power infrastructure early keeps you from investing design dollars into an unbuildable or cost-prohibitive concept.",
+        "description": "A site-feasibility review evaluates zoning, terrain, utilities, and access on a parcel of land to determine if your planned build is practical and cost-effective before you break ground."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

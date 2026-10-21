@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a property owner prepare before a preliminary budgeting consultation?",
+  "description": "Bring property surveys, wishlist priorities, design inspiration, and an established total target investment limit to guide realistic discussions.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-a-property-owner-prepare-before-a-preliminary-budgeting-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a property owner prepare before a preliminary budgeting consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting preliminary scope planning, gather any property surveys, deed restrictions, inspirational photos, and a clear list of non-negotiable requirements versus optional upgrades. You should also establish your maximum total funding limit. Sharing your true target budget allows the contractor to tailor recommendations effectively. For example, knowing whether your priority is expanding conditioned square footage or investing in premium mechanical systems dictates where dollars are allocated. Having this documentation ready allows Total Building Systems Inc. to evaluate feasibility and streamline early discussions.",
+        "description": "Bring property surveys, wishlist priorities, design inspiration, and an established total target investment limit to guide realistic discussions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

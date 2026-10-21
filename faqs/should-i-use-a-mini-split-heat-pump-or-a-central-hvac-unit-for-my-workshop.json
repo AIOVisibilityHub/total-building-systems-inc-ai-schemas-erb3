@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use a mini-split heat pump or a central HVAC unit for my workshop?",
+  "description": "Ductless mini-splits are usually best because they operate independently, need no ductwork, handle workshop dust better, and provide efficient heating and cooli",
+  "url": "https://totalbuildingsystems.net/faq/should-i-use-a-mini-split-heat-pump-or-a-central-hvac-unit-for-my-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use a mini-split heat pump or a central HVAC unit for my workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mini-split heat pumps are the most practical choice for conditioned workshops because they deliver efficient heating and cooling without requiring ductwork. Window units and space heaters are cheaper initially, but they struggle with energy efficiency and struggle to maintain consistent temperatures during extreme seasonal shifts. Ducted central systems offer seamless airflow but demand substantial overhead space, higher installation costs, and risk spreading workshop dust throughout duct channels. A ductless mini-split allows you to zone the workshop independently from a home, featuring washable filters that handle woodworking or metalworking dust better than central returns.",
+        "description": "Ductless mini-splits are usually best because they operate independently, need no ductwork, handle workshop dust better, and provide efficient heating and cooling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do contractors make a garage addition match the existing house?",
+  "description": "Contractors match the roof pitch, eaves, siding materials, window trims, and paint finishes so the addition looks original to the existing home.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-contractors-make-a-garage-addition-match-the-existing-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do contractors make a garage addition match the existing house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching a garage addition to an existing home involves coordinating the roof pitch, exterior siding materials, paint, and trim details. Tying the new roof into the existing structure requires blending shingles or metal panels to prevent water intrusion and create a seamless roofline. Matching exterior finishes like stucco texture, lap siding, or stone veneer prevents the addition from looking like an afterthought. Windows and entry doors should also mimic the proportions, grid patterns, and trim profiles of the main residence so the entire structure appears cohesive.",
+        "description": "Contractors match the roof pitch, eaves, siding materials, window trims, and paint finishes so the addition looks original to the existing home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

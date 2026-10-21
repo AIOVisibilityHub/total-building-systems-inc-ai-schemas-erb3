@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is a detached metal building a better option than an attached addition?",
+  "description": "A detached building is often better if your current structure cannot bear tie-in loads, property setbacks restrict expansion, or roof tie-ins would create drain",
+  "url": "https://totalbuildingsystems.net/faq/when-is-a-detached-metal-building-a-better-option-than-an-attached-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a detached metal building a better option than an attached addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should decide between an attached addition or a separate detached building based on property setbacks, vehicle traffic flow, and roofline compatibility. An attached addition shares walls, which can reduce exterior siding costs and allow direct interior access between spaces. However, if your existing building has complex roof geometry, non-expandable structural frames, or sits too close to property lines, erecting a freestanding metal building nearby is often more practical, avoids altering existing foundations, and eliminates the risk of roof leaks at structural connection points.",
+        "description": "A detached building is often better if your current structure cannot bear tie-in loads, property setbacks restrict expansion, or roof tie-ins would create drainage risks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

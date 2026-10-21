@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you properly insulate a steel building before finishing interior walls?",
+  "description": "Closed-cell spray foam applied directly to the metal panels provides superior thermal performance, air sealing, and moisture protection against condensation.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-properly-insulate-a-steel-building-before-finishing-interior-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you properly insulate a steel building before finishing interior walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard fiberglass batts are usually insufficient on their own because metal buildings require continuous thermal breaks and strict vapor control to avoid sweating. Closed-cell spray foam insulation is widely considered the most effective solution because it adheres directly to the metal exterior panels, seals air leaks, provides a high R-value per inch, and acts as a built-in vapor barrier. Alternatively, insulated metal panels (IMPs) or thick batt systems paired with an unbroken vapor barrier can work well. The right selection depends on whether you are retrofitting an existing shell with preexisting insulation or building new.",
+        "description": "Closed-cell spray foam applied directly to the metal panels provides superior thermal performance, air sealing, and moisture protection against condensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

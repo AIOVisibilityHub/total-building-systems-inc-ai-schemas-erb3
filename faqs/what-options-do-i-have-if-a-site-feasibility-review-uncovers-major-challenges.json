@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What options do I have if a site-feasibility review uncovers major challenges?",
+  "description": "You can relocate the home footprint, explore alternative engineering like advanced septic systems, negotiate seller price concessions, or cancel a purchase cont",
+  "url": "https://totalbuildingsystems.net/faq/what-options-do-i-have-if-a-site-feasibility-review-uncovers-major-challenges",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What options do I have if a site-feasibility review uncovers major challenges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If an evaluation reveals poor soil percolation, lack of power, or difficult terrain, you can adjust your design, renegotiate terms, or walk away before closing. Discovering severe ledge rock or inadequate drainage allows you to shift the building footprint to a more suitable corner of the parcel. For utility hurdles, you can weigh the expense of line extensions against off-grid options or alternative engineered septic systems. If you are under a purchase contract, discovering these financial hurdles provides documented grounds to request seller concessions or cancel the deal within your inspection window.",
+        "description": "You can relocate the home footprint, explore alternative engineering like advanced septic systems, negotiate seller price concessions, or cancel a purchase contract."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

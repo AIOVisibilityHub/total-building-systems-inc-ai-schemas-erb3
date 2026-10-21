@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can any interior partition wall be removed or relocated safely?",
+  "description": "Only non-load-bearing partitions can be removed freely; structural walls require temporary support posts and engineered header beams to maintain building stabil",
+  "url": "https://totalbuildingsystems.net/faq/can-any-interior-partition-wall-be-removed-or-relocated-safely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can any interior partition wall be removed or relocated safely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Demolishing or altering an interior partition requires verifying whether the wall carries structural weight from roof trusses, ceiling joists, or upper stories. While non-load-bearing partitions can be safely removed or relocated once utilities are cleared, removing a load-bearing wall without temporary shoring and a properly sized header beam will compromise structural stability. A general contractor inspects joist direction, attic framing, and foundation support points to confirm whether a partition is structural or purely decorative before any framing is cut.",
+        "description": "Only non-load-bearing partitions can be removed freely; structural walls require temporary support posts and engineered header beams to maintain building stability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

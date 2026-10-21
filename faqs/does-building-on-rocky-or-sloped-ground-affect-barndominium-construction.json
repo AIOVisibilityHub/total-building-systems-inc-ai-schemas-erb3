@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does building on rocky or sloped ground affect barndominium construction?",
+  "description": "Yes. Rocky terrain and steep slopes require specialized site excavation, engineered footings, or retaining walls, which directly impact foundation design and ut",
+  "url": "https://totalbuildingsystems.net/faq/does-building-on-rocky-or-sloped-ground-affect-barndominium-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does building on rocky or sloped ground affect barndominium construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, local ground conditions directly dictate your foundation engineering and excavation requirements. In areas with rocky terrain or clay soils, such as parts of Jerome, Sedona, or Clarkdale, standard trenching may require heavy equipment or rock hammering for footings and utilities. Steep slopes common to the region also require engineered retaining walls or stepped foundations rather than a simple monolithic slab. Knowing your soil composition early prevents costly change orders during the foundation phase.",
+        "description": "Yes. Rocky terrain and steep slopes require specialized site excavation, engineered footings, or retaining walls, which directly impact foundation design and utility trenching costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an acoustic ceiling upgrade involve?",
+  "description": "An acoustic ceiling upgrade involves installing or replacing materials like suspended tiles, high-NRC panels, or baffles to control room echo and sound transmis",
+  "url": "https://totalbuildingsystems.net/faq/what-does-an-acoustic-ceiling-upgrade-involve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an acoustic ceiling upgrade involve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An acoustic ceiling upgrade replaces or retrofits your existing ceiling with sound-absorbing materials to reduce reverberation and block sound transmission. Common approaches include installing suspended acoustic drop tiles, swapping outdated mineral fiber tiles for high-NRC fiberglass or composite panels, or attaching acoustic baffles and drywall isolation channels. The right system depends on whether your priority is speech clarity inside the room or stopping sound from traveling to adjacent spaces. Total Building Systems Inc. evaluates your existing framing, overhead MEP utilities, and clearance heights to determine the most effective installation method.",
+        "description": "An acoustic ceiling upgrade involves installing or replacing materials like suspended tiles, high-NRC panels, or baffles to control room echo and sound transmission."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

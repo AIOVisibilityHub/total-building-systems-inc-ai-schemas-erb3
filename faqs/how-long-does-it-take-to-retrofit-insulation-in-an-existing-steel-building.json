@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to retrofit insulation in an existing steel building?",
+  "description": "A standard retrofit typically takes two to seven days, depending on building square footage, ceiling clearance, and the amount of interior clearing required.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-retrofit-insulation-in-an-existing-steel-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to retrofit insulation in an existing steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most commercial and residential metal building insulation retrofits take between two to seven working days to complete. The overall timeline depends on building size, roof pitch, whether old insulation requires disposal, and how easily lifts can maneuver across the floor slab. In an empty warehouse, crews can band and roll insulation quickly across wide purlin bays. If your shop has fixed workbenches, vehicle lifts, or pallet racking, crews must work in sections, which extends completion time. Coordinating temporary staging space inside the building helps speed up the work schedule.",
+        "description": "A standard retrofit typically takes two to seven days, depending on building square footage, ceiling clearance, and the amount of interior clearing required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

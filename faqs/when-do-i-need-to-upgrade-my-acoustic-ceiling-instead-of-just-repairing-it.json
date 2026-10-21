@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need to upgrade my acoustic ceiling instead of just repairing it?",
+  "description": "Upgrade when tiles are sagging or water-damaged, room echo interferes with speech, or you need better sound isolation between adjoining rooms.",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-to-upgrade-my-acoustic-ceiling-instead-of-just-repairing-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need to upgrade my acoustic ceiling instead of just repairing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should upgrade when excessive room echo interferes with conversation, privacy between rooms is poor, or existing tiles are visibly deteriorated. Water stains, sagging grid lines, and cracked mineral tiles degrade acoustic performance and ruin aesthetics. For businesses like offices, medical clinics, and restaurants, poor acoustic management creates listening fatigue and compromises client confidentiality. If adding rugs or soft furnishings fails to reduce harsh flutter echo, upgrading the ceiling is the most effective architectural solution.",
+        "description": "Upgrade when tiles are sagging or water-damaged, room echo interferes with speech, or you need better sound isolation between adjoining rooms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

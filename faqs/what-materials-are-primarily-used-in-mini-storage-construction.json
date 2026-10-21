@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are primarily used in mini-storage construction?",
+  "description": "Pre-engineered steel is standard, using structural framing, corrugated partition walls, durable metal roofing, and roll-up coil doors.",
+  "url": "https://totalbuildingsystems.net/faq/what-materials-are-primarily-used-in-mini-storage-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are primarily used in mini-storage construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-engineered steel is the industry standard for mini-storage construction due to its span capabilities, durability, and cost efficiency. These systems use light-gauge steel framing, corrugated steel exterior siding, interior metal partitions, and roll-up coil doors. Steel is non-combustible, resistant to pests, and easily configured into varied unit dimensions. Standing seam or screw-down metal roofs provide weather protection, while interior partitions can be adjusted during design to match target unit sizes from small 5x5 lockers to large commercial bays.",
+        "description": "Pre-engineered steel is standard, using structural framing, corrugated partition walls, durable metal roofing, and roll-up coil doors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

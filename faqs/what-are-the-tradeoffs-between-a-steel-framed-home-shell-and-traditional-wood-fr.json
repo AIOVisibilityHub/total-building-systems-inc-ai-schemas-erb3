@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the tradeoffs between a steel-framed home shell and traditional wood framing?",
+  "description": "Steel provides greater durability, pest resistance, and open interior spans, but requires more rigid upfront planning and specialized thermal insulation.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-tradeoffs-between-a-steel-framed-home-shell-and-traditional-wood-fr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the tradeoffs between a steel-framed home shell and traditional wood framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal-home shell offers superior durability, pest resistance, and fire protection compared to traditional wood framing, along with large clear-span interiors that require no load-bearing interior walls. The tradeoff is that steel requires precise upfront planning; making framing alterations or cutting new openings after fabrication is significantly more difficult than modifying wood studs. Additionally, metal shells require specialized thermal break insulation systems to prevent interior condensation and manage energy efficiency in hot and cold climates.",
+        "description": "Steel provides greater durability, pest resistance, and open interior spans, but requires more rigid upfront planning and specialized thermal insulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I gather before my preconstruction meeting?",
+  "description": "Bring your property survey, concept sketches, realistic target budget, and details about access or utility arrangements to make your meeting productive.",
+  "url": "https://totalbuildingsystems.net/faq/what-information-should-i-gather-before-my-preconstruction-meeting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I gather before my preconstruction meeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your consultation, gather your property survey or plot plan, conceptual sketches or Pinterest boards, and any existing engineering reports. Prepare a transparent target budget and a clear list of non-negotiable project requirements versus flexible preferences. If your parcel has known issues like steep slopes, access constraints, or private utility setups, note those ahead of time. Providing these details allows us to evaluate your scope accurately, spot site-specific constraints, and discuss viable building approaches from our first discussion.",
+        "description": "Bring your property survey, concept sketches, realistic target budget, and details about access or utility arrangements to make your meeting productive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

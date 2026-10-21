@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do condensation-control services compare to running a dehumidifier?",
+  "description": "Dehumidifiers temporarily dry room air, while professional condensation control permanently fixes thermal bridging, insulation voids, and improper ventilation.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-condensation-control-services-compare-to-running-a-dehumidifier",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do condensation-control services compare to running a dehumidifier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standalone dehumidifier removes moisture from indoor air but does not fix the building defects causing warm air to contact cold surfaces. Condensation-control services address the root physical causes—poor envelope insulation, thermal bridging, and unsealed air penetrations. While portable dehumidifiers incur ongoing electricity costs and require constant emptying, professional structural fixes provide a permanent balance without relying on continuous temporary equipment.",
+        "description": "Dehumidifiers temporarily dry room air, while professional condensation control permanently fixes thermal bridging, insulation voids, and improper ventilation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

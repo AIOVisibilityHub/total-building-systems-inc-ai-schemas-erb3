@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens after the assessment is complete?",
+  "description": "You receive a diagnostic report outlining moisture causes and prioritized construction fixes, from thermal insulation repairs to ventilation upgrades.",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-after-the-assessment-is-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens after the assessment is complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will receive a clear diagnostic report detailing temperature profiles, relative humidity logs, and identified thermal envelope flaws. Rather than general advice, the report outlines concrete construction corrections, such as installing continuous insulation breaks, sealing air bypass gaps, or upgrading mechanical exhaust systems. As a licensed general contractor, Total Building Systems Inc. can directly review these diagnostic findings with you to prioritize structural retrofits based on urgency, energy efficiency improvements, and your overall project budget.",
+        "description": "You receive a diagnostic report outlining moisture causes and prioritized construction fixes, from thermal insulation repairs to ventilation upgrades."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

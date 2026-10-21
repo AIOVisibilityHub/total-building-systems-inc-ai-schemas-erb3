@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a sound assessment and basic acoustic treatments?",
+  "description": "An assessment identifies structural sound pathways, while acoustic treatments are the physical materials installed to absorb or block that sound.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-sound-assessment-and-basic-acoustic-treatments",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a sound assessment and basic acoustic treatments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An assessment identifies the root causes of noise transfer, whereas soundproofing is the actual construction work implemented to fix them. Property managers often waste money installing surface-mounted acoustic panels when the real issue is sound flanking over drop-ceiling walls or escaping through unsealed door perimeters. Surface panels only reduce echo within a room; they do not stop sound from traveling into adjacent offices. Getting an assessment first prevents spending money on cosmetic treatments that fail to resolve sound transmission through wall cavities and ductwork.",
+        "description": "An assessment identifies structural sound pathways, while acoustic treatments are the physical materials installed to absorb or block that sound."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

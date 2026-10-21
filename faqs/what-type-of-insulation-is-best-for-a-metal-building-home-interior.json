@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of insulation is best for a metal building home interior?",
+  "description": "Closed-cell spray foam insulation is best because it forms an airtight vapor barrier directly on the steel panels, preventing condensation, rust, and thermal br",
+  "url": "https://totalbuildingsystems.net/faq/what-type-of-insulation-is-best-for-a-metal-building-home-interior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of insulation is best for a metal building home interior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spray foam insulation, particularly closed-cell spray foam, is the industry standard for steel home finish-outs. Metal conducts heat rapidly and creates condensation risks when warm interior air meets cold exterior steel panels. Closed-cell foam applies directly to the metal exterior walls and roof deck, creating a continuous air barrier and vapor retarder that stops thermal bridging and prevents moisture buildup. A practical tradeoff is upfront cost: spray foam requires a higher initial investment than fiberglass batts, but it prevents hidden structural rust, reduces HVAC loads, and seals gaps far more effectively.",
+        "description": "Closed-cell spray foam insulation is best because it forms an airtight vapor barrier directly on the steel panels, preventing condensation, rust, and thermal bridging."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

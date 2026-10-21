@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I expand the residential or shop section in the future?",
+  "description": "Yes, but only if planned in advance. Builders must position the structure properly within setbacks and engineer electrical panels and structural walls to accept",
+  "url": "https://totalbuildingsystems.net/faq/can-i-expand-the-residential-or-shop-section-in-the-future",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I expand the residential or shop section in the future?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From a construction standpoint, expanding either the home or the shop later is feasible only if planned into the original structural layout. Because combined buildings share primary framing, electrical services, and roof planes, future additions require intentional space planning. If you anticipate needing more workspace or living area later, your builder can engineer knockout panels in non-load-bearing exterior walls, install high-capacity breaker panels, and position the building away from property setbacks or septic drainage fields. Failing to plan for expansion during the initial build often results in high remodeling costs or structural limitations.",
+        "description": "Yes, but only if planned in advance. Builders must position the structure properly within setbacks and engineer electrical panels and structural walls to accept future expansion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

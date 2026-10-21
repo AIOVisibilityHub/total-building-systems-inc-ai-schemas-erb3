@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What sound-control challenges are common in older Cottonwood, Clarkdale, and Jerome homes?",
+  "description": "Older local homes often have lath-and-plaster walls, irregular framing, and open floor or ceiling cavities that require specialized decoupling and perimeter sea",
+  "url": "https://totalbuildingsystems.net/faq/what-sound-control-challenges-are-common-in-older-cottonwood-clarkdale-and-jerom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What sound-control challenges are common in older Cottonwood, Clarkdale, and Jerome homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In older Verde Valley homes found in communities like Cottonwood, Clarkdale, and Jerome, sound travels easily through vintage plaster-and-lath assemblies, uninsulated ceiling joists, and structural settling gaps. Historic buildings in Jerome or Clarkdale often feature board subfloors and irregular framing that transmit vibration directly between living levels. Upgrades in these structures require careful planning: thick plaster layers provide decent mass but crack easily if disturbed, making surface decoupling or carefully engineered ceiling drops preferable to aggressive demolition. Contractors must also inspect for unsealed chimney chases, floor penetrations, and vintage return vents that carry speech directly between rooms.",
+        "description": "Older local homes often have lath-and-plaster walls, irregular framing, and open floor or ceiling cavities that require specialized decoupling and perimeter sealing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

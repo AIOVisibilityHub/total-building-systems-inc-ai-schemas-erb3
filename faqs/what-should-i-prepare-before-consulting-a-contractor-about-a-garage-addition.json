@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about a garage addition?",
+  "description": "Gather your property plot plan, measure vehicle sizes, list intended uses like storage or workshops, and establish a clear target budget for your project.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-consulting-a-contractor-about-a-garage-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about a garage addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before reaching out to a general contractor, gather your property's plot plan or boundary survey, note any known utility easements, and define your primary goals for the space. Determine whether the garage is strictly for vehicle parking or if it must accommodate large workbenches, RV storage, lawn equipment, or an electric vehicle charger. Having a rough idea of your target dimensions, desired door heights, and overall budget helps the contractor evaluate feasibility quickly. Sharing photos of your existing home and roofline also assists in planning how to match your current architectural style.",
+        "description": "Gather your property plot plan, measure vehicle sizes, list intended uses like storage or workshops, and establish a clear target budget for your project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

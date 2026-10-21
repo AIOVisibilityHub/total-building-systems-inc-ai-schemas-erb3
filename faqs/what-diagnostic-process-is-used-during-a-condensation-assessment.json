@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What diagnostic process is used during a condensation assessment?",
+  "description": "Inspectors use thermal imaging, dew point calculations, surface moisture meters, and ventilation checks to identify cold spots and humidity imbalances.",
+  "url": "https://totalbuildingsystems.net/faq/what-diagnostic-process-is-used-during-a-condensation-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What diagnostic process is used during a condensation assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The assessment begins with a walkthrough and review of your moisture timeline, followed by non-invasive diagnostic testing across the structure. Technicians use thermal imaging cameras to identify missing insulation and cold bridges, paired with thermo-hygrometers to calculate indoor dew points. Surface moisture meters verify whether dampness is superficial or embedded deep within sheathing and framing. The evaluation concludes with an examination of existing exhaust fans, soffits, and roof vents to check whether the structure is trapping excessive interior humidity.",
+        "description": "Inspectors use thermal imaging, dew point calculations, surface moisture meters, and ventilation checks to identify cold spots and humidity imbalances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

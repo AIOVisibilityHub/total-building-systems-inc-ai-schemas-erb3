@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a metal-home interior finish-out include?",
+  "description": "A metal-home finish-out turns a raw steel shell into a finished residence by adding interior framing, insulation, plumbing, electrical, HVAC, drywall, and inter",
+  "url": "https://totalbuildingsystems.net/faq/what-does-a-metal-home-interior-finish-out-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a metal-home interior finish-out include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal-home interior finish-out is the complete construction phase that transforms a bare steel shell or barndominium into a fully habitable home. Once the structural steel frame, exterior metal panels, and slab are in place, the finish-out covers interior framing, rough-in plumbing, electrical systems, HVAC installation, insulation, drywall, and final fixtures. A key decision factor during planning is whether to frame interior walls with light-gauge steel studs or traditional lumber, as wood allows easier hanging of heavy cabinets while steel studs eliminate warping and termite concerns in structural integration.",
+        "description": "A metal-home finish-out turns a raw steel shell into a finished residence by adding interior framing, insulation, plumbing, electrical, HVAC, drywall, and interior fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

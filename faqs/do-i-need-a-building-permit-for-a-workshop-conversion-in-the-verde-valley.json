@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for a workshop conversion in the Verde Valley?",
+  "description": "Yes, permits are typically required in Cottonwood, Camp Verde, and Clarkdale when adding electrical circuits, altering framing, or installing mini-splits.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-a-workshop-conversion-in-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for a workshop conversion in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, including Cottonwood, Camp Verde, and Clarkdale, local building codes generally mandate permits whenever you add permanent electrical circuits, alter framing, or install fixed HVAC equipment like mini-splits. Converting an unconditioned utility shed or detached garage into conditioned space modifies its occupancy and energy use classification. Permitting ensures that wire gauges match breaker loads, framing meets regional wind loads, and thermal insulation values comply with the energy code enforced by the town or Yavapai County.",
+        "description": "Yes, permits are typically required in Cottonwood, Camp Verde, and Clarkdale when adding electrical circuits, altering framing, or installing mini-splits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

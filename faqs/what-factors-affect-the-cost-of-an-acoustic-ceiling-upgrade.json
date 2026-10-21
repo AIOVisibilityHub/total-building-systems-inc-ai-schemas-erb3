@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors affect the cost of an acoustic ceiling upgrade?",
+  "description": "Costs depend on room square footage, ceiling height, grid condition, chosen tile material, and any required adjustments to overhead lighting or HVAC fixtures.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-affect-the-cost-of-an-acoustic-ceiling-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors affect the cost of an acoustic ceiling upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total project cost depends on your square footage, ceiling height, material quality, and the condition of the existing suspension grid. Basic upgrades that simply replace old drop tiles within an existing grid represent the lowest investment level. Costs increase when installing a completely new metal suspension grid, rerouting ductwork or light fixtures, or choosing high-performance architectural wood or specialty acoustic panels. Commercial buildings requiring seismic wire tying or strict fire-rated assemblies will also see higher overall installation labor and permitting costs.",
+        "description": "Costs depend on room square footage, ceiling height, grid condition, chosen tile material, and any required adjustments to overhead lighting or HVAC fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

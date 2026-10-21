@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a homeowner upgrade or coordinate their moisture and insulation systems?",
+  "description": "Upgrade during major renovations or if you notice musty odors, damp insulation, high humidity indoors, or condensation on walls and windows.",
+  "url": "https://totalbuildingsystems.net/faq/when-should-a-homeowner-upgrade-or-coordinate-their-moisture-and-insulation-syst",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a homeowner upgrade or coordinate their moisture and insulation systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coordinate these systems during new framing, major additions, or when you notice musty odors, visible condensation on walls, sagging insulation, or unexplained spikes in heating and cooling bills. It is also critical to evaluate moisture layers before upgrading mechanical HVAC units, as altering thermal performance can shift indoor humidity levels. Addressing both systems together prevents tearing down finished drywall later to correct hidden condensation or mold problems.",
+        "description": "Upgrade during major renovations or if you notice musty odors, damp insulation, high humidity indoors, or condensation on walls and windows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

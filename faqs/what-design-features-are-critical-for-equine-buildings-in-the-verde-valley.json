@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design features are critical for equine buildings in the Verde Valley?",
+  "description": "Verde Valley barns need maximum passive airflow, high roof insulation to manage summer heat, and engineered grading to handle local soil drainage.",
+  "url": "https://totalbuildingsystems.net/faq/what-design-features-are-critical-for-equine-buildings-in-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design features are critical for equine buildings in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, proper barn orientation and continuous passive airflow are essential to keep horses cool during hot summers. Building in areas like Cottonwood, Camp Verde, and Clarkdale requires designs that capture prevailing breezes through high ridge vents, open gables, and large sliding doors. Roof insulation is critical to reduce radiant heat load on metal buildings. Additionally, sites along river valleys or rolling hills often feature rocky or clay-heavy soils, making engineered drainage and proper base material crucial to prevent winter mud and stall moisture.",
+        "description": "Verde Valley barns need maximum passive airflow, high roof insulation to manage summer heat, and engineered grading to handle local soil drainage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

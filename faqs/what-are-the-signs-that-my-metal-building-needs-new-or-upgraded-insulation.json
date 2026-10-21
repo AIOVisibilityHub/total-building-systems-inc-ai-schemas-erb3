@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs that my metal building needs new or upgraded insulation?",
+  "description": "Look for ceiling condensation, sagging blankets, torn facing, noticeable drafts, and extreme indoor temperature shifts during peak weather.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-signs-that-my-metal-building-needs-new-or-upgraded-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs that my metal building needs new or upgraded insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Condensation on steel framing, dripping from roof purlins, rapid indoor temperature swings, and sudden spikes in heating or cooling expenses signal that your insulation has failed. Over time, tears in facing materials let moisture into cavity insulation, causing it to sag, compress, and lose thermal efficiency. If you notice rust spots along interior panel screws or feel extreme radiant heat off roof sheets on sunny afternoons, the insulation package requires repair or replacement.",
+        "description": "Look for ceiling condensation, sagging blankets, torn facing, noticeable drafts, and extreme indoor temperature shifts during peak weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

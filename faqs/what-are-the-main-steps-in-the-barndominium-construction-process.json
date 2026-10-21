@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main steps in the barndominium construction process?",
+  "description": "The process includes site prep, concrete slab installation, structural shell assembly, interior framing, mechanical and electrical rough-ins, insulation, and fi",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-main-steps-in-the-barndominium-construction-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main steps in the barndominium construction process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Construction follows an orderly sequence starting with site work, foundation, framing, and interior buildout. First, your contractor clears the building pad, digs footings, and pours an engineered concrete slab with rough plumbing in place. Next, the primary steel or wood columns, rafters, and exterior metal panels are assembled to dry in the structure. Once weather-tight, crews complete interior stud framing, run electrical and HVAC systems, install high-performance insulation, hang drywall, and install cabinetry, flooring, and final fixtures before final municipal inspection.",
+        "description": "The process includes site prep, concrete slab installation, structural shell assembly, interior framing, mechanical and electrical rough-ins, insulation, and final interior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

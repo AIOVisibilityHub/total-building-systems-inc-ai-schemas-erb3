@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need to install a dedicated electrical subpanel for my workshop?",
+  "description": "You need a subpanel if you plan to run 240V equipment, dust collectors, compressors, or a mini-split alongside standard tools without tripping household breaker",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-to-install-a-dedicated-electrical-subpanel-for-my-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need to install a dedicated electrical subpanel for my workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need an electrical subpanel if your planned machinery and climate control exceed your existing circuit capacity. Most basic sheds or detached garages have only a single 15-amp or 20-amp shared circuit, which cannot handle simultaneous tool use, dust extraction, air compressors, and an air conditioner. Installing a dedicated 60-amp to 100-amp subpanel provides separate 120V and 240V circuits for heavy equipment while preventing nuisance breaker trips. It also keeps your workshop's electrical draw from straining your main household breaker panel.",
+        "description": "You need a subpanel if you plan to run 240V equipment, dust collectors, compressors, or a mini-split alongside standard tools without tripping household breakers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

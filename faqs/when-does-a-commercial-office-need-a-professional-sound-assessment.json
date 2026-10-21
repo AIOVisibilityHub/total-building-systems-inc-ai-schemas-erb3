@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does a commercial office need a professional sound assessment?",
+  "description": "You need an assessment when confidential conversations carry through walls, ambient noise disrupts focus, or you are remodeling office layouts.",
+  "url": "https://totalbuildingsystems.net/faq/when-does-a-commercial-office-need-a-professional-sound-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does a commercial office need a professional sound assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should schedule an evaluation when employee conversations carry between private offices, confidential discussions are easily overheard, or ambient mechanical noise disrupts daily work. Common triggers include converting an open floor plan into enclosed offices, moving into a newly leased commercial space, or preparing conference rooms for sensitive client meetings. Prior to the walkthrough, it helps to document specific times of day when noise peaks and identify the specific room adjacencies causing issues. Identifying whether the primary problem is speech intelligibility or mechanical vibration helps target the inspection.",
+        "description": "You need an assessment when confidential conversations carry through walls, ambient noise disrupts focus, or you are remodeling office layouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

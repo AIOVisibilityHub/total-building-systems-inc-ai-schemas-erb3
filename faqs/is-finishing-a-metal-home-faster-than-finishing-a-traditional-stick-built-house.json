@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is finishing a metal home faster than finishing a traditional stick-built house?",
+  "description": "Yes, the open clear-span interior allows faster framing and utility runs, provided plumbing rough-ins were planned and placed before the concrete slab was poure",
+  "url": "https://totalbuildingsystems.net/faq/is-finishing-a-metal-home-faster-than-finishing-a-traditional-stick-built-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is finishing a metal home faster than finishing a traditional stick-built house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal home finish-out is generally faster than stick-built interior construction, but the savings depend on advance coordination. Clear-span steel frames eliminate interior load-bearing walls, allowing wide-open access for framing crews, mechanical trades, and drywallers to work simultaneously without structural obstructions. However, trade work inside steel framing requires careful scheduling for insulation and concrete slab penetrations. If underground plumbing was not roughed in prior to the slab pour, retrofitting lines will equalize or exceed the time required for traditional stick-built framing. Advance planning maximizes the speed advantage of the steel shell.",
+        "description": "Yes, the open clear-span interior allows faster framing and utility runs, provided plumbing rough-ins were planned and placed before the concrete slab was poured."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

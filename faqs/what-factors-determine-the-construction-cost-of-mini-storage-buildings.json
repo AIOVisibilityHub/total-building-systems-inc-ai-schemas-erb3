@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the construction cost of mini-storage buildings?",
+  "description": "Costs depend on foundation requirements, earthwork, pre-engineered metal materials, drive aisle paving, and whether units include climate control systems.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-construction-cost-of-mini-storage-buildings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the construction cost of mini-storage buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to construct a self-storage facility varies based on unit mix, site topography, and climate control requirements. Major cost drivers include earthwork, concrete slab foundations, pre-engineered steel framing, roll-up doors, security fencing, and stormwater retention. Drive-up, non-climate-controlled buildings are the most economical per square foot, while climate-controlled units require added capital for HVAC ductwork, insulated wall panels, and interior corridor framing. Underground utility extensions and paving for drive aisles also represent a substantial portion of overall site development costs.",
+        "description": "Costs depend on foundation requirements, earthwork, pre-engineered metal materials, drive aisle paving, and whether units include climate control systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before requesting an estimate for a workshop conversion?",
+  "description": "List your planned tools and voltage needs, measure the space, check the slab for moisture, and sketch a rough layout of workbenches and machinery.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-requesting-an-estimate-for-a-workshop-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before requesting an estimate for a workshop conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before reaching out to a contractor, write down a detailed list of every machine and power tool you plan to operate, noting any 240V requirements. Measure the footprint, ceiling height, and note whether the existing concrete slab has visible cracks or moisture seepage. Determine where dust collection, air compressors, or heavy workbenches should sit so electrical outlets can be planned logically. Gathering these details upfront helps the contractor design an accurate electrical layout, calculate exact heating and cooling loads, and give a realistic scope of work.",
+        "description": "List your planned tools and voltage needs, measure the space, check the slab for moisture, and sketch a rough layout of workbenches and machinery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

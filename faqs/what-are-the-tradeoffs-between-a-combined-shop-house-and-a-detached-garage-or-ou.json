@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the tradeoffs between a combined shop-house and a detached garage or outbuilding?",
+  "description": "A combined build reduces foundation, roof, and utility costs, but demands strict noise, odor, and fire separation compared to completely independent, detached o",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-tradeoffs-between-a-combined-shop-house-and-a-detached-garage-or-ou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the tradeoffs between a combined shop-house and a detached garage or outbuilding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A shop-home combination offers convenience, shared utility infrastructure, and lower initial construction expenses, but it requires compromises. The main tradeoff involves lifestyle impact: heavy mechanical work, paint spraying, or woodworking directly adjacent to your home can produce persistent noise and chemical odors if isolation systems are not properly engineered. Conversely, detached structures completely isolate noise, dust, and hazardous tasks from the household, but they require two separate building permits, distinct utility connections, double the site grading, and higher long-term exterior maintenance. Choosing a combined structure works best if you plan space allocation carefully and invest in proper ventilation.",
+        "description": "A combined build reduces foundation, roof, and utility costs, but demands strict noise, odor, and fire separation compared to completely independent, detached outbuildings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

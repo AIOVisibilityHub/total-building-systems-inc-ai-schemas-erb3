@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does intended building use dictate interior finish-out decisions?",
+  "description": "Intended occupancy determines mandatory fire-separation ratings, ADA accessibility compliance, restroom requirements, and HVAC ventilation standards under local",
+  "url": "https://totalbuildingsystems.net/faq/how-does-intended-building-use-dictate-interior-finish-out-decisions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does intended building use dictate interior finish-out decisions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether a space is classified as residential, commercial office, or industrial workshop dictates entirely different code requirements for fire separation, ventilation, and energy performance. If you change a metal building previously used for ag storage or warehousing into conditioned retail or office space, local codes often mandate upgraded fire-rated drywall partitions, minimum restroom fixture counts, and stricter accessibility access under ADA guidelines. Defining this early prevents expensive design adjustments mid-construction when local plan reviewers review your finish-out drawings.",
+        "description": "Intended occupancy determines mandatory fire-separation ratings, ADA accessibility compliance, restroom requirements, and HVAC ventilation standards under local building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

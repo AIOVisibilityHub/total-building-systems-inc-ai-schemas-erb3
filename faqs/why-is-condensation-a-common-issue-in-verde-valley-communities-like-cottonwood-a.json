@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is condensation a common issue in Verde Valley communities like Cottonwood and Camp Verde?",
+  "description": "Substantial day-to-night temperature swings in the Verde Valley cause indoor air to hit dew point quickly on cold metal roofs and exterior building surfaces.",
+  "url": "https://totalbuildingsystems.net/faq/why-is-condensation-a-common-issue-in-verde-valley-communities-like-cottonwood-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is condensation a common issue in Verde Valley communities like Cottonwood and Camp Verde?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Verde Valley experiences substantial daily temperature swings, with warm daytime air rapidly dropping to cold nighttime temperatures that push indoor air past its dew point. In communities like Cottonwood, Camp Verde, and Clarkdale, older homes and metal workshop buildings frequently struggle with nocturnal radiant heat loss. When warm interior air meets chilled exterior metal roofing or uninsulated masonry walls, condensation forms quickly. Local assessments focus heavily on nighttime temperature deltas, crawlspace ground dampness near riparian zones, and balanced cross-ventilation designed for high desert climates.",
+        "description": "Substantial day-to-night temperature swings in the Verde Valley cause indoor air to hit dew point quickly on cold metal roofs and exterior building surfaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

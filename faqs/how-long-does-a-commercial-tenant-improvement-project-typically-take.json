@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a commercial tenant improvement project typically take?",
+  "description": "Construction typically takes 6 to 16 weeks, though overall timelines often span several months when including design, municipal permits, and specialized materia",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-commercial-tenant-improvement-project-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a commercial tenant improvement project typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most commercial tenant improvements take between 6 and 16 weeks to construct once physical work begins. However, the total project timeline often extends to several months when accounting for architectural design, engineering, permit reviews, and material procurement. Factors that introduce delays include long-lead equipment orders such as specialized commercial electrical panels or HVAC units, structural changes, and municipal plan review queues. Planning your buildout schedule well before your lease commencement date helps prevent paying rent on an unusable space while work finishes.",
+        "description": "Construction typically takes 6 to 16 weeks, though overall timelines often span several months when including design, municipal permits, and specialized material orders."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a residential metal building shell?",
+  "description": "Costs vary based on building dimensions, roof style, site preparation, steel market rates, and specific structural engineering loads.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-a-residential-metal-building-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a residential metal building shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a metal-home shell is determined by total square footage, building height, roof pitch, wind and snow load engineering, and the current price of steel. Adding features like covered porches, overhangs, or custom door openings will also increase manufacturing and labor expenses. Because a shell only covers the exterior envelope, overall project budgeting must also account for site grading, utility trenching, insulation, and interior finishes, which often represent the larger share of the total finished home cost.",
+        "description": "Costs vary based on building dimensions, roof style, site preparation, steel market rates, and specific structural engineering loads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

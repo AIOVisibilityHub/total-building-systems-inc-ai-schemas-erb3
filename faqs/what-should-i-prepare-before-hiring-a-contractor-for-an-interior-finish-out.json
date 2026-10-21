@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before hiring a contractor for an interior finish-out?",
+  "description": "Gather your structural steel drawings, foundation plans, electrical capacity details, and a rough floor layout, and confirm local zoning permissions.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-hiring-a-contractor-for-an-interior-finish-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before hiring a contractor for an interior finish-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before engaging a general contractor for interior work, gather your original engineered steel building drawings, foundation plans, and a clear functional floor plan sketch. You should verify your existing utility capacities, particularly electrical service amperage and sewer or septic connection points, to ensure they can support the intended use. In regions like Cottonwood and Sedona, local zoning codes dictate allowed uses for accessory or commercial structures, so checking your zoning allowances early prevents unapproved floor layouts. Having these documents ready helps contractors provide realistic estimates and identify potential structural clashes early.",
+        "description": "Gather your structural steel drawings, foundation plans, electrical capacity details, and a rough floor layout, and confirm local zoning permissions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

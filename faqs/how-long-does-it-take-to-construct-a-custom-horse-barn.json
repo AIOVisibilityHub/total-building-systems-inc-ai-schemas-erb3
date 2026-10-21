@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a custom horse barn?",
+  "description": "Construction generally takes two to six months after permitting, depending on site prep, utility requirements, barn size, and material lead times.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-construct-a-custom-horse-barn",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a custom horse barn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a custom horse barn typically takes between two and six months once construction begins. The overall timeline depends heavily on the preparation phase, including architectural plans, engineering approvals, and municipal permit processing. Site grading, concrete slab or pier pouring, and utility rough-ins happen first, followed by structural framing and metal roofing. Delays often stem from material lead times, adverse weather, or inspections, so finalizing your stall layouts and utility connections early helps prevent scheduling disruptions.",
+        "description": "Construction generally takes two to six months after permitting, depending on site prep, utility requirements, barn size, and material lead times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a preliminary budget differ from a final construction bid?",
+  "description": "A preliminary budget is an early projection based on rough concepts, while a final bid is a firm, detailed quote based on completed architectural plans.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-preliminary-budget-differ-from-a-final-construction-bid",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a preliminary budget differ from a final construction bid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A preliminary budget is a conceptual estimate based on early sketches, historical cost data, and project goals, whereas a formal bid is a firm price based on complete architectural and engineering documents. The practical tradeoff is flexibility versus certainty. A preliminary budget helps shape the design and manage allowances, but numbers can adjust as specifications change. A final bid locks in detailed trade subcontractor quotes and precise material selections. Beginning with preliminary planning allows you to value-engineer major structural decisions before committing to firm construction contracts.",
+        "description": "A preliminary budget is an early projection based on rough concepts, while a final bid is a firm, detailed quote based on completed architectural plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

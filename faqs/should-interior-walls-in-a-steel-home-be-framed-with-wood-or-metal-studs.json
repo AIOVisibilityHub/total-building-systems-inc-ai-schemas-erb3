@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should interior walls in a steel home be framed with wood or metal studs?",
+  "description": "Both work well. Wood studs simplify hanging heavy cabinets and trim, while light-gauge steel studs eliminate warping, rot, and termite concerns.",
+  "url": "https://totalbuildingsystems.net/faq/should-interior-walls-in-a-steel-home-be-framed-with-wood-or-metal-studs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should interior walls in a steel home be framed with wood or metal studs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior partition walls in a metal building can be framed with either traditional wood studs or light-gauge metal studs. Because clear-span steel buildings carry roof loads on outer frames, interior walls are non-load-bearing curtain walls. A practical tradeoff to consider: wood studs are familiar to finish carpenters and simplify hanging heavy cabinetry, shelving, and wall-mounted appliances. Metal studs will not warp, rot, or attract pests, but they require backing plates or wood blocking for wall-hung items. Many owners choose wood framing for interior layouts to simplify finish work while enjoying the exterior steel shell durability.",
+        "description": "Both work well. Wood studs simplify hanging heavy cabinets and trim, while light-gauge steel studs eliminate warping, rot, and termite concerns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

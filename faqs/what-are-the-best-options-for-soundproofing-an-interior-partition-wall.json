@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the best options for soundproofing an interior partition wall?",
+  "description": "Sound batts, resilient channels, and double-layer drywall provide effective acoustic isolation, though they slightly increase total wall thickness and material",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-best-options-for-soundproofing-an-interior-partition-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best options for soundproofing an interior partition wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To significantly reduce sound transfer between rooms, interior partitions can be built with specialized acoustic enhancements beyond standard drywall. Installing mineral wool or fiberglass sound batts within the stud bays absorbs airborne sound, while resilient channels isolate drywall sheets from the studs to disrupt mechanical vibration. You can also specify double-layer drywall or damping compounds. A practical tradeoff to consider is wall thickness: high-performance soundproofing assemblies can add an inch or more to the overall wall profile, slightly reducing room dimensions.",
+        "description": "Sound batts, resilient channels, and double-layer drywall provide effective acoustic isolation, though they slightly increase total wall thickness and material costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do HVAC systems work in a finished metal building?",
+  "description": "HVAC can use ductless mini-splits or ducted split systems; ductwork must be well insulated against roof heat to maintain energy efficiency.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-hvac-systems-work-in-a-finished-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do HVAC systems work in a finished metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HVAC installation in a metal building requires careful planning regarding equipment mounting, duct design, and condensation prevention. In warm, arid climates like the Verde Valley, roof surfaces reach extreme temperatures, making duct placement critical. Running ductwork through unconditioned space between the drop ceiling and metal roof can lead to substantial energy loss unless heavily insulated. Ductless mini-split systems are frequently chosen for partitioned zones or workshops to avoid bulky duct runs, while ducted split systems suit multi-room layouts. Adequate ventilation and makeup air must also be planned to keep indoor air quality balanced within a tightly sealed shell.",
+        "description": "HVAC can use ductless mini-splits or ducted split systems; ductwork must be well insulated against roof heat to maintain energy efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

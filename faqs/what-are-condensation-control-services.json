@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are condensation-control services?",
+  "description": "Condensation-control services identify and eliminate moisture buildup on surfaces by improving ventilation, upgrading insulation, and installing vapor barriers.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-condensation-control-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are condensation-control services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Condensation-control services identify and correct the factors causing moisture to accumulate on interior surfaces like windows, walls, and structural frames. As a general contractor, Total Building Systems assesses the building envelope to find thermal bridges, missing vapor barriers, or inadequate ventilation. Solutions typically include upgrading insulation, sealing air leaks, installing moisture barriers, and improving airflow to prevent water damage, mold growth, and structural decay.",
+        "description": "Condensation-control services identify and eliminate moisture buildup on surfaces by improving ventilation, upgrading insulation, and installing vapor barriers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

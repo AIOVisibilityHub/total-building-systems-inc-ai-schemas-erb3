@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a metal building addition?",
+  "description": "Costs depend on structural tie-in engineering, concrete slab requirements, addition type (lean-to vs. clear-span), and site prep needs.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-a-metal-building-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a metal building addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a metal building addition depends on whether it can tie directly into existing load-bearing frames or requires a self-supporting structure with its own foundation. Key pricing drivers include site grading, concrete slab thickness, matching existing roof profiles, wall panel styles, and whether the space requires electrical or climate control. An attached lean-to is generally the most economical addition per square foot, while clear-span frame extensions cost more due to structural steel fabrication and engineering requirements. Getting an accurate estimate requires reviewing your original building plans to see how loads will transfer.",
+        "description": "Costs depend on structural tie-in engineering, concrete slab requirements, addition type (lean-to vs. clear-span), and site prep needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

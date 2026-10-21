@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to plan and build a metal building addition?",
+  "description": "Most metal building additions take a few months from engineering and permitting through steel fabrication, foundation work, and final panel installation.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-plan-and-build-a-metal-building-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to plan and build a metal building addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a metal building addition generally ranges from a few months to several months from initial planning to completion. The overall duration is influenced by engineering review, local building department permitting, steel fabrication, and site conditions. Site preparation and foundation pouring typically take two to three weeks, while the delivery of fabricated steel components can take several weeks depending on manufacturer lead times. Once materials are on site, the structural steel erection, panel installation, and weatherproofing typically take one to three weeks depending on square footage.",
+        "description": "Most metal building additions take a few months from engineering and permitting through steel fabrication, foundation work, and final panel installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

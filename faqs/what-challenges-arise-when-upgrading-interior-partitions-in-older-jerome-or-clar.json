@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What challenges arise when upgrading interior partitions in older Jerome or Clarkdale buildings?",
+  "description": "Older buildings often feature uneven floors, historic plaster, and non-standard framing that require custom shimming and careful material tie-ins.",
+  "url": "https://totalbuildingsystems.net/faq/what-challenges-arise-when-upgrading-interior-partitions-in-older-jerome-or-clar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What challenges arise when upgrading interior partitions in older Jerome or Clarkdale buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In historic mining towns like Jerome or older properties in Clarkdale, interior partition upgrades often involve irregular ceiling heights, uneven historic floors, and non-standard framing dimensions. Older buildings may also contain lath-and-plaster assemblies that require delicate handling to avoid cracking adjacent surfaces when tying in new drywall partitions. Managing these conditions requires customized shimming, careful material transitions, and verifying existing structural settling before fastening new framing plates to historic floors and ceiling joists.",
+        "description": "Older buildings often feature uneven floors, historic plaster, and non-standard framing that require custom shimming and careful material tie-ins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much do condensation-control services cost?",
+  "description": "Costs vary widely based on whether the solution requires simple vent adjustments, localized air-sealing, or full insulation and vapor barrier replacement.",
+  "url": "https://totalbuildingsystems.net/faq/how-much-do-condensation-control-services-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do condensation-control services cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of condensation-control services depends on the cause of the moisture and the scale of corrective work. Minor air-sealing and targeted vent additions are relatively inexpensive. Major repairs—such as retrofitting insulation on an uninsulated metal building, replacing damaged drywall, or installing whole-structure mechanical air exchangers—require a larger investment. A thorough diagnostic visit allows a general contractor to pinpoint the root issue and avoid unneeded structural expenses.",
+        "description": "Costs vary widely based on whether the solution requires simple vent adjustments, localized air-sealing, or full insulation and vapor barrier replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

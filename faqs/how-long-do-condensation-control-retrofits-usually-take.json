@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do condensation-control retrofits usually take?",
+  "description": "Simple ventilation and sealing fixes take one to three days, while extensive insulation retrofits or structural moisture repairs can take several weeks.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-do-condensation-control-retrofits-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do condensation-control retrofits usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Condensation-control project timelines range from a single day to several weeks depending on the underlying source. Addressing surface-level ventilation in a specific room or crawlspace typically takes one to three days. Larger structural jobs—such as retrofitting insulation across a commercial metal roof, replacing deteriorated vapor barriers, or repairing moisture-damaged framing—take longer and depend on material delivery, staging requirements, and overall project square footage.",
+        "description": "Simple ventilation and sealing fixes take one to three days, while extensive insulation retrofits or structural moisture repairs can take several weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

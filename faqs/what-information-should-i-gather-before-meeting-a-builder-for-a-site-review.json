@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I gather before meeting a builder for a site review?",
+  "description": "Provide your parcel number, plat maps, known easements, any previous well or soil reports, and a general summary of your planned building size and layout.",
+  "url": "https://totalbuildingsystems.net/faq/what-information-should-i-gather-before-meeting-a-builder-for-a-site-review",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I gather before meeting a builder for a site review?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get the most value from the visit, gather your parcel number, plat map, title report easements, and a general description of what you plan to build. Note your preferred building location, square footage targets, and secondary structures like detached garages, workshops, or guest homes. If the seller provided prior percolation test results, well completion reports, or grading sketches, have those documents accessible. Having clear project priorities prepared in advance allows the builder to evaluate whether your vision fits within the physical and regulatory limits of the lot.",
+        "description": "Provide your parcel number, plat maps, known easements, any previous well or soil reports, and a general summary of your planned building size and layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

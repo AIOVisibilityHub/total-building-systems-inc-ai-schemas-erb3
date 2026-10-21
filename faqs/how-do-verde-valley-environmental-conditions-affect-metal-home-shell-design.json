@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do Verde Valley environmental conditions affect metal-home shell design?",
+  "description": "Designs must handle intense summer sun and local soil types, often requiring reflective coatings, proper foundation depth, and adequate roof overhangs.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-verde-valley-environmental-conditions-affect-metal-home-shell-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do Verde Valley environmental conditions affect metal-home shell design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, including Cottonwood, Camp Verde, and Cornville, metal home designs must account for intense summer solar heat, occasional high desert freezing, and specific wind exposures. Foundation engineering must address local soil conditions, such as expansive clay found along valley floors, to prevent slab movement. Selecting roofing panels with high solar reflectance (cool roof finishes) and incorporating adequate roof overhangs helps minimize summer cooling loads in these elevation zones.",
+        "description": "Designs must handle intense summer sun and local soil types, often requiring reflective coatings, proper foundation depth, and adequate roof overhangs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

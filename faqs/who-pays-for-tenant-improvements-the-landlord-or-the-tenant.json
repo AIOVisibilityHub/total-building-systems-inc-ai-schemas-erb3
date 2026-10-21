@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who pays for tenant improvements: the landlord or the tenant?",
+  "description": "Payment depends on lease terms; landlords often provide a per-square-foot improvement allowance, while tenants cover overages, or tenants fund the buildout enti",
+  "url": "https://totalbuildingsystems.net/faq/who-pays-for-tenant-improvements-the-landlord-or-the-tenant",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who pays for tenant improvements: the landlord or the tenant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Responsibility for paying for tenant improvements depends on the terms negotiated in your commercial lease agreement. In many arrangements, landlords provide a Tenant Improvement Allowance (TIA), which is a fixed dollar amount per square foot applied toward approved construction costs. The tenant pays for any expenses that exceed this agreed budget. Alternatively, a landlord may offer a turnkey buildout where they manage and fund construction completely, or the lease may stipulate that the tenant covers all interior renovations independently. Always verify lease disbursement schedules and approval clauses before hiring a contractor.",
+        "description": "Payment depends on lease terms; landlords often provide a per-square-foot improvement allowance, while tenants cover overages, or tenants fund the buildout entirely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

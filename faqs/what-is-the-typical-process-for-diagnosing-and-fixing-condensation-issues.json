@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for diagnosing and fixing condensation issues?",
+  "description": "The process involves an envelope inspection to find thermal leaks, followed by air-sealing, insulation upgrades, and installing dedicated ventilation or vapor b",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-typical-process-for-diagnosing-and-fixing-condensation-issues",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for diagnosing and fixing condensation issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total Building Systems begins with an on-site evaluation of your building envelope, measuring indoor humidity levels and checking for thermal bridging or insulation gaps. Next, our team outlines a corrective plan, which may involve installing mechanical exhaust systems, adding vapor retarders, or re-insulating cold surfaces. Once the work scope is approved, our crews complete the structural retrofits, seal air bypasses, and verify that interior moisture balances remain stable.",
+        "description": "The process involves an envelope inspection to find thermal leaks, followed by air-sealing, insulation upgrades, and installing dedicated ventilation or vapor barriers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

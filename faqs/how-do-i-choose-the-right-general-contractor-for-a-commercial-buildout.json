@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right general contractor for a commercial buildout?",
+  "description": "Choose a licensed commercial contractor with proven experience in your facility type, strong communication for landlord coordination, and transparent cost-track",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-general-contractor-for-a-commercial-buildout",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right general contractor for a commercial buildout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To choose the right general contractor, verify their commercial contracting license, active insurance coverage, and experience with your specific business category, such as retail, medical, or office spaces. Look for a contractor who understands commercial lease constraints, landlord work-letter guidelines, and local trade coordination. Ask candidates how they handle unexpected site conditions, change orders, and communication with property managers. Selecting a contractor who participates during the pre-construction phase can help identify constructability issues early and keep your budget aligned with your lease allowance.",
+        "description": "Choose a licensed commercial contractor with proven experience in your facility type, strong communication for landlord coordination, and transparent cost-tracking processes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

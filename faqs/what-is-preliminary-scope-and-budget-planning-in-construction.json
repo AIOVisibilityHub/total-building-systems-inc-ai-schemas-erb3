@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is preliminary scope and budget planning in construction?",
+  "description": "It is the early planning phase where a contractor defines project requirements and builds a realistic cost estimate before completing final architectural plans.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-preliminary-scope-and-budget-planning-in-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is preliminary scope and budget planning in construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preliminary scope and budget planning is the initial phase where a general contractor outlines project goals, defines the work required, and establishes a realistic preliminary cost range before architectural drawings are finalized. Investing in this stage helps avoid costly redesigns later. A primary decision factor is determining whether your wishlist aligns with actual construction costs, allowing you to prioritize core structural needs over high-end finishes early. By evaluating site constraints and square footage targets upfront, Total Building Systems Inc. helps property owners set practical spending boundaries, identify potential hidden site costs, and prevent surprises once formal drawings begin.",
+        "description": "It is the early planning phase where a contractor defines project requirements and builds a realistic cost estimate before completing final architectural plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

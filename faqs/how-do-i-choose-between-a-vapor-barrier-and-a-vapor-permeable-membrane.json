@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose between a vapor barrier and a vapor-permeable membrane?",
+  "description": "Vapor barriers block moisture entirely in crawlspaces and slabs, while permeable membranes allow above-grade wall cavities to dry in either direction.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-between-a-vapor-barrier-and-a-vapor-permeable-membrane",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose between a vapor barrier and a vapor-permeable membrane?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing between vapor barriers and vapor-permeable materials depends on your wall assembly design and the balance between interior and exterior humidity. Impermeable vapor barriers stop all moisture movement, making them ideal under concrete slabs or in unvented crawlspaces. However, in mixed climate conditions, semi-permeable membranes often perform better on above-grade walls because they allow trapped moisture inside wall cavities to dry either inward or outward depending on the season.",
+        "description": "Vapor barriers block moisture entirely in crawlspaces and slabs, while permeable membranes allow above-grade wall cavities to dry in either direction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can the new addition match the exterior panels and trim of my original metal building?",
+  "description": "Yes, contractors match panel profiles and trim, though slight color variance from natural weathering may require complementary trim or transitional cladding.",
+  "url": "https://totalbuildingsystems.net/faq/can-the-new-addition-match-the-exterior-panels-and-trim-of-my-original-metal-bui",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the new addition match the exterior panels and trim of my original metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching the appearance involves ordering exterior wall and roof panels that replicate the original profile, rib spacing, gauge thickness, and paint finish. Over time, sunlight causes factory coatings to fade, meaning brand-new panels in the original color code may look slightly brighter than existing walls. A common solution is installing matching trim transitions, re-sheeting a full shared wall face, or choosing a complementary accent color for the addition. Providing original panel manufacturer tags or specification sheets helps your contractor source compatible materials.",
+        "description": "Yes, contractors match panel profiles and trim, though slight color variance from natural weathering may require complementary trim or transitional cladding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

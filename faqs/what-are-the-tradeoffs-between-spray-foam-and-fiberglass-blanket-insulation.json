@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the tradeoffs between spray foam and fiberglass blanket insulation?",
+  "description": "Spray foam delivers superior air sealing and vapor control at a higher price, while fiberglass blankets are cost-effective and simpler to modify later.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-tradeoffs-between-spray-foam-and-fiberglass-blanket-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the tradeoffs between spray foam and fiberglass blanket insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spray foam provides seamless air sealing and acts as its own vapor barrier, while fiberglass blankets cost significantly less and install faster during initial building erection. Closed-cell spray foam seals irregular gaps, prevents drafts, and adds subtle rigidity to metal skin panels, but it is a permanent application that can make future exterior panel replacement difficult. Fiberglass blanket systems retain flexibility for panel repairs and remain easy to modify if structural changes are made later.",
+        "description": "Spray foam delivers superior air sealing and vapor control at a higher price, while fiberglass blankets are cost-effective and simpler to modify later."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a grey shell build-out compare to a second-generation retail space?",
+  "description": "Grey shells offer complete design freedom but require all utility runs; second-generation spaces cost less and finish faster but constrain your layout to existi",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-grey-shell-build-out-compare-to-a-second-generation-retail-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a grey shell build-out compare to a second-generation retail space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a grey shell build-out, you start with bare concrete floors, unfinished perimeter walls, and utility stubs, giving you total freedom to design your layout from scratch. However, this option requires larger capital investment, complete utility distribution, and longer construction timelines. A second-generation space already has finished drywall, ceilings, lighting, and working restrooms from a former tenant. Opting for second-generation space reduces upfront costs and gets your store open sooner, but you must accept or pay to reconfigure existing partition walls, plumbing locations, and fixture placements to fit your merchandising plan.",
+        "description": "Grey shells offer complete design freedom but require all utility runs; second-generation spaces cost less and finish faster but constrain your layout to existing infrastructure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to replace my interior doors when upgrading wall sound insulation?",
+  "description": "Yes, standard hollow-core doors leak sound easily. Upgrading to a solid-core door with perimeter seals protects your investment in soundproof walls.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-to-replace-my-interior-doors-when-upgrading-wall-sound-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to replace my interior doors when upgrading wall sound insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard hollow-core interior doors have virtually no acoustic stopping power and undermine any sound-control work on the adjacent wall. A typical hollow door has a low sound transmission class, and sound freely passes through the gap beneath it. Replacing it with a solid-core wood or composite door adds significant mass. Additionally, installing perimeter acoustic jamb gaskets and an automatic drop-seal at the threshold creates an airtight perimeter when closed. A decision factor when planning a wall upgrade is recognizing that if you invest in double-stud or decoupled walls, retaining a standard hollow door will leave a direct leak that negates your investment.",
+        "description": "Yes, standard hollow-core doors leak sound easily. Upgrading to a solid-core door with perimeter seals protects your investment in soundproof walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

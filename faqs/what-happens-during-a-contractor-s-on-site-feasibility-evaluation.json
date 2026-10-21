@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during a contractor's on-site feasibility evaluation?",
+  "description": "The contractor reviews zoning and easements, walks the parcel to assess slope, drainage, and utilities, then outlines necessary site improvements and next steps",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-during-a-contractor-s-on-site-feasibility-evaluation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during a contractor's on-site feasibility evaluation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The review begins with property research, followed by an on-site physical walk-through and a summary findings consultation. Before visiting the parcel, the contractor checks county or municipal zoning requirements, flood zones, and recorded easements. On-site, they inspect slope conditions, potential driveway approaches, drainage channels, and distances to existing electric or water infrastructure. Afterward, you review the findings together to address necessary preparation steps, such as whether you will need an engineered septic design, extensive mass grading, or utility line extensions, clarifying what steps come next.",
+        "description": "The contractor reviews zoning and easements, walks the parcel to assess slope, drainage, and utilities, then outlines necessary site improvements and next steps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

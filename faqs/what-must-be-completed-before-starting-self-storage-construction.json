@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What must be completed before starting self-storage construction?",
+  "description": "You need a topographic survey, geotechnical soil report, approved civil site plan, zoning clearance, and commercial building permits.",
+  "url": "https://totalbuildingsystems.net/faq/what-must-be-completed-before-starting-self-storage-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What must be completed before starting self-storage construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before breaking ground, you need a boundary and topographic survey, a geotechnical soils report, and local zoning approval. Soil testing determines slab thickness, subgrade compaction needs, and foundation engineering to prevent settling. You also need an approved site layout showing drive aisle widths, vehicle turning radiuses, stormwater retention, and utility easements. Local jurisdictions require commercial building permits, civil grading permits, and utility coordination before your general contractor can begin earthwork.",
+        "description": "You need a topographic survey, geotechnical soil report, approved civil site plan, zoning clearance, and commercial building permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

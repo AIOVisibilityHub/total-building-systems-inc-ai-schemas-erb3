@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should be prepared before ordering a metal-home shell?",
+  "description": "You must verify zoning rules, complete a site survey, plan utility access, and finalize exterior door and window placements before engineering begins.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-be-prepared-before-ordering-a-metal-home-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should be prepared before ordering a metal-home shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before purchasing a metal shell, you need a clear site plan, verified boundary survey, and knowledge of zoning allowances for residential steel structures. You should confirm utility connection locations, evaluate soil conditions for the engineered concrete slab, and outline your intended interior floor plan. Because steel buildings are pre-engineered, door, window, and plumbing rough-in locations should be determined beforehand so the manufacturer can place framing components and roof purlins without conflicting with your layout.",
+        "description": "You must verify zoning rules, complete a site survey, plan utility access, and finalize exterior door and window placements before engineering begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a banded liner system and spray foam for metal buildings?",
+  "description": "Banded systems suspend fiberglass blankets behind sealed vapor barriers with steel straps, while spray foam adheres directly to steel framing and panels.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-banded-liner-system-and-spray-foam-for-metal-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a banded liner system and spray foam for metal buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Banded fiberglass systems use thick fiberglass rolls suspended with steel bands and sealed vapor barriers, whereas spray foam adheres directly to the metal skin. Banded systems offer an economical way to achieve high R-values, provide a clean bright white ceiling appearance, and leave structural purlins accessible for future maintenance. Spray foam provides exceptional air-sealing and rigidity in odd-shaped cavities, but it permanently coats the steel, making future panel replacements or structural alterations more labor-intensive. When deciding between the two, consider whether you need to run mechanical wiring through purlins later or want a serviceable, removable ceiling assembly.",
+        "description": "Banded systems suspend fiberglass blankets behind sealed vapor barriers with steel straps, while spray foam adheres directly to steel framing and panels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do building types in the Verde Valley affect office sound assessments?",
+  "description": "Regional spaces vary from historic masonry to modern drywall suites, each presenting distinct acoustic pathways through older floors or HVAC ducts.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-building-types-in-the-verde-valley-affect-office-sound-assessments",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do building types in the Verde Valley affect office sound assessments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial buildings across the Verde Valley and Sedona area often feature distinct construction styles, ranging from historic masonry buildings in Jerome and Clarkdale to modern steel-stud office suites in Cottonwood. Historic properties frequently have uninsulated framing, shared subfloors, or solid plaster walls that transfer impact sound differently than modern assemblies. Meanwhile, regional climate demands heavy summer cooling, meaning high-capacity HVAC ductwork can act as an unintended sound channel between suites. An assessment in this region considers these architectural characteristics alongside local building layouts to recommend practical, durable fixes.",
+        "description": "Regional spaces vary from historic masonry to modern drywall suites, each presenting distinct acoustic pathways through older floors or HVAC ducts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

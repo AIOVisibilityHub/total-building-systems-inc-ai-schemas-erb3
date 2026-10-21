@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in adding an addition to a metal building?",
+  "description": "The process includes reviewing original building plans, engineering, permitting, foundation pouring, steel framing erection, exterior sheeting, and weatherproof",
+  "url": "https://totalbuildingsystems.net/faq/what-steps-are-involved-in-adding-an-addition-to-a-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in adding an addition to a metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an on-site structural evaluation and reviewing your original building blueprints to determine foundation and frame capacity. Next, a general contractor coordinates architectural plans, engineered foundation design, and local municipal permits. Once permits are approved, the site is excavated, footings and concrete slabs are poured, and the steel package is ordered. After the concrete cures and materials arrive, the framing is erected, wall and roof panels are attached, flashings are sealed to prevent water intrusion, and interior build-outs or electrical rough-ins proceed.",
+        "description": "The process includes reviewing original building plans, engineering, permitting, foundation pouring, steel framing erection, exterior sheeting, and weatherproofing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can existing lighting and HVAC vents be integrated into a new acoustic ceiling?",
+  "description": "Yes, acoustic grid systems are planned around existing vents and lighting, and drop ceilings easily accommodate standard modern LED light fixtures.",
+  "url": "https://totalbuildingsystems.net/faq/can-existing-lighting-and-hvac-vents-be-integrated-into-a-new-acoustic-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can existing lighting and HVAC vents be integrated into a new acoustic ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern acoustic ceiling installations are designed to work seamlessly with both recessed troffer lighting and modern slim LED panels. If your upgrade involves replacing the suspension grid, the layout must be planned around existing HVAC diffusers and electrical junction boxes. Upgrading your ceiling provides an ideal opportunity to convert older fluorescent fixtures to energy-efficient LED panels that fit standard grid dimensions, reducing ceiling clutter and improving ambient illumination while enhancing acoustics.",
+        "description": "Yes, acoustic grid systems are planned around existing vents and lighting, and drop ceilings easily accommodate standard modern LED light fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

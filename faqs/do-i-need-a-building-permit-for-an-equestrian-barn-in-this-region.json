@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for an equestrian barn in this region?",
+  "description": "Yes, permanent equestrian structures with foundations, electrical wiring, or plumbing generally require county or city building permits and zoning reviews.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-an-equestrian-barn-in-this-region",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for an equestrian barn in this region?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most municipalities and county jurisdictions require permits for permanent horse barns, especially those with electrical, plumbing, or engineered foundations. In rural communities such as Cornville, Jerome, or unincorporated areas, permitting depends on the structure's footprint, height, and whether it qualifies as an agricultural or residential accessory building. Setback rules from property lines, wells, and septic fields are strictly enforced. Working with a licensed general contractor ensures structural engineering, wind ratings, and building applications align with local building codes.",
+        "description": "Yes, permanent equestrian structures with foundations, electrical wiring, or plumbing generally require county or city building permits and zoning reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

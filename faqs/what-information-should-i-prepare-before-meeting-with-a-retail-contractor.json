@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I prepare before meeting with a retail contractor?",
+  "description": "Prepare your lease work letter, landlord design criteria, target opening date, rough floor plan ideas, and specific electrical or equipment requirements.",
+  "url": "https://totalbuildingsystems.net/faq/what-information-should-i-prepare-before-meeting-with-a-retail-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I prepare before meeting with a retail contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before scheduling your initial build-out consultation, gather your store layout concepts, landlord design guidelines, lease work letter, and merchandising equipment lists. Document your specific utility needs, including dedicated electrical circuits for point-of-sale registers, lighted showcases, security cameras, and refrigerated displays. You should also measure high-profile product display units and identify target opening dates. Providing clear details about your expected merchandise weight, customer traffic flow, and storage requirements helps your general contractor deliver an accurate preliminary scope of work and realistic budget estimates.",
+        "description": "Prepare your lease work letter, landlord design criteria, target opening date, rough floor plan ideas, and specific electrical or equipment requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

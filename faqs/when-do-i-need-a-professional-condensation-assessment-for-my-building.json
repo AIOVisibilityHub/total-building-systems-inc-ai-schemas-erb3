@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need a professional condensation assessment for my building?",
+  "description": "Request an assessment if you see persistent window fogging, damp spots on exterior walls, peeling paint, or musty odors when outdoor temperatures drop.",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-a-professional-condensation-assessment-for-my-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need a professional condensation assessment for my building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should request an assessment if you observe recurring window sweat, damp patches on drywall, peeling paint along exterior walls, or musty odors during seasonal temperature shifts. Hidden condensation often shows up as rusted fasteners in attics or discolored ceiling tiles beneath metal roofs. Addressing these warning signs early helps prevent structural wood rot and costly drywall tear-outs. If moisture appears only when outdoor temperatures drop significantly at night, the issue is almost certainly condensation rather than an active exterior roof leak.",
+        "description": "Request an assessment if you see persistent window fogging, damp spots on exterior walls, peeling paint, or musty odors when outdoor temperatures drop."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

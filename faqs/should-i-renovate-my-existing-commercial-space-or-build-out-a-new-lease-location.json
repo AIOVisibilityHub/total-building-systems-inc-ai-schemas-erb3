@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I renovate my existing commercial space or build out a new lease location?",
+  "description": "Renovating existing space maintains location equity but requires phased, off-hours work, whereas building out a new site allows faster construction but adds rel",
+  "url": "https://totalbuildingsystems.net/faq/should-i-renovate-my-existing-commercial-space-or-build-out-a-new-lease-location",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I renovate my existing commercial space or build out a new lease location?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Renovating an occupied space lets you maintain business cash flow, but it requires careful staging, temporary dust barriers, and often off-hours or phased construction to minimize noise and disruptions for customers and staff. Moving to a new location provides a clean slate where your contractor can work uninterrupted on an aggressive schedule, but it carries duplicate lease costs, move-in logistics, and initial address change hurdles. Evaluating your daily operating tolerance alongside your budget helps decide whether an in-place renovation or a new buildout fits best.",
+        "description": "Renovating existing space maintains location equity but requires phased, off-hours work, whereas building out a new site allows faster construction but adds relocation costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

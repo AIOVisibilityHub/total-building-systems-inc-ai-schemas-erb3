@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a custom steel building compare to traditional wood-frame construction?",
+  "description": "Steel provides wide clear-span interiors, fire and termite resistance, and lower maintenance, though it requires precise upfront engineering and slab anchoring.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-custom-steel-building-compare-to-traditional-wood-frame-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a custom steel building compare to traditional wood-frame construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steel framing delivers much greater clear-span capability, faster structural erection, and superior resistance to termites, rot, and fire compared to traditional dimensional lumber. A practical tradeoff is that steel requires rigorous upfront engineering and precise foundation anchoring, as framing components cannot be easily trimmed or adjusted on-site like wood studs. For large workshops, commercial warehouses, or equipment barns, steel provides lower long-term maintenance and retains structural integrity without settling or warping over time.",
+        "description": "Steel provides wide clear-span interiors, fire and termite resistance, and lower maintenance, though it requires precise upfront engineering and slab anchoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

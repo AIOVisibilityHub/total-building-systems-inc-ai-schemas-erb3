@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "At what stage should I bring in a general contractor for my retail project?",
+  "description": "Engage a contractor during lease negotiations so they can inspect the space, verify existing utilities, and help estimate real tenant improvement costs.",
+  "url": "https://totalbuildingsystems.net/faq/at-what-stage-should-i-bring-in-a-general-contractor-for-my-retail-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "At what stage should I bring in a general contractor for my retail project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should hire a general contractor during your lease negotiations or early space selection phase, well before signing a final contract. Involving a contractor early allows them to perform a pre-lease site evaluation to verify electrical panel capacity, ceiling heights, existing HVAC condition, and accessibility compliance. This insight gives you leverage to request specific tenant improvement allowances or landlord work provisions in your lease agreement. Waiting until after the lease is executed can expose you to unexpected utility upgrade expenses and structural repair costs that eat into your operating capital.",
+        "description": "Engage a contractor during lease negotiations so they can inspect the space, verify existing utilities, and help estimate real tenant improvement costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

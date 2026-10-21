@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I add an apartment or living suite above my new garage addition?",
+  "description": "Yes, but it requires upgraded structural engineering for floor loads, fire-rated ceiling assemblies, dedicated insulation, and planned routes for plumbing and H",
+  "url": "https://totalbuildingsystems.net/faq/can-i-add-an-apartment-or-living-suite-above-my-new-garage-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I add an apartment or living suite above my new garage addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a living space above a garage addition requires careful structural, fire safety, and plumbing planning from the start. The foundation and ground-floor framing must be engineered to support the heavier live loads of finished living quarters. Building codes mandate specific fire-rated drywall between the garage and upper living areas, along with vapor barriers to block vehicle exhaust fumes. You will also need to decide how to route water supply lines, sewer drains, and HVAC ducts without exposing pipes to unconditioned garage spaces where freezing or thermal loss could occur.",
+        "description": "Yes, but it requires upgraded structural engineering for floor loads, fire-rated ceiling assemblies, dedicated insulation, and planned routes for plumbing and HVAC."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

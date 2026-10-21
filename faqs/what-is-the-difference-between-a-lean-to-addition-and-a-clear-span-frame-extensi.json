@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a lean-to addition and a clear-span frame extension?",
+  "description": "A lean-to is a single-slope attachment ideal for smaller storage, while a clear-span extension continues the building's main profile for open, unobstructed squa",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-lean-to-addition-and-a-clear-span-frame-extensi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a lean-to addition and a clear-span frame extension?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lean-to addition attaches to the sidewall or endwall of an existing building with a single-slope roof, making it a cost-effective choice for covered equipment storage, workshops, or small office space. A full clear-span frame extension continues the existing building's structural profile, maintaining interior ceiling clearance without central support posts. While a lean-to involves less steel and simpler engineering, it limits interior height and width compared to a clear-span addition, which creates an unobstructed open floor plan suitable for heavy equipment or large-scale commercial operations.",
+        "description": "A lean-to is a single-slope attachment ideal for smaller storage, while a clear-span extension continues the building's main profile for open, unobstructed square footage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

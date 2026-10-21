@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build a steel frame or post-frame wood horse barn?",
+  "description": "Steel barns resist fire, pests, and horse chewing with lower upkeep, while wood barns offer traditional style, quieter interiors, and easier stall wall modifica",
+  "url": "https://totalbuildingsystems.net/faq/should-i-build-a-steel-frame-or-post-frame-wood-horse-barn",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build a steel frame or post-frame wood horse barn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steel frame barns offer superior fire resistance and pest durability, while post-frame wood barns provide traditional aesthetics and easier on-site framing modifications. Steel structures eliminate the risk of termite damage and cribbing, which occurs when horses chew wood surfaces. However, wood barns can be easier to insulate and feel quieter during heavy rain. A major practical tradeoff is maintenance: steel requires less structural upkeep over decades, but wood can be simpler to reconfigure if you decide to add tack rooms or rearrange stall walls later.",
+        "description": "Steel barns resist fire, pests, and horse chewing with lower upkeep, while wood barns offer traditional style, quieter interiors, and easier stall wall modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

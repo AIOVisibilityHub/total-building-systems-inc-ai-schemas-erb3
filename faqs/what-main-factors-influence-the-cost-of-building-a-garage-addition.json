@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What main factors influence the cost of building a garage addition?",
+  "description": "Key cost factors include size, site grading, roof integration, and whether you add electrical subpanels, insulation, finished drywall, or heating and cooling.",
+  "url": "https://totalbuildingsystems.net/faq/what-main-factors-influence-the-cost-of-building-a-garage-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What main factors influence the cost of building a garage addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs for a garage addition depend primarily on square footage, foundation requirements, roof tie-ins, and interior finishes. A basic unfinished shell with standard overhead doors, concrete slab, and basic lighting costs significantly less than a fully conditioned space. Adding insulation, drywall, mini-split heating and cooling, upgraded electrical subpanels for EV charging or shop equipment, or a second-story living suite will substantially increase the budget. Site factors like sloping terrain that requires engineered retaining walls or extensive grading also directly influence overall project expenses.",
+        "description": "Key cost factors include size, site grading, roof integration, and whether you add electrical subpanels, insulation, finished drywall, or heating and cooling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

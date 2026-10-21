@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a raw shell build-out and a second-generation remodel?",
+  "description": "A raw shell provides complete design flexibility from a blank slate, while a second-generation remodel repurposes existing structures, often lowering upfront co",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-raw-shell-build-out-and-a-second-generation-rem",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a raw shell build-out and a second-generation remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A shell build-out starts with an empty space consisting only of exterior walls, a concrete floor slab, and basic utility stubs, offering complete freedom to design your layout from scratch at a higher initial construction cost. A second-generation remodel alters a previously occupied office. Second-generation spaces offer significant cost savings if you can reuse existing restrooms, HVAC zones, lighting, or partition walls. However, second-generation projects may require selective demolition, code updates to older wiring or plumbing, and minor compromises on optimal floor-plan efficiency.",
+        "description": "A raw shell provides complete design flexibility from a blank slate, while a second-generation remodel repurposes existing structures, often lowering upfront construction costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

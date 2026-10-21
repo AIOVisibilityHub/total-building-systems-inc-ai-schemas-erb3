@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for a custom steel structure on my property?",
+  "description": "Yes, permanent steel structures require permits, engineered plans, and site reviews to comply with local zoning setbacks and building codes.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-a-custom-steel-structure-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for a custom steel structure on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit requirements depend on zoning rules, building height, setbacks, and square footage established by your local municipality or county building division. Commercial facilities, workshops, and large storage buildings require engineered structural drawings with a licensed engineer's seal. A full-service general contractor handles the submittal process, including site plan reviews, footing details, and local zoning setback compliance, preventing delays caused by incomplete documentation.",
+        "description": "Yes, permanent steel structures require permits, engineered plans, and site reviews to comply with local zoning setbacks and building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

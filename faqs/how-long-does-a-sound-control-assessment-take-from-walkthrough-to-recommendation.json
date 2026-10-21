@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a sound-control assessment take from walkthrough to recommendations?",
+  "description": "An onsite evaluation takes one to three hours, with a comprehensive scope of recommendations delivered within a few business days.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-sound-control-assessment-take-from-walkthrough-to-recommendation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a sound-control assessment take from walkthrough to recommendations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An onsite walkthrough typically takes between one and three hours, depending on the number of offices and mechanical rooms being evaluated. Following the inspection, producing the summary report and recommended scope of work generally takes a few business days. Total timing expands if your building has multiple HVAC zones to trace or lacks architectural plans. Scheduling the evaluation during normal business hours allows the contractor to observe typical ambient noise levels, background speech, and mechanical cycles in real-time operating conditions.",
+        "description": "An onsite evaluation takes one to three hours, with a comprehensive scope of recommendations delivered within a few business days."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

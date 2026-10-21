@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a turnkey buildout and a tenant improvement allowance?",
+  "description": "Turnkey means the landlord oversees and funds the complete buildout with less tenant input, while an allowance lets the tenant manage the buildout but assume bu",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-turnkey-buildout-and-a-tenant-improvement-allow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a turnkey buildout and a tenant improvement allowance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a turnkey buildout, the landlord handles and pays for the entire construction process to deliver a move-in-ready space, but the tenant gives up control over design details, finish quality, and construction schedules. In an allowance-based buildout, the tenant manages the project, hires their own general contractor, and selects all fixtures and finishes within their allocated budget. This gives you direct control over craftsmanship and timeline, but you carry the risk of cost overages, material delays, and day-to-day project management duties.",
+        "description": "Turnkey means the landlord oversees and funds the complete buildout with less tenant input, while an allowance lets the tenant manage the buildout but assume budget risk."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

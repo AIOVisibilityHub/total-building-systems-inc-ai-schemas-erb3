@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do historic commercial districts affect retail interior renovations?",
+  "description": "Historic commercial spaces often require electrical upgrades, structural floor leveling, and alignment with local historic district design standards and life-sa",
+  "url": "https://totalbuildingsystems.net/faq/how-do-historic-commercial-districts-affect-retail-interior-renovations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do historic commercial districts affect retail interior renovations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When retail spaces sit in historic downtown corridors, such as Jerome or Old Town Cottonwood, interior alterations often face unique structural and district-specific requirements. Older commercial properties frequently feature uneven historic masonry, aged subfloors, and outdated electrical services that demand careful reinforcement. Additionally, historic business districts may enforce local guidelines governing storefront glass, exterior-visible display lighting, exterior signage, and egress doors. A commercial contractor must balance preserving historic architectural character with installing contemporary accessibility ramps, life-safety exits, and modern commercial utilities.",
+        "description": "Historic commercial spaces often require electrical upgrades, structural floor leveling, and alignment with local historic district design standards and life-safety codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

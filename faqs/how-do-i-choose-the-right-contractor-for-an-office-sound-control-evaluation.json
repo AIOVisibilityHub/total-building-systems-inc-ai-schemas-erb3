@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for an office sound-control evaluation?",
+  "description": "Choose a licensed commercial contractor who understands full wall assemblies, plenum pathways, and HVAC dynamics, not just cosmetic panels.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-contractor-for-an-office-sound-control-evaluation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for an office sound-control evaluation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for a licensed commercial general contractor who understands structural framing, drywall assemblies, and MEP coordination, not just someone selling decorative acoustic wall tiles. The right partner should explain the difference between sound transmission class (STC) ratings for wall assemblies and noise reduction coefficients (NRC) for interior absorption. Ask how they evaluate flanking paths through ceiling plenums and HVAC runs, as those are the most common commercial issues. Choosing a builder with commercial tenant buildout experience ensures the recommendations are constructible, compliant with local building codes, and realistically priced.",
+        "description": "Choose a licensed commercial contractor who understands full wall assemblies, plenum pathways, and HVAC dynamics, not just cosmetic panels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

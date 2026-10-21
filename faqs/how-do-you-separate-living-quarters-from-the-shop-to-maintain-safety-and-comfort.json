@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you separate living quarters from the shop to maintain safety and comfort?",
+  "description": "Codes require a fire-rated partition wall, sealed penetrations, and a self-closing fire door. Separate HVAC systems and soundproof insulation keep shop fumes an",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-separate-living-quarters-from-the-shop-to-maintain-safety-and-comfort",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you separate living quarters from the shop to maintain safety and comfort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building safety codes require a certified, fire-rated assembly—typically a one-to-two-hour fire-resistant wall—between the living quarters and the workshop. Because workshops frequently contain vehicles, flammable chemicals, welding equipment, or dust, an airtight barrier is crucial. This setup requires sealed penetrations for plumbing and wiring, a self-closing fire-rated door, and independent HVAC systems. Installing separate heating and cooling prevents airborne dust, solvent odors, and vehicle exhaust from circulating into the home. Adding heavy sound insulation or resilient channel drywall to the shared wall also keeps mechanical noise from disrupting daily living.",
+        "description": "Codes require a fire-rated partition wall, sealed penetrations, and a self-closing fire door. Separate HVAC systems and soundproof insulation keep shop fumes and noise out of the home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

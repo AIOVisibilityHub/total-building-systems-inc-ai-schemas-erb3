@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in the construction process of a metal shell?",
+  "description": "The build begins with design and permitting, followed by foundation work, steel frame assembly, and exterior panel installation to make the structure weather-ti",
+  "url": "https://totalbuildingsystems.net/faq/what-steps-are-involved-in-the-construction-process-of-a-metal-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in the construction process of a metal shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process starts with architectural planning and engineering calculations to meet regional building codes. Once permits are approved, the site is excavated, underground utilities are stubbed in, and the concrete slab with anchor bolts is poured and cured. The pre-engineered steel package is delivered, primary columns and rafters are raised, and secondary girts and purlins are bolted into place. Finally, the exterior wall and roof panels, trims, and weatherproofing seals are installed, completing the dry-in phase.",
+        "description": "The build begins with design and permitting, followed by foundation work, steel frame assembly, and exterior panel installation to make the structure weather-tight."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

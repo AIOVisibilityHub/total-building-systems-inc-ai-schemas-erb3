@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know when an existing metal building needs new insulation?",
+  "description": "You need a retrofit if you see roof condensation dripping, damaged facing, rising energy bills, or interior temperatures that swing drastically with outdoor wea",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-know-when-an-existing-metal-building-needs-new-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know when an existing metal building needs new insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs that you need a retrofit include heavy roof condensation, extreme indoor temperatures, skyrocketing heating or cooling bills, and sagging or shredded insulation facing. In uninsulated steel buildings, temperature swings cause moisture to collect on roof panels and drip onto equipment or stored inventory. A key decision factor is the condition of your existing vapor retarder: if tears or degraded tape allow humid air behind the facing, fiberglass loses thermal value and traps moisture against structural steel. Replacing or encapsulating old material protects framing from rust while stabilizing indoor comfort.",
+        "description": "You need a retrofit if you see roof condensation dripping, damaged facing, rising energy bills, or interior temperatures that swing drastically with outdoor weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

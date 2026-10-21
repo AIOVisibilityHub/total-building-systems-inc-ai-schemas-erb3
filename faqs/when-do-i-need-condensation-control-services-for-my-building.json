@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need condensation-control services for my building?",
+  "description": "You need them if you see recurring window moisture, sweating roof framing, damp drywall, or peeling paint caused by elevated indoor humidity.",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-condensation-control-services-for-my-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need condensation-control services for my building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need condensation control when you notice recurring beads of water on windows, damp patches on drywall, musty odors, or visible mildew along baseboards and window frames. In commercial or metal buildings, sweating purlins and dripping roofs are common warning signs. Left unaddressed, persistent condensation rots framing, damages insulation, and compromises indoor air quality, making timely intervention essential before structural repairs are required.",
+        "description": "You need them if you see recurring window moisture, sweating roof framing, damp drywall, or peeling paint caused by elevated indoor humidity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

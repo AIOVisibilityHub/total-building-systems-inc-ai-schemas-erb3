@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I gather before planning a metal building addition?",
+  "description": "Locate your existing building plans, property boundary markers, underground utility lines, and determine your required square footage and interior ceiling clear",
+  "url": "https://totalbuildingsystems.net/faq/what-information-should-i-gather-before-planning-a-metal-building-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I gather before planning a metal building addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contacting a general contractor, gather the original manufacturer blueprints, engineering drawings, and permit records for your current building if available. You will also need to determine your intended use for the addition, target square footage, minimum ceiling height, and whether you need vehicle bay doors or insulation. Identifying underground utilities, septic tanks, and property boundaries around the proposed build site is also essential, as these determine whether the addition can physically fit within required municipal setback lines.",
+        "description": "Locate your existing building plans, property boundary markers, underground utility lines, and determine your required square footage and interior ceiling clearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

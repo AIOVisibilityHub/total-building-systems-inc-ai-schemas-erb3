@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the cost of a shop-home combination compare to building a separate house and detached shop?",
+  "description": "Combining them is generally more cost-effective because sharing a foundation, roofline, and site utilities lowers overall framing, excavation, and exterior mate",
+  "url": "https://totalbuildingsystems.net/faq/how-does-the-cost-of-a-shop-home-combination-compare-to-building-a-separate-hous",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the cost of a shop-home combination compare to building a separate house and detached shop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shop-and-home builds typically cost less per square foot overall than traditional standalone homes, primarily because the workshop portion involves simpler finishes, open framing, and fewer plumbing fixtures. Combining both structures onto a single foundation and slab saves on grading, concrete, and roofing materials. However, costs rise if the workshop requires specialized infrastructure, such as reinforced concrete slabs for heavy machinery, high-amperage electrical service, or radiant floor heating. To get an accurate estimate, balance the high-end finishes of your living quarters against the functional, utilitarian needs of your shop space before finalizing structural blueprints.",
+        "description": "Combining them is generally more cost-effective because sharing a foundation, roofline, and site utilities lowers overall framing, excavation, and exterior material expenses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

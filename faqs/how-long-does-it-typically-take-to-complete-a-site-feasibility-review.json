@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to complete a site-feasibility review?",
+  "description": "A site-feasibility review typically takes several days to two weeks, though scheduling third-party soil testing or utility verifications can extend the timefram",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-typically-take-to-complete-a-site-feasibility-review",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to complete a site-feasibility review?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A preliminary site-feasibility review can take a few business days to two weeks, depending on document access and site visits. Reviewing public records, utility maps, and zoning overlays generally moves quickly. However, the timeline extends if the evaluation requires coordinating with local utility companies for service availability letters or arranging specialized soil percolation tests. Planning for this time within your purchase contract ensures you receive thorough physical and regulatory answers without rushing your due-diligence deadlines.",
+        "description": "A site-feasibility review typically takes several days to two weeks, though scheduling third-party soil testing or utility verifications can extend the timeframe."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

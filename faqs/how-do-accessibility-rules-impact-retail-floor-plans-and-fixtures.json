@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do accessibility rules impact retail floor plans and fixtures?",
+  "description": "Retail floor plans must maintain wide, unobstructed aisles, accessible customer checkout counters, compliant fitting rooms, and clear routes to restrooms.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-accessibility-rules-impact-retail-floor-plans-and-fixtures",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do accessibility rules impact retail floor plans and fixtures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ADA compliance is mandatory for all retail spaces, requiring unobstructed customer pathways, accessible check-out counters, and compliant restrooms. Main shopping aisles must meet minimum width standards so wheelchair users can travel through the store freely, and display racks cannot block access. Cashier counters must incorporate a lowered transaction section, and fitting rooms require specific turning radiuses and grab bar placements. Early in the design phase, deciding on compact versus spacious fixture arrangements is critical, as overcrowding floor displays can create accessibility violations and delay your final occupancy inspection.",
+        "description": "Retail floor plans must maintain wide, unobstructed aisles, accessible customer checkout counters, compliant fitting rooms, and clear routes to restrooms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

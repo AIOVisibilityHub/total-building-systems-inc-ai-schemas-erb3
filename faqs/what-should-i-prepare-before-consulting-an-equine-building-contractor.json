@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting an equine building contractor?",
+  "description": "Determine your herd size, desired stall count, site access for trailers, utility connection points, and budget before meeting with a contractor.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-consulting-an-equine-building-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting an equine building contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a barn builder, gather your site boundaries, herd count, utility goals, and budget. Measure the intended building pad, note existing access points for trailers, and determine where power and water connections will originate. Consider whether your property has zoning setbacks or equestrian structure restrictions. Having a clear checklist of must-have features—such as wash stalls, feed storage capacity, hay loft requirements, and turnout paddock connections—ensures your builder can develop accurate framing plans and site preparation estimates from the start.",
+        "description": "Determine your herd size, desired stall count, site access for trailers, utility connection points, and budget before meeting with a contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

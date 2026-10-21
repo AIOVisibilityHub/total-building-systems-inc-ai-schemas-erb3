@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do the Verde Valley's seasonal temperature swings affect moisture-barrier design?",
+  "description": "Verde Valley homes face hot summers and freezing winter nights, requiring assemblies that prevent condensation from inward and outward vapor drive.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-the-verde-valley-s-seasonal-temperature-swings-affect-moisture-barrier-de",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do the Verde Valley's seasonal temperature swings affect moisture-barrier design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, homes experience intense summer heat alongside sharp winter overnight freezes, requiring envelope designs that prevent condensation in both conditions. During hot summer days, exterior heat drives moisture inward toward air-conditioned spaces, while winter nights cause interior heating to push humidity toward cold exterior sheathing. Assemblies in Cottonwood and Camp Verde must allow drying in both directions while maintaining steady thermal resistance.",
+        "description": "Verde Valley homes face hot summers and freezing winter nights, requiring assemblies that prevent condensation from inward and outward vapor drive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build an attached or detached garage addition?",
+  "description": "An attached garage offers sheltered house access and easier utility ties, while a detached garage provides layout flexibility, better noise isolation, and extra",
+  "url": "https://totalbuildingsystems.net/faq/should-i-build-an-attached-or-detached-garage-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build an attached or detached garage addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An attached garage connects directly to your home's framing and shared wall, while a detached garage sits separately on its own footprint. Attached additions offer dry, direct indoor access and simplify routing household utilities like electricity and heating. However, they must comply with specific fire-separation walls and strict home alignment constraints. Detached garages provide greater flexibility for positioning on your parcel, allow for taller doors to house RVs or workshops, and keep workshop noise, dust, and fumes away from living quarters. The choice often comes down to your primary use, lot boundaries, and available driveway space.",
+        "description": "An attached garage offers sheltered house access and easier utility ties, while a detached garage provides layout flexibility, better noise isolation, and extra space for workshops."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

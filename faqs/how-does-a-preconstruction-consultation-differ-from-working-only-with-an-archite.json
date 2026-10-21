@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a preconstruction consultation differ from working only with an architect?",
+  "description": "Architects design for aesthetics and building codes, while a contractor evaluates real-time material costs, trade availability, and hands-on site constructabili",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-preconstruction-consultation-differ-from-working-only-with-an-archite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a preconstruction consultation differ from working only with an architect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a general contractor for preconstruction offers practical value engineering that an architect working alone may not provide. While architects focus on aesthetics, space utilization, and code compliance, general contractors bring real-time insight into local trade availability, supply chain lead times, and current material pricing. An architect designs what is structurally possible, but the contractor ensures the design fits your budget and construction schedule. Pairing both professionals early creates a balanced plan that balances visual goals with financial boundaries.",
+        "description": "Architects design for aesthetics and building codes, while a contractor evaluates real-time material costs, trade availability, and hands-on site constructability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

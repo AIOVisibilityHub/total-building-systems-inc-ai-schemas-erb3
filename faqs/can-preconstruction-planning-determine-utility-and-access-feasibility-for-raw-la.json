@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can preconstruction planning determine utility and access feasibility for raw land?",
+  "description": "Yes, preconstruction reviews utility availability, septic requirements, well feasibility, and access grades to meet local building standards.",
+  "url": "https://totalbuildingsystems.net/faq/can-preconstruction-planning-determine-utility-and-access-feasibility-for-raw-la",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can preconstruction planning determine utility and access feasibility for raw land?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, identifying utility connections and developing access points is a critical focus of preconstruction planning. We evaluate whether your property connects to municipal water and sewer lines or requires engineered septic designs and private wells. We also review distance to local power transformers and verify whether the driveway slope meets local fire district emergency access standards. Resolving these logistical requirements early prevents costly mid-project utility delays and ensures permits move smoothly through local planning departments.",
+        "description": "Yes, preconstruction reviews utility availability, septic requirements, well feasibility, and access grades to meet local building standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a business prepare before planning an office build-out?",
+  "description": "Prepare your lease work letter, target move-in date, budget, headcount projections, acoustic privacy requirements, and specialized IT or power needs.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-a-business-prepare-before-planning-an-office-build-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a business prepare before planning an office build-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before hiring a general contractor or signing a lease, gather your lease agreement to review the work letter, which defines tenant improvement allowances and landlord restrictions. Document your team's headcount, growth projections, equipment power requirements, IT and data storage specifications, and acoustic privacy needs for meeting rooms. Knowing your required move-in deadline and maximum budget beforehand allows the contractor and design team to establish practical layout options and flag potential structural or mechanical constraints early in the planning phase.",
+        "description": "Prepare your lease work letter, target move-in date, budget, headcount projections, acoustic privacy requirements, and specialized IT or power needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

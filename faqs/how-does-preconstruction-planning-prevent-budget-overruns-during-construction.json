@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does preconstruction planning prevent budget overruns during construction?",
+  "description": "It catches expensive design choices and site hurdles on paper, offering affordable material alternatives before construction contracts are finalized.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-preconstruction-planning-prevent-budget-overruns-during-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does preconstruction planning prevent budget overruns during construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preconstruction reviews keep your project within budget by aligning design specifications with current trade labor and material pricing. Designers occasionally specify structural spans or custom materials that drive up construction costs without adding proportionate functional value. We identify these elements early and suggest practical alternatives that maintain design intent at lower price points. By eliminating surprises on paper rather than through field change orders, you prevent costly construction delays and avoid exceeding your financing limits.",
+        "description": "It catches expensive design choices and site hurdles on paper, offering affordable material alternatives before construction contracts are finalized."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

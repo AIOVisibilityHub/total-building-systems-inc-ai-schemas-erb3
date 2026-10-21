@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors cause commercial tenant improvement costs to vary?",
+  "description": "Costs vary based on existing space conditions, mechanical, electrical, and plumbing demands, layout modifications, material selections, and specific occupancy c",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-cause-commercial-tenant-improvement-costs-to-vary",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors cause commercial tenant improvement costs to vary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial tenant improvement costs are primarily driven by the previous condition of the space, the required level of mechanical upgrades, and the intended use. First-generation shell spaces require full buildouts from dirt or bare concrete, requiring complete electrical, HVAC ducting, and plumbing rough-ins. Second-generation spaces reduce basic framing and utility costs if the existing layout fits your plan. High-demand commercial uses like medical clinics or commercial kitchens involve complex plumbing, grease interceptors, and high-voltage power, which cost significantly more than standard dry office buildouts.",
+        "description": "Costs vary based on existing space conditions, mechanical, electrical, and plumbing demands, layout modifications, material selections, and specific occupancy code requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

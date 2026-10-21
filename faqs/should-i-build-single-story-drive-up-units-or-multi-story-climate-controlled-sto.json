@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build single-story drive-up units or multi-story climate-controlled storage?",
+  "description": "Single-story offers lower build costs on larger parcels, while multi-story maximizes smaller plots but requires elevators, fire sprinklers, and HVAC.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-build-single-story-drive-up-units-or-multi-story-climate-controlled-sto",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build single-story drive-up units or multi-story climate-controlled storage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Single-story drive-up storage provides lower initial construction costs and easier customer access, while multi-story climate-controlled facilities maximize rental space on limited land. Single-story builds require larger acreage, extensive asphalt drive aisles, and straightforward slab-on-grade concrete foundations. Multi-story facilities fit smaller parcels and command higher rent per square foot, but they require structural elevators, fire sprinkler systems, conditioned interior corridors, and higher engineering costs. Evaluating land acquisition costs against structural steel and MEP expenses dictates which format delivers better returns.",
+        "description": "Single-story offers lower build costs on larger parcels, while multi-story maximizes smaller plots but requires elevators, fire sprinklers, and HVAC."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

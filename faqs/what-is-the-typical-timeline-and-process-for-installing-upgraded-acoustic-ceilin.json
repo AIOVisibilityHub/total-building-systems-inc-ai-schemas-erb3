@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline and process for installing upgraded acoustic ceilings?",
+  "description": "Most standard projects take one to three days, covering site prep, grid installation or adjustment, MEP integration, and final panel placement.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-typical-timeline-and-process-for-installing-upgraded-acoustic-ceilin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline and process for installing upgraded acoustic ceilings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard commercial or residential room typically takes one to three days, while larger commercial buildouts can take a week or longer. Timing begins with site preparation and the removal of existing ceiling panels or drywall if needed. Next, our crew installs or adjusts the metal suspension grid, levels the framework, and coordinates with electricians or HVAC technicians to integrate lighting and vents. The final step is laying in the acoustic panels and trimming perimeter borders. Projects requiring extensive structural framing or MEP utility relocation require extra scheduling time.",
+        "description": "Most standard projects take one to three days, covering site prep, grid installation or adjustment, MEP integration, and final panel placement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do historic district zoning codes in towns like Clarkdale or Jerome affect metal home shells?",
+  "description": "Yes, local historic and architectural guidelines may require specific exterior materials, colors, and roof designs to fit surrounding community character.",
+  "url": "https://totalbuildingsystems.net/faq/do-historic-district-zoning-codes-in-towns-like-clarkdale-or-jerome-affect-metal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do historic district zoning codes in towns like Clarkdale or Jerome affect metal home shells?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building in historic or design-conscious jurisdictions like Jerome or Clarkdale involves strict zoning and architectural review boards that govern building exteriors, roof profiles, and visible materials. Standard industrial-style metal panels may not meet local design guidelines aimed at preserving historic character. In these communities, a metal shell often requires tailored architectural finishes, such as custom paint palettes, wainscoting, or wood-look accents, to gain municipal planning approval before structural permits can be issued.",
+        "description": "Yes, local historic and architectural guidelines may require specific exterior materials, colors, and roof designs to fit surrounding community character."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

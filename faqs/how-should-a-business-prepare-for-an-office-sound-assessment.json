@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a business prepare for an office sound assessment?",
+  "description": "List your primary noise problem areas, gather available architectural or HVAC drawings, and confirm ceiling access with property management.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-a-business-prepare-for-an-office-sound-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a business prepare for an office sound assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before the walkthrough, note which rooms experience the worst sound transfer and identify whether the sound is human speech, foot traffic, or mechanical equipment. Having floor plans, mechanical drawings, or lease buildout records available gives the contractor immediate insight into hidden wall assemblies and duct paths. It is also beneficial to verify whether building management restricts above-ceiling access or after-hours work. Noting whether issues occur continuously or only when specific HVAC units cycle on helps target mechanical inspections during the site visit.",
+        "description": "List your primary noise problem areas, gather available architectural or HVAC drawings, and confirm ceiling access with property management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

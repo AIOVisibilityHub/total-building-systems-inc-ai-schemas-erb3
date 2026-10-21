@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a site-feasibility assessment?",
+  "description": "Costs depend on parcel size, topography, and whether additional technical work like boundary surveys or geotechnical soil testing is required.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-a-site-feasibility-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a site-feasibility assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall cost depends on parcel size, terrain complexity, and whether specialty tests like soil perc testing or formal land surveys are required. A basic visual review and regulatory check by a general contractor requires far less investment than full pre-construction engineering. If deep bedrock, steep slopes, or unverified utility easements require geotechnical borings or boundary surveys, those third-party fees are factored in separately. Investing in this preliminary evaluation often saves tens of thousands of dollars by uncovering hidden site prep expenses before contracts are locked in.",
+        "description": "Costs depend on parcel size, topography, and whether additional technical work like boundary surveys or geotechnical soil testing is required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

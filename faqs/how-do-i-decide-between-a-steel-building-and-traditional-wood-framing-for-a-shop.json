@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I decide between a steel building and traditional wood framing for a shop-home?",
+  "description": "Choose steel framing for wide, uninterrupted shop floor spans and large machinery. Opt for wood framing for traditional architectural aesthetics, easier residen",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-decide-between-a-steel-building-and-traditional-wood-framing-for-a-shop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I decide between a steel building and traditional wood framing for a shop-home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Base your decision on intended use, local building regulations, and resale priorities. Steel-frame structures allow for massive, clear-span workshop interiors without load-bearing interior posts, making them ideal for heavy machinery, oversized RV storage, or industrial work. However, they may require specialized framing methods to hang traditional drywall and fixtures in the residential area. Wood-frame construction offers easier residential finishing, standard insulation options, and conventional exterior architectural styles that blend well into standard neighborhoods, but wood spans are shorter, which can limit open shop floor plans without costly engineered trusses.",
+        "description": "Choose steel framing for wide, uninterrupted shop floor spans and large machinery. Opt for wood framing for traditional architectural aesthetics, easier residential finishing, and conventional insulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

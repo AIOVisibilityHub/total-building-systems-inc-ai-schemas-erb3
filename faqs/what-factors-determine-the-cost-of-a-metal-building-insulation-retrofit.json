@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a metal-building insulation retrofit?",
+  "description": "Cost depends on building square footage, ceiling height, chosen R-value, equipment access, and whether old, degraded insulation must be removed first.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-a-metal-building-insulation-retrofit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a metal-building insulation retrofit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall cost depends primarily on your building square footage, target R-value, ceiling height, and accessibility for equipment like scissor lifts. Factors that increase project scope include clearing out heavy equipment, removing water-damaged fiberglass, and repairing localized surface rust before new materials go in. Simpler open bays cost less to retrofit than buildings packed with mezzanine floors, complex overhead crane systems, or low-hanging conduits. To budget accurately, measure your perimeter wall height, roof pitch, and note any obstructions that require custom trimming or specialized staging.",
+        "description": "Cost depends on building square footage, ceiling height, chosen R-value, equipment access, and whether old, degraded insulation must be removed first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

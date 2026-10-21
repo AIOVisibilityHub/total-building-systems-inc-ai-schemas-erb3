@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a barndominium, and how does it differ from a traditional home?",
+  "description": "A barndominium combines a metal or post-frame shell with custom living quarters. Its open span eliminates load-bearing interior walls, offering flexible layouts",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-barndominium-and-how-does-it-differ-from-a-traditional-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a barndominium, and how does it differ from a traditional home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A barndominium is a custom residential home built inside or around a steel or post-frame shell, combining living quarters with workshop, garage, or storage space. Unlike traditional stick-built homes that rely on interior load-bearing walls, a barndominium uses an open exterior frame. This design offers clear-span interior flexibility, allowing you to design wide-open floor plans or easily alter room layouts later. However, you trade off the standard attic storage found in conventional framing, and you must plan plumbing and electrical runs early since concrete slab foundations are standard.",
+        "description": "A barndominium combines a metal or post-frame shell with custom living quarters. Its open span eliminates load-bearing interior walls, offering flexible layouts unlike traditional stick-built homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

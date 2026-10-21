@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need an upgraded electrical panel for my garage addition?",
+  "description": "If you plan to install EV chargers, heavy shop equipment, or heating and cooling units, installing a subpanel or upgrading your main service is often necessary.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-an-upgraded-electrical-panel-for-my-garage-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need an upgraded electrical panel for my garage addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding a dedicated 100-amp to 125-amp subpanel in the garage addition is usually the best approach if your electrical needs exceed standard lighting. Standard garage outlets can handle basic tool use, but adding Level 2 EV charging stations, air compressors, welders, or dedicated HVAC units draws significant power. Your contractor will inspect your home's main service panel to ensure it has enough total amperage to feed an addition. If your main panel is already near capacity, upgrading the main service may be required before roughing in the new garage circuits.",
+        "description": "If you plan to install EV chargers, heavy shop equipment, or heating and cooling units, installing a subpanel or upgrading your main service is often necessary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

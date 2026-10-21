@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a commercial office interior build-out typically take?",
+  "description": "Construction typically takes two to four months, though total project duration extends longer when factoring in design, engineering, permitting, and equipment l",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-commercial-office-interior-build-out-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a commercial office interior build-out typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most small-to-medium office interior build-outs take between two to four months for construction once permits are issued. However, the total project timeline includes initial space planning, architectural drafting, engineering, and city permitting, which can add several weeks or months beforehand. Timelines lengthen if your design involves long-lead items, such as specialized commercial mechanical equipment, custom glass partition assemblies, or architectural lighting. Coordinating your planned move-in schedule with realistic permit review periods and material delivery dates ensures a seamless business transition without unexpected operational downtime.",
+        "description": "Construction typically takes two to four months, though total project duration extends longer when factoring in design, engineering, permitting, and equipment lead times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

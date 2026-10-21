@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an office interior build-out?",
+  "description": "An office interior build-out modifies an existing commercial shell into a functional workspace, including framing, electrical, HVAC adjustments, plumbing, and i",
+  "url": "https://totalbuildingsystems.net/faq/what-is-an-office-interior-build-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an office interior build-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An office interior build-out, often called tenant improvements or a tenant fit-out, involves modifying the interior space of an existing commercial building to meet specific business needs. This includes framing walls, updating electrical and data wiring, installing lighting, adjusting HVAC ductwork, adding plumbing, and finishing walls, ceilings, and floors. Unlike core-and-shell construction, which provides only the outer envelope and basic utility connections, a build-out shapes the interior into usable offices, conference rooms, breakrooms, and reception areas tailored to your daily operations.",
+        "description": "An office interior build-out modifies an existing commercial shell into a functional workspace, including framing, electrical, HVAC adjustments, plumbing, and interior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

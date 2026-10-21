@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of insulation works best for a barndominium?",
+  "description": "Closed-cell spray foam insulation is best. It adheres directly to metal panels, creating an airtight thermal envelope and vapor barrier that prevents condensati",
+  "url": "https://totalbuildingsystems.net/faq/what-type-of-insulation-works-best-for-a-barndominium",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of insulation works best for a barndominium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spray foam insulation is generally the most effective choice for a metal-framed barndominium. Metal panels transfer heat rapidly, making thermal bridging and condensation significant concerns during hot summers and cold desert nights. Closed-cell spray foam seals directly to the metal exterior, creating a continuous vapor barrier that prevents moisture buildup and air leaks. Traditional fiberglass batts are cheaper upfront, but they can sag, leave gaps against steel framing, and trap moisture if a vapor barrier fails.",
+        "description": "Closed-cell spray foam insulation is best. It adheres directly to metal panels, creating an airtight thermal envelope and vapor barrier that prevents condensation and thermal bridging."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

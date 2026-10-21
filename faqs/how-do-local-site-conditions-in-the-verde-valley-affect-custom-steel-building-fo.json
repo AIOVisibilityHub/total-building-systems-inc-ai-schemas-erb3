@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local site conditions in the Verde Valley affect custom steel building foundations?",
+  "description": "Verde Valley soil variations, from expansive clay to rocky terrain, require site-specific geotechnical footing designs and proper drainage planning.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-local-site-conditions-in-the-verde-valley-affect-custom-steel-building-fo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local site conditions in the Verde Valley affect custom steel building foundations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building across Cottonwood, Clarkdale, Camp Verde, and Jerome requires designing for varied soil types and regional elevation changes. In the Verde Valley, properties frequently feature expansive clay soils or rocky terrain that require specialized geotechnical evaluation and engineered footings. Elevation differences also mean designing for distinct wind exposure categories and winter temperature swings, ensuring your slab thickness and building structural loads align with local Yavapai County and municipal building codes.",
+        "description": "Verde Valley soil variations, from expansive clay to rocky terrain, require site-specific geotechnical footing designs and proper drainage planning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

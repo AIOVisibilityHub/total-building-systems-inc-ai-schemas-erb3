@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I frame interior walls with wood or light-gauge steel studs?",
+  "description": "Light-gauge steel studs match the fire resistance and straightness of the steel shell, while wood framing is often easier to fasten heavy cabinetry to.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-frame-interior-walls-with-wood-or-light-gauge-steel-studs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I frame interior walls with wood or light-gauge steel studs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wood and light-gauge steel studs are the primary options for interior partitions, and the choice involves distinct structural and cost tradeoffs. Wood framing offers familiar construction methods, easy fastening for cabinetry or heavy shelving, and readily available materials. However, wood can bow and expands with ambient moisture. Light-gauge metal framing is non-combustible, perfectly straight, resistant to pests, and will not warp over time. While metal studs often require specialized fasteners and electrical grommets to protect cabling, they match the longevity and fire-resistant profile of the exterior steel structure.",
+        "description": "Light-gauge steel studs match the fire resistance and straightness of the steel shell, while wood framing is often easier to fasten heavy cabinetry to."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

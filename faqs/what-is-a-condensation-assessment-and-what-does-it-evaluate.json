@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a condensation assessment and what does it evaluate?",
+  "description": "A condensation assessment evaluates interior humidity, insulation, and airflow to identify why moisture collects on walls, ceilings, or structural surfaces.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-condensation-assessment-and-what-does-it-evaluate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a condensation assessment and what does it evaluate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A condensation assessment is an on-site building evaluation that pinpoints why and where unwanted moisture collects on interior surfaces, roof assemblies, or within wall cavities. An inspector examines surface temperatures, relative humidity levels, insulation continuity, and ventilation pathways. Unlike a general home inspection, this assessment focuses directly on building envelope physics to separate plumbing failures from warm, moist air contacting cold surfaces. For property owners, understanding this difference determines whether you need targeted insulation upgrades, mechanical ventilation improvements, or structural air sealing to protect structural framing and drywall.",
+        "description": "A condensation assessment evaluates interior humidity, insulation, and airflow to identify why moisture collects on walls, ceilings, or structural surfaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

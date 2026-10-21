@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a conditioned workshop conversion?",
+  "description": "It turns an unheated garage or outbuilding into a year-round workspace by adding continuous insulation, climate control, upgraded electrical, and durable interi",
+  "url": "https://totalbuildingsystems.net/faq/what-is-included-in-a-conditioned-workshop-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a conditioned workshop conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A conditioned workshop conversion transforms an unheated detached garage, shed, or outbuilding into a climate-controlled, year-round workspace. It typically involves sealing the building envelope, installing framing, running dedicated electrical circuits, adding wall and ceiling insulation, and installing a heating and cooling system like a ductless mini-split. Unlike a basic finished room, a converted workshop often requires specialized power for heavy tools, enhanced task lighting, dust collection management, and durable interior wall surfaces such as OSB, plywood, or impact-resistant drywall.",
+        "description": "It turns an unheated garage or outbuilding into a year-round workspace by adding continuous insulation, climate control, upgraded electrical, and durable interior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

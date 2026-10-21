@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a garage addition from start to finish?",
+  "description": "Physical construction usually takes 8 to 16 weeks, preceded by 4 to 8 weeks for planning, engineering, and city or county permit approvals.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-complete-a-garage-addition-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a garage addition from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard garage addition typically takes between 8 and 16 weeks to build once site work begins, excluding the initial design and permitting phase. Preliminary steps—such as drafting plans, engineering foundation details, and obtaining municipal building permits—often take an additional 4 to 8 weeks. Once construction starts, the schedule progresses through excavation, concrete slab pouring, framing, roofing, exterior siding, electrical rough-ins, and final inspections. Delays can happen if bad weather affects foundation curing or if custom building materials, like specialized garage doors or trusses, have long lead times.",
+        "description": "Physical construction usually takes 8 to 16 weeks, preceded by 4 to 8 weeks for planning, engineering, and city or county permit approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "At what stage of a project should preliminary budgeting begin?",
+  "description": "Begin preliminary budgeting during conceptual design, before finalizing architectural drawings, to avoid expensive redesigns if plans exceed your spending limit",
+  "url": "https://totalbuildingsystems.net/faq/at-what-stage-of-a-project-should-preliminary-budgeting-begin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "At what stage of a project should preliminary budgeting begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should involve a general contractor as early as possible, ideally before or alongside initial conceptual design. Engaging a builder during conceptual planning provides immediate feedback on material availability, constructability, and regional trade pricing. A practical tradeoff to consider: waiting until blueprints are fully completed often results in expensive redraw fees if the design exceeds your budget. Total Building Systems Inc. works alongside owners during concept development to test assumptions against real-world material and labor costs, ensuring the project remains affordable before you commit significant funds to engineering.",
+        "description": "Begin preliminary budgeting during conceptual design, before finalizing architectural drawings, to avoid expensive redesigns if plans exceed your spending limit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

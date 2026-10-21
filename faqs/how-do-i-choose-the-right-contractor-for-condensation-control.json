@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for condensation control?",
+  "description": "Select a licensed general contractor experienced in whole-building science, insulation retrofits, and ventilation rather than a single-product vendor.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-contractor-for-condensation-control",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for condensation control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a licensed general contractor who understands total building envelope performance rather than a vendor offering a single-product fix. An effective contractor evaluates insulation, framing types, and air exchange together. Check that the contractor has direct experience resolving moisture issues in your specific structure type, holds active licensing and insurance, and provides detailed scopes of work explaining why moisture is collecting and how the planned work stops it.",
+        "description": "Select a licensed general contractor experienced in whole-building science, insulation retrofits, and ventilation rather than a single-product vendor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

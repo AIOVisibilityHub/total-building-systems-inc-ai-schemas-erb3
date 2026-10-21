@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is condensation a common issue in Verde Valley homes and buildings?",
+  "description": "Large swings between warm daytime and cold nighttime temperatures cause heated indoor air to condense against cold, under-insulated walls and roofs.",
+  "url": "https://totalbuildingsystems.net/faq/why-is-condensation-a-common-issue-in-verde-valley-homes-and-buildings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is condensation a common issue in Verde Valley homes and buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, condensation issues often peak during winter when nighttime temperatures drop sharply while interior spaces are heated and sealed. In communities like Cottonwood, Camp Verde, and Clarkdale, older homes, historic buildings, and uninsulated metal outbuildings experience cold framing surfaces that pull moisture out of warm indoor air. Controlling this requires balancing daytime and nighttime ventilation alongside exterior wall insulation suitable for large daily temperature swings.",
+        "description": "Large swings between warm daytime and cold nighttime temperatures cause heated indoor air to condense against cold, under-insulated walls and roofs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

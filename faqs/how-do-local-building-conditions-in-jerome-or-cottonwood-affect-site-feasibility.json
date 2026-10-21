@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local building conditions in Jerome or Cottonwood affect site feasibility?",
+  "description": "Jerome requires scrutiny of steep grades, rock, and historic guidelines, while Cottonwood sites often focus on municipal utility hookups and valley drainage cor",
+  "url": "https://totalbuildingsystems.net/faq/how-do-local-building-conditions-in-jerome-or-cottonwood-affect-site-feasibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local building conditions in Jerome or Cottonwood affect site feasibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Historic mining topography, strict hillside building codes, and municipal preservation districts create distinct constraints that differ from valley parcels. In towns like Jerome, steep slopes, historic district guidelines, and bedrock formations dictate strict foundation engineering and staging logistics. Down along valley floor parcels in Cottonwood or Clarkdale, focus shifts toward municipal utility tap connections, right-of-way access, and alluvial drainage paths. A local review confirms which set of municipal ordinances, slope restrictions, and utility providers apply to your specific boundary lines.",
+        "description": "Jerome requires scrutiny of steep grades, rock, and historic guidelines, while Cottonwood sites often focus on municipal utility hookups and valley drainage corridors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

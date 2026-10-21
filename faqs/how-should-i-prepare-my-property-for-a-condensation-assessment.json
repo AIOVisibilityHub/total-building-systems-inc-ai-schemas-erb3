@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my property for a condensation assessment?",
+  "description": "Clear paths to attic hatches and crawlspaces, and note when moisture occurs along with your typical heating, cooling, and humidifier habits.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-property-for-a-condensation-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my property for a condensation assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before the inspector arrives, clear access to attic hatches, crawlspace openings, mechanical closets, and perimeter walls where dampness has appeared. Note the specific times, weather conditions, and seasonal patterns when moisture or fogging is most noticeable. If you use supplemental humidifiers, unvented gas heaters, or adjust thermostat setpoints at night, compile those operational habits for the team. Having these details ready allows the inspector to correlate your daily indoor routines with the physical readings collected throughout the building.",
+        "description": "Clear paths to attic hatches and crawlspaces, and note when moisture occurs along with your typical heating, cooling, and humidifier habits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right HVAC setup for a metal building home?",
+  "description": "Choose a zoned heat pump or ductless mini-split system sized for your ceiling height, paired with ceiling fans to prevent air stratification in large open space",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-hvac-setup-for-a-metal-building-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right HVAC setup for a metal building home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper HVAC design must account for the unique thermal dynamics and expansive volume of steel structures. High vaulted ceilings create large air volumes that can lead to temperature stratification, leaving floor levels cooler and upper spaces warmer. A practical tradeoff to resolve this involves choosing between zoned ducted heat pumps or ductless mini-split systems. Multi-zone systems allow independent temperature control across living spaces and open living rooms. Incorporating ceiling fans and properly placed return air vents ensures consistent circulation, balancing comfort and energy consumption across hot summer months and chilly winter nights.",
+        "description": "Choose a zoned heat pump or ductless mini-split system sized for your ceiling height, paired with ceiling fans to prevent air stratification in large open spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

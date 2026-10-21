@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of wall and ceiling soundproofing?",
+  "description": "Costs depend on room size, whether framing is exposed or retrofitted, framing modifications, acoustic clip systems, and electrical or trim adjustments.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-wall-and-ceiling-soundproofing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of wall and ceiling soundproofing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total cost depends on the construction method, square footage, framing conditions, and finish details. Surface retrofits—such as applying damping compound and a second drywall layer—cost less because they avoid demolition and structural alterations. Comprehensive assemblies that involve stripping framing, installing resilient sound clips, mineral wool batts, dual drywall layers, and acoustic caulking involve higher labor and material investments. Additional cost variables include moving electrical outlets, extending door jambs for thicker walls, modifying ceiling lighting, and repainting the room. Getting an on-site evaluation allows the contractor to inspect joist layout and identify flanking noise paths before pricing the work.",
+        "description": "Costs depend on room size, whether framing is exposed or retrofitted, framing modifications, acoustic clip systems, and electrical or trim adjustments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What structural requirements are needed for climate-controlled storage?",
+  "description": "Climate-controlled storage requires insulated panels, dedicated HVAC and dehumidification systems, interior hallways, and integrated fire sprinklers.",
+  "url": "https://totalbuildingsystems.net/faq/what-structural-requirements-are-needed-for-climate-controlled-storage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What structural requirements are needed for climate-controlled storage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Climate-controlled storage requires insulated building envelopes, specialized HVAC equipment, and continuous interior vapor management. Builders use insulated metal panels or blanket insulation with high R-values to keep interior temperatures stable and prevent condensation. Dedicated air handlers maintain consistent humidity levels to protect sensitive goods. These units are accessed via interior hallways rather than exterior drive-up doors, which requires emergency egress planning, illuminated exit signs, interior lighting, and automatic fire sprinkler integration based on building codes.",
+        "description": "Climate-controlled storage requires insulated panels, dedicated HVAC and dehumidification systems, interior hallways, and integrated fire sprinklers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

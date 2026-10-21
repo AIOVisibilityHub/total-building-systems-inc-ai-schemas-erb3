@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors most influence the cost of an office build-out?",
+  "description": "Costs vary based on space condition, layout changes, MEP upgrades, acoustic needs, and finish selections like flooring, lighting, and custom cabinetry.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-most-influence-the-cost-of-an-office-build-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors most influence the cost of an office build-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs depend heavily on the existing condition of the space, architectural details, and material choices. A second-generation space with existing electrical systems, ductwork, and plumbing rough-ins will require significantly less capital than a raw, unfinished shell. Key cost drivers include structural layout changes, dedicated climate control for server rooms, specialized acoustic insulation, and custom cabinetry or millwork. Final finishes, such as commercial carpet tiles versus polished concrete or luxury vinyl tile, also alter total expenditures. Setting clear priorities between essential infrastructure and decorative finishes early helps keep the project within your target budget.",
+        "description": "Costs vary based on space condition, layout changes, MEP upgrades, acoustic needs, and finish selections like flooring, lighting, and custom cabinetry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

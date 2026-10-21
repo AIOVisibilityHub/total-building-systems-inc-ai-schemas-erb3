@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right general contractor for my office build-out?",
+  "description": "Choose a properly licensed commercial contractor with verified regional experience, clear cost estimating, solid subcontractor networks, and familiarity with lo",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-general-contractor-for-my-office-build-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right general contractor for my office build-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Select a commercial general contractor who holds appropriate commercial licensing, carries adequate liability and workers' compensation coverage, and demonstrates experience with light commercial and office interiors. Review their track record with local permitting offices and subcontractors in the Verde Valley region. A reliable commercial contractor provides clear communication regarding lead times, transparent line-item estimates, and proactive project oversight, ensuring the work satisfies local commercial building codes without unexpected mid-project change orders.",
+        "description": "Choose a properly licensed commercial contractor with verified regional experience, clear cost estimating, solid subcontractor networks, and familiarity with local codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

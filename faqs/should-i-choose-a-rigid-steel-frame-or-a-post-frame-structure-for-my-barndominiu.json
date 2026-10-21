@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose a rigid steel frame or a post-frame structure for my barndominium?",
+  "description": "Rigid steel offers wider clear spans and maximum fire resistance, ideal for large garages. Post-frame uses heavy timber, which integrates easily with standard d",
+  "url": "https://totalbuildingsystems.net/faq/should-i-choose-a-rigid-steel-frame-or-a-post-frame-structure-for-my-barndominiu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose a rigid steel frame or a post-frame structure for my barndominium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steel framing provides superior clear-span space and resistance to rot, termites, and fire, while post-frame construction uses heavy timber posts that can be easier to trim with conventional residential materials. Rigid steel allows massive open spans without interior posts, making it ideal if you want large integrated shop or RV bays. Post-frame structures often require simpler foundation work but have spacing limits between posts. Your decision comes down to intended shop size, local wind loads, and aesthetic preference for interior wall attachments.",
+        "description": "Rigid steel offers wider clear spans and maximum fire resistance, ideal for large garages. Post-frame uses heavy timber, which integrates easily with standard drywall and finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

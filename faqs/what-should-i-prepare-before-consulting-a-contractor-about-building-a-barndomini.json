@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about building a barndominium?",
+  "description": "Prepare your property survey, soil reports, utility access details, and a clear list of must-haves, such as shop dimensions, ceiling heights, and overall living",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-consulting-a-contractor-about-building-a-barndomini",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about building a barndominium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before signing a contract or buying plans, you must document parcel boundary surveys, soil conditions, and utility availability. Determine where water, electrical power, and sewer or septic connections will enter the site, as long utility runs substantially increase costs. You should also decide whether you need a dedicated workshop bay, RV storage, or an attached garage, because ceiling heights and slab thickness must be engineered around those heavy vehicles before pouring concrete.",
+        "description": "Prepare your property survey, soil reports, utility access details, and a clear list of must-haves, such as shop dimensions, ceiling heights, and overall living square footage requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

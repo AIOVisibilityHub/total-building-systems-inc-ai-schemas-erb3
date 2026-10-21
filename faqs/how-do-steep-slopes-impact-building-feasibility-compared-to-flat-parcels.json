@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do steep slopes impact building feasibility compared to flat parcels?",
+  "description": "Steep slopes require specialized foundation designs, engineered drainage, and steeper driveway cuts, which significantly increase earthwork and site development",
+  "url": "https://totalbuildingsystems.net/faq/how-do-steep-slopes-impact-building-feasibility-compared-to-flat-parcels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do steep slopes impact building feasibility compared to flat parcels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steep hillside terrain presents distinct structural and access demands compared to flat valley land. Evaluating slopes requires looking closely at driveway grades, fire apparatus access requirements, retaining wall needs, and water runoff paths. Flat sites, by comparison, typically allow simpler slab foundations but may present flat-drainage or flood-plain ponding challenges. Choosing a hillside parcel usually means budgeting for stepped foundations, engineered drainage plans, and specialized excavation equipment, making early feasibility analysis critical to establishing an accurate foundation budget.",
+        "description": "Steep slopes require specialized foundation designs, engineered drainage, and steeper driveway cuts, which significantly increase earthwork and site development budgets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

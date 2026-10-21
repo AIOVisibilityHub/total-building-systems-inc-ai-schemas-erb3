@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I review in my lease before starting tenant improvements?",
+  "description": "Review the work letter, building rules, base utility capacities like electrical amperage and HVAC, and restrictions on work hours or preferred trade subcontract",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-review-in-my-lease-before-starting-tenant-improvements",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I review in my lease before starting tenant improvements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before signing a commercial lease or contracting improvements, review the landlord's work letter and building rules carefully. This document outlines structural limitations, approved working hours, delivery access, insurance minimums, and whether your contractor must use specific building subcontractors for fire alarms or roof penetrations. Additionally, assess the base building utilities, including available electrical service amperage, plumbing stub locations, and HVAC tonnage. Discovering after lease execution that your space requires an electrical service upgrade can add substantial unbudgeted expense to your buildout.",
+        "description": "Review the work letter, building rules, base utility capacities like electrical amperage and HVAC, and restrictions on work hours or preferred trade subcontractors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a general contractor instead of using a DIY barndominium kit?",
+  "description": "Hire a general contractor if you want code compliance, engineered foundations, and full coordination of utilities, framing, and interior finishes without managi",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-hire-a-general-contractor-instead-of-using-a-diy-barndominium-kit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a general contractor instead of using a DIY barndominium kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should hire a licensed general contractor if you want full project management, code compliance, and structural accountability from excavation through final certificate of occupancy. While DIY building kits are marketed directly to consumers, erecting a primary residence involves foundation engineering, crane operation, commercial-grade fasteners, and strict residential energy codes. A general contractor manages subcontractor schedules, handles municipal inspections, and ensures the concrete slab is poured level and square to fit manufactured metal components.",
+        "description": "Hire a general contractor if you want code compliance, engineered foundations, and full coordination of utilities, framing, and interior finishes without managing complex subcontracts yourself."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

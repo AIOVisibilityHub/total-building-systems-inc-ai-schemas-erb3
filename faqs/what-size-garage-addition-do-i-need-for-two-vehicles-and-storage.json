@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size garage addition do I need for two vehicles and storage?",
+  "description": "A two-car garage should be at least 24 by 24 feet, though 24 by 28 feet is recommended if you drive full-size trucks or need extra storage space.",
+  "url": "https://totalbuildingsystems.net/faq/what-size-garage-addition-do-i-need-for-two-vehicles-and-storage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size garage addition do I need for two vehicles and storage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard two-car garage is typically 20 by 20 feet (400 square feet) to 24 by 24 feet (576 square feet). A 20-foot depth fits compact or midsize cars, but leaves minimal room for walking around vehicles or storing tools. If you drive full-size pickup trucks or large SUVs, a depth of 24 to 28 feet is recommended to allow comfortable clearance when the overhead doors are closed. If you want perimeter shelving, workbenches, or garden equipment storage alongside two vehicles, planning for at least 24 by 28 feet avoids cramped quarters.",
+        "description": "A two-car garage should be at least 24 by 24 feet, though 24 by 28 feet is recommended if you drive full-size trucks or need extra storage space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

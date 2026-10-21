@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do insulation and moisture control need to be coordinated together?",
+  "description": "Insulation alters temperature boundaries in building assemblies. Coordinating it with moisture barriers prevents trapped humidity, condensation, and structural",
+  "url": "https://totalbuildingsystems.net/faq/why-do-insulation-and-moisture-control-need-to-be-coordinated-together",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do insulation and moisture control need to be coordinated together?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulation and moisture control must be coordinated because thermal barriers directly affect where water vapor condenses inside walls, attics, and subfloors. Installing high-performance insulation without proper vapor retarders, ventilation, or air sealing can trap humid air against cooler building framing, leading to mold growth and structural rot. Proper coordination ensures air barriers, vapor permeability ratings, and thermal layers work together to keep conditioned indoor spaces dry and protected across temperature shifts.",
+        "description": "Insulation alters temperature boundaries in building assemblies. Coordinating it with moisture barriers prevents trapped humidity, condensation, and structural rot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

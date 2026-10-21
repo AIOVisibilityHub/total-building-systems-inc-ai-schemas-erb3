@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing or upgrading interior partitions?",
+  "description": "The process includes site layout, structural assessment, framing studs, roughing in utilities, adding insulation, and hanging and finishing drywall.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-process-for-installing-or-upgrading-interior-partitions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing or upgrading interior partitions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process begins with an on-site assessment to verify layout dimensions, ceiling structure, and any utility rerouting requirements. Once framing plans are confirmed, the old wall covering is removed if remodeling, followed by layout chalking, framing the top and bottom plates, and installing vertical studs. Electricians or plumbers handle any rough-ins within the wall cavity before insulation and drywall are hung, taped, and finished. Dust containment and floor protection are set up before work begins to keep construction debris contained to the immediate work zone.",
+        "description": "The process includes site layout, structural assessment, framing studs, roughing in utilities, adding insulation, and hanging and finishing drywall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to assess sound control during a remodel or as a retrofit?",
+  "description": "Assessing during a remodel is far more economical, allowing structural acoustic upgrades before drywall, ceilings, and ductwork are sealed.",
+  "url": "https://totalbuildingsystems.net/faq/is-it-better-to-assess-sound-control-during-a-remodel-or-as-a-retrofit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to assess sound control during a remodel or as a retrofit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Addressing sound transmission during an interior remodel or tenant improvement is far more cost-effective and structurally thorough than attempting retrofits later. When walls are open, adding mineral wool insulation, resilient channels, mass-loaded barriers, or full-height drywall to the structural deck costs a fraction of post-construction remediation. A pre-build assessment allows you to integrate acoustic perimeter seals, staggered stud designs, and lined ductwork directly into the architectural plan. Retrofitting existing finished offices often requires drywall removal, ceiling modifications, or specialized acoustic jamb systems that increase labor expenses.",
+        "description": "Assessing during a remodel is far more economical, allowing structural acoustic upgrades before drywall, ceilings, and ductwork are sealed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

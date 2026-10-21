@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between soundproofing and acoustic treatment for walls and ceilings?",
+  "description": "Soundproofing blocks sound from traveling between rooms using dense materials and decoupling. Acoustic treatment absorbs reflections and echoes within a single",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-soundproofing-and-acoustic-treatment-for-walls-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between soundproofing and acoustic treatment for walls and ceilings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Soundproofing stops acoustic energy from entering or leaving a room, while acoustic treatment controls echo and reverberation inside the space. Sound-control improvements for walls and ceilings focus on sound transmission loss. This requires adding dense mass, decoupling framing, or dampening vibrations inside wall cavities. Acoustic treatment uses soft wall panels, fabric baffles, or foam to absorb reflections so conversations or media sound clearer within the room. A practical tradeoff is that hanging soft decorative panels will make a room less echoey, but it will not stop loud voices or television audio from passing into an adjacent bedroom. True sound isolation requires structural modifications to the partition itself.",
+        "description": "Soundproofing blocks sound from traveling between rooms using dense materials and decoupling. Acoustic treatment absorbs reflections and echoes within a single room."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

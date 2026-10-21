@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors drive the overall cost of building an equine building?",
+  "description": "Barn costs vary based on square footage, framing materials, foundation work, and whether you include features like wash racks, tack rooms, and plumbing.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-drive-the-overall-cost-of-building-an-equine-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors drive the overall cost of building an equine building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to build a horse barn depends primarily on square footage, materials, foundation type, and interior finish level. Basic shell packages cost significantly less than fully finished equestrian facilities with concrete center aisles, wash bays, tack rooms, and utility hookups. Additional cost drivers include site work, drainage grading, and electrical or plumbing trenching. Enclosed multi-stall barns require more engineering and materials than simple three-sided run-in sheds, making it vital to establish clear priorities for water, power, and stall capacity before finalizing designs.",
+        "description": "Barn costs vary based on square footage, framing materials, foundation work, and whether you include features like wash racks, tack rooms, and plumbing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

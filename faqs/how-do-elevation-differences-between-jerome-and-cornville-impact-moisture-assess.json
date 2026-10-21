@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do elevation differences between Jerome and Cornville impact moisture assessments?",
+  "description": "Jerome properties face freezing winds and wall thermal bridging, while lower-elevation Cornville homes deal with soil moisture and crawlspace humidity.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-elevation-differences-between-jerome-and-cornville-impact-moisture-assess",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do elevation differences between Jerome and Cornville impact moisture assessments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High-elevation properties in Jerome face steep mountain winds and sustained freezing winter temperatures that create severe thermal bridging across exterior framing. In lower valley floors like Cornville, moisture issues often stem from damp agricultural soils and river-adjacent humidity infiltrating crawlspaces beneath subfloors. An assessment must account for these distinct microclimates to recommend the right solution. Jerome structures generally require robust exterior wall insulation and vapor controls, whereas Cornville properties frequently require sealed ground vapor barriers and conditioned crawlspace venting.",
+        "description": "Jerome properties face freezing winds and wall thermal bridging, while lower-elevation Cornville homes deal with soil moisture and crawlspace humidity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

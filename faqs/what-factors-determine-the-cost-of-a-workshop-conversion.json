@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a workshop conversion?",
+  "description": "Costs depend on the building's shell condition, insulation choice, electrical trenching distance, subpanel capacity, and heating and cooling equipment.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-a-workshop-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a workshop conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall cost is shaped by the building's current structural condition, insulation type, electrical distance from the main panel, and climate control hardware. Key factors include whether you choose closed-cell spray foam or fiberglass batt insulation, the distance required to trench underground electrical conduits, and your interior finish choices. Uninsulated metal buildings, for instance, often need framing adjustments and thermal breaks before drywall or plywood goes up. High-amperage equipment requirements or added plumbing for a utility sink will also scale the project investment.",
+        "description": "Costs depend on the building's shell condition, insulation choice, electrical trenching distance, subpanel capacity, and heating and cooling equipment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

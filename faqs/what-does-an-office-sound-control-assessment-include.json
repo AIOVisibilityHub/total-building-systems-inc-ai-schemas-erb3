@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an office sound-control assessment include?",
+  "description": "An assessment inspects walls, ceiling plenums, doors, and ductwork to identify how noise travels and determine the right structural fixes.",
+  "url": "https://totalbuildingsystems.net/faq/what-does-an-office-sound-control-assessment-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an office sound-control assessment include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An office sound-control assessment evaluates how noise travels through walls, ceilings, floors, doors, and mechanical systems in a workspace. During the evaluation, a contractor inspects structural assemblies, duct pathways, perimeter seals, and room finishes to pinpoint flanking paths and weak points. Practical factors such as whether sound leaks through hollow-core doors, unbaffled return air grilles, or open ceiling plenums will dictate the remediation approach. The assessment provides a baseline scope of work so you can address speech privacy and background disruption systematically rather than guessing which materials to install.",
+        "description": "An assessment inspects walls, ceiling plenums, doors, and ductwork to identify how noise travels and determine the right structural fixes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

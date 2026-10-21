@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why hire a general contractor instead of purchasing a direct metal building kit?",
+  "description": "A general contractor oversees site prep, foundation engineering, trades, utility tie-ins, and code inspections that kit manufacturers do not handle.",
+  "url": "https://totalbuildingsystems.net/faq/why-hire-a-general-contractor-instead-of-purchasing-a-direct-metal-building-kit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why hire a general contractor instead of purchasing a direct metal building kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general contractor coordinates the complete construction scope, including site development, foundation engineering, metal building erection, and code compliance. While metal building manufacturers supply prefabricated components, a general contractor prepares the subgrade, pours engineered concrete slabs, installs security systems, and manages electrical and fire protection trades. They also oversee building inspections, coordinate utility hookups, and verify that stormwater retention meets local municipal standards, ensuring the building is safe and ready for occupancy.",
+        "description": "A general contractor oversees site prep, foundation engineering, trades, utility tie-ins, and code inspections that kit manufacturers do not handle."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

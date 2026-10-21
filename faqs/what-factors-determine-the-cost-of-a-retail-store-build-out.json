@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a retail store build-out?",
+  "description": "Costs depend on square footage, mechanical needs, display lighting, custom casework, and whether the unit is an unfinished shell or a previous retail storefront",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-a-retail-store-build-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a retail store build-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retail build-out expenses vary significantly based on space condition, utility requirements, and finish quality. Factors driving costs include electrical demands for accent and case lighting, custom cabinetry, structural floor loading, and commercial mechanical systems. A common tradeoff involves balancing durable, high-traffic commercial flooring against budget-friendly alternatives that may show wear quickly under daily customer traffic. Before finalizing a commercial lease, request a detailed work letter detailing landlord tenant improvement allowances versus tenant responsibilities. Having your general contractor evaluate the space before signing helps you identify hidden costs such as outdated wiring or inadequate HVAC capacity.",
+        "description": "Costs depend on square footage, mechanical needs, display lighting, custom casework, and whether the unit is an unfinished shell or a previous retail storefront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

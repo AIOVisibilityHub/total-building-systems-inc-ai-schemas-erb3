@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a metal-building interior finish-out include?",
+  "description": "A metal-building finish-out transforms a raw steel shell into a usable interior by adding framing, insulation, drywall, utilities, HVAC, and finished surfaces.",
+  "url": "https://totalbuildingsystems.net/faq/what-does-a-metal-building-interior-finish-out-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a metal-building interior finish-out include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal-building interior finish-out is the process of converting an empty steel building shell into a functional, climate-controlled space. This work typically includes installing interior framing, high-performance insulation, drywall, flooring, electrical wiring, plumbing, and mechanical systems. The exact scope depends on whether the building will serve as an office, barndominium, workshop, retail space, or warehouse. Because pre-engineered metal buildings rely on primary rigid steel frames and secondary purlins or girts, interior framing must either be free-standing or engineered specifically to tie into the structural steel without overloading load-bearing components.",
+        "description": "A metal-building finish-out transforms a raw steel shell into a usable interior by adding framing, insulation, drywall, utilities, HVAC, and finished surfaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

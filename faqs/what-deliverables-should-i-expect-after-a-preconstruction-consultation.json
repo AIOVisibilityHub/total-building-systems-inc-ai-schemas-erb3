@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What deliverables should I expect after a preconstruction consultation?",
+  "description": "You will receive a preliminary budget framework, constructability observations, utility considerations, and a recommended sequence for design and permitting.",
+  "url": "https://totalbuildingsystems.net/faq/what-deliverables-should-i-expect-after-a-preconstruction-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What deliverables should I expect after a preconstruction consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You receive a clear assessment of your project scope, including a preliminary budget range, constructability notes, and an outline of anticipated project milestones. We highlight potential site challenges, such as grading complexities or long material lead times, and outline value-engineering alternatives to keep costs manageable. Additionally, you receive guidance on what engineering documents or municipal applications are needed next. This clear assessment gives you the facts needed to decide whether to move into full construction contracting.",
+        "description": "You will receive a preliminary budget framework, constructability observations, utility considerations, and a recommended sequence for design and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

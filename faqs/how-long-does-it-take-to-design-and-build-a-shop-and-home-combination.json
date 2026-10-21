@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design and build a shop-and-home combination?",
+  "description": "Construction usually takes six to twelve months, including architectural design, county permitting, site preparation, structural framing, and interior build-out",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-design-and-build-a-shop-and-home-combination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design and build a shop-and-home combination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The entire process generally takes between six and twelve months from initial design to final occupancy. The timeline breaks down into distinct phases: initial architectural design and engineering take four to eight weeks, local municipal permitting often takes six to ten weeks, and actual construction spans four to eight months. Factors that can extend this timeline include custom steel delivery lead times, extensive site grading on sloped terrain, and delays in utility line extensions for remote properties. Preparing site surveys, water service connections, and electric service load requests early helps prevent unexpected scheduling bottlenecks during construction.",
+        "description": "Construction usually takes six to twelve months, including architectural design, county permitting, site preparation, structural framing, and interior build-outs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a self-storage facility?",
+  "description": "Construction typically takes 4 to 9 months once site work starts, though permitting and site preparation can add several months upfront.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-build-a-self-storage-facility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a self-storage facility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most single-story self-storage facilities take between four to nine months to construct once site work begins. The total timeline depends on civil grading, utility connections, building engineering, and municipal inspections. Pre-engineered steel mini-storage kits assemble relatively quickly once the concrete foundation cures, but preliminary phases like civil engineering, stormwater planning, and local permitting can add several months before breaking ground. Projects involving climate-controlled multi-story units or rough terrain require extra time for mechanical rough-ins and structural reinforcement.",
+        "description": "Construction typically takes 4 to 9 months once site work starts, though permitting and site preparation can add several months upfront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

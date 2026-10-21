@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build a shop-and-home combination on any residential lot in the Verde Valley?",
+  "description": "Zoning depends on local municipality rules and CC&Rs. Rural and low-density residential parcels often allow them, but commercial activities or metal exteriors m",
+  "url": "https://totalbuildingsystems.net/faq/can-i-build-a-shop-and-home-combination-on-any-residential-lot-in-the-verde-vall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build a shop-and-home combination on any residential lot in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but building a shop-home combination depends entirely on local zoning designations and land-use allowances. In Yavapai County jurisdictions like Cottonwood, Camp Verde, and Cornville, parcels zoned for rural or general residential typically accommodate combined buildings, provided residential minimums and setbacks are met. Commercial activity inside the shop may face restrictions regarding customer traffic, noise levels, and outdoor storage. Before hiring a contractor or drafting architectural plans, verify your property zoning with local planning departments and review any subdivision CC&Rs that might restrict building appearance, exterior metal siding, or accessory commercial uses.",
+        "description": "Zoning depends on local municipality rules and CC&Rs. Rural and low-density residential parcels often allow them, but commercial activities or metal exteriors may face local restrictions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

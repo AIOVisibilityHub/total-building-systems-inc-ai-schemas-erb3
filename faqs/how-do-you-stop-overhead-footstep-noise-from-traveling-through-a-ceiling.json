@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you stop overhead footstep noise from traveling through a ceiling?",
+  "description": "Overhead impact noise requires decoupling the ceiling drywall from floor joists using sound isolation clips, hat channels, and damping compounds.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-stop-overhead-footstep-noise-from-traveling-through-a-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you stop overhead footstep noise from traveling through a ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stopping footstep and impact noise from above requires decoupling the ceiling drywall from the floor joists. Simply adding insulation or another sheet of drywall often fails because vibration travels straight through the rigid framing members. The most effective approach involves attaching resilient isolation clips and metal hat channels to the bottom of the joists, followed by dense drywall with acoustic damping compound. Mineral wool placed loosely in the joist bays absorbs internal cavity resonances. A practical tradeoff to consider is ceiling height: a decoupled ceiling system typically lowers the finished ceiling plane by 1.5 to 2.5 inches, which must be accounted for around light fixtures, crown molding, and window headers.",
+        "description": "Overhead impact noise requires decoupling the ceiling drywall from floor joists using sound isolation clips, hat channels, and damping compounds."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

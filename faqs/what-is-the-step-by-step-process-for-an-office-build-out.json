@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the step-by-step process for an office build-out?",
+  "description": "The process spans site evaluation, space planning, permitting, rough-in construction, inspections, drywall, finish installations, and final punch-list handover.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-step-by-step-process-for-an-office-build-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the step-by-step process for an office build-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The project begins with an initial consultation and site evaluation to assess the existing building infrastructure. Next, architectural drawings and MEP (mechanical, electrical, plumbing) plans are developed and submitted to the local building department for permits. Once approvals are in hand, construction moves forward in phases: demolition, framing, rough-in of electrical, data, and mechanical systems, inspections, drywall, and finally surface finishes. A commercial general contractor coordinates subcontractors, arranges mandatory municipal inspections at each stage, and completes a thorough walkthrough punch list before turnover.",
+        "description": "The process spans site evaluation, space planning, permitting, rough-in construction, inspections, drywall, finish installations, and final punch-list handover."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

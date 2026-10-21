@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a condensation assessment cost?",
+  "description": "Assessment costs vary based on building size, design complexity, and required diagnostic tools, but evaluating upfront prevents misdiagnosing leaks and wasting",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-a-condensation-assessment-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a condensation assessment cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a condensation assessment depends on the square footage, building type, and diagnostic complexity. A straightforward single-story residential evaluation costs less than an extensive evaluation for a large commercial warehouse or vaulted metal building. The scope of equipment required—such as thermal imaging cameras, moisture meters, and air pressure diagnostics—also influences the total investment. Investing in an assessment upfront helps property owners avoid spending thousands on unnecessary roof replacements when the genuine problem is insufficient thermal bridging insulation or poor attic venting.",
+        "description": "Assessment costs vary based on building size, design complexity, and required diagnostic tools, but evaluating upfront prevents misdiagnosing leaks and wasting money."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right retrofit insulation system for my metal building?",
+  "description": "Select a system based on building usage, desired temperature control, roof purlin depth, and whether you need puncture-resistant facings for workshop operations",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-retrofit-insulation-system-for-my-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right retrofit insulation system for my metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right system depends on how you use the building, your heating and cooling plans, ceiling height, and your budget. If you plan to heat or cool a workshop continuously, invest in a banded liner or filled-cavity system that delivers R-19 to R-30 performance to manage operating utility costs. For basic equipment storage where avoiding roof sweat is the primary goal, a standard single-layer blanket retrofit with an intact vapor barrier may be sufficient. Consider your working environment as well: high-traffic shops benefit from heavy-duty, puncture-resistant vinyl facings that resist rips from tools, ladders, and machinery.",
+        "description": "Select a system based on building usage, desired temperature control, roof purlin depth, and whether you need puncture-resistant facings for workshop operations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

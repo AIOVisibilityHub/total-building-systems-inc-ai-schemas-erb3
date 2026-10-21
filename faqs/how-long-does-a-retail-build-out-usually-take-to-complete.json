@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a retail build-out usually take to complete?",
+  "description": "Construction typically spans six to sixteen weeks, though total project duration depends on design complexity, building permits, and lead times for custom fixtu",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-retail-build-out-usually-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a retail build-out usually take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most retail build-outs take between six and sixteen weeks once construction begins, but pre-construction planning often adds several weeks to months. The total timeline depends on the overall scope, architectural drafting, plan review, and materials procurement. To prevent opening delays, order specialized display fixtures, commercial lighting packages, and mechanical units as early as possible during the design phase. Second-generation retail spaces with working restrooms and intact ceilings usually open faster, while spaces requiring structural modifications, complete electrical service upgrades, or custom architectural millwork take longer to finish.",
+        "description": "Construction typically spans six to sixteen weeks, though total project duration depends on design complexity, building permits, and lead times for custom fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

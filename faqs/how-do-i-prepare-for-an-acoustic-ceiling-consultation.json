@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare for an acoustic ceiling consultation?",
+  "description": "Measure room height, list ceiling fixtures like vents and lights, identify if echo or sound transmission is the issue, and check for any existing moisture damag",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-prepare-for-an-acoustic-ceiling-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare for an acoustic ceiling consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contacting a contractor, inspect your room to identify key sound paths and note practical constraints. Measure your ceiling height to see how much clearance you can spare. Take note of all overhead mechanical fixtures, including recessed lights, vents, fire sprinklers, and structural beams. It is also critical to check for existing ceiling damage, water stains, or sagging joists, as underlying structural or moisture issues must be resolved before new acoustic materials are installed. Knowing whether your primary issue is internal room echo or sound transmission through floors will guide product selection.",
+        "description": "Measure room height, list ceiling fixtures like vents and lights, identify if echo or sound transmission is the issue, and check for any existing moisture damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

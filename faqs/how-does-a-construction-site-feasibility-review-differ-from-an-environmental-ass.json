@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a construction site-feasibility review differ from an environmental assessment?",
+  "description": "A construction feasibility review evaluates practical building constraints, utilities, and grading, while an environmental assessment focuses on protected habit",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-construction-site-feasibility-review-differ-from-an-environmental-ass",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a construction site-feasibility review differ from an environmental assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A site review focuses on buildability, utility connections, and grading, whereas an environmental review primarily assesses ecological impacts, protected species, or hazardous contamination. While a feasibility study notes obvious environmental factors such as wash crossings or steep slopes, its primary goal is determining construction logistics, driveway access, and utility trenching routes. In contrast, formal environmental impact studies or Phase I assessments are specialized reports often required for commercial sites or sensitive natural corridors. Choosing a construction feasibility study gives you practical pricing and site-layout insights that biological surveys do not cover.",
+        "description": "A construction feasibility review evaluates practical building constraints, utilities, and grading, while an environmental assessment focuses on protected habitat and contamination."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

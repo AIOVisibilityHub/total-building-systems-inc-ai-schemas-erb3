@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a metal-building insulation retrofit?",
+  "description": "A metal building insulation retrofit installs new, high-performance insulation systems into existing steel structures to stop heat transfer, control condensatio",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-metal-building-insulation-retrofit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a metal-building insulation retrofit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal building insulation retrofit involves adding or upgrading thermal insulation in an existing steel structure to improve energy efficiency, regulate interior temperatures, and prevent moisture issues. Existing metal shops, barns, or commercial warehouses often have degraded fiberglass, ripped vapor barriers, or no insulation at all. Upgrading the system seals air leaks and creates a continuous barrier under purlins and girts. Practical preparation includes identifying whether your primary concern is summer heat gain, winter heat loss, or roof condensation. A qualified general contractor evaluates your building's frame spacing, existing wall liners, and roof clearance to determine whether a banded liner system, rigid foam board, or spray foam application best suits the framing.",
+        "description": "A metal building insulation retrofit installs new, high-performance insulation systems into existing steel structures to stop heat transfer, control condensation, and lower utility costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

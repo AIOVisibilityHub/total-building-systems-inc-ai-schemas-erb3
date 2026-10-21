@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are commercial tenant improvements?",
+  "description": "Commercial tenant improvements are interior alterations made to a leased business space to customize the layout, utilities, and finishes for a specific tenant's",
+  "url": "https://totalbuildingsystems.net/faq/what-are-commercial-tenant-improvements",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are commercial tenant improvements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial tenant improvements (TI) are custom interior modifications made to a leased commercial property to fit a specific business's operational needs. These upgrades typically involve reconfiguring interior layouts, framing new walls, updating electrical distribution, modifying plumbing, installing flooring, and upgrading lighting. Unlike base building construction, tenant improvements focus strictly on adapting the interior space designated in your lease agreement. Before planning your buildout, clarify with your landlord whether the space is being handed over in a shell condition or as a second-generation space, as this heavily dictates your scope of work.",
+        "description": "Commercial tenant improvements are interior alterations made to a leased business space to customize the layout, utilities, and finishes for a specific tenant's needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

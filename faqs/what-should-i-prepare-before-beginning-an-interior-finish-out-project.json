@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before beginning an interior finish-out project?",
+  "description": "Gather your shell engineering plans, slab specifications, utility tie-in locations, and a finalized room layout to ensure accurate contractor bids and schedules",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-beginning-an-interior-finish-out-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before beginning an interior finish-out project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before hiring a general contractor for your finish-out, secure detailed floor plans, engineering specifications for your steel shell, and clear utility connection details. You should determine your target electrical service capacity, especially if you plan to run workshops or high-draw appliances alongside residential systems. Verify where water and sewer or septic lines enter the footprint, and establish whether your concrete slab has a built-in vapor barrier. Having these technical details and a defined fixture budget ready allows your contractor to provide an accurate scope of work and realistic build schedule.",
+        "description": "Gather your shell engineering plans, slab specifications, utility tie-in locations, and a finalized room layout to ensure accurate contractor bids and schedules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

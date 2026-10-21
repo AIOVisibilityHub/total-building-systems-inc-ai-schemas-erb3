@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete wall and ceiling sound-control upgrades?",
+  "description": "Most single-room projects take three to seven working days, depending on whether demolition is required and the drying time needed for drywall finishing.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-complete-wall-and-ceiling-sound-control-upgrades",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete wall and ceiling sound-control upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical single-room sound-control project takes between three and seven working days to complete. The timeline varies based on whether the project is a non-invasive drywall overlay or a full tear-out down to bare framing. When walls or ceilings are opened, contractors spend time placing mineral wool, mounting isolation clips, hanging drywall, and sealing perimeter gaps. Taping, mudding, and finishing the drywall joints requires several thin coats, each needing proper drying time before sanding, priming, and painting. Complex rooms with recessed ceiling lights, uneven framing, or duct relocations can add a few days to the schedule.",
+        "description": "Most single-room projects take three to seven working days, depending on whether demolition is required and the drying time needed for drywall finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

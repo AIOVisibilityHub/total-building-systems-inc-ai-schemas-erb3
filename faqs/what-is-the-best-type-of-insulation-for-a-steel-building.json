@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best type of insulation for a steel building?",
+  "description": "Fiberglass blankets with vapor barriers are common and cost-effective, while rigid board and spray foam offer superior air sealing and higher thermal resistance",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-best-type-of-insulation-for-a-steel-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best type of insulation for a steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fiberglass blanket insulation with a reinforced vapor retarder is the standard choice for pre-engineered steel buildings, though rigid board and spray foam are also common alternatives. A major practical tradeoff comes down to cost versus thermal performance. Traditional fiberglass rolls draped over purlins during frame erection are the most budget-friendly option. However, rigid foam or spray foam provides continuous thermal breaks and better air sealing at framing joints, which prevents condensation issues inside conditioned workshops or commercial storage structures.",
+        "description": "Fiberglass blankets with vapor barriers are common and cost-effective, while rigid board and spray foam offer superior air sealing and higher thermal resistance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

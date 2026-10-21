@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a retail interior build-out?",
+  "description": "A retail build-out adapts commercial space to your store, including walls, flooring, lighting, display fixtures, checkout counters, and necessary electrical or",
+  "url": "https://totalbuildingsystems.net/faq/what-is-included-in-a-retail-interior-build-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a retail interior build-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A retail interior build-out, often called a tenant improvement, transforms a raw commercial space or updates an existing retail unit to fit your business operations. This process typically includes framing partitions, running electrical and lighting for displays, installing flooring, adding custom millwork, setting up checkout counters, and modifying HVAC and plumbing systems. The right approach depends on whether the lease provides a completely unfinished shell or a second-generation storefront. An unfinished space offers full layout freedom but requires complete utility runs, whereas a second-generation store saves money on core mechanical systems but may require adjusting existing walls and fixtures to match your floor plan.",
+        "description": "A retail build-out adapts commercial space to your store, including walls, flooring, lighting, display fixtures, checkout counters, and necessary electrical or mechanical updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

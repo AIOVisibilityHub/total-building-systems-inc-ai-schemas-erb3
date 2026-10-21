@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to convert an existing outbuilding into a conditioned workshop?",
+  "description": "Most conversions take 3 to 8 weeks of construction, depending on electrical needs, structural modifications, and local permit approval timelines.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-convert-an-existing-outbuilding-into-a-conditioned-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to convert an existing outbuilding into a conditioned workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard workshop conversion generally takes between three to eight weeks of active construction. The overall timeline depends heavily on the initial state of the structure and the complexity of the utilities needed. If your outbuilding already has a solid concrete slab and framing, work progresses quickly through insulation, rough electrical, drywall, and mini-split installation. Projects requiring trenching for a new subpanel, concrete repairs, framing reinforcements, or exterior window cutouts will take longer. Permit review times through local building departments also factor into the total schedule before construction starts.",
+        "description": "Most conversions take 3 to 8 weeks of construction, depending on electrical needs, structural modifications, and local permit approval timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

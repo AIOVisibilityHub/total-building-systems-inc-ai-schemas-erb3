@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose wood or metal studs for interior partition upgrades?",
+  "description": "Metal studs offer straight lines, fire resistance, and rot resistance, while wood studs provide sturdier backing for heavy wall-mounted fixtures and shelving.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-choose-wood-or-metal-studs-for-interior-partition-upgrades",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose wood or metal studs for interior partition upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision between metal studs and wood studs usually comes down to straightness, fire resistance, and durability. Metal studs are lightweight, resistant to warping and rot, and provide excellent fire resistance, making them a common choice in commercial projects and modern residential basements. Wood studs offer greater load-holding capability for hanging heavy cabinetry or shelving directly onto the wall without specialized anchors. A key tradeoff is ease of installation versus hanging flexibility: metal studs install quickly with consistent uniformity, while wood studs simplify future millwork and hardware mounting.",
+        "description": "Metal studs offer straight lines, fire resistance, and rot resistance, while wood studs provide sturdier backing for heavy wall-mounted fixtures and shelving."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

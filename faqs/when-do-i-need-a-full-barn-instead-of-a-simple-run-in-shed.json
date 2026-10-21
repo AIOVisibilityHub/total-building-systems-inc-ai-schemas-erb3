@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need a full barn instead of a simple run-in shed?",
+  "description": "Choose a run-in shed for low-maintenance pasture shelter, but build a full barn if you need individual stall care, secure tack storage, wash racks, and utilitie",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-a-full-barn-instead-of-a-simple-run-in-shed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need a full barn instead of a simple run-in shed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Run-in sheds suit pastured horses needing basic shelter, whereas full barns are best for managed feeding, grooming, and intense weather protection. A run-in shed is cost-effective and provides open turnout, allowing horses to escape direct sun or wind on their own schedule. A full enclosed barn becomes necessary if you need individual stalls for injured horses, secure feed and tack storage, veterinary treatment areas, or freeze-resistant plumbing for automatic waterers. Many owners start with run-ins and add enclosed barns as their herd or riding needs grow.",
+        "description": "Choose a run-in shed for low-maintenance pasture shelter, but build a full barn if you need individual stall care, secure tack storage, wash racks, and utilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the insulation and moisture-control installation process take?",
+  "description": "Most residential installations take two to five days, depending on whether existing material removal and crawlspace preparation are required.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-the-insulation-and-moisture-control-installation-process-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the insulation and moisture-control installation process take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total installation typically takes two to five days for an existing residential building, depending on whether old material needs removal. The schedule begins with an assessment and framing moisture checks, followed by prep work such as air sealing gaps and installing exterior weather-resistive barriers. Installing the insulation and interior vapor management membranes occurs next, followed by final inspections before drywall or wall finishes enclose the cavity. Complicated rooflines or high crawlspaces extend this timeframe.",
+        "description": "Most residential installations take two to five days, depending on whether existing material removal and crawlspace preparation are required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

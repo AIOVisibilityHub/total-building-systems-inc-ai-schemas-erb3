@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size stall do I need for my horses?",
+  "description": "Most full-sized horses require a 12-by-12-foot stall, while larger breeds need 14 by 14 feet. Ceilings should be at least 10 to 12 feet high for safety.",
+  "url": "https://totalbuildingsystems.net/faq/what-size-stall-do-i-need-for-my-horses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size stall do I need for my horses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard horse stall should be at least 12 feet by 12 feet for typical riding breeds. Larger breeds, such as draft horses or warmbloods, often require 14-by-14-foot stalls, while smaller ponies may comfortably use 10-by-10-foot spaces. When planning your layout, your decision factors should include ceiling height and aisle width. Ceilings need to be at least 10 to 12 feet high to avoid head injuries, and center aisles should measure 12 to 14 feet wide to allow safe passage for equipment, horses, and handlers.",
+        "description": "Most full-sized horses require a 12-by-12-foot stall, while larger breeds need 14 by 14 feet. Ceilings should be at least 10 to 12 feet high for safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

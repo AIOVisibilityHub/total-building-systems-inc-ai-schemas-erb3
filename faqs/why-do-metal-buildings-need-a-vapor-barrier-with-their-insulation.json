@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do metal buildings need a vapor barrier with their insulation?",
+  "description": "A vapor barrier prevents condensation from forming on cold steel panels, protecting your framing against rust, mold, and long-term moisture damage.",
+  "url": "https://totalbuildingsystems.net/faq/why-do-metal-buildings-need-a-vapor-barrier-with-their-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do metal buildings need a vapor barrier with their insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A vapor barrier prevents warm, moist indoor air from reaching cold exterior steel panels where condensation quickly forms. Uncontrolled moisture behind panels causes rust on steel framing, rots interior fixtures, and degrades fiberglass insulation over time. Choosing a facing material with high puncture resistance—such as heavy-duty polypropylene or vinyl—is critical if your building functions as an active workshop or garage where equipment movement might tear or damage exposed wall surfaces.",
+        "description": "A vapor barrier prevents condensation from forming on cold steel panels, protecting your framing against rust, mold, and long-term moisture damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

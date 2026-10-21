@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to insulate a metal building?",
+  "description": "Installation usually takes two to five days depending on structure size, roof height, and whether work occurs during initial framing or as a retrofit.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-insulate-a-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to insulate a metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulating an average commercial or agricultural metal building typically takes between two and five days once the site is fully staged. The timeline depends heavily on building accessibility, roof pitch, and whether installation happens before or after sheeting is attached. Installing blanket insulation during framing goes relatively quickly as panels are laid down. Retrofitting an existing workshop requires additional lift equipment, clearing floor workspace, and detailing around structural braces, lights, and ducting, which extends labor duration.",
+        "description": "Installation usually takes two to five days depending on structure size, roof height, and whether work occurs during initial framing or as a retrofit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
