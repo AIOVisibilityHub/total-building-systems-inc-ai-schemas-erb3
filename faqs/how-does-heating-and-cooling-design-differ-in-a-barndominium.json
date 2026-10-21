@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does heating and cooling design differ in a barndominium?",
+  "description": "High ceilings and open spans require zoned systems, such as multi-zone heat pumps or mini-splits, to balance temperatures efficiently across distinct living are",
+  "url": "https://totalbuildingsystems.net/faq/how-does-heating-and-cooling-design-differ-in-a-barndominium",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does heating and cooling design differ in a barndominium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HVAC design for barndominiums differs because the large volume of open space and high metal ceilings create unique thermal zones. Standard residential units often fall short if system sizing does not account for clear-span heights and wide open great rooms. Multi-zone ductless mini-split systems or high-efficiency heat pumps with dedicated trunk lines are popular options. They allow you to heat or cool distinct living quarters without wasting energy on towering ceiling volumes when the full space is not in active use.",
+        "description": "High ceilings and open spans require zoned systems, such as multi-zone heat pumps or mini-splits, to balance temperatures efficiently across distinct living areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

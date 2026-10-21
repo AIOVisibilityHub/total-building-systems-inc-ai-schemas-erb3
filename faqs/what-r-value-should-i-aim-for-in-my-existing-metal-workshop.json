@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What R-value should I aim for in my existing metal workshop?",
+  "description": "Aim for R-13 to R-19 in walls and R-19 to R-30 in roofs. Higher elevations and shops with active heating and cooling demand the upper end of those ranges.",
+  "url": "https://totalbuildingsystems.net/faq/what-r-value-should-i-aim-for-in-my-existing-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What R-value should I aim for in my existing metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal target depends on your local climate zone and how you heat or cool the shop. Across Yavapai and Coconino counties, winter temperatures differ dramatically between lower desert valleys and higher mountain plateaus. For intermittent heating or swamp cooling in milder valley areas, R-13 in walls and R-19 in roofs provides baseline relief. However, if you run a continuous mini-split heat pump or air conditioner in cold-winter elevations like Prescott or Flagstaff, targeting R-19 to R-21 in walls and R-30 in the roof deck significantly reduces HVAC load and avoids chronic energy waste.",
+        "description": "Aim for R-13 to R-19 in walls and R-19 to R-30 in roofs. Higher elevations and shops with active heating and cooling demand the upper end of those ranges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my metal building before insulation installation begins?",
+  "description": "Clear a wide perimeter along walls and under roof bays for scissor lifts, fix any existing exterior panel leaks, and confirm your peak ceiling height before cre",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-metal-building-before-insulation-installation-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my metal building before insulation installation begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your contractor arrives, clear a continuous working perimeter of at least six to eight feet along all interior walls and directly beneath roof bays. Crew members must move ladders, rolling scaffolds, or scissor lifts freely across the concrete slab. You should also document and disclose any existing roof leaks, damaged metal sheets, or past pest intrusions so crews can repair structural defects before sealing the space. Gathering original building blueprints or measuring peak ceiling heights in advance helps ensure the installation team brings proper lift equipment and correct banding hardware for your specific frame style.",
+        "description": "Clear a wide perimeter along walls and under roof bays for scissor lifts, fix any existing exterior panel leaks, and confirm your peak ceiling height before crews arrive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can property owners assemble a metal building kit themselves, or should they hire a contractor?",
+  "description": "Self-assembly is possible for small structures, but hiring a licensed contractor prevents alignment errors, ensures proper tool usage, and protects warranties.",
+  "url": "https://totalbuildingsystems.net/faq/can-property-owners-assemble-a-metal-building-kit-themselves-or-should-they-hire",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can property owners assemble a metal building kit themselves, or should they hire a contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a professional general contractor ensures structural alignment, safety, and compliance with local building codes, whereas DIY assembly carries high physical and financial risks. While a DIY build avoids labor fees, it requires heavy equipment rentals, specialized rigging tools, and precise square-and-plumb alignment to prevent panel leaks and frame racking. A professional crew manages heavy equipment, coordinates inspections, and ensures anchor bolts align perfectly with the engineered baseplates, avoiding costly onsite modifications or manufacturer warranty issues.",
+        "description": "Self-assembly is possible for small structures, but hiring a licensed contractor prevents alignment errors, ensures proper tool usage, and protects warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

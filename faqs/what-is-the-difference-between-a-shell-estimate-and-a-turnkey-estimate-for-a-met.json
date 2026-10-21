@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a shell estimate and a turnkey estimate for a metal home?",
+  "description": "A shell estimate covers the weather-tight exterior structure and foundation, while a turnkey estimate includes all interior build-out, utilities, and finishes f",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-shell-estimate-and-a-turnkey-estimate-for-a-met",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a shell estimate and a turnkey estimate for a metal home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A shell estimate covers only the exterior structure, typically including the concrete slab foundation, steel framing, metal siding, roofing, exterior doors, and windows. It gives you a dried-in, weather-tight building, leaving the interior entirely open and unfinished. A turnkey estimate includes everything required to make the home move-in ready, encompassing interior framing, insulation, drywall, plumbing, electrical, HVAC, flooring, cabinetry, and final fixtures. If you choose a shell, you are responsible for handling or subcontracting all interior build-out phases yourself.",
+        "description": "A shell estimate covers the weather-tight exterior structure and foundation, while a turnkey estimate includes all interior build-out, utilities, and finishes for a move-in ready home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

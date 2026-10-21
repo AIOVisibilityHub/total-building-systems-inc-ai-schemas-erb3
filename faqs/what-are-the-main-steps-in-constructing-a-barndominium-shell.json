@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main steps in constructing a barndominium shell?",
+  "description": "The process involves design and permitting, site grading, pouring the concrete slab, erecting the structural frame, installing siding and roofing, and adding ex",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-main-steps-in-constructing-a-barndominium-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main steps in constructing a barndominium shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with architectural plans, site evaluation, and structural engineering to secure municipal permits. Once cleared, the contractor grades the building pad, installs under-slab utility sleeves, and pours the engineered concrete slab. Next, crews erect the primary framing, install structural trusses, and attach the exterior siding and metal roofing panels. Finally, exterior windows and entry doors are installed, followed by a final structural inspection to confirm the envelope is weather-tight.",
+        "description": "The process involves design and permitting, site grading, pouring the concrete slab, erecting the structural frame, installing siding and roofing, and adding exterior openings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

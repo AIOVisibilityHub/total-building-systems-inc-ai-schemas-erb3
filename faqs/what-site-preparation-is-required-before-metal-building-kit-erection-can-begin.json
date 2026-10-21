@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What site preparation is required before metal building kit erection can begin?",
+  "description": "Site prep requires a cured concrete foundation with accurate anchor bolt placement, plus a level staging area with clear vehicle access for heavy delivery truck",
+  "url": "https://totalbuildingsystems.net/faq/what-site-preparation-is-required-before-metal-building-kit-erection-can-begin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What site preparation is required before metal building kit erection can begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before kit delivery, the site must have an engineered, fully cured concrete slab or foundation with precisely placed anchor bolts matching the manufacturer shop drawings. Property owners need to verify clear access roads and an unloading staging area large enough for flatbed delivery trucks and forklifts or cranes. If anchor bolts are misplaced by even half an inch, steel columns will not seat properly, requiring engineered repair plans. Clear access also protects materials from damage caused by ground moisture or multiple handling moves.",
+        "description": "Site prep requires a cured concrete foundation with accurate anchor bolt placement, plus a level staging area with clear vehicle access for heavy delivery trucks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

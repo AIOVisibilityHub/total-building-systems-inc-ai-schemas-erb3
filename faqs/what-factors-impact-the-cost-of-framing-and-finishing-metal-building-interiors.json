@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors impact the cost of framing and finishing metal building interiors?",
+  "description": "Key cost factors include wall height, total linear footage of partitions, the gauge of studs required, lift equipment access, and the specified drywall finish l",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-impact-the-cost-of-framing-and-finishing-metal-building-interiors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors impact the cost of framing and finishing metal building interiors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost is driven by structural scale, wall height, utility density, and the required drywall finish level. Metal buildings often feature high eave heights of 14 to 20 feet; framing and hanging sheetrock on tall perimeter walls or building full-height demising partitions requires heavier gauge studs, cross-bracing, and lifts, which increases labor and material costs. Dividing a clear-span interior into multiple small offices with doors and acoustic insulation costs substantially more per square foot than building a single perimeter partition. Additional cost factors include whether code requires Type X fire-rated board, moisture-resistant drywall around wash bays or plumbing, or a smooth Level 5 paint finish.",
+        "description": "Key cost factors include wall height, total linear footage of partitions, the gauge of studs required, lift equipment access, and the specified drywall finish level."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

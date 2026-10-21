@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I gather before asking for metal home build estimates?",
+  "description": "Gather your parcel survey, utility access details, preferred floor plan, engineering requirements, and a clear scope of whether you want the builder handling fu",
+  "url": "https://totalbuildingsystems.net/faq/what-information-should-i-gather-before-asking-for-metal-home-build-estimates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I gather before asking for metal home build estimates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before requesting estimates, obtain a detailed boundary and topographic survey, verify local zoning rules, and confirm utility access on your parcel. You should also determine whether your building department requires stamped architectural and engineered foundation plans. Having a defined floor plan, an established target move-in date, and clarity on whether you want the builder to manage all permitting or just the exterior shell permits ensures contractors quote comparable scopes of work.",
+        "description": "Gather your parcel survey, utility access details, preferred floor plan, engineering requirements, and a clear scope of whether you want the builder handling full or partial permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

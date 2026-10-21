@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a metal-building condensation assessment?",
+  "description": "It is an on-site evaluation to identify why moisture forms on steel panels and framing, examining insulation, airflow, and thermal bridging to prevent corrosion",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-metal-building-condensation-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a metal-building condensation assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal-building condensation assessment is an on-site evaluation to determine why moisture is collecting on your steel panels, framing, or insulation. A general contractor inspects air leakage points, thermal bridging, insulation integrity, and interior relative humidity. Unchecked moisture often drips onto stored goods, corrodes fasteners, and degrades insulation. The assessment isolates the root cause so you can fix ventilation or thermal barriers instead of guessing with temporary dehumidifiers.",
+        "description": "It is an on-site evaluation to identify why moisture forms on steel panels and framing, examining insulation, airflow, and thermal bridging to prevent corrosion and water damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

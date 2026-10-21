@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should property owners select a qualified metal building kit erector?",
+  "description": "Select a licensed, insured contractor with demonstrated steel-erection experience, lifting equipment access, and strong references for kit installations.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-property-owners-select-a-qualified-metal-building-kit-erector",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should property owners select a qualified metal building kit erector?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Select a contractor with verified general contracting licensing, dedicated steel erection experience, commercial general liability coverage, and familiar local references. Look for crews trained in working from manufacturer shop drawings and capable of handling foundation integration directly or through vetted subcontractors. Verifying that the contractor owns or routinely coordinates lifting equipment prevents costly job-site rental delays. A qualified contractor will also help you review kit delivery packing lists to verify all materials arrived intact before installation begins.",
+        "description": "Select a licensed, insured contractor with demonstrated steel-erection experience, lifting equipment access, and strong references for kit installations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my property before a condensation inspection?",
+  "description": "Clear access to perimeter walls and roof bays, note when dripping usually happens, take photos of active sweating, and list any heat or moisture-generating equi",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-property-before-a-condensation-inspection",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my property before a condensation inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before the contractor arrives, list current building activities and note any recent equipment additions, such as radiant heaters or air compressors. Document the specific times of day, seasons, or weather conditions when moisture is most visible, and take photos of dripping roof areas. Clearing access along perimeter walls and under affected roof bays allows the inspector to examine structural steel, purlins, and insulation facing without delays.",
+        "description": "Clear access to perimeter walls and roof bays, note when dripping usually happens, take photos of active sweating, and list any heat or moisture-generating equipment inside."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

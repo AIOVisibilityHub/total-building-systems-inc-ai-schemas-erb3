@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a barndominium shell?",
+  "description": "Constructing the shell typically takes four to twelve weeks after site preparation, permitting, and foundation work are approved.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-construct-a-barndominium-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a barndominium shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a barndominium shell generally takes between four to twelve weeks once engineering permits are issued and site grading is complete. Timeline factors include concrete curing times, delivery schedules for steel or prefabricated framing components, and local building inspections at each structural milestone. Weather conditions and foundation readiness directly affect the schedule before framing and exterior sheeting can begin.",
+        "description": "Constructing the shell typically takes four to twelve weeks after site preparation, permitting, and foundation work are approved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local site conditions in the Verde Valley affect shell and turnkey estimates?",
+  "description": "Local estimates in the Verde Valley must account for regional wind loads, rocky soils or caliche excavation, engineered foundations, and robust thermal insulati",
+  "url": "https://totalbuildingsystems.net/faq/how-do-local-site-conditions-in-the-verde-valley-affect-shell-and-turnkey-estima",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local site conditions in the Verde Valley affect shell and turnkey estimates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, including Cottonwood, Camp Verde, and Clarkdale, local conditions influence both estimates through varying ground composition, wind load ratings, and seismic requirements. When comparing shell-versus-turnkey estimates in this region, verify whether earthwork, caliche rock excavation, and engineered frost-depth footings are included in the slab pricing. For turnkey bids, ensure the estimate accounts for specific regional climate factors, such as high-performance insulation packages required to handle extreme summer heat.",
+        "description": "Local estimates in the Verde Valley must account for regional wind loads, rocky soils or caliche excavation, engineered foundations, and robust thermal insulation packages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

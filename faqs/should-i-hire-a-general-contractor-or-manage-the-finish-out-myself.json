@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire a general contractor or manage the finish-out myself?",
+  "description": "Hiring a general contractor ensures licensed trade coordination, code compliance, and streamlined inspections, preventing costly construction errors and delays.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-hire-a-general-contractor-or-manage-the-finish-out-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire a general contractor or manage the finish-out myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a general contractor is strongly recommended because an interior finish-out requires coordinating multiple licensed trades, managing precise inspection sequences, and adhering to residential building codes. While acting as your own owner-builder might seem cost-effective, trade scheduling mistakes or failed rough-in inspections can lead to expensive teardowns and extended delays. A general contractor oversees framing, plumbing, electrical, and HVAC teams, ensuring that structural loads, wall anchors, and fire-separation assemblies comply with municipal and county standards.",
+        "description": "Hiring a general contractor ensures licensed trade coordination, code compliance, and streamlined inspections, preventing costly construction errors and delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

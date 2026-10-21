@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I keep my existing roll-up doors, or do I need insulated overhead doors?",
+  "description": "You can retrofit foam to existing doors, but factory-insulated sectional doors provide significantly better perimeter seals, thermal performance, and durability",
+  "url": "https://totalbuildingsystems.net/faq/can-i-keep-my-existing-roll-up-doors-or-do-i-need-insulated-overhead-doors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I keep my existing roll-up doors, or do I need insulated overhead doors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard overhead roll-up doors often account for the largest thermal losses in a conditioned metal shop. While retrofitting foam insulation panels onto an existing non-insulated metal roll-up door is possible, it adds weight to the door assembly, potentially straining torsion springs and openers. A factory-insulated sectional door provides superior perimeter weatherstripping, tighter seals against dust and drafts, and balanced mechanical operation. If your workshop requires full-time heating and cooling, replacing a drafty roll-up with an insulated sectional door delivers much lower utility bills and more consistent comfort.",
+        "description": "You can retrofit foam to existing doors, but factory-insulated sectional doors provide significantly better perimeter seals, thermal performance, and durability for climate control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

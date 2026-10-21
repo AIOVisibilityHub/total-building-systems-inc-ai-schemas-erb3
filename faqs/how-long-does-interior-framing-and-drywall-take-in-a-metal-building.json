@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does interior framing and drywall take in a metal building?",
+  "description": "Framing usually takes 3 to 6 days, followed by rough utilities, with drywall hanging, taping, and drying adding another 1 to 2 weeks depending on ceiling height",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-interior-framing-and-drywall-take-in-a-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does interior framing and drywall take in a metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for interior framing and drywall depends on the building footprint, ceiling height, and level of finish. For a standard 1,000 to 2,500 square foot shop or office buildout, framing interior walls typically takes three to six days. Rough electrical and plumbing inspections follow. Hanging the drywall takes two to four days, while taping, mudding, and sanding across three coats require another four to seven days due to necessary drying times between coats. High ceilings requiring scaffolding or fire-rated multi-layer drywall assemblies will add several days to the schedule. In total, expect two to three weeks from framing start to paint-ready drywall.",
+        "description": "Framing usually takes 3 to 6 days, followed by rough utilities, with drywall hanging, taping, and drying adding another 1 to 2 weeks depending on ceiling heights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need to add ventilation along with workshop insulation?",
+  "description": "Add mechanical ventilation if you air-seal the structure and perform welding, woodworking, painting, or run combustion equipment that produces indoor fumes and",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-to-add-ventilation-along-with-workshop-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need to add ventilation along with workshop insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should add dedicated mechanical ventilation if you use solvents, weld, run engines, or tightly seal the building envelope with spray foam. Uninsulated metal buildings naturally leak large volumes of air through panel laps and eaves. Once you seal those drafts with spray foam or taped foam board, hazardous fumes, moisture from propane heaters, and wood dust cannot escape on their own. Installing an exhaust fan, operable louvers, or an energy recovery ventilator ensures healthy indoor air quality while protecting your thermal efficiency.",
+        "description": "Add mechanical ventilation if you air-seal the structure and perform welding, woodworking, painting, or run combustion equipment that produces indoor fumes and moisture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

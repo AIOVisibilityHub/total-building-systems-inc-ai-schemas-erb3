@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need to involve a general contractor in preconstruction planning?",
+  "description": "Involve a general contractor during land acquisition or early design to evaluate utility access, verify zoning, and catch hidden site preparation costs early.",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-to-involve-a-general-contractor-in-preconstruction-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need to involve a general contractor in preconstruction planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preconstruction planning should begin as soon as you acquire land, or even during your property due-diligence period before purchase. Starting early allows you to evaluate site accessibility, verify zoning allowances for residential post-frame buildings, and determine utility hookup distances for electric, water, and septic. If you engage Total Building Systems Inc. during property evaluation, our team can help identify hidden site costs, such as extensive cut-and-fill grading or rock excavation, giving you clear feasibility data before you finalize design blueprints or purchase prefabricated building kits.",
+        "description": "Involve a general contractor during land acquisition or early design to evaluate utility access, verify zoning, and catch hidden site preparation costs early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

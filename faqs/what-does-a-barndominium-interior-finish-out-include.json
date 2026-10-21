@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a barndominium interior finish-out include?",
+  "description": "An interior finish-out transforms an empty building shell into a complete home, including framing, plumbing, electrical, HVAC, insulation, drywall, and finish c",
+  "url": "https://totalbuildingsystems.net/faq/what-does-a-barndominium-interior-finish-out-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a barndominium interior finish-out include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A barndominium interior finish-out is the process of turning an empty, weather-tight steel or post-frame shell into a fully livable residential home. This stage covers interior framing, rough-in plumbing, electrical wiring, HVAC ductwork, high-performance insulation, drywall, flooring, cabinetry, and final trim. The right scope depends on whether the slab already includes plumbing rough-ins. If underground utilities were not placed before the concrete slab was poured, trenching the foundation adds labor and costs, making pre-planning essential before any framing begins.",
+        "description": "An interior finish-out transforms an empty building shell into a complete home, including framing, plumbing, electrical, HVAC, insulation, drywall, and finish carpentry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

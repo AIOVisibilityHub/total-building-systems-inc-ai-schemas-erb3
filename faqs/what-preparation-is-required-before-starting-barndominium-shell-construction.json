@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is required before starting barndominium shell construction?",
+  "description": "You need an engineered site plan, soil evaluation, zoning clearance, and pre-planned utility entry points mapped out before pouring the foundation.",
+  "url": "https://totalbuildingsystems.net/faq/what-preparation-is-required-before-starting-barndominium-shell-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is required before starting barndominium shell construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before construction begins, you must determine building placement, complete a property boundary survey, conduct soil testing, and decide whether your structure requires steel-rigid frame or post-frame engineering. You will also need to map out where utilities like water, power, and septic will enter the foundation slab. Making these layout decisions early prevents costly concrete cutting or engineering revisions after the slab is poured.",
+        "description": "You need an engineered site plan, soil evaluation, zoning clearance, and pre-planned utility entry points mapped out before pouring the foundation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

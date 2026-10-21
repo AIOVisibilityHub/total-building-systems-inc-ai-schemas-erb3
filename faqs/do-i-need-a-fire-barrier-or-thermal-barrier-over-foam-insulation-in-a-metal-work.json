@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a fire barrier or thermal barrier over foam insulation in a metal workshop?",
+  "description": "Generally, yes. Building codes usually require foam plastics to be covered by an approved thermal barrier, such as drywall or an approved intumescent coating, f",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-fire-barrier-or-thermal-barrier-over-foam-insulation-in-a-metal-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a fire barrier or thermal barrier over foam insulation in a metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building codes, including the International Building Code and International Residential Code adopted across Arizona jurisdictions, require exposed foam plastic insulation to be separated from the building interior by an approved thermal barrier, typically half-inch drywall or an approved intumescent fire-resistive coating. If your workshop is an occupied workspace or houses combustion equipment, leaving bare foam plastic exposed can pose a fire safety hazard and fail inspection. In contrast, fiberglass batts with flame-retardant vinyl facing (such as WMP-VR) often meet flame-spread ratings without an added structural cover layer.",
+        "description": "Generally, yes. Building codes usually require foam plastics to be covered by an approved thermal barrier, such as drywall or an approved intumescent coating, for fire safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

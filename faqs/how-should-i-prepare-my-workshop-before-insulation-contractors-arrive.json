@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my workshop before insulation contractors arrive?",
+  "description": "Clear a 3- to 5-foot perimeter around walls, open clear paths for lifts, and cover or remove tools, vehicles, and workbenches to protect them from dust and over",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-workshop-before-insulation-contractors-arrive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my workshop before insulation contractors arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before installation crews arrive, clear a perimeter path of at least 3 to 5 feet along all exterior walls and provide unobstructed floor space beneath the roof deck. Workers need room for rolling scaffolds, ladders, or scissor lifts. Take photos or note where electrical wiring, breaker panels, junction boxes, and plumbing lines run so they remain visible or cleanly boxed out. If spray foam is selected, inventory sensitive equipment, vehicles, and tools that must be either completely removed from the building or taped off under heavy-duty poly sheeting to prevent overspray damage.",
+        "description": "Clear a 3- to 5-foot perimeter around walls, open clear paths for lifts, and cover or remove tools, vehicles, and workbenches to protect them from dust and overspray."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

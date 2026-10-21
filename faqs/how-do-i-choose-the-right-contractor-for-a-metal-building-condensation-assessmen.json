@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for a metal-building condensation assessment?",
+  "description": "Choose a licensed general contractor experienced in pre-engineered steel structures who evaluates thermal barriers and ventilation together rather than just pus",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-contractor-for-a-metal-building-condensation-assessmen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for a metal-building condensation assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Select a general contractor with extensive experience constructing and retrofitting pre-engineered steel buildings. Ask whether they evaluate the entire building envelope, including vapor retarder integrity and thermal breaks, rather than just selling ventilation hardware. Choosing a contractor who understands structural steel assemblies ensures they can implement the necessary repairs, whether that involves repairing insulation facings, adding roof vents, or re-sealing wall transitions.",
+        "description": "Choose a licensed general contractor experienced in pre-engineered steel structures who evaluates thermal barriers and ventilation together rather than just pushing fans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

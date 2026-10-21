@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you insulate an existing metal workshop without removing the exterior siding?",
+  "description": "Yes. Insulation can be applied entirely from the interior using spray foam, rigid board, or batts secured with framing clips and strapping without removing exte",
+  "url": "https://totalbuildingsystems.net/faq/can-you-insulate-an-existing-metal-workshop-without-removing-the-exterior-siding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you insulate an existing metal workshop without removing the exterior siding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can insulate without taking down wall panels by working from the building interior. Spray foam sticks directly to steel siding and roof decks, fitting around girts and purlins without panel removal. If you install rigid foam or fiberglass batts, installers attach horizontal or vertical furring strips, channel clips, or wire netting across the steel frame to hold the material in place. The main tradeoff with interior retrofitting is losing a few inches of usable perimeter wall space and having to plan around existing surface-mounted electrical conduit, workbenches, and structural bracing.",
+        "description": "Yes. Insulation can be applied entirely from the interior using spray foam, rigid board, or batts secured with framing clips and strapping without removing exterior panels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

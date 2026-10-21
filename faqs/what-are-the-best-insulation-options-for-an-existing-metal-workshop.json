@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the best insulation options for an existing metal workshop?",
+  "description": "Closed-cell spray foam, rigid foam board, and faced fiberglass batts are the top retrofit options. Closed-cell spray foam provides the most seamless seal agains",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-best-insulation-options-for-an-existing-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best insulation options for an existing metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common methods to retrofit an existing metal building are closed-cell spray foam, rigid foam board, and fiberglass batts with a dedicated vapor barrier. Closed-cell spray foam is widely considered the most effective retrofit option because it sprays directly onto the corrugated metal sheets, sealing air gaps and preventing condensation without requiring a framing tear-out. Rigid foam boards offer consistent thermal resistance and clean interior aesthetics but require custom cutting around framing members. Traditional fiberglass rolls are economical upfront, but they require mechanical fastening, strapping, and a properly sealed vapor retarder to prevent sagging and moisture entrapment against the bare steel.",
+        "description": "Closed-cell spray foam, rigid foam board, and faced fiberglass batts are the top retrofit options. Closed-cell spray foam provides the most seamless seal against bare steel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

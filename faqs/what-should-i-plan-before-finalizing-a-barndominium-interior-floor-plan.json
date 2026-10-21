@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I plan before finalizing a barndominium interior floor plan?",
+  "description": "Confirm slab utility tie-ins, ceiling clearances, load-bearing requirements, and HVAC zoning before setting partition walls and framing layouts.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-plan-before-finalizing-a-barndominium-interior-floor-plan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I plan before finalizing a barndominium interior floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before finalizing your interior layout, decide on utility access points, ceiling heights, and room zoning. Take time to measure overhead clearance for mezzanine floors or second-story lofts, check where main sewer and water supply lines enter the slab, and confirm electrical panel capacity. Document your heating and cooling requirements, especially if dividing large open spans into smaller private bedrooms. Having clear room dimensions, door swing allowances, and rough fixture locations finalized prevents costly structural changes once interior framing begins.",
+        "description": "Confirm slab utility tie-ins, ceiling clearances, load-bearing requirements, and HVAC zoning before setting partition walls and framing layouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

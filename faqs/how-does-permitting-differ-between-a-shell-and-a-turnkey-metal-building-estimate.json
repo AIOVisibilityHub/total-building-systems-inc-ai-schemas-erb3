@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does permitting differ between a shell and a turnkey metal building estimate?",
+  "description": "Turnkey estimates cover all permits through the final Certificate of Occupancy, while shell estimates generally cover only structural and foundation permits.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-permitting-differ-between-a-shell-and-a-turnkey-metal-building-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does permitting differ between a shell and a turnkey metal building estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permitting and code enforcement responsibilities change significantly between the two approaches. For a turnkey build, the general contractor pulls the master building permit, schedules all rough-in and final inspections, and ensures code compliance through the Certificate of Occupancy. With a shell build, the contractor usually pulls permits only for the foundation and structural envelope. You become responsible for securing subsequent MEP (mechanical, electrical, plumbing) permits and scheduling interior inspections with local building officials.",
+        "description": "Turnkey estimates cover all permits through the final Certificate of Occupancy, while shell estimates generally cover only structural and foundation permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

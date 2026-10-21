@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the preconstruction phase take for a barndominium?",
+  "description": "Preconstruction usually takes two to four months, depending on custom drafting requirements, site feasibility evaluations, and local municipal permit processing",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-the-preconstruction-phase-take-for-a-barndominium",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the preconstruction phase take for a barndominium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preconstruction planning for a custom barndominium typically takes between two and four months, though site conditions and permit review times can extend this window. Soil testing, topographical surveys, and custom structural drafting generally require four to six weeks. Once final construction drawings are completed, submitting them to the local building department introduces an additional review period that varies by jurisdiction. Engaging a general contractor early to coordinate engineering reviews simultaneously with site readiness tasks helps keep the overall preconstruction schedule on track without unnecessary delays between phases.",
+        "description": "Preconstruction usually takes two to four months, depending on custom drafting requirements, site feasibility evaluations, and local municipal permit processing times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

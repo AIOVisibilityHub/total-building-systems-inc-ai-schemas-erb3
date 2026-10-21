@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a barndominium shell and a turnkey build?",
+  "description": "A shell provides only the exterior weather-tight structure, whereas a turnkey build delivers a finished, move-in-ready home complete with interior living spaces",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-barndominium-shell-and-a-turnkey-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a barndominium shell and a turnkey build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A barndominium shell provides only the structural envelope, leaving the interior completely open, while a turnkey build delivers a fully finished, move-in-ready residence. Opting for a shell gives buyers flexible interior layouts and lower upfront expenses, but requires managing subcontractors for plumbing, electrical, insulation, and interior walls later. A turnkey contract costs more upfront but provides completed living spaces under a single management scope.",
+        "description": "A shell provides only the exterior weather-tight structure, whereas a turnkey build delivers a finished, move-in-ready home complete with interior living spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

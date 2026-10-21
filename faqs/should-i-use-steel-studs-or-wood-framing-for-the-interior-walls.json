@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use steel studs or wood framing for the interior walls?",
+  "description": "Steel studs will not warp, rot, or burn, making them ideal for durable interiors, while wood framing offers simpler installation for heavy shelving and custom m",
+  "url": "https://totalbuildingsystems.net/faq/should-i-use-steel-studs-or-wood-framing-for-the-interior-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use steel studs or wood framing for the interior walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing between light-gauge metal studs and traditional wood framing involves weighing material stability against installation flexibility. Steel studs will not rot, warp, twist, or feed termites, making them an excellent match for steel building shells and commercial interior buildouts. They stay straight over long spans and tall ceiling heights. However, wood studs offer a practical tradeoff: they are often more familiar to trim carpenters, make hanging heavy cabinetry or shelving simpler without specialized fasteners, and can be easier to modify on the fly. The final decision usually depends on the building's intended occupancy, local building codes, and whether moisture resistance or heavy wall hangings take priority.",
+        "description": "Steel studs will not warp, rot, or burn, making them ideal for durable interiors, while wood framing offers simpler installation for heavy shelving and custom millwork."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

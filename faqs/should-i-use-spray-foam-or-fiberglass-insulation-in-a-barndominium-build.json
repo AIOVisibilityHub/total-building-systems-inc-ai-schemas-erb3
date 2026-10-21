@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use spray foam or fiberglass insulation in a barndominium build?",
+  "description": "Closed-cell spray foam is recommended because it seals metal panels, stops condensation, and provides higher thermal performance than standard fiberglass batts.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-use-spray-foam-or-fiberglass-insulation-in-a-barndominium-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use spray foam or fiberglass insulation in a barndominium build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spray foam insulation is usually preferred over fiberglass batt insulation in steel-framed barndominiums. Closed-cell spray foam creates an airtight vapor and thermal barrier directly against the exterior metal panels, preventing condensation that leads to rust and mold inside wall cavities. While spray foam has a higher upfront cost, it delivers superior R-value per inch and lowers monthly utility expenses. Fiberglass batts are cheaper initially, but without a continuous exterior thermal break, metal framing can conduct outdoor temperatures directly into interior wall cavities.",
+        "description": "Closed-cell spray foam is recommended because it seals metal panels, stops condensation, and provides higher thermal performance than standard fiberglass batts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

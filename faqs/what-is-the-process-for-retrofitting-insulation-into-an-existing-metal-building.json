@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for retrofitting insulation into an existing metal building?",
+  "description": "Retrofitting involves clearing wall access, stripping damaged material, securing new insulation against the steel frame with strapping or clips, and tape-sealin",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-process-for-retrofitting-insulation-into-an-existing-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for retrofitting insulation into an existing metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retrofitting insulation in an existing metal building typically takes between two and five working days, depending on building size and interior access. The process begins with an assessment of the current framing and existing insulation, followed by clearing floor space along exterior walls. If existing fiberglass is moldy or water-logged, removal adds a day to the timeline. Technicians then install support bands or framing clips, place the new insulation boards or faced blankets, and seal every lap joint with vapor-retardant tape. Work may take longer if interior storage racks, lighting conduit, or overhead bridge cranes obstruct access to purlins and girts.",
+        "description": "Retrofitting involves clearing wall access, stripping damaged material, securing new insulation against the steel frame with strapping or clips, and tape-sealing all seams."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

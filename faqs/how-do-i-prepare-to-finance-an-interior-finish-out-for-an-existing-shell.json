@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare to finance an interior finish-out for an existing shell?",
+  "description": "Secure engineered plans, an itemized contractor budget, and builder credentials to apply for a standard residential construction loan.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-prepare-to-finance-an-interior-finish-out-for-an-existing-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare to finance an interior finish-out for an existing shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard home building loans and custom construction loans are commonly used to finance barndominium finish-outs. Lenders generally require a complete set of engineered plans, a detailed scope of work, and a licensed general contractor overseeing the project. Before applying, gather your architectural floor plans, verified site utility records, and an itemized construction budget. Some lenders treat metal residential structures differently than traditional stick-built homes, so working with a lender familiar with rural and custom residential construction helps prevent processing delays.",
+        "description": "Secure engineered plans, an itemized contractor budget, and builder credentials to apply for a standard residential construction loan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

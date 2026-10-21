@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What needs to be planned before starting interior framing in a steel building?",
+  "description": "Finalize your floor plan layout, mark utility rough-in runs, and verify that thermal insulation and vapor barriers are in place before framing and drywall begin",
+  "url": "https://totalbuildingsystems.net/faq/what-needs-to-be-planned-before-starting-interior-framing-in-a-steel-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What needs to be planned before starting interior framing in a steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before framing walls or hanging drywall, complete your interior layout plan, confirm your intended ceiling height, and verify insulation and rough utilities. Because steel shells allow wide-open spans, you must first decide where partitions, offices, restrooms, or storage areas will sit on the concrete slab. Ensure rough-in locations for electrical conduits, HVAC ducting, and plumbing lines are mapped out before framing starts. Additionally, verify that condensation control and exterior insulation are addressed, because fixing an uninsulated or poorly sealed metal wall becomes significantly harder and more expensive once drywall seals off the wall cavity.",
+        "description": "Finalize your floor plan layout, mark utility rough-in runs, and verify that thermal insulation and vapor barriers are in place before framing and drywall begin."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

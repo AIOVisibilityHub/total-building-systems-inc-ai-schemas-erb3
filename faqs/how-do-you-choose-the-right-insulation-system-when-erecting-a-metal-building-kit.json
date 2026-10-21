@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you choose the right insulation system when erecting a metal building kit?",
+  "description": "Choose fiberglass blankets during initial panel assembly for cost efficiency, or rigid/spray foam later if finishing conditioned interior spaces.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-choose-the-right-insulation-system-when-erecting-a-metal-building-kit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you choose the right insulation system when erecting a metal building kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Erectors choose between fiberglass blanket insulation and rigid foam board based on thermal efficiency goals, interior use, and budget. Blanket insulation with a vapor barrier is usually installed over the purlins and girts before exterior panels are fastened, making it the most cost-effective method during primary assembly. Rigid board or spray foam can be applied later, which helps if you decide to condition the space after the envelope is sealed. Skipping insulation during initial framing makes retrofitting condensation control far more labor-intensive.",
+        "description": "Choose fiberglass blankets during initial panel assembly for cost efficiency, or rigid/spray foam later if finishing conditioned interior spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

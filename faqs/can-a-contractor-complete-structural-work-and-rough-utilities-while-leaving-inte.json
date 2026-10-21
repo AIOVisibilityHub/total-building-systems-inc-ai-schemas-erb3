@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a contractor complete structural work and rough utilities while leaving interior finishes to me?",
+  "description": "Yes, you can request a semi-finished package where the contractor handles the structure and rough-in utilities, leaving final cosmetic finishes for you to compl",
+  "url": "https://totalbuildingsystems.net/faq/can-a-contractor-complete-structural-work-and-rough-utilities-while-leaving-inte",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a contractor complete structural work and rough utilities while leaving interior finishes to me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many builders offer a mid-range scope called a dried-in or semi-finished shell. Under this arrangement, the contractor constructs the slab, structural frame, and metal envelope, and also installs rough plumbing, electrical infrastructure, or interior partition framing. This allows the heavy technical work and rough utility inspections to be completed under a licensed contractor's supervision while leaving cosmetic finishes like painting, cabinetry, trim, and flooring to the property owner.",
+        "description": "Yes, you can request a semi-finished package where the contractor handles the structure and rough-in utilities, leaving final cosmetic finishes for you to complete."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

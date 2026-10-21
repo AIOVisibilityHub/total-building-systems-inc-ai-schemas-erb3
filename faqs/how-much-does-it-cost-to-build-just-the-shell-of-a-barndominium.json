@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build just the shell of a barndominium?",
+  "description": "Cost varies based on square footage, foundation requirements, and design complexity, but building the shell alone requires a fraction of the cost of a finished",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-it-cost-to-build-just-the-shell-of-a-barndominium",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build just the shell of a barndominium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a barndominium shell depends on total square footage, building height, foundation design, and site preparation needs. While a dried-in shell is substantially less expensive than a fully finished home, complex rooflines, custom door packages, and heavy engineering for wind or snow loads add to the base expense. Building just the shell allows owners to lock in structural costs upfront and manage the remaining interior finishing budget separately as finances allow.",
+        "description": "Cost varies based on square footage, foundation requirements, and design complexity, but building the shell alone requires a fraction of the cost of a finished home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

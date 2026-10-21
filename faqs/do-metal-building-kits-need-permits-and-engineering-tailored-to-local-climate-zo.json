@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do metal building kits need permits and engineering tailored to local climate zones?",
+  "description": "Yes, kits require building permits and must be engineered to meet specific regional wind and snow loads, which vary greatly between high country and valley area",
+  "url": "https://totalbuildingsystems.net/faq/do-metal-building-kits-need-permits-and-engineering-tailored-to-local-climate-zo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do metal building kits need permits and engineering tailored to local climate zones?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, metal building kits require standard municipal building permits and must be engineered to meet local wind load, seismic, and ground snow load ratings. In northern Arizona communities like Flagstaff, snow loads are significantly higher than in Cottonwood, Camp Verde, or Sedona, which changes the required steel gauge and frame spacing. Kits must come with stamped engineered drawings certified for the specific jurisdiction where the structure is built so the local building department can approve the plan before foundation work starts.",
+        "description": "Yes, kits require building permits and must be engineered to meet specific regional wind and snow loads, which vary greatly between high country and valley areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

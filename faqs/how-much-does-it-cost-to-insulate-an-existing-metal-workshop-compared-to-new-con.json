@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to insulate an existing metal workshop compared to new construction?",
+  "description": "Retrofitting costs more per square foot than new construction because crews must work around existing structural steel, wiring, and high ceilings rather than la",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-it-cost-to-insulate-an-existing-metal-workshop-compared-to-new-con",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to insulate an existing metal workshop compared to new construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retrofit insulation costs depend heavily on the workshop size, ceiling height, choice of material, and accessibility. Spray foam generally carries a higher upfront material and labor investment due to specialized mobile equipment and chemical requirements, but it combines insulation, air sealing, and vapor control into a single pass. Batts and rigid boards feature lower raw material costs, but labor increases substantially because crews must cut, fit, tape, and strap pieces around structural framing, cross-bracing, and electrical lines. Clearing access equipment like scissor lifts into tight bays also influences total project estimates.",
+        "description": "Retrofitting costs more per square foot than new construction because crews must work around existing structural steel, wiring, and high ceilings rather than laying batts before siding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose between a shell or turnkey package for my metal home?",
+  "description": "Choose a shell if you have the time, skills, and cash flow to finish the interior yourself. Choose turnkey if you want guaranteed completion timelines and singl",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-between-a-shell-or-turnkey-package-for-my-metal-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose between a shell or turnkey package for my metal home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right choice depends on your budget structure, construction experience, and available time. A shell build fits buyers who have hands-on trades experience, want to finish rooms progressively out of pocket, or wish to act as their own project manager. A turnkey build is better if you work full-time, require fixed-price financing from a mortgage lender, or want a single licensed general contractor to coordinate schedules, inspections, and material deliveries from start to finish.",
+        "description": "Choose a shell if you have the time, skills, and cash flow to finish the interior yourself. Choose turnkey if you want guaranteed completion timelines and single-contractor accountability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

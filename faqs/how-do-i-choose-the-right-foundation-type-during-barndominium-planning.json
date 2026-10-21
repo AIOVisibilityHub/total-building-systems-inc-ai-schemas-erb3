@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right foundation type during barndominium planning?",
+  "description": "Foundation selection depends on structural engineering loads, site slope, and soil conditions identified during early geotechnical testing.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-foundation-type-during-barndominium-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right foundation type during barndominium planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The right foundation depends on your building structure, local soil composition, and site slope. Most residential barndominiums use an engineered concrete slab with reinforced footings to support heavy steel posts or timber frame loads while serving as the finished subfloor. If your parcel in areas like Camp Verde or Cottonwood has expansive clay, uneven grades, or rocky terrain, an engineer may specify deepened stem walls, post piers, or specialized grading. Preconstruction soil testing determines load-bearing capacity before engineering drawings are finalized, ensuring structural stability without costly over-engineering.",
+        "description": "Foundation selection depends on structural engineering loads, site slope, and soil conditions identified during early geotechnical testing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

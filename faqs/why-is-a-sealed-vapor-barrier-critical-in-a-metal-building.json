@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is a sealed vapor barrier critical in a metal building?",
+  "description": "A sealed vapor retarder stops warm indoor humidity from touching cold steel panels, preventing condensation drips, hidden rust, and water damage to structural f",
+  "url": "https://totalbuildingsystems.net/faq/why-is-a-sealed-vapor-barrier-critical-in-a-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is a sealed vapor barrier critical in a metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A continuous vapor retarder stops warm, moist indoor air from reaching cold exterior steel sheets where it can liquefy. Steel does not absorb moisture, so trapped humidity turns into water drops that rust fasteners, drip onto equipment, and soak porous insulation. For proper vapor control, the retarder must feature a low perm rating and be taped continuously at every horizontal and vertical seam. Skipping this layer or leaving gaps around roof trusses allows warm air to bypass the thermal barrier, causing hidden corrosion on roof purlins and promoting mold growth behind wall liners.",
+        "description": "A sealed vapor retarder stops warm indoor humidity from touching cold steel panels, preventing condensation drips, hidden rust, and water damage to structural fasteners."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

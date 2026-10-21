@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you hang drywall directly on the walls of a metal building?",
+  "description": "Drywall is installed on independent interior framing or furring channels inside a metal building to prevent sheetrock cracking caused by structural shifting and",
+  "url": "https://totalbuildingsystems.net/faq/can-you-hang-drywall-directly-on-the-walls-of-a-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you hang drywall directly on the walls of a metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, drywall can be hung directly over interior framing built inside a metal building, but it is rarely attached straight to the primary steel structural columns or exterior purlins. Steel buildings shift and flex slightly under high winds and temperature fluctuations. Rigid drywall screwed straight to outer structural steel will crack along the joints. Instead, crews frame an independent light-gauge steel or wood stud wall just inside the perimeter girts or attach resilient channels. This separation isolates the drywall from exterior movement, creates an organized cavity for plumbing and electrical rough-ins, and provides a continuous, plumb backing for hanging and taping sheetrock smoothly.",
+        "description": "Drywall is installed on independent interior framing or furring channels inside a metal building to prevent sheetrock cracking caused by structural shifting and thermal movement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

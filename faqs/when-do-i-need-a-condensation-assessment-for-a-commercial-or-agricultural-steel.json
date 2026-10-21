@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need a condensation assessment for a commercial or agricultural steel building?",
+  "description": "Schedule an assessment when you notice sweating roof panels, fastener rust, sagging insulation, or before converting an unheated metal building into a heated wo",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-a-condensation-assessment-for-a-commercial-or-agricultural-steel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need a condensation assessment for a commercial or agricultural steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schedule an evaluation when you see recurring sweating on framing, musty odors, rust streaks along fasteners, or water stains on insulation facing. You should also evaluate your structure before changing its use, such as turning an unheated storage barn into a conditioned workshop or office. Adding heating equipment or moisture sources without adjusting your thermal barrier or ridge ventilation frequently triggers heavy condensation issues.",
+        "description": "Schedule an assessment when you notice sweating roof panels, fastener rust, sagging insulation, or before converting an unheated metal building into a heated workspace."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

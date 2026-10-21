@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a metal home shell significantly cheaper than a turnkey build?",
+  "description": "A shell has a much lower initial contract price, but interior finishing, utility connections, and trade labor will make up the remainder of your total overall i",
+  "url": "https://totalbuildingsystems.net/faq/is-a-metal-home-shell-significantly-cheaper-than-a-turnkey-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a metal home shell significantly cheaper than a turnkey build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a shell package carries a substantially lower initial contractor bid because it covers roughly 40 to 50 percent of the total construction scope. However, the overall project cost will increase as you purchase interior materials and hire trades for mechanical, electrical, and plumbing work. While a shell can save on general contractor management fees if you manage subcontractors yourself, owner-builders often face higher retail pricing for materials and potential budget overruns if they lack construction scheduling experience.",
+        "description": "A shell has a much lower initial contract price, but interior finishing, utility connections, and trade labor will make up the remainder of your total overall investment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

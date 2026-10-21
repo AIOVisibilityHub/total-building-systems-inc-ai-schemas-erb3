@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to plan around a prefabricated kit or a fully custom barndominium design?",
+  "description": "Kits offer standardized shells, but custom plans ensure your structure is engineered directly for your parcel’s topography, utility layout, and lifestyle prefer",
+  "url": "https://totalbuildingsystems.net/faq/is-it-better-to-plan-around-a-prefabricated-kit-or-a-fully-custom-barndominium-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to plan around a prefabricated kit or a fully custom barndominium design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kit designs offer standardized blueprints that can reduce upfront drafting time, but fully custom designs provide superior flexibility for challenging sites and specific lifestyle needs. Stock kit plans often fail to account for unique parcel slopes, local wind load ratings, or specific utility entry points, which can lead to expensive field modifications during assembly. Fully custom preconstruction planning integrates the shell engineering with your preferred interior living layout from day one, balancing steel frame requirements, window placements, and mechanical runs without compromising structural integrity or aesthetic goals.",
+        "description": "Kits offer standardized shells, but custom plans ensure your structure is engineered directly for your parcel’s topography, utility layout, and lifestyle preferences."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

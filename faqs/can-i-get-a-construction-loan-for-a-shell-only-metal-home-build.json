@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get a construction loan for a shell-only metal home build?",
+  "description": "Most residential construction lenders require a turnkey contract to ensure completion; financing a shell build alone generally requires private cash or speciali",
+  "url": "https://totalbuildingsystems.net/faq/can-i-get-a-construction-loan-for-a-shell-only-metal-home-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get a construction loan for a shell-only metal home build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conventional residential mortgages and construction loans typically require a turnkey contract with a licensed general contractor before issuing approval. Lenders require a certified Certificate of Occupancy upon completion to protect their investment, which an unfinished shell cannot satisfy. If you want to finance a shell build, you usually need a specialized land or personal loan, or substantial private cash reserves to fund the interior work until the dwelling qualifies for a permanent mortgage.",
+        "description": "Most residential construction lenders require a turnkey contract to ensure completion; financing a shell build alone generally requires private cash or specialized financing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

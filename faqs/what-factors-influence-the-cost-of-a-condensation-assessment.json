@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a condensation assessment?",
+  "description": "Cost depends on building square footage, eave height, structural access requirements, and the complexity of existing heating, ventilation, and insulation system",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-a-condensation-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a condensation assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Assessment pricing varies based on structure size, roof height, and accessibility of the structural frame. A standard visual inspection and moisture-source analysis for a small workshop carries a lower cost than evaluating an expansive commercial warehouse requiring aerial lift access to inspect high bays. The assessment prevents expensive missteps, ensuring you do not waste thousands on oversized exhaust fans when the real issue is a torn vapor barrier.",
+        "description": "Cost depends on building square footage, eave height, structural access requirements, and the complexity of existing heating, ventilation, and insulation systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do interior partition walls in a metal building need to be load-bearing?",
+  "description": "No, standard interior walls are non-load-bearing because the exterior steel carries the roof load, unless you are building a structural loft or heavy storage me",
+  "url": "https://totalbuildingsystems.net/faq/do-interior-partition-walls-in-a-metal-building-need-to-be-load-bearing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do interior partition walls in a metal building need to be load-bearing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You generally do not need interior load-bearing framing unless you plan to build a structural mezzanine or a load-bearing second-story floor. Clear-span steel buildings are engineered so the exterior rigid frames and foundational footings carry the entire weight of the roof and exterior walls. Consequently, standard interior partition walls are non-load-bearing and function strictly for spatial division, sound isolation, and mounting drywall and finishes. However, if you are adding an overhead storage loft or second-floor living quarters that is not supported by the building's primary steel, your interior framing must be specially engineered to carry that designated dead and live weight safely.",
+        "description": "No, standard interior walls are non-load-bearing because the exterior steel carries the roof load, unless you are building a structural loft or heavy storage mezzanine."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

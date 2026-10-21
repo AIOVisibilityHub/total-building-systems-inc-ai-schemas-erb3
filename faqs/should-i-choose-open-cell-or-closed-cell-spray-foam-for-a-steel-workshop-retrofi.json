@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose open-cell or closed-cell spray foam for a steel workshop retrofit?",
+  "description": "Closed-cell is usually best for metal buildings because it repels moisture, forms an impermeable vapor barrier directly against steel, and delivers higher R-val",
+  "url": "https://totalbuildingsystems.net/faq/should-i-choose-open-cell-or-closed-cell-spray-foam-for-a-steel-workshop-retrofi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose open-cell or closed-cell spray foam for a steel workshop retrofit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The choice comes down to climate severity, space limits, and your workshop activities. Open-cell foam expands rapidly, fills deep purlin cavities, and costs less per board foot, but it is air-permeable, absorbs moisture, and cannot act as a standalone vapor barrier on bare metal panels. Closed-cell foam cures into a dense, rigid barrier with a high R-value per inch (roughly R-6 to R-7). It adds structural racking strength to sheet metal, completely blocks air infiltration, and forms an impermeable moisture barrier, making it the superior choice for unconditioned metal buildings in high-heat desert and mountain regions.",
+        "description": "Closed-cell is usually best for metal buildings because it repels moisture, forms an impermeable vapor barrier directly against steel, and delivers higher R-value per inch."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

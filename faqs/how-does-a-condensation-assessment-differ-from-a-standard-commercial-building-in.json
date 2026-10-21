@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a condensation assessment differ from a standard commercial building inspection?",
+  "description": "A condensation assessment focuses specifically on dew points, insulation integrity, and airflow dynamics rather than a broad overview of general building codes",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-condensation-assessment-differ-from-a-standard-commercial-building-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a condensation assessment differ from a standard commercial building inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Condensation assessments focus strictly on thermal dynamics, dew-point calculation, insulation continuity, and ventilation rates. General building inspections, by contrast, briefly review overall code compliance, electrical, plumbing, and structural components without detailed moisture-origin analysis. If you only hire a general inspector, you risk receiving a note that moisture exists without the building-envelope remediation details required to resolve it permanently.",
+        "description": "A condensation assessment focuses specifically on dew points, insulation integrity, and airflow dynamics rather than a broad overview of general building codes and utilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

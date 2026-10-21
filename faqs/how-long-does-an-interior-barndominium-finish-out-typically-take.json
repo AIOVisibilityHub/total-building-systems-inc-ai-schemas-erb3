@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an interior barndominium finish-out typically take?",
+  "description": "Most interior finish-outs take four to eight months after the shell is enclosed, depending on home size, layout complexity, and inspection schedules.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-an-interior-barndominium-finish-out-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an interior barndominium finish-out typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior finish-outs typically require four to eight months, depending on the square footage, layout complexity, and material availability. The process begins after the exterior shell is fully dried in. Rough-in trades, such as plumbing, electrical, and mechanical, occur first and must pass rough inspections before insulation and drywall can proceed. Delays often happen when specialty finishes, custom cabinetry, or specific fixtures have long lead times. Final trim carpentry, painting, fixture installation, and final inspections complete the timeline before occupancy.",
+        "description": "Most interior finish-outs take four to eight months after the shell is enclosed, depending on home size, layout complexity, and inspection schedules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

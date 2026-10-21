@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does fiberglass blanket insulation compare to rigid foam board or spray systems for steel buildings?",
+  "description": "Fiberglass blanket insulation is cost-effective but vulnerable to tears, while rigid board and spray foam resist moisture better but carry higher installation c",
+  "url": "https://totalbuildingsystems.net/faq/how-does-fiberglass-blanket-insulation-compare-to-rigid-foam-board-or-spray-syst",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does fiberglass blanket insulation compare to rigid foam board or spray systems for steel buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fiberglass blanket systems provide high thermal resistance at an economical price point, but they depend entirely on an intact, sealed facing to prevent condensation. If the vinyl backing punctures, moisture collects directly in the fiberglass fibers, causing them to sag and lose efficiency. Rigid foam board delivers consistent R-value and resists moisture absorption, but installation can be labor-intensive around interior steel framing and purlins. Spray-applied foam creates an airtight thermal break without seams, though it carries a higher upfront cost and may require an approved thermal ignition barrier to meet commercial building codes. Choosing between them involves balancing upfront installation expense against long-term durability and structural accessibility.",
+        "description": "Fiberglass blanket insulation is cost-effective but vulnerable to tears, while rigid board and spray foam resist moisture better but carry higher installation costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

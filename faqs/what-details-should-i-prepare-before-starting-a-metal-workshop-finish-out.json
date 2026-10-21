@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What details should I prepare before starting a metal workshop finish-out?",
+  "description": "List your heavy equipment, identify 240V power requirements, note vertical clearance needs for lifts or hoists, and map your desired layout for tool benches and",
+  "url": "https://totalbuildingsystems.net/faq/what-details-should-i-prepare-before-starting-a-metal-workshop-finish-out",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What details should I prepare before starting a metal workshop finish-out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before requesting quotes or scheduling construction, map out your anticipated equipment layout, required power outlets, and lighting needs. Note any tools requiring 240-volt circuits, such as air compressors, welders, or table saws, so the electrical plan accounts for their amperage. Measure clearance heights for tall storage racks, overhead hoists, or vehicle lifts to ensure framed interior ceilings don't block them. Having a clear inventory of machinery and planned workspace zones helps your general contractor determine panel sizes, structural backing, and proper HVAC placement from the start.",
+        "description": "List your heavy equipment, identify 240V power requirements, note vertical clearance needs for lifts or hoists, and map your desired layout for tool benches and HVAC placement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

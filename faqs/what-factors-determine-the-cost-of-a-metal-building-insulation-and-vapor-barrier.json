@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a metal-building insulation and vapor-barrier upgrade?",
+  "description": "Costs depend on building dimensions, roof height, chosen insulation material, lift equipment requirements, and whether old insulation must be removed and dispos",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-a-metal-building-insulation-and-vapor-barrier",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a metal-building insulation and vapor-barrier upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total cost depends on square footage, wall and roof height, the chosen R-value, and the difficulty of reaching interior framing. Basic fiberglass over-the-purlin replacement or banded retrofits generally sit at the lower end of the pricing spectrum. Upgrades utilizing multi-layer systems, heavy-duty polypropylene vapor retarders, or rigid insulation boards run higher due to material and labor demands. Major cost variables include the need for scissor lifts or scaffolding to reach tall roof peaks, removing compromised insulation, and detailing around structural cross-bracing, overhead doors, and exhaust vents.",
+        "description": "Costs depend on building dimensions, roof height, chosen insulation material, lift equipment requirements, and whether old insulation must be removed and disposed of."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

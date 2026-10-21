@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is conditioning a metal workshop different from a standard wood-framed garage?",
+  "description": "Metal rapidly conducts outdoor temperatures and creates heavy condensation when warm indoor air hits cold steel, requiring continuous thermal breaks and strict",
+  "url": "https://totalbuildingsystems.net/faq/why-is-conditioning-a-metal-workshop-different-from-a-standard-wood-framed-garag",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is conditioning a metal workshop different from a standard wood-framed garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Metal buildings readily conduct exterior temperatures, making thermal bridging, condensation, and air infiltration major challenges compared to wood framing. Steel framing transmits heat quickly, so you must install thermal breaks or continuous insulation to keep exterior heat or cold from transferring into the conditioned interior. Additionally, warm, conditioned indoor air hitting cold exterior steel panels causes condensation, which can rust framing and ruin insulation. Installing an unbroken vapor barrier and sealing roof seams are critical steps that standard wood garage conversions rarely have to address with the same urgency.",
+        "description": "Metal rapidly conducts outdoor temperatures and creates heavy condensation when warm indoor air hits cold steel, requiring continuous thermal breaks and strict vapor barrier management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

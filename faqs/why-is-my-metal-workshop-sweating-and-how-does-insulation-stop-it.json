@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is my metal workshop sweating, and how does insulation stop it?",
+  "description": "Sweating occurs when warm interior air hits cold metal panels. Adding insulation with a continuous air or vapor barrier keeps humid air off the cold steel, elim",
+  "url": "https://totalbuildingsystems.net/faq/why-is-my-metal-workshop-sweating-and-how-does-insulation-stop-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is my metal workshop sweating, and how does insulation stop it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, including Cottonwood, Camp Verde, and Cornville, the massive diurnal swing between cool desert nights and intense daytime heat drives moisture out of the air onto cold metal. When warm, humid daytime air inside a workshop contacts cold roof panels at night, water droplets form and drip like interior rain. Adding closed-cell spray foam or rigid insulation with an unbroken vapor barrier prevents warm interior air from contacting the cold steel. Eliminating that cold contact surface stops condensation from rusting tools and damaging equipment.",
+        "description": "Sweating occurs when warm interior air hits cold metal panels. Adding insulation with a continuous air or vapor barrier keeps humid air off the cold steel, eliminating condensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

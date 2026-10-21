@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a barndominium shell construction?",
+  "description": "A barndominium shell includes the concrete foundation, structural framing, exterior siding, roof, and exterior doors or windows to create a weather-tight buildi",
+  "url": "https://totalbuildingsystems.net/faq/what-is-included-in-a-barndominium-shell-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a barndominium shell construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A barndominium shell includes the complete structural exterior of the building. This typically consists of the concrete foundation, steel or post-frame structural framing, exterior metal siding, roofing, rough openings, and exterior doors or windows. It does not include interior framing, drywall, plumbing, electrical wiring, or climate control. Choosing a shell build allows property owners to secure a weather-tight structure immediately, leaving the interior buildout to be completed in phases or by specialized trades later.",
+        "description": "A barndominium shell includes the concrete foundation, structural framing, exterior siding, roof, and exterior doors or windows to create a weather-tight building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a metal-building condensation assessment take?",
+  "description": "The on-site inspection takes one to three hours, with a written findings summary and corrective plan typically provided within several business days.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-metal-building-condensation-assessment-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a metal-building condensation assessment take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An assessment usually takes one to three hours on-site, depending on the building square footage and eave height. A comprehensive findings summary with corrective recommendations is typically delivered within a few business days. Total project turnaround depends on whether mechanical ventilation testing or seasonal monitoring is required to capture severe temperature differentials between indoor work areas and outdoor air.",
+        "description": "The on-site inspection takes one to three hours, with a written findings summary and corrective plan typically provided within several business days."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my metal building has a roof leak or a condensation problem?",
+  "description": "Condensation typically forms across wide areas on cold mornings or during heating cycles, whereas roof leaks appear in specific spots during or immediately afte",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-know-if-my-metal-building-has-a-roof-leak-or-a-condensation-problem",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my metal building has a roof leak or a condensation problem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water droplets forming on interior roof purlins or sheeting without active rain usually indicate condensation rather than a roof leak. If water drips during cold mornings or after indoor heating kicks on, warm moist air is contacting cold steel panels. Roof leaks typically produce localized drips during or immediately following rainfall. Preparing maintenance logs noting when moisture occurs helps inspectors pinpoint whether the issue is envelope failure or exterior penetration.",
+        "description": "Condensation typically forms across wide areas on cold mornings or during heating cycles, whereas roof leaks appear in specific spots during or immediately after rain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

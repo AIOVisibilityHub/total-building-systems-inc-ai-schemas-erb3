@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I legally move into a metal home shell while finishing the interior in Cottonwood or Jerome?",
+  "description": "No, local building departments require a Certificate of Occupancy—verifying approved utilities, sanitation, and safety systems—before anyone can legally reside",
+  "url": "https://totalbuildingsystems.net/faq/can-i-legally-move-into-a-metal-home-shell-while-finishing-the-interior-in-cotto",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I legally move into a metal home shell while finishing the interior in Cottonwood or Jerome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building jurisdictions in areas like Cottonwood, Clarkdale, and Jerome enforce strict safety standards, meaning an owner cannot legally live in a metal shell until it meets residential building codes. To obtain a Certificate of Occupancy, the structure must have approved electrical service, plumbed potable water, an operational septic or sewer connection, heating, and functional sanitation facilities. Attempting to inhabit an unfinished shell risks code citations, stop-work orders, or utility disconnections.",
+        "description": "No, local building departments require a Certificate of Occupancy—verifying approved utilities, sanitation, and safety systems—before anyone can legally reside in the home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

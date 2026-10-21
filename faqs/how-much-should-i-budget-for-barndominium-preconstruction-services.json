@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much should I budget for barndominium preconstruction services?",
+  "description": "Preconstruction planning generally accounts for 5% to 15% of the total project budget, covering design, engineering, site testing, and permit application fees.",
+  "url": "https://totalbuildingsystems.net/faq/how-much-should-i-budget-for-barndominium-preconstruction-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much should I budget for barndominium preconstruction services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Barndominium preconstruction costs typically represent 5% to 15% of your total project budget. These expenses cover professional services including boundary and topographic land surveys, geotechnical soil reports, structural engineering calculations, architectural drafting, energy compliance calculations, and municipal permit fees. Investing in thorough preconstruction prevents major budget overruns later by locking in material quantities, detailing MEP (mechanical, electrical, and plumbing) rough-ins, and identifying site excavation needs before equipment mobilizes. A transparent general contractor helps forecast these expenses line-by-line during early conceptual discussions.",
+        "description": "Preconstruction planning generally accounts for 5% to 15% of the total project budget, covering design, engineering, site testing, and permit application fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

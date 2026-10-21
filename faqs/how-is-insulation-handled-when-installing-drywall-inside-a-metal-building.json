@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is insulation handled when installing drywall inside a metal building?",
+  "description": "Cavity insulation such as fiberglass batt or mineral wool is installed between framing studs after utility rough-ins and before drywall to manage climate contro",
+  "url": "https://totalbuildingsystems.net/faq/how-is-insulation-handled-when-installing-drywall-inside-a-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is insulation handled when installing drywall inside a metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulating before drywalling is vital to prevent condensation and control indoor temperatures. Metal building skins transfer heat rapidly and can sweat when warm interior air hits cold outer panels. While fiberglass blanket insulation or insulated metal panels may cover the exterior shell, interior framed partition cavities should be filled with batt or mineral wool insulation before the sheetrock goes up. This provides both thermal efficiency and sound dampening between workspaces or living quarters. Always verify that a proper vapor barrier is in place to keep ambient indoor moisture from migrating toward the cold outer metal panel and causing hidden moisture accumulation.",
+        "description": "Cavity insulation such as fiberglass batt or mineral wool is installed between framing studs after utility rough-ins and before drywall to manage climate control, noise, and moisture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

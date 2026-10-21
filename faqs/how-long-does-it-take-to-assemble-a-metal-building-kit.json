@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to assemble a metal building kit?",
+  "description": "Primary structural assembly takes about one to three weeks, though foundation work, weather conditions, and interior finishes impact the total timeline.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-assemble-a-metal-building-kit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to assemble a metal building kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Assembling the primary frame and siding for a standard residential or light commercial kit typically takes between one to three weeks once the slab is cured. The overall project timeline extends when accounting for initial grading, foundation pours, curing periods, and municipal inspections. Inclement weather, such as high winds that make panel installation unsafe, can delay crane work. Complex layouts with interior partition framing, custom mezzanines, or heavy insulation packages also lengthen the erection schedule.",
+        "description": "Primary structural assembly takes about one to three weeks, though foundation work, weather conditions, and interior finishes impact the total timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

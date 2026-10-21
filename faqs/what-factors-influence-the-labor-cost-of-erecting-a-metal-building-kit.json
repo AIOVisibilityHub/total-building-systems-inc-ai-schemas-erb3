@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the labor cost of erecting a metal building kit?",
+  "description": "Labor costs depend on building footprint, wall height, roof pitch, equipment needs like cranes, the number of door openings, and overall site accessibility.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-labor-cost-of-erecting-a-metal-building-kit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the labor cost of erecting a metal building kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Labor costs for assembling a metal building kit generally vary based on building dimensions, roof pitch, wall height, and site accessibility. Beyond basic square footage, costs change if your project requires specialized equipment like telehandlers or cranes for clear-span trusses. Additional architectural features such as overhangs, framed openings for overhead doors, walk doors, and skylights add labor hours. Ground slope, remote site access, and utility connections can also alter the overall scope of site work and assembly estimates.",
+        "description": "Labor costs depend on building footprint, wall height, roof pitch, equipment needs like cranes, the number of door openings, and overall site accessibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

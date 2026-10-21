@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I change my interior floor plan after the shell is constructed?",
+  "description": "Yes, clear-span framing allows flexible wall placement, though underground plumbing lines embedded in the slab must be decided before concrete is poured.",
+  "url": "https://totalbuildingsystems.net/faq/can-i-change-my-interior-floor-plan-after-the-shell-is-constructed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I change my interior floor plan after the shell is constructed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can configure the interior layout after the shell is up, which is one of the primary advantages of clear-span structural framing. Because the exterior walls and roof trusses carry the building load, interior walls do not need to be load-bearing. However, plumbing rough-ins, drainage slopes, and electrical conduit conduits running beneath the concrete slab must be planned and placed before the foundation is poured.",
+        "description": "Yes, clear-span framing allows flexible wall placement, though underground plumbing lines embedded in the slab must be decided before concrete is poured."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

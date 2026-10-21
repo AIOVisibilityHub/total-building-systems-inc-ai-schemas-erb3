@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits to add HVAC, insulation, and power to an existing metal building?",
+  "description": "Yes, adding electrical subpanels, HVAC units, and interior framing requires local building permits and inspections to verify structural safety and electrical co",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-permits-to-add-hvac-insulation-and-power-to-an-existing-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits to add HVAC, insulation, and power to an existing metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, adding heating, cooling, structural partition framing, or electrical subpanels to an existing accessory metal structure requires building permits in most regional jurisdictions. Building safety offices enforce compliance with structural wind loads, electrical safety, and modern energy codes to ensure wiring is sized safely for machine loads and HVAC compressors. Working with a licensed general contractor ensures that building plans, mechanical connections, and rough-in inspections are handled correctly, preventing costly teardowns or issues with homeowner insurance coverage down the road.",
+        "description": "Yes, adding electrical subpanels, HVAC units, and interior framing requires local building permits and inspections to verify structural safety and electrical code compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

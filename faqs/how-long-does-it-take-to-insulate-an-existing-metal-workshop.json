@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to insulate an existing metal workshop?",
+  "description": "Most workshop retrofits take one to four days. Spray foam applies quickly in one to two days, while mechanical batts or rigid foam panels take several days to f",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-insulate-an-existing-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to insulate an existing metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical retrofit timeline ranges from one to four days of on-site work for an average-sized residential or light-commercial workshop. Spray foam application often completes in one to two days, followed by a mandatory 24-hour cure and off-gassing period before you can re-enter without protective respirators. Rigid foam or framed fiberglass systems avoid chemical off-gassing, but the labor-intensive measuring, friction-fitting, taping, and mechanical fastening can extend physical installation to three to five business days depending on ceiling height, purlin spacing, and roof pitch.",
+        "description": "Most workshop retrofits take one to four days. Spray foam applies quickly in one to two days, while mechanical batts or rigid foam panels take several days to fit and fasten."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does a turnkey metal home take less time to complete than finishing a shell?",
+  "description": "Yes, turnkey builds are usually faster overall because professional trades are scheduled back-to-back, whereas self-finished shells often face personal scheduli",
+  "url": "https://totalbuildingsystems.net/faq/does-a-turnkey-metal-home-take-less-time-to-complete-than-finishing-a-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does a turnkey metal home take less time to complete than finishing a shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A turnkey build usually finishes faster overall because a general contractor runs trades sequentially without long gaps between framing, rough-ins, and drywall. Erecting a metal building shell often takes only a few weeks once the engineered slab cures. However, when owners take over the interior after the shell stage, finishing the home frequently stretches out over a year or more due to personal schedule constraints, subcontractor availability, and phased cash flow.",
+        "description": "Yes, turnkey builds are usually faster overall because professional trades are scheduled back-to-back, whereas self-finished shells often face personal scheduling delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

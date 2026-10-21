@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in barndominium preconstruction planning?",
+  "description": "Barndominium preconstruction planning covers site evaluation, custom design, structural engineering, utility planning, budgeting, and permit coordination prior",
+  "url": "https://totalbuildingsystems.net/faq/what-is-included-in-barndominium-preconstruction-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in barndominium preconstruction planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Barndominium preconstruction planning includes site evaluation, architectural and structural design, civil engineering, zoning reviews, budget development, and permit acquisition. Total Building Systems Inc. coordinates these steps before breaking ground to resolve potential layout issues and confirm utility access. Planning covers site orientation, foundation engineering for post-frame or steel structures, plumbing and electrical layouts, and interior build-out plans. Taking care of these elements upfront prevents costly mid-build engineering revisions, establishes realistic timelines, and ensures the finished building complies with local building safety codes.",
+        "description": "Barndominium preconstruction planning covers site evaluation, custom design, structural engineering, utility planning, budgeting, and permit coordination prior to building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

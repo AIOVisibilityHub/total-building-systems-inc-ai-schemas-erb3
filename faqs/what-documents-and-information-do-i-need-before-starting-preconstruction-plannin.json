@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What documents and information do I need before starting preconstruction planning?",
+  "description": "Gather your parcel information, boundary survey, utility or well records, target budget, and a rough list of required living space and shop dimensions.",
+  "url": "https://totalbuildingsystems.net/faq/what-documents-and-information-do-i-need-before-starting-preconstruction-plannin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents and information do I need before starting preconstruction planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your first planning consultation, gather your land deed or parcel number, a recorded property boundary survey, any existing well or septic records, and your financing parameters. It also helps to outline your rough spatial requirements, such as required living square footage, garage or workshop bays, ceiling heights, and exterior covered porches. Knowing whether you intend to build using cold-formed steel, rigid steel framing, or post-frame construction allows your builder to guide structural considerations accurately and establish realistic budget allowances from the very first meeting.",
+        "description": "Gather your parcel information, boundary survey, utility or well records, target budget, and a rough list of required living space and shop dimensions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

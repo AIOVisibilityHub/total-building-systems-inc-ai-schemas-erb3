@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can insulation and vapor barriers be added without taking off exterior metal panels?",
+  "description": "Yes, retrofits are commonly installed from the interior using banded or pinned systems underneath framing, avoiding the expense of removing exterior steel sheet",
+  "url": "https://totalbuildingsystems.net/faq/can-insulation-and-vapor-barriers-be-added-without-taking-off-exterior-metal-pan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can insulation and vapor barriers be added without taking off exterior metal panels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, retrofitting insulation can be completed without removing exterior metal panels by installing the system from the building interior. Contractors utilize banded retrofit systems, pinning rigid foam, or hanging new blanket insulation directly beneath existing purlins and against wall girts. The primary tradeoff of an interior retrofit is losing a small amount of usable overhead clearance. You must also detail and seal carefully around internal bracing, lights, and door tracks. While an exterior reinstall allows insulation to sit directly over structural framing without interior obstructions, it requires taking off the roof panels, which is rarely cost-effective unless you are already replacing the roof.",
+        "description": "Yes, retrofits are commonly installed from the interior using banded or pinned systems underneath framing, avoiding the expense of removing exterior steel sheeting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

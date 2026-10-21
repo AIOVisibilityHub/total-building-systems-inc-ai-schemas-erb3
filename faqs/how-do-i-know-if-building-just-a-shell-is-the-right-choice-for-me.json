@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if building just a shell is the right choice for me?",
+  "description": "A shell is ideal if you want to phase interior spending, customize your floor plan over time, or act as your own project manager for interior work.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-know-if-building-just-a-shell-is-the-right-choice-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if building just a shell is the right choice for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a barndominium shell if you want to control your timeline, reduce upfront financing requirements, or manage your own interior finishes. This approach works well for property owners who have construction experience or who wish to pause between major phases to manage cash flow. If you require immediate occupancy or a single mortgage covering the finished home, a full turnkey build is usually the practical choice.",
+        "description": "A shell is ideal if you want to phase interior spending, customize your floor plan over time, or act as your own project manager for interior work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

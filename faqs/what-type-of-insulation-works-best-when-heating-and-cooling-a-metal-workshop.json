@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of insulation works best when heating and cooling a metal workshop?",
+  "description": "Closed-cell spray foam offers the best air sealing and moisture protection for metal walls, while rigid foam board and fiberglass batts provide budget-friendly",
+  "url": "https://totalbuildingsystems.net/faq/what-type-of-insulation-works-best-when-heating-and-cooling-a-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of insulation works best when heating and cooling a metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulation choices typically balance thermal performance against material costs and space constraints. Closed-cell spray foam provides the highest R-value per inch, adds structural rigidity, and serves as an effective vapor barrier against metal sweating, but it carries a higher upfront cost. Fiberglass batts paired with framing or continuous rigid foam boards are more budget-friendly alternatives, though they demand meticulous installation to prevent air gaps and moisture leaks against the exterior steel panels. Choosing between them depends on your budget, clear-span height, and how consistently you intend to heat or cool the space.",
+        "description": "Closed-cell spray foam offers the best air sealing and moisture protection for metal walls, while rigid foam board and fiberglass batts provide budget-friendly alternatives when properly vapor-sealed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

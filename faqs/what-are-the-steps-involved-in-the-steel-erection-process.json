@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the steps involved in the steel erection process?",
+  "description": "Crews set and brace the primary columns and rafters, install purlins and girts, and finish by securing the roof sheets and wall cladding.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-steps-involved-in-the-steel-erection-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the steps involved in the steel erection process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The erection process follows an engineered sequence: verifying anchor bolts, standing main rigid frames, installing bracing, adding secondary framing, and finally hanging roof and wall panels. Crews first erect the initial bay, plumbing the columns and securing them with cross-bracing and purlins so the structure cannot shift. Secondary girts and roof purlins follow to create structural rigidity. Panel installation comes last, starting with the roof to establish weatherproofing before squaring and fastening the wall panels with self-drilling screws.",
+        "description": "Crews set and brace the primary columns and rafters, install purlins and girts, and finish by securing the roof sheets and wall cladding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

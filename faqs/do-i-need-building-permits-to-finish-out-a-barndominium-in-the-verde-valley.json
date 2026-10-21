@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need building permits to finish out a barndominium in the Verde Valley?",
+  "description": "Yes, finish-outs require municipal or Yavapai County residential permits covering building, electrical, plumbing, and mechanical codes before occupancy.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-building-permits-to-finish-out-a-barndominium-in-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need building permits to finish out a barndominium in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, converting an empty metal shell into a habitable living space requires building permits, trade permits, and full plan review approval. In the Verde Valley—including jurisdictions such as Cottonwood, Clarkdale, Jerome, and Camp Verde—projects must comply with local building and energy conservation codes before residential occupancy is granted. Plans must detail fire separation, egress windows in bedrooms, energy efficiency standards, and engineered structural connections. Interior work cannot begin until permits are issued, and work must pass staged inspections.",
+        "description": "Yes, finish-outs require municipal or Yavapai County residential permits covering building, electrical, plumbing, and mechanical codes before occupancy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

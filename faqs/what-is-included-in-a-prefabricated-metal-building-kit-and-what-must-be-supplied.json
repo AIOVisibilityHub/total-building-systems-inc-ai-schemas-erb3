@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a prefabricated metal building kit, and what must be supplied separately?",
+  "description": "A kit includes structural framing, panels, fasteners, and plans. Foundations, site work, insulation, utilities, and erection equipment are usually sourced separ",
+  "url": "https://totalbuildingsystems.net/faq/what-is-included-in-a-prefabricated-metal-building-kit-and-what-must-be-supplied",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a prefabricated metal building kit, and what must be supplied separately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal building kit includes factory-engineered components such as primary steel frames, secondary purlins and girts, metal roof and wall panels, fasteners, and assembly drawings. Kit packages typically exclude site grading, concrete foundation work, interior build-outs, insulation, plumbing, electrical systems, and the lifting machinery required to erect the frame. When planning a build, owners should verify whether items like anchor bolts, trim, doors, and gutters are supplied in the manufacturer package or need to be sourced separately before assembly begins.",
+        "description": "A kit includes structural framing, panels, fasteners, and plans. Foundations, site work, insulation, utilities, and erection equipment are usually sourced separately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

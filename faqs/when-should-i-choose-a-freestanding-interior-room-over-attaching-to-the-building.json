@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I choose a freestanding interior room over attaching to the building shell?",
+  "description": "Use a freestanding interior buildout for living spaces or quiet offices that need independent ceiling systems and complete isolation from shell vibration and he",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-choose-a-freestanding-interior-room-over-attaching-to-the-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I choose a freestanding interior room over attaching to the building shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A freestanding interior buildout—often called a building-within-a-building—is best when turning a large metal shell into finished living quarters, climate-controlled offices, or medical spaces. This approach builds completely self-supported interior walls and a dedicated ceiling joist system independent of the outer steel framing. The primary advantage is complete acoustic, thermal, and structural isolation from the outer metal shell, eliminating issues from thermal expansion creaks and roof vibration. If your project is a light workshop or basic commercial garage where you only need finished perimeter walls for cleanliness, a simpler furred wall attached with slip clips is generally faster and more budget-friendly.",
+        "description": "Use a freestanding interior buildout for living spaces or quiet offices that need independent ceiling systems and complete isolation from shell vibration and heat transfer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
