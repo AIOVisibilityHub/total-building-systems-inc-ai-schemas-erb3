@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare for a ceiling sound assessment?",
+  "description": "Identify problem areas, observe when noise peaks, provide ladder access under ceiling tiles, and gather floor plans if available.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-for-a-ceiling-sound-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare for a ceiling sound assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before the contractor arrives, note specific sound transfer issues, such as whether the problem is overheard voices, footfall from above, or rumbling air handlers. Identify the rooms where privacy is most compromised and determine when the unwanted noise is loudest. Ensure your team provides clear floor access beneath ceiling access points and secures ladder clearances by moving lightweight furniture away from the walls. Having building architectural plans or mechanical drawings available can also speed up the review of above-ceiling partition construction.",
+        "description": "Identify problem areas, observe when noise peaks, provide ladder access under ceiling tiles, and gather floor plans if available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

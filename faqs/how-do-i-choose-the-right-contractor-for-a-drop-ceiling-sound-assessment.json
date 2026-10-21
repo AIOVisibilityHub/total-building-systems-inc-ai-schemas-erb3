@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for a drop-ceiling sound assessment?",
+  "description": "Choose a licensed general contractor with experience in commercial framing, HVAC plenum configurations, and complete acoustic envelope sealing.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-contractor-for-a-drop-ceiling-sound-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for a drop-ceiling sound assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Select a licensed general contractor who understands total building envelope assemblies, wall framing, and commercial HVAC layouts, rather than someone who only sells ceiling tiles. Sound control rarely involves just the tile; it requires evaluating structural deck attachments, duct penetrations, lighting layouts, and wall connections above the grid. Ask whether the contractor provides comprehensive physical remedies, including framing deck-to-deck partition extensions, installing plenum mass loaded barriers, and resealing perimeter grid connections to ensure speech privacy goals are met.",
+        "description": "Choose a licensed general contractor with experience in commercial framing, HVAC plenum configurations, and complete acoustic envelope sealing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

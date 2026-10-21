@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What site-specific challenges affect barndominium planning in the Verde Valley?",
+  "description": "Local planning must account for Verde River floodplain limits, expansive soils, private septic design, well depth feasibility, and county zoning rules.",
+  "url": "https://totalbuildingsystems.net/faq/what-site-specific-challenges-affect-barndominium-planning-in-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What site-specific challenges affect barndominium planning in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, including Cottonwood, Camp Verde, and Clarkdale, preconstruction planning must address specific regional factors such as floodplains near the Verde River, expansive soils, and local zoning ordinances that distinguish between agricultural accessory structures and primary residences. Yavapai County and local municipal building departments require engineered wind and seismic calculations tailored to regional benchmarks. Planning must also account for private well drilling depths, perc tests for conventional or alternative septic systems, and wildland-urban interface fire guidelines that influence building setbacks and exterior material specifications.",
+        "description": "Local planning must account for Verde River floodplain limits, expansive soils, private septic design, well depth feasibility, and county zoning rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

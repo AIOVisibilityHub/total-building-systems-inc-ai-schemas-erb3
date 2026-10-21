@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do standard drywall office partitions require professional sound-control upgrades?",
+  "description": "Upgrades are needed when private speech easily leaks between rooms, especially when existing partition walls terminate at the drop-ceiling grid rather than the",
+  "url": "https://totalbuildingsystems.net/faq/when-do-standard-drywall-office-partitions-require-professional-sound-control-up",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do standard drywall office partitions require professional sound-control upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a structural partition upgrade when confidential conversations remain clearly audible next door despite closed doors. This frequently happens in executive offices, legal review rooms, medical consultation spaces, and human resource suites. Before requesting proposals, examine whether your current walls stop at the suspended drop-ceiling grid or extend all the way to the building deck. If sound easily bypasses the wall over the ceiling tile, extending the drywall above the grid or installing plenum sound barriers will be required to establish necessary speech privacy.",
+        "description": "Upgrades are needed when private speech easily leaks between rooms, especially when existing partition walls terminate at the drop-ceiling grid rather than the deck."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can new ceiling tiles solve my noise issues without plenum work?",
+  "description": "New tiles help, but if walls do not extend to the roof deck, sound will still leak through open plenum spaces and fixtures.",
+  "url": "https://totalbuildingsystems.net/faq/can-new-ceiling-tiles-solve-my-noise-issues-without-plenum-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can new ceiling tiles solve my noise issues without plenum work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacing panels improves acoustics, but it cannot solve sound flanking if noise bypasses the ceiling entirely. High-performance tiles significantly reduce sound bouncing within a room and can block modest transmission through the grid plane. However, if your interior walls stop at the ceiling grid, sound will travel around the panels through light fixtures, open air returns, and gaps at the grid perimeter. In those cases, treating the plenum with vertical sound baffles, insulated drywall drops, or duct silencers is necessary alongside tile replacement.",
+        "description": "New tiles help, but if walls do not extend to the roof deck, sound will still leak through open plenum spaces and fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

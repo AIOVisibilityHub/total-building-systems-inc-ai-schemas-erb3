@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are acoustic ceiling upgrades handled in older or historic commercial buildings in the area?",
+  "description": "Older commercial buildings require specialized suspension anchors, low-profile grid solutions, or surface-applied acoustic panels to preserve historic structure",
+  "url": "https://totalbuildingsystems.net/faq/how-are-acoustic-ceiling-upgrades-handled-in-older-or-historic-commercial-buildi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are acoustic ceiling upgrades handled in older or historic commercial buildings in the area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Historic and older commercial structures in communities like Jerome, Clarkdale, and old-town Cottonwood often feature uneven framing, non-standard structural spans, and vintage lath-and-plaster or pressed-tin ceilings overhead. Upgrading acoustics in these spaces usually requires custom suspension anchoring, low-clearance grid hardware, or surface-mounted acoustic treatments that do not compromise the historic fabric. Contractors must also work around retrofitted electrical conduits and exposed piping that accumulated over decades, requiring careful layout adjustments to maintain consistent panel alignment and safe load distribution.",
+        "description": "Older commercial buildings require specialized suspension anchors, low-profile grid solutions, or surface-applied acoustic panels to preserve historic structures and work around exposed mechanicals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

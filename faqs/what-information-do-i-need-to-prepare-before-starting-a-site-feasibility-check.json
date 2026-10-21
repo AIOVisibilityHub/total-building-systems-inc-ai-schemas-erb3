@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to prepare before starting a site-feasibility check?",
+  "description": "Provide your parcel number (APN), boundary surveys, title reports showing easements, utility records, and your target building dimensions and layout plans.",
+  "url": "https://totalbuildingsystems.net/faq/what-information-do-i-need-to-prepare-before-starting-a-site-feasibility-check",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to prepare before starting a site-feasibility check?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting a site assessment, gather your recorded deed or parcel number (APN), any existing boundary surveys, title reports showing recorded easements, and documentation on existing utilities. If the property lacks municipal sewer, collect historical septic records or previous soil percolation tests if available. Having clear goals regarding the size of the metal home, attached shops, detached garages, or future outbuildings also helps the team accurately map out required setbacks, driveway turnarounds, and grading footprints during the initial site evaluation.",
+        "description": "Provide your parcel number (APN), boundary surveys, title reports showing easements, utility records, and your target building dimensions and layout plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

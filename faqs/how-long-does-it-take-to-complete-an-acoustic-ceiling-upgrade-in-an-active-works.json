@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete an acoustic ceiling upgrade in an active workspace?",
+  "description": "Tile replacements often take one to three days, while full grid rebuilds or phased off-hours work across larger facilities generally take one to two weeks.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-complete-an-acoustic-ceiling-upgrade-in-an-active-works",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete an acoustic ceiling upgrade in an active workspace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most commercial acoustic ceiling retrofits take between a few days and two weeks, depending on square footage and room layout. A simple drop-tile swap in a single office suite can wrap up in one or two days. However, full grid reconstruction, integration with complex lighting, or moving fire suppression heads will extend the timeline. Phased scheduling—working zone by zone or during evenings and weekends—allows your staff or tenants to keep operating normally, though it can slightly extend the overall project calendar compared to a continuous shutdown.",
+        "description": "Tile replacements often take one to three days, while full grid rebuilds or phased off-hours work across larger facilities generally take one to two weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

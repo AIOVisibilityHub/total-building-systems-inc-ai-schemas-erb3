@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during a suspended-ceiling sound-control assessment?",
+  "description": "A contractor inspects your ceiling panels, grid, and plenum space to locate noise transfer paths and outlines targeted physical upgrades.",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-during-a-suspended-ceiling-sound-control-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during a suspended-ceiling sound-control assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During an assessment, a general contractor conducts a visual inspection and acoustic audit of your ceiling assembly and the plenum space above. The contractor removes select tiles to examine ductwork penetrations, fire dampers, insulation batts, and whether partition walls terminate at the grid or the true deck. They inspect the existing tile specifications, perimeter wall tracks, and light troffers for sound leaks. Afterward, you receive clear recommendations detailing whether you need higher-rated acoustic tiles, plenum sound barriers, backer pads for light fixtures, or sealed drywall extensions above the grid.",
+        "description": "A contractor inspects your ceiling panels, grid, and plenum space to locate noise transfer paths and outlines targeted physical upgrades."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

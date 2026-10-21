@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do sound upgrades differ in historic commercial buildings in the Verde Valley?",
+  "description": "Historic properties often require decoupled, freestanding wall assemblies to avoid damaging original plaster, timber, or masonry while still blocking sound tran",
+  "url": "https://totalbuildingsystems.net/faq/how-do-sound-upgrades-differ-in-historic-commercial-buildings-in-the-verde-valle",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do sound upgrades differ in historic commercial buildings in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Offices housed in converted historic buildings across towns like Jerome or Clarkdale often feature uneven plaster, high timber ceilings, exposed brick, or uninsulated floor cavities. Standard modern sound assemblies cannot always be installed without accommodating historical preservation guidelines or structurally irregular framing. In these commercial spaces, contractors often construct independent, freestanding secondary partition walls or customized ceiling baffles to isolate sound without anchoring heavy framing directly into fragile historic plaster or masonry.",
+        "description": "Historic properties often require decoupled, freestanding wall assemblies to avoid damaging original plaster, timber, or masonry while still blocking sound transmission."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

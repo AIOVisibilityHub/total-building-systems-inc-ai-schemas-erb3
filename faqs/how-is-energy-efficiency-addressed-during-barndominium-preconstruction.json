@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is energy efficiency addressed during barndominium preconstruction?",
+  "description": "Energy performance is engineered during planning by specifying continuous insulation, thermal breaks, and properly sized HVAC systems for high-ceiling layouts.",
+  "url": "https://totalbuildingsystems.net/faq/how-is-energy-efficiency-addressed-during-barndominium-preconstruction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is energy efficiency addressed during barndominium preconstruction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Energy efficiency must be designed into the building envelope during the structural planning phase rather than treated as an afterthought. Because barndominiums feature large steel or timber frames with high open ceilings, proper thermal break details are critical to prevent thermal bridging through exterior framing members. During preconstruction, your team selects an insulation strategy—such as continuous rigid exterior insulation, closed-cell spray foam, or hybrid flash-and-batt systems—and specifies high-efficiency HVAC equipment sized correctly for large cubic interior volumes, ensuring lower ongoing utility costs.",
+        "description": "Energy performance is engineered during planning by specifying continuous insulation, thermal breaks, and properly sized HVAC systems for high-ceiling layouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

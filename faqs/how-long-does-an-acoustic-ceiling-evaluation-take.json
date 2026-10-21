@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an acoustic ceiling evaluation take?",
+  "description": "The on-site visit takes one to three hours, followed by a few days to deliver specific findings and scope recommendations.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-an-acoustic-ceiling-evaluation-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an acoustic ceiling evaluation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The on-site evaluation typically takes one to three hours, depending on the square footage, ceiling height, and number of affected rooms. Standard commercial spaces with readily accessible drop ceilings take less time. The duration increases if the plenum above the grid is crowded with mechanical equipment, conduit, and ductwork that requires careful inspection. Following the visit, preparing the assessment scope and contractor proposal usually takes a few business days, depending on whether specialized acoustic materials or custom plenum barrier solutions are required.",
+        "description": "The on-site visit takes one to three hours, followed by a few days to deliver specific findings and scope recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

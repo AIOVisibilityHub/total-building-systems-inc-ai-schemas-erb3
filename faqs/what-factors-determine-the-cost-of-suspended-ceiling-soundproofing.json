@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of suspended-ceiling soundproofing?",
+  "description": "Cost depends on room size, plenum accessibility, tile ratings, and whether vertical sound barriers must be installed above the grid.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-suspended-ceiling-soundproofing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of suspended-ceiling soundproofing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an assessment and subsequent acoustic retrofits depends on overall square footage, accessibility above the grid, and the severity of sound leakage. Simple upgrades, such as swapping standard tiles for high-CAC panels or adding sound-absorbing fiberglass batts over the grid, require minimal labor and material investment. However, if your walls end at the ceiling line and sound travels directly over partition heads, installing vertical plenum sound barriers or gypsum board deck-to-deck extensions involves greater framing and sealing work, which raises total project costs.",
+        "description": "Cost depends on room size, plenum accessibility, tile ratings, and whether vertical sound barriers must be installed above the grid."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

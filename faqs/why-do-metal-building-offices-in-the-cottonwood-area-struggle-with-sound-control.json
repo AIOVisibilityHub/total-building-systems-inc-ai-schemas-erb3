@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do metal building offices in the Cottonwood area struggle with sound control between rooms?",
+  "description": "Metal buildings often feature open roof plenums above drop ceilings, allowing sound to bypass short partition walls unless full-height barriers are installed to",
+  "url": "https://totalbuildingsystems.net/faq/why-do-metal-building-offices-in-the-cottonwood-area-struggle-with-sound-control",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do metal building offices in the Cottonwood area struggle with sound control between rooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial facilities in Cottonwood and Camp Verde frequently utilize pre-engineered metal buildings with high metal roof decks that create massive shared ceiling plenums. When interior office partition walls stop at a standard 9-foot acoustic drop ceiling, sound travels straight over the wall, bounces off the metal roof decking, and drops into neighboring offices. Upgrades in these structures specifically require full-height drywall barriers or mass-loaded vinyl plenum curtains extended directly to the metal deck to achieve genuine speech privacy.",
+        "description": "Metal buildings often feature open roof plenums above drop ceilings, allowing sound to bypass short partition walls unless full-height barriers are installed to the deck."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

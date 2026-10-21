@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of upgrading a commercial acoustic ceiling?",
+  "description": "Costs depend on whether the existing metal grid can be reused, the acoustic rating and style of replacement tiles, ceiling height, and scheduling requirements a",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-upgrading-a-commercial-acoustic-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of upgrading a commercial acoustic ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total expense depends primarily on whether your current suspension grid can be reused or must be rebuilt. Reusing an intact grid and inserting high-performance acoustic tiles costs significantly less in labor and materials than tearing out the assembly. Costs also adjust based on ceiling height, accessibility around mechanical equipment, and whether work must be phased during off-hours to avoid disrupting business operations. Choosing specialty acoustic panels with high moisture resistance or custom aesthetic finishes will also increase material expenses compared to standard commercial-grade mineral fiber.",
+        "description": "Costs depend on whether the existing metal grid can be reused, the acoustic rating and style of replacement tiles, ceiling height, and scheduling requirements around your business hours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

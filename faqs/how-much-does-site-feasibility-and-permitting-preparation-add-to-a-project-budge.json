@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does site feasibility and permitting preparation add to a project budget?",
+  "description": "Costs depend on lot conditions; raw acreage needing soil tests, grading plans, septic permits, and long utility runs incurs higher pre-construction costs than s",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-site-feasibility-and-permitting-preparation-add-to-a-project-budge",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does site feasibility and permitting preparation add to a project budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary widely depending on property location, slope, and existing infrastructure. While simple flat parcels with adjacent utilities require standard plot layouts and basic permit filing fees, unserviced or sloped rural acreage demands significant upfront investment. Additional expenses can include boundary surveys, geotechnical soil tests, engineered grading plans, extended utility trenching, or new septic system design and percolation tests. Addressing feasibility first isolates these site-development costs before finalizing metal building structural orders, preventing surprise expenses during ground-breaking.",
+        "description": "Costs depend on lot conditions; raw acreage needing soil tests, grading plans, septic permits, and long utility runs incurs higher pre-construction costs than serviced, flat lots."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

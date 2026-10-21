@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of upgrading partition sound control?",
+  "description": "Costs depend on wall square footage, ceiling plenum height, the need to relocate electrical or HVAC lines, and whether existing drywall must be removed or overl",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-upgrading-partition-sound-control",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of upgrading partition sound control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs vary depending on square footage, accessibility, and whether the work involves adding surface layers or modifying wall cavities. Adding high-performance acoustic drywall over existing partitions with sound sealant is typically more budget-friendly than tearing out walls down to the studs. Major cost variables include extending walls through the ceiling plenum to the deck, working around electrical or HVAC ductwork, and selecting acoustic-rated solid core doors. A detailed on-site assessment determines whether targeted sealing or a full partition rebuild is necessary.",
+        "description": "Costs depend on wall square footage, ceiling plenum height, the need to relocate electrical or HVAC lines, and whether existing drywall must be removed or overlaid."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

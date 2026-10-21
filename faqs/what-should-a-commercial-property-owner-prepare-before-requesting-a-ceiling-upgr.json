@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a commercial property owner prepare before requesting a ceiling upgrade estimate?",
+  "description": "Gather approximate square footage, note ceiling heights and problem noise zones, locate utility penetrations, and establish whether crews can work during standa",
+  "url": "https://totalbuildingsystems.net/faq/what-should-a-commercial-property-owner-prepare-before-requesting-a-ceiling-upgr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a commercial property owner prepare before requesting a ceiling upgrade estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before scheduling a site evaluation, measure your approximate square footage and clear ceiling height, and note any persistent problem areas where noise travels easily. Document the locations of recessed lighting, diffusers, exit signs, and fire sprinkler heads that penetrate the ceiling plane. It is also beneficial to check whether you have spare ceiling tiles in storage so the contractor can identify the current brand, grid sizing, and edge profile. Finally, determine your scheduling flexibility, such as whether contractors can work during regular business hours or require night access.",
+        "description": "Gather approximate square footage, note ceiling heights and problem noise zones, locate utility penetrations, and establish whether crews can work during standard business hours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

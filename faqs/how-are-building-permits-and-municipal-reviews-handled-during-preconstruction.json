@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are building permits and municipal reviews handled during preconstruction?",
+  "description": "Your contractor compiles sealed engineering plans, architectural layouts, and site surveys, submitting the full package to the local building department for rev",
+  "url": "https://totalbuildingsystems.net/faq/how-are-building-permits-and-municipal-reviews-handled-during-preconstruction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are building permits and municipal reviews handled during preconstruction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit approvals require a coordinated submittal package including architectural plans, foundation engineering, framing calculations, mechanical/electrical/plumbing (MEP) schematics, and an approved site plan showing setbacks and septic location. Your general contractor works with structural engineers to produce sealed construction drawings that satisfy local jurisdiction building codes. Total Building Systems Inc. manages the submittal process, responds to plan-examiner comments, and coordinates required revisions so you secure building permits smoothly before heavy excavation equipment arrives on your site.",
+        "description": "Your contractor compiles sealed engineering plans, architectural layouts, and site surveys, submitting the full package to the local building department for review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

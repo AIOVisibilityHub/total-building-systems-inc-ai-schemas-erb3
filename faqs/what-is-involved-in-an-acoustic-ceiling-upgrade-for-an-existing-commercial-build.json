@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in an acoustic ceiling upgrade for an existing commercial building?",
+  "description": "An acoustic ceiling upgrade replaces or modifies ceiling systems with sound-absorbing tiles, baffles, or clouds to lower noise levels and manage sound transfer",
+  "url": "https://totalbuildingsystems.net/faq/what-is-involved-in-an-acoustic-ceiling-upgrade-for-an-existing-commercial-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in an acoustic ceiling upgrade for an existing commercial building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An acoustic ceiling upgrade involves retrofitting or replacing ceiling systems in commercial buildings to control sound transfer and reduce echo. In an existing space, this usually means replacing dated mineral fiber tiles with higher-performance sound-absorbing tiles, installing ceiling baffles or clouds, or modifying the suspension grid. The right approach depends on whether you have a drop grid already in place or an open-plenum structure. For occupied offices and retail suites, upgrading tile materials inside an existing grid delivers significant noise control with minimal disruption to overhead lighting, fire sprinklers, and HVAC diffusers.",
+        "description": "An acoustic ceiling upgrade replaces or modifies ceiling systems with sound-absorbing tiles, baffles, or clouds to lower noise levels and manage sound transfer in occupied spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

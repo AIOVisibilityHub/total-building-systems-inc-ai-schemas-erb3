@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does permit coordination involve for a custom metal building?",
+  "description": "Permit coordination manages the submittal, tracking, and revision of architectural and structural plans with local building departments until permits are approv",
+  "url": "https://totalbuildingsystems.net/faq/what-does-permit-coordination-involve-for-a-custom-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does permit coordination involve for a custom metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit coordination is the management of the entire municipal review and approval cycle for your build. Instead of homeowners managing submittals themselves, the contractor prepares, submits, and tracks engineered metal building plans, foundation designs, architectural drawings, and site plots through the local building department. This role includes monitoring plan-check reviews, answering plan examiner comments, revising technical drawings if requested, and coordinating environmental or septic clearances so you receive an approved building permit without unnecessary administrative delays.",
+        "description": "Permit coordination manages the submittal, tracking, and revision of architectural and structural plans with local building departments until permits are approved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do demountable glass office fronts compare to permanent drywall partitions for sound privacy?",
+  "description": "Insulated drywall partitions provide higher sound isolation at lower cost, while double-glazed glass maintains natural light and flexibility with moderate sound",
+  "url": "https://totalbuildingsystems.net/faq/how-do-demountable-glass-office-fronts-compare-to-permanent-drywall-partitions-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do demountable glass office fronts compare to permanent drywall partitions for sound privacy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Solid construction offers superior sound isolation, whereas demountable glass systems offer light transfer and future layout flexibility. Traditional stud-and-drywall partitions packed with mineral wool achieve high Sound Transmission Class (STC) ratings at a predictable cost, but they are permanent. Modular double-glazed partition systems can match moderate sound ratings and preserve visual openness, yet they require specialized seals and carry a higher material investment. If absolute confidential privacy is your priority, insulated double-stud or multi-layer drywall remains the industry standard.",
+        "description": "Insulated drywall partitions provide higher sound isolation at lower cost, while double-glazed glass maintains natural light and flexibility with moderate sound control."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

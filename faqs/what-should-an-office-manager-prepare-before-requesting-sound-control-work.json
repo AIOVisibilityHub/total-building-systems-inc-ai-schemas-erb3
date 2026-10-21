@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should an office manager prepare before requesting sound-control work?",
+  "description": "Identify specific rooms with noise leaks, verify if ceilings are suspended or open to the deck, and define whether you need general distraction control or stric",
+  "url": "https://totalbuildingsystems.net/faq/what-should-an-office-manager-prepare-before-requesting-sound-control-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should an office manager prepare before requesting sound-control work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get an accurate estimate, determine which rooms have the worst sound leakage, noting whether the problem is voice bleed, foot traffic, or mechanical equipment noise. Check whether your drop ceiling has open airspace above the walls, and locate floor plans or building specifications showing electrical and duct layouts. Having clear expectations about the required privacy level—such as general work distraction reduction versus strict regulatory speech privacy—helps the contractor recommend the right STC-rated wall design without unnecessary expenses.",
+        "description": "Identify specific rooms with noise leaks, verify if ceilings are suspended or open to the deck, and define whether you need general distraction control or strict privacy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

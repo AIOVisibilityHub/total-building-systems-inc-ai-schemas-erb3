@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need a sound-control assessment for my drop ceiling?",
+  "description": "Schedule one when conversations carry over office walls, rooms have excessive echo, or overhead mechanical equipment creates disruptive noise.",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-a-sound-control-assessment-for-my-drop-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need a sound-control assessment for my drop ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider an assessment when conversations easily carry between private offices, rooms echo excessively, or overhead mechanical noise disrupts daily operations. Many commercial facilities feature walls that stop at the suspended ceiling grid rather than extending to the structural deck above. This design creates an open shared cavity where sound travels freely over office walls. If upgrading furnishings or adding white noise has not resolved privacy concerns, an assessment verifies whether the issue stems from low tile attenuation, open return plenums, or unsealed wall junctions.",
+        "description": "Schedule one when conversations carry over office walls, rooms have excessive echo, or overhead mechanical equipment creates disruptive noise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

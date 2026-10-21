@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When does an existing commercial space need an acoustic ceiling upgrade?",
+  "description": "Upgrade when excessive echo impairs clear communication, speech privacy is compromised between offices, or old tiles become stained, damaged, or acoustically in",
+  "url": "https://totalbuildingsystems.net/faq/when-does-an-existing-commercial-space-need-an-acoustic-ceiling-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does an existing commercial space need an acoustic ceiling upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should look at upgrading when room echo interferes with phone calls, tenant conversations carry through shared walls, or existing tiles show visible sagging, water stains, and age. Poor acoustic performance often stems from low-density or painted-over tiles that have lost their sound-dampening capacity. If your commercial property is switching from a quiet storage or light retail use to a busy professional office, medical clinic, or conference setting, the existing ceiling rarely meets the acoustic privacy standards needed for the new occupants.",
+        "description": "Upgrade when excessive echo impairs clear communication, speech privacy is compromised between offices, or old tiles become stained, damaged, or acoustically ineffective."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

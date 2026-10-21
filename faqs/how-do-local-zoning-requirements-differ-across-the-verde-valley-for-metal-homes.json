@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local zoning requirements differ across the Verde Valley for metal homes?",
+  "description": "Incorporated towns like Clarkdale or Jerome often enforce architectural and finish rules, while unincorporated county areas focus mainly on setbacks, septic, an",
+  "url": "https://totalbuildingsystems.net/faq/how-do-local-zoning-requirements-differ-across-the-verde-valley-for-metal-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local zoning requirements differ across the Verde Valley for metal homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zoning regulations vary between municipal city limits and unincorporated county land, which directly dictates design and land use. For example, building within the town limits of Clarkdale or Jerome may involve historical preservation guidelines, stricter exterior finish rules, or specific architectural review boards. Conversely, rural parcels in Cornville or Rimrock typically follow unincorporated Yavapai County development codes, focusing primarily on setbacks, building height, access roads, and septic placement rather than aesthetic design review. Identifying the governing agency early determines the submittal requirements.",
+        "description": "Incorporated towns like Clarkdale or Jerome often enforce architectural and finish rules, while unincorporated county areas focus mainly on setbacks, septic, and structural codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

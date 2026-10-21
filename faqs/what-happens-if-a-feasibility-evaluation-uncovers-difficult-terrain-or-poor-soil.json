@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if a feasibility evaluation uncovers difficult terrain or poor soil?",
+  "description": "You can either reposition the building footprint on the lot, re-engineer foundation designs for rock or slopes, or perform engineered grading to create a suitab",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-if-a-feasibility-evaluation-uncovers-difficult-terrain-or-poor-soil",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if a feasibility evaluation uncovers difficult terrain or poor soil?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a site evaluation shows shallow bedrock, unstable soil, steep slopes, or access limits, you have practical engineering choices to evaluate. You can adjust the home’s footprint to build on a flatter area, invest in specialized engineered foundations (such as post-and-beam, stepped stem walls, or rock-anchor designs), or execute engineered cut-and-fill grading. Comparing the cost of extensive earthwork against altering the building dimensions allows you to choose the most cost-effective solution before committing to structural steel manufacturing.",
+        "description": "You can either reposition the building footprint on the lot, re-engineer foundation designs for rock or slopes, or perform engineered grading to create a suitable pad."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

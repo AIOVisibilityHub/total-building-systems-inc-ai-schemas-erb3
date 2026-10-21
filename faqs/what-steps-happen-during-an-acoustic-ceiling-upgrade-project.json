@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps happen during an acoustic ceiling upgrade project?",
+  "description": "The process involves inspecting the suspension grid, coordinating around mechanicals and lighting, removing old tiles, setting new acoustic panels, and cleaning",
+  "url": "https://totalbuildingsystems.net/faq/what-steps-happen-during-an-acoustic-ceiling-upgrade-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps happen during an acoustic ceiling upgrade project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before work begins, your contractor inspects the existing suspension wires, main runners, and cross tees for corrosion, sagging, or structural damage. Next, trades coordinate around existing light fixtures, air returns, and life-safety systems to ensure everything remains supported and code-compliant. Once the grid is confirmed stable or adjusted, old tiles are removed and properly disposed of, any above-ceiling insulation or acoustic barriers are set, and new panels are fitted into place. Finally, a thorough site cleanup ensures dust and debris do not enter your commercial ventilation system.",
+        "description": "The process involves inspecting the suspension grid, coordinating around mechanicals and lighting, removing old tiles, setting new acoustic panels, and cleaning the workspace."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

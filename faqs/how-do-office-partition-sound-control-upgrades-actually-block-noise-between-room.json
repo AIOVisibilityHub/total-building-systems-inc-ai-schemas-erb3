@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do office partition sound-control upgrades actually block noise between rooms?",
+  "description": "Sound upgrades work by adding mass, insulation, and acoustic seals to wall framing and closing flanking paths above drop ceilings to stop sound leaks between ro",
+  "url": "https://totalbuildingsystems.net/faq/how-do-office-partition-sound-control-upgrades-actually-block-noise-between-room",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do office partition sound-control upgrades actually block noise between rooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upgrading partition sound control means blocking direct sound transmission through wall assemblies and sealing flanking paths. In standard commercial offices, sound travels through hollow wall cavities, gaps around electrical boxes, unsealed baseboards, and the open ceiling plenum above drop ceilings. Effective upgrades typically involve adding acoustic insulation inside existing framing, installing sound-damping drywall, sealing joint perimeters with acoustic caulk, or extending partition walls fully to the structural deck above. Addressing only surface materials without sealing airborne air gaps leaves voices clearly audible in adjoining spaces.",
+        "description": "Sound upgrades work by adding mass, insulation, and acoustic seals to wall framing and closing flanking paths above drop ceilings to stop sound leaks between rooms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

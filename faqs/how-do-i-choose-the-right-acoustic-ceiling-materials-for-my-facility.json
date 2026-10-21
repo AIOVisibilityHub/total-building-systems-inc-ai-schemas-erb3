@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right acoustic ceiling materials for my facility?",
+  "description": "Select materials by evaluating NRC ratings for sound absorption within a room and CAC ratings for preventing sound transmission through the ceiling into neighbo",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-acoustic-ceiling-materials-for-my-facility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right acoustic ceiling materials for my facility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To choose the right materials, check two core ratings: Noise Reduction Coefficient (NRC) and Ceiling Attenuation Class (CAC). NRC measures how much sound a ceiling tile absorbs within a room, on a scale from 0.0 to 1.0; open-plan offices and noisy conference rooms benefit from an NRC of 0.70 or higher. CAC measures how well the tile blocks sound from traveling through the ceiling plenum into adjacent rooms, which is critical for private offices and exam rooms. Balancing both metrics ensures you cut down on internal room echo while protecting conversational privacy.",
+        "description": "Select materials by evaluating NRC ratings for sound absorption within a room and CAC ratings for preventing sound transmission through the ceiling into neighboring spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

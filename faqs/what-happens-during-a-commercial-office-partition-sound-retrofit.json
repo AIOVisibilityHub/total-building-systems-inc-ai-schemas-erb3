@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during a commercial office partition sound retrofit?",
+  "description": "Contractors contain the area, install sound-dampening materials and perimeter acoustic sealant, extend barriers if needed, and finish drywall to match your offi",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-during-a-commercial-office-partition-sound-retrofit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during a commercial office partition sound retrofit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction process starts with an on-site inspection to identify primary sound transmission paths, including ceilings, electrical penetrations, and doorway seals. Contractors then set up containment barriers to protect office furniture and electronic equipment from construction dust. Crews install the planned sound assemblies—such as mineral wool, resilient channels, or secondary drywall layers—and systematically seal all perimeter joints with non-hardening acoustic sealant. Finally, surfaces receive tape, mud, texture, and paint matching the existing office design.",
+        "description": "Contractors contain the area, install sound-dampening materials and perimeter acoustic sealant, extend barriers if needed, and finish drywall to match your office interior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

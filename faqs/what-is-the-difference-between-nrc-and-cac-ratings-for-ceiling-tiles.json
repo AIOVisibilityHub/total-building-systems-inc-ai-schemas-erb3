@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between NRC and CAC ratings for ceiling tiles?",
+  "description": "NRC measures sound absorption inside a room to reduce echo, while CAC measures sound blocking between adjacent rooms through the ceiling.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-nrc-and-cac-ratings-for-ceiling-tiles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between NRC and CAC ratings for ceiling tiles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NRC measures sound absorption within a single room, while CAC measures sound transmission blocking between adjacent rooms. Choosing the right tile depends on your specific noise problem. If your primary challenge is an echoey room or poor speech clarity within a large space, selecting high-NRC tiles will absorb sound waves and soften the environment. If your issue is confidential speech leaking over partitions into the next office, you need high-CAC tiles or ceiling backers to prevent sound from passing up into the plenum and down into the next office.",
+        "description": "NRC measures sound absorption inside a room to reduce echo, while CAC measures sound blocking between adjacent rooms through the ceiling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

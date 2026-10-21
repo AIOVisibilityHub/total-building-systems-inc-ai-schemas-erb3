@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a site-feasibility study for a metal home include?",
+  "description": "A feasibility study reviews zoning rules, property setbacks, easements, soil conditions, topography, and utility access to verify your land can physically and l",
+  "url": "https://totalbuildingsystems.net/faq/what-does-a-site-feasibility-study-for-a-metal-home-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a site-feasibility study for a metal home include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A site-feasibility study verifies whether a parcel of land can legally and physically support a custom metal home before you invest in blueprints or fabrication. It typically reviews zoning designations, setback minimums, allowable building height, utility accessibility (water, power, sewer, or septic capacity), road access, soil suitability, and natural topography or flood zones. Identifying constraints such as high slopes, shallow bedrock, or easement encumbrances early protects your budget by showing whether costly site preparation or engineered grading will be necessary.",
+        "description": "A feasibility study reviews zoning rules, property setbacks, easements, soil conditions, topography, and utility access to verify your land can physically and legally support a metal home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When in the planning process should I complete a site-feasibility assessment?",
+  "description": "Complete feasibility during your property purchase contingency or before ordering steel building packages to avoid paying for structural redesigns.",
+  "url": "https://totalbuildingsystems.net/faq/when-in-the-planning-process-should-i-complete-a-site-feasibility-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When in the planning process should I complete a site-feasibility assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should schedule site feasibility before purchasing land whenever possible, ideally during an inspection contingency period. If you already own the parcel, complete feasibility before ordering an engineered steel building kit or finalizing architectural drawings. Metal home manufacturers engineer framing and connection loads based on exact foundation layouts and site-specific environmental criteria, such as wind exposure and ground snow loads. Finalizing structural packages before confirming site setbacks or soil bearing capacity risks expensive re-engineering fees.",
+        "description": "Complete feasibility during your property purchase contingency or before ordering steel building packages to avoid paying for structural redesigns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

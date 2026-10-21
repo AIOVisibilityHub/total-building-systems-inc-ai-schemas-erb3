@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete an office partition sound upgrade?",
+  "description": "Most partition retrofits take two to five days per area, with scheduling often arranged around business hours to minimize daily workplace disruption.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-complete-an-office-partition-sound-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete an office partition sound upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retrofitting partition sound control usually takes between two to five days per room group, depending on the chosen method. Non-invasive methods—such as adding a layer of acoustic drywall with damping compound and perimeter acoustic caulking—can often be scheduled after hours or over weekends to minimize office downtime. More invasive work, like opening walls to pack acoustic batt insulation or extending partitions above a drop ceiling to the roof deck, requires dust containment and coordinated phasing around active employee work schedules.",
+        "description": "Most partition retrofits take two to five days per area, with scheduling often arranged around business hours to minimize daily workplace disruption."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

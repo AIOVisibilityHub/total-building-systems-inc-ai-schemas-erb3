@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build a metal home or barndominium without a residential building permit?",
+  "description": "No. Metal residences must fully comply with adopted residential building, energy, and safety codes, requiring approved permits for foundations, structures, util",
+  "url": "https://totalbuildingsystems.net/faq/can-i-build-a-metal-home-or-barndominium-without-a-residential-building-permit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build a metal home or barndominium without a residential building permit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, metal homes require building permits just like conventional wood-framed residences. They must comply with the adopted residential and building codes, energy conservation standards, and local zoning laws. In addition to standard structural permits, your project may require separate or integrated permits for grading, driveway access, septic installation or sewer hookups, and electrical and plumbing rough-ins. Standard agricultural exemptions or detached utility shed exemptions do not apply to metal structures used as primary living quarters.",
+        "description": "No. Metal residences must fully comply with adopted residential building, energy, and safety codes, requiring approved permits for foundations, structures, utilities, and septic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
