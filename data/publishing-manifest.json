@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-21T00:27:44.998Z",
+  "generatedAt": "2026-10-21T01:51:38.586Z",
   "client": {
     "name": "Total Building Systems Inc.",
     "canonicalUrl": "https://totalbuildingsystems.aiovisibility.net",
@@ -116,10 +116,10 @@
     ]
   },
   "package": {
-    "totalFiles": 928,
-    "totalBytes": 3319536,
+    "totalFiles": 1068,
+    "totalBytes": 3825082,
     "stats": {
-      "faqs": 630,
+      "faqs": 770,
       "helpArticles": 0,
       "services": 78,
       "webpages": 36,
@@ -133,7 +133,7 @@
       "reviews": 1,
       "qna": 0,
       "research": 0,
-      "total": 947
+      "total": 1087
     }
   },
   "entrypoints": {
@@ -4674,6 +4674,706 @@
         "path": "faqs/how-do-regional-elevation-changes-affect-steel-building-engineering-in-northern.json",
         "bytes": 1484,
         "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-included-in-a-prefabricated-metal-building-kit-and-what-must-be-supplied.json",
+        "bytes": 1524,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-property-owners-assemble-a-metal-building-kit-themselves-or-should-they-hire.json",
+        "bytes": 1530,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-site-preparation-is-required-before-metal-building-kit-erection-can-begin.json",
+        "bytes": 1465,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-influence-the-labor-cost-of-erecting-a-metal-building-kit.json",
+        "bytes": 1429,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-assemble-a-metal-building-kit.json",
+        "bytes": 1354,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-metal-building-kits-need-permits-and-engineering-tailored-to-local-climate-zo.json",
+        "bytes": 1475,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-choose-the-right-insulation-system-when-erecting-a-metal-building-kit.json",
+        "bytes": 1457,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-steps-involved-in-the-steel-erection-process.json",
+        "bytes": 1365,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-details-protect-metal-buildings-from-regional-weather-extremes-in-the-verde.json",
+        "bytes": 1467,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-property-owners-select-a-qualified-metal-building-kit-erector.json",
+        "bytes": 1475,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-best-insulation-options-for-an-existing-metal-workshop.json",
+        "bytes": 1625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-insulate-an-existing-metal-workshop-without-removing-the-exterior-siding.json",
+        "bytes": 1540,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-my-metal-workshop-sweating-and-how-does-insulation-stop-it.json",
+        "bytes": 1470,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-insulate-an-existing-metal-workshop-compared-to-new-con.json",
+        "bytes": 1612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-prepare-my-workshop-before-insulation-contractors-arrive.json",
+        "bytes": 1484,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-fire-barrier-or-thermal-barrier-over-foam-insulation-in-a-metal-work.json",
+        "bytes": 1590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-insulate-an-existing-metal-workshop.json",
+        "bytes": 1470,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-choose-open-cell-or-closed-cell-spray-foam-for-a-steel-workshop-retrofi.json",
+        "bytes": 1565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-r-value-should-i-aim-for-in-my-existing-metal-workshop.json",
+        "bytes": 1447,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-need-to-add-ventilation-along-with-workshop-insulation.json",
+        "bytes": 1430,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-hang-drywall-directly-on-the-walls-of-a-metal-building.json",
+        "bytes": 1590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-steel-studs-or-wood-framing-for-the-interior-walls.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-needs-to-be-planned-before-starting-interior-framing-in-a-steel-building.json",
+        "bytes": 1580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-interior-framing-and-drywall-take-in-a-metal-building.json",
+        "bytes": 1557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-impact-the-cost-of-framing-and-finishing-metal-building-interiors.json",
+        "bytes": 1643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-insulation-handled-when-installing-drywall-inside-a-metal-building.json",
+        "bytes": 1610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-verde-valley-temperature-swings-affect-interior-drywall-in-metal-structures.json",
+        "bytes": 1626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-interior-partition-walls-in-a-metal-building-need-to-be-load-bearing.json",
+        "bytes": 1609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-choose-a-freestanding-interior-room-over-attaching-to-the-building.json",
+        "bytes": 1678,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-building-permit-to-frame-and-drywall-inside-a-metal-building-in-yava.json",
+        "bytes": 1703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-steps-are-involved-in-finishing-a-metal-building-for-heated-and-cooled-work.json",
+        "bytes": 1613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-type-of-insulation-works-best-when-heating-and-cooling-a-metal-workshop.json",
+        "bytes": 1594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-finish-out-a-metal-building-for-climate-controlled-use.json",
+        "bytes": 1588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-heating-and-cooling-system-for-a-steel-workshop.json",
+        "bytes": 1530,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-conditioning-a-metal-workshop-different-from-a-standard-wood-framed-garag.json",
+        "bytes": 1591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-climate-controlled-metal-workshop-finish-out-usually-take.json",
+        "bytes": 1544,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-verde-valley-temperature-swings-affect-metal-workshop-finish-out-designs.json",
+        "bytes": 1551,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-details-should-i-prepare-before-starting-a-metal-workshop-finish-out.json",
+        "bytes": 1522,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-keep-my-existing-roll-up-doors-or-do-i-need-insulated-overhead-doors.json",
+        "bytes": 1563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-to-add-hvac-insulation-and-power-to-an-existing-metal-building.json",
+        "bytes": 1543,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-metal-building-condensation-assessment.json",
+        "bytes": 1351,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-metal-building-has-a-roof-leak-or-a-condensation-problem.json",
+        "bytes": 1403,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-need-a-condensation-assessment-for-a-commercial-or-agricultural-steel.json",
+        "bytes": 1392,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-during-an-on-site-condensation-assessment.json",
+        "bytes": 1352,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-prepare-my-property-before-a-condensation-inspection.json",
+        "bytes": 1343,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-metal-building-condensation-assessment-take.json",
+        "bytes": 1266,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-influence-the-cost-of-a-condensation-assessment.json",
+        "bytes": 1325,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-metal-building-condensation-become-severe-during-verde-valley-winters.json",
+        "bytes": 1430,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-condensation-assessment-differ-from-a-standard-commercial-building-in.json",
+        "bytes": 1428,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-contractor-for-a-metal-building-condensation-assessmen.json",
+        "bytes": 1429,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-need-to-upgrade-the-insulation-and-vapor-control-in-a-metal-building.json",
+        "bytes": 1713,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-fiberglass-blanket-insulation-compare-to-rigid-foam-board-or-spray-syst.json",
+        "bytes": 1754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-retrofitting-insulation-into-an-existing-metal-building.json",
+        "bytes": 1602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-determine-the-cost-of-a-metal-building-insulation-and-vapor-barrier.json",
+        "bytes": 1567,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-a-sealed-vapor-barrier-critical-in-a-metal-building.json",
+        "bytes": 1457,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-verde-valley-temperature-shifts-affect-insulation-needs-in-cottonwood-and.json",
+        "bytes": 1602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-insulation-upgrade-for-my-commercial-or-agricultural-b.json",
+        "bytes": 1630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-prepare-my-metal-building-before-insulation-installation-begins.json",
+        "bytes": 1561,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-insulation-and-vapor-barriers-be-added-without-taking-off-exterior-metal-pan.json",
+        "bytes": 1650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-insulation-requirements-differ-for-metal-buildings-in-prescott-or-flagsta.json",
+        "bytes": 1652,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-included-in-a-barndominium-shell-construction.json",
+        "bytes": 1376,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-build-just-the-shell-of-a-barndominium.json",
+        "bytes": 1356,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-construct-a-barndominium-shell.json",
+        "bytes": 1224,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-steps-in-constructing-a-barndominium-shell.json",
+        "bytes": 1394,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-barndominium-shell-and-a-turnkey-build.json",
+        "bytes": 1365,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-preparation-is-required-before-starting-barndominium-shell-construction.json",
+        "bytes": 1328,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-building-just-a-shell-is-the-right-choice-for-me.json",
+        "bytes": 1275,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-local-building-considerations-apply-to-barndominium-shells-in-the-verde-val.json",
+        "bytes": 1401,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-change-my-interior-floor-plan-after-the-shell-is-constructed.json",
+        "bytes": 1295,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-choose-a-contractor-for-barndominium-shell-construction.json",
+        "bytes": 1334,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-barndominium-interior-finish-out-include.json",
+        "bytes": 1426,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-an-interior-barndominium-finish-out-typically-take.json",
+        "bytes": 1429,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-most-influence-the-cost-of-finishing-out-a-barndominium-interior.json",
+        "bytes": 1467,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-prepare-to-finance-an-interior-finish-out-for-an-existing-shell.json",
+        "bytes": 1442,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-spray-foam-or-fiberglass-insulation-in-a-barndominium-build.json",
+        "bytes": 1486,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-hire-a-general-contractor-or-manage-the-finish-out-myself.json",
+        "bytes": 1470,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-building-permits-to-finish-out-a-barndominium-in-the-verde-valley.json",
+        "bytes": 1470,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-plan-before-finalizing-a-barndominium-interior-floor-plan.json",
+        "bytes": 1432,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-heating-and-cooling-design-differ-in-a-barndominium.json",
+        "bytes": 1391,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-local-climate-swings-in-cottonwood-and-camp-verde-impact-interior-finish.json",
+        "bytes": 1550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-shell-estimate-and-a-turnkey-estimate-for-a-met.json",
+        "bytes": 1547,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-metal-home-shell-significantly-cheaper-than-a-turnkey-build.json",
+        "bytes": 1423,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-a-shell-or-turnkey-package-for-my-metal-home.json",
+        "bytes": 1402,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-a-construction-loan-for-a-shell-only-metal-home-build.json",
+        "bytes": 1392,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-a-turnkey-metal-home-take-less-time-to-complete-than-finishing-a-shell.json",
+        "bytes": 1392,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-gather-before-asking-for-metal-home-build-estimates.json",
+        "bytes": 1435,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-permitting-differ-between-a-shell-and-a-turnkey-metal-building-estimate.json",
+        "bytes": 1473,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-contractor-complete-structural-work-and-rough-utilities-while-leaving-inte.json",
+        "bytes": 1466,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-local-site-conditions-in-the-verde-valley-affect-shell-and-turnkey-estima.json",
+        "bytes": 1489,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-legally-move-into-a-metal-home-shell-while-finishing-the-interior-in-cotto.json",
+        "bytes": 1487,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-included-in-barndominium-preconstruction-planning.json",
+        "bytes": 1537,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-the-preconstruction-phase-take-for-a-barndominium.json",
+        "bytes": 1528,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-foundation-type-during-barndominium-planning.json",
+        "bytes": 1484,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-budget-for-barndominium-preconstruction-services.json",
+        "bytes": 1567,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-need-to-involve-a-general-contractor-in-preconstruction-planning.json",
+        "bytes": 1517,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-better-to-plan-around-a-prefabricated-kit-or-a-fully-custom-barndominium-d.json",
+        "bytes": 1584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-documents-and-information-do-i-need-before-starting-preconstruction-plannin.json",
+        "bytes": 1510,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-site-specific-challenges-affect-barndominium-planning-in-the-verde-valley.json",
+        "bytes": 1578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-energy-efficiency-addressed-during-barndominium-preconstruction.json",
+        "bytes": 1524,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-building-permits-and-municipal-reviews-handled-during-preconstruction.json",
+        "bytes": 1536,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-site-feasibility-study-for-a-metal-home-include.json",
+        "bytes": 1471,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-permit-coordination-involve-for-a-custom-metal-building.json",
+        "bytes": 1480,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-permitting-take-for-a-metal-home-in-yavapai-county.json",
+        "bytes": 1511,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-site-feasibility-and-permitting-preparation-add-to-a-project-budge.json",
+        "bytes": 1568,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-in-the-planning-process-should-i-complete-a-site-feasibility-assessment.json",
+        "bytes": 1462,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-local-zoning-requirements-differ-across-the-verde-valley-for-metal-homes.json",
+        "bytes": 1575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-hire-a-contractor-for-permitting-coordination-or-manage-it-myself.json",
+        "bytes": 1522,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-to-prepare-before-starting-a-site-feasibility-check.json",
+        "bytes": 1482,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-a-metal-home-or-barndominium-without-a-residential-building-permit.json",
+        "bytes": 1487,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-a-feasibility-evaluation-uncovers-difficult-terrain-or-poor-soil.json",
+        "bytes": 1488,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-office-partition-sound-control-upgrades-actually-block-noise-between-room.json",
+        "bytes": 1586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-sound-absorption-panels-and-soundproof-office-par.json",
+        "bytes": 1537,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-standard-drywall-office-partitions-require-professional-sound-control-up.json",
+        "bytes": 1523,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-complete-an-office-partition-sound-upgrade.json",
+        "bytes": 1414,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-determine-the-cost-of-upgrading-partition-sound-control.json",
+        "bytes": 1472,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-during-a-commercial-office-partition-sound-retrofit.json",
+        "bytes": 1471,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-an-office-manager-prepare-before-requesting-sound-control-work.json",
+        "bytes": 1478,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-demountable-glass-office-fronts-compare-to-permanent-drywall-partitions-f.json",
+        "bytes": 1572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-sound-upgrades-differ-in-historic-commercial-buildings-in-the-verde-valle.json",
+        "bytes": 1508,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-metal-building-offices-in-the-cottonwood-area-struggle-with-sound-control.json",
+        "bytes": 1517,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-suspended-ceiling-sound-control-assessment.json",
+        "bytes": 1425,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-need-a-sound-control-assessment-for-my-drop-ceiling.json",
+        "bytes": 1428,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-during-a-suspended-ceiling-sound-control-assessment.json",
+        "bytes": 1451,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-an-acoustic-ceiling-evaluation-take.json",
+        "bytes": 1332,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-determine-the-cost-of-suspended-ceiling-soundproofing.json",
+        "bytes": 1415,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-nrc-and-cac-ratings-for-ceiling-tiles.json",
+        "bytes": 1401,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-prepare-for-a-ceiling-sound-assessment.json",
+        "bytes": 1339,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-new-ceiling-tiles-solve-my-noise-issues-without-plenum-work.json",
+        "bytes": 1359,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-commercial-spaces-in-cottonwood-and-the-verde-valley-often-need-plenum-as.json",
+        "bytes": 1517,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-contractor-for-a-drop-ceiling-sound-assessment.json",
+        "bytes": 1462,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-involved-in-an-acoustic-ceiling-upgrade-for-an-existing-commercial-build.json",
+        "bytes": 1602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-determine-the-cost-of-upgrading-a-commercial-acoustic-ceiling.json",
+        "bytes": 1550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-complete-an-acoustic-ceiling-upgrade-in-an-active-works.json",
+        "bytes": 1485,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-drop-ceiling-tiles-compare-to-hanging-acoustic-baffles-or-clouds.json",
+        "bytes": 1531,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-does-an-existing-commercial-space-need-an-acoustic-ceiling-upgrade.json",
+        "bytes": 1463,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-the-right-acoustic-ceiling-materials-for-my-facility.json",
+        "bytes": 1472,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-steps-happen-during-an-acoustic-ceiling-upgrade-project.json",
+        "bytes": 1480,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-a-commercial-property-owner-prepare-before-requesting-a-ceiling-upgr.json",
+        "bytes": 1562,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-regional-climate-conditions-in-the-verde-valley-affect-commercial-acoustic-ce.json",
+        "bytes": 1608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-acoustic-ceiling-upgrades-handled-in-older-or-historic-commercial-buildi.json",
+        "bytes": 1634,
+        "purpose": "schema"
       }
     ],
     "reviews": [
@@ -4698,42 +5398,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 15593,
+        "bytes": 20492,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 249998,
+        "bytes": 254756,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 86482,
+        "bytes": 91484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 13870,
+        "bytes": 18426,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13908,
+        "bytes": 18539,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 650750,
+        "bytes": 754924,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 81672,
+        "bytes": 86281,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 33612,
+        "bytes": 38299,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -4770,17 +5470,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 429687,
+        "bytes": 501504,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 123293,
+        "bytes": 143277,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 123293,
+        "bytes": 143277,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -4790,12 +5490,12 @@
       },
       {
         "path": "README.md",
-        "bytes": 147010,
+        "bytes": 172979,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 129318,
+        "bytes": 150842,
         "purpose": "AI sitemap"
       },
       {
