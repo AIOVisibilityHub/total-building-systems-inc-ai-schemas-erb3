@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Trusscore Custom Home Builders",
+  "url": "https://trusscore.com/get-started/custom-home-builders.html",
+  "publisher": {
+    "@type": "Organization",
+    "name": "https://trusscore.com/get-started/custom-home-builders.html"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.net"
+  }
+}

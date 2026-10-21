@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Trusscore Light Weight and Easy to Install",
+  "url": "https://trusscore.com/benefits/lightweight-and-easy-to-install.html",
+  "publisher": {
+    "@type": "Organization",
+    "name": "https://trusscore.com/benefits/lightweight-and-easy-to-install.html"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.net"
+  }
+}

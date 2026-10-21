@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "John Hoffman",
+  "jobTitle": "Structural Steel and Ornamental Iron Contact",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.net"
+  },
+  "description": "John Hoffman is the designated contact at Total Building Systems for structural steel and ornamental iron inquiries. These are two of the specialties identified in the company’s commercial and residential construction offering. Customers seeking information about this work can contact him at jhoffmann@totalbuildingsystems.net.",
+  "telephone": "(928) 649-0131",
+  "knowsAbout": [
+    "Structural steel",
+    "ornamental iron"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Jerome"
+  }
+}

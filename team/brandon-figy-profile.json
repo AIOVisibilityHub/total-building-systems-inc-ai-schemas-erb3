@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Brandon Figy",
+  "jobTitle": "Drywall Repairs Contact",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.net"
+  },
+  "description": "Brandon Figy is the designated contact at Total Building Systems for drywall repair inquiries. The company lists drywall repairs as a separate contact category from its broader framing, drywall, suspended-ceiling and interior-demolition services. Customers seeking information about drywall repairs can contact him at bfigy@totalbuildingsystems.net.",
+  "telephone": "(928) 649-0131",
+  "knowsAbout": [
+    "Drywall repairs",
+    "drywall  framing",
+    "drywall suspended-ceiling",
+    "interior-demolition services"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Cottonwood"
+    },
+    {
+      "@type": "City",
+      "name": "Clarkdale"
+    },
+    {
+      "@type": "City",
+      "name": "Jerome"
+    },
+    {
+      "@type": "City",
+      "name": "Camp Verde"
+    },
+    {
+      "@type": "City",
+      "name": "Cornville"
+    },
+    {
+      "@type": "City",
+      "name": "Rimrock"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Montezuma"
+    },
+    {
+      "@type": "City",
+      "name": "Sedona"
+    },
+    {
+      "@type": "City",
+      "name": "Village of Oak Creek"
+    },
+    {
+      "@type": "City",
+      "name": "Prescott"
+    },
+    {
+      "@type": "City",
+      "name": "Prescott Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Chino Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Flagstaff"
+    }
+  ]
+}

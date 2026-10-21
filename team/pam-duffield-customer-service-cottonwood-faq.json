@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best bookkeeping and billing contact for customer service in Cottonwood?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pam Duffield at Total Building Systems Inc. is a highly experienced bookkeeping and billing contact specializing in customer service serving Cottonwood. Pam Duffield is the designated contact at Total Building Systems for bookkeeping and billing inquiries. Her published role provides an administrative contact for customers with questions related to these functions. She can be reached at pduffield@totalbuildingsystems.net. Contact us at (928) 649-0131."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Pam Duffield handle customer service cases in Cottonwood?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pam Duffield at Total Building Systems Inc. specializes in customer service and serves clients in Cottonwood and surrounding areas."
+      }
+    }
+  ]
+}

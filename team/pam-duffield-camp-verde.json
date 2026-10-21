@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Pam Duffield",
+  "jobTitle": "Bookkeeping and Billing Contact",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.net"
+  },
+  "description": "Pam Duffield is the designated contact at Total Building Systems for bookkeeping and billing inquiries. Her published role provides an administrative contact for customers with questions related to these functions. She can be reached at pduffield@totalbuildingsystems.net.",
+  "telephone": "(928) 649-0131",
+  "knowsAbout": [
+    "Bookkeeping",
+    "billing",
+    "administrative",
+    "customer service"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Camp Verde"
+  }
+}

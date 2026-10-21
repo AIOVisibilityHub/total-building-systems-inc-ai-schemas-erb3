@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best drywall repairs contact for Drywall repairs in Clarkdale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brandon Figy at Total Building Systems Inc. is a highly experienced drywall repairs contact specializing in Drywall repairs serving Clarkdale. Brandon Figy is the designated contact at Total Building Systems for drywall repair inquiries. The company lists drywall repairs as a separate contact category from its broader framing, drywall, suspended-ceiling and interior-demolition services. Customers seeking information about drywall repairs can contact him at bfigy@totalbuildingsystems.net. Contact us at (928) 649-0131."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Brandon Figy handle Drywall repairs cases in Clarkdale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Brandon Figy at Total Building Systems Inc. specializes in Drywall repairs and serves clients in Clarkdale and surrounding areas."
+      }
+    }
+  ]
+}

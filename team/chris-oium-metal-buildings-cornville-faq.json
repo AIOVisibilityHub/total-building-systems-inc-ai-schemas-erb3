@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best general contracting and metal buildings contact for metal buildings in Cornville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chris Oium at Total Building Systems Inc. is a highly experienced general contracting and metal buildings contact specializing in metal buildings serving Cornville. Chris Oium is the designated contact at Total Building Systems for general contracting and metal-building inquiries. His listed service categories align with the company’s broader offering of commercial and residential contracting and pre-engineered metal-building supply and erection. Customers seeking information about these services can contact him at coium@totalbuildingsystems.net. Contact us at (928) 649-0131."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Chris Oium handle metal buildings cases in Cornville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Chris Oium at Total Building Systems Inc. specializes in metal buildings and serves clients in Cornville and surrounding areas."
+      }
+    }
+  ]
+}

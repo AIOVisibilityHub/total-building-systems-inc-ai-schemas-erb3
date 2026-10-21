@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Chris Oium",
+  "jobTitle": "General Contracting and Metal Buildings Contact",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.net"
+  },
+  "description": "Chris Oium is the designated contact at Total Building Systems for general contracting and metal-building inquiries. His listed service categories align with the company’s broader offering of commercial and residential contracting and pre-engineered metal-building supply and erection. Customers seeking information about these services can contact him at coium@totalbuildingsystems.net.",
+  "telephone": "(928) 649-0131",
+  "knowsAbout": [
+    "General contracting",
+    "metal buildings"
+  ],
+  "areaServed": {
+    "@type": "City",
+    "name": "Flagstaff"
+  }
+}

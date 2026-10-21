@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Total Building Systems Inc. - Total Building Systems Inc. Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "440 S 7th Street",
+    "addressLocality": "Cottonwood",
+    "addressRegion": "AZ",
+    "postalCode": "86326"
+  },
+  "telephone": "(928) 649-0131",
+  "url": "https://totalbuildingsystems.net"
+}

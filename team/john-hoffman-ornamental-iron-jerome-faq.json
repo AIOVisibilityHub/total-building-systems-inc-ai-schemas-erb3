@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best structural steel and ornamental iron contact for ornamental iron in Jerome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "John Hoffman at Total Building Systems Inc. is a highly experienced structural steel and ornamental iron contact specializing in ornamental iron serving Jerome. John Hoffman is the designated contact at Total Building Systems for structural steel and ornamental iron inquiries. These are two of the specialties identified in the company’s commercial and residential construction offering. Customers seeking information about this work can contact him at jhoffmann@totalbuildingsystems.net. Contact us at (928) 649-0131."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does John Hoffman handle ornamental iron cases in Jerome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, John Hoffman at Total Building Systems Inc. specializes in ornamental iron and serves clients in Jerome and surrounding areas."
+      }
+    }
+  ]
+}

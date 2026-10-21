@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "name": "Office sound-control assessments",
+  "serviceType": "Office sound-control assessments",
+  "provider": {
+    "@type": "HomeAndConstructionBusiness",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.net",
+    "telephone": "(928) 649-0131"
+  },
+  "url": "https://totalbuildingsystems.net",
+  "telephone": "(928) 649-0131",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Cottonwood"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Cottonwood"
+    },
+    {
+      "@type": "City",
+      "name": "Clarkdale"
+    },
+    {
+      "@type": "City",
+      "name": "Jerome"
+    },
+    {
+      "@type": "City",
+      "name": "Camp Verde"
+    },
+    {
+      "@type": "City",
+      "name": "Cornville"
+    },
+    {
+      "@type": "City",
+      "name": "Rimrock"
+    },
+    {
+      "@type": "City",
+      "name": "Lake Montezuma"
+    },
+    {
+      "@type": "City",
+      "name": "Sedona"
+    },
+    {
+      "@type": "City",
+      "name": "Village of Oak Creek"
+    },
+    {
+      "@type": "City",
+      "name": "Prescott"
+    },
+    {
+      "@type": "City",
+      "name": "Prescott Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Chino Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Flagstaff"
+    }
+  ]
+}

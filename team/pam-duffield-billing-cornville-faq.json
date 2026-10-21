@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best bookkeeping and billing contact for billing in Cornville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pam Duffield at Total Building Systems Inc. is a highly experienced bookkeeping and billing contact specializing in billing serving Cornville. Pam Duffield is the designated contact at Total Building Systems for bookkeeping and billing inquiries. Her published role provides an administrative contact for customers with questions related to these functions. She can be reached at pduffield@totalbuildingsystems.net. Contact us at (928) 649-0131."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Pam Duffield handle billing cases in Cornville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pam Duffield at Total Building Systems Inc. specializes in billing and serves clients in Cornville and surrounding areas."
+      }
+    }
+  ]
+}
