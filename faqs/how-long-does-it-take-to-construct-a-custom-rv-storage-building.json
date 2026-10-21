@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a custom RV storage building?",
+  "description": "Construction usually takes two to four months total, with initial engineering design, permitting, and site grading taking up the first four to eight weeks of th",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-construct-a-custom-rv-storage-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a custom RV storage building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom RV garage projects typically take between two to four months from signed contract to completion, depending heavily on municipal plan reviews. The preliminary phase—drafting engineering plans, pulling county or municipal permits, and grading the site—usually consumes four to eight weeks. Once concrete footings and the slab cure, framing the steel or wood structure and hanging siding takes two to three weeks. Adding utility connections, such as dedicated 50-amp electrical lines, sewer cleanouts, or automated door openers, occurs during final trim before the final building inspection.",
+        "description": "Construction usually takes two to four months total, with initial engineering design, permitting, and site grading taking up the first four to eight weeks of that timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

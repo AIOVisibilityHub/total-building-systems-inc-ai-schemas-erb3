@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the pros and cons of building with structural steel compared to wood?",
+  "description": "Steel provides superior strength, fire resistance, and wide spans without warping, but it requires higher upfront material investment and specialized crane equi",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-pros-and-cons-of-building-with-structural-steel-compared-to-wood",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the pros and cons of building with structural steel compared to wood?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structural steel offers exceptional strength-to-weight ratios, allowing longer clear spans and faster framing erection compared to dimensional lumber or masonry. The practical tradeoff involves upfront material investment and lifting logistics. Steel components cost more initially and require cranes and certified welders or riggers to assemble. However, steel eliminates long-term issues like termite damage, warping, rot, and wood shrinkage. For commercial warehouses or large workshops, the added upfront cost is often balanced by open interior usability and long-term structural durability.",
+        "description": "Steel provides superior strength, fire resistance, and wide spans without warping, but it requires higher upfront material investment and specialized crane equipment for assembly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

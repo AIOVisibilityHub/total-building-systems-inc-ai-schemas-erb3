@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between design-build and design-bid-build?",
+  "description": "Design-build uses a single team for architectural design and construction, while design-bid-build keeps design and contracting separate under distinct contracts",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-design-build-and-design-bid-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between design-build and design-bid-build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the design-build method, you contract with a single entity that manages both the design and construction phases, while design-bid-build separates the architect and the general contractor under different contracts. Design-build typically streamlines communication, minimizes schedule delays, and allows construction budgeting to happen alongside design. However, design-bid-build gives business owners a fully completed set of architectural blueprints before bidding out construction work, which can provide clear competitive price comparisons. Choosing between them depends on whether your priority is project speed and single-source accountability or multiple competitive general contractor bids.",
+        "description": "Design-build uses a single team for architectural design and construction, while design-bid-build keeps design and contracting separate under distinct contracts and bidding cycles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

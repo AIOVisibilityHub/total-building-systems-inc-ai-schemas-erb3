@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the total cost of a detached metal garage?",
+  "description": "Costs depend on building dimensions, roof height, concrete slab thickness, site grading, door styles, insulation levels, and electrical additions.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-total-cost-of-a-detached-metal-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the total cost of a detached metal garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total cost depends on overall dimensions, wall height, foundation design, and interior finishes. Key variables include site grading requirements, the thickness and engineering of the concrete slab, door styles, and weatherization needs. A basic, uninsulated two-car steel garage with standard roll-up doors costs significantly less than a fully insulated workshop equipped with commercial sectional doors, custom overhangs, electrical packages, and interior partition walls. Getting an exact quote requires defining your planned vehicle heights, door clearances, and site-prep needs early so site grading and concrete specifications are accurately budgeted.",
+        "description": "Costs depend on building dimensions, roof height, concrete slab thickness, site grading, door styles, insulation levels, and electrical additions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

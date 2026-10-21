@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do permits and engineering approvals work for metal buildings?",
+  "description": "Suppliers provide sealed engineering drawings and anchor bolt plans tailored to local codes. Your general contractor pairs these with foundation plans to secure",
+  "url": "https://totalbuildingsystems.net/faq/how-do-permits-and-engineering-approvals-work-for-metal-buildings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do permits and engineering approvals work for metal buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building permits for metal structures require certified structural engineering calculations, architectural floor plans, and site plans. In communities across the Verde Valley like Cottonwood and Camp Verde, local building departments require sealed engineered drawings that verify compliance with regional wind, seismic, and live-load criteria. The metal building supplier provides wet-stamped or digitally signed structural engineered drawings and anchor bolt plans for the steel kit. The general contractor pairs these with foundation engineering and plot plans to submit the complete permit application package.",
+        "description": "Suppliers provide sealed engineering drawings and anchor bolt plans tailored to local codes. Your general contractor pairs these with foundation plans to secure building permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

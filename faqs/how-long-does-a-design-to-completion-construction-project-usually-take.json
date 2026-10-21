@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a design-to-completion construction project usually take?",
+  "description": "Most comprehensive projects take between 6 and 18 months, depending on plan complexity, permit review times, and the size of the structure.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-design-to-completion-construction-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a design-to-completion construction project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full design-through-construction projects generally take from six to eighteen months or longer. Total project timing depends on design iterations, jurisdictional permit review cycles, utility installations, and supply chain schedules for specialized materials. You gain significant time efficiency during pre-construction because material procurement and trade scheduling occur while permits are under official review, preventing prolonged downtime between phases.",
+        "description": "Most comprehensive projects take between 6 and 18 months, depending on plan complexity, permit review times, and the size of the structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

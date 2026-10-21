@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a detached metal garage and an attached garage?",
+  "description": "A detached metal garage is a freestanding structure placed anywhere on your lot, offering greater size and height flexibility without altering your home's exist",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-detached-metal-garage-and-an-attached-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a detached metal garage and an attached garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A detached metal garage is built as a freestanding steel structure separate from your primary home, whereas an attached garage shares one or more common walls. A detached metal garage offers greater flexibility in sizing, ceiling height, and property placement, making it ideal for large workshops, RV storage, or multi-vehicle parking. However, it requires dedicated yard space, its own utility trenching for power or water, and separate foundation engineering. An attached garage offers direct indoor access and shares existing framing, but site boundaries and existing rooflines often constrain its dimensions. Choosing detached avoids modifying your home's exterior walls or roof connections.",
+        "description": "A detached metal garage is a freestanding structure placed anywhere on your lot, offering greater size and height flexibility without altering your home's existing walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

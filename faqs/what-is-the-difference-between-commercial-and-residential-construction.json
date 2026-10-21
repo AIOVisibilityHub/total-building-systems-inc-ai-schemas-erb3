@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between commercial and residential construction?",
+  "description": "Commercial construction involves facilities built for business or public use, requiring stricter building codes, heavy-duty materials, and specialized commercia",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-commercial-and-residential-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between commercial and residential construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial construction covers buildings intended for business use, such as retail stores, offices, warehouses, and industrial facilities, whereas residential construction focuses on individual homes and living spaces. The main differences lie in building codes, engineering requirements, materials, and permitting. Commercial projects often demand heavy-duty structural steel, commercial-grade electrical and mechanical systems, and strict fire suppression standards. Zoning regulations and accessibility requirements under the ADA also play a larger role in commercial planning. In addition, commercial builds generally involve multi-tiered bidding processes, specialized subcontractors, and comprehensive site utility work to accommodate public traffic and heavy utility loads.",
+        "description": "Commercial construction involves facilities built for business or public use, requiring stricter building codes, heavy-duty materials, and specialized commercial permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

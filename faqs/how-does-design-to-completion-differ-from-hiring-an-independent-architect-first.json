@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does design-to-completion differ from hiring an independent architect first?",
+  "description": "A design-to-completion team manages design and construction under one contract, keeping budgets aligned and eliminating finger-pointing between parties.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-design-to-completion-differ-from-hiring-an-independent-architect-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does design-to-completion differ from hiring an independent architect first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a design-to-completion contractor creates a single point of responsibility, whereas hiring an independent designer leaves you to bridge the gap between creative concepts and practical building costs. The practical tradeoff comes down to administrative involvement: managing separate contracts requires you to resolve disputes if a design exceeds your construction budget. With unified project delivery, the builder tracks material costs and site feasibility during planning, preventing expensive redesigns or delays during construction.",
+        "description": "A design-to-completion team manages design and construction under one contract, keeping budgets aligned and eliminating finger-pointing between parties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

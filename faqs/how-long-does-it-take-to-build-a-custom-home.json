@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a custom home?",
+  "description": "Custom home construction typically takes 7 to 14 months after groundbreaking, depending on home size, site complexity, material availability, and weather condit",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-build-a-custom-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a custom home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most custom home builds take between seven and fourteen months once construction begins. The overall timeline depends on architectural complexity, site preparation demands, material procurement, and weather patterns. Factors like hillside grading, rocky soil excavation, or utility access in rural areas can extend early site work. Drafting plans, engineering approvals, and securing county or city permits occur before ground breaking and can add several months to the front end of your project calendar.",
+        "description": "Custom home construction typically takes 7 to 14 months after groundbreaking, depending on home size, site complexity, material availability, and weather conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

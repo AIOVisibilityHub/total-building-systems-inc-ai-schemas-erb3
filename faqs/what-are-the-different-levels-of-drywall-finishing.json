@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the different levels of drywall finishing?",
+  "description": "Finishes range from Level 0 (unfinished boards) to Level 5 (a full skim coat across the surface), with Level 4 being the standard for typical residential painti",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-different-levels-of-drywall-finishing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the different levels of drywall finishing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall finish levels range from Level 0 to Level 5, defined by the Gypsum Association based on visibility and final wall coverings. Level 1 involves basic taping in non-public areas like attics. Level 2 includes a thin coat of joint compound over tape and fasteners, typical in garages or behind tile. Level 3 adds an additional compound coat for medium-to-heavy wall textures. Level 4 is the standard finish for residential spaces receiving flat or low-sheen paint, featuring two coats over fasteners and joints. Level 5 adds a skim coat across the entire board surface for high-gloss paints or critical, raking lighting.",
+        "description": "Finishes range from Level 0 (unfinished boards) to Level 5 (a full skim coat across the surface), with Level 4 being the standard for typical residential painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

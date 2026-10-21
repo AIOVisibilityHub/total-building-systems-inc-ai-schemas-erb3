@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is steel-stud framing more expensive than traditional wood framing?",
+  "description": "Steel-stud framing has a comparable total cost to wood; while structural steel pieces may cost slightly more upfront, reduced job waste and faster installation",
+  "url": "https://totalbuildingsystems.net/faq/is-steel-stud-framing-more-expensive-than-traditional-wood-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is steel-stud framing more expensive than traditional wood framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steel studs generally cost slightly more upfront for structural applications, but they often match or beat wood pricing for interior non-load-bearing walls. A practical tradeoff is material cost versus long-term stability and job site efficiency. Steel components are lightweight, pre-punched for electrical wiring, and uniform, which can reduce labor time and eliminate material waste caused by warped or knotted lumber. Steel framing also avoids future maintenance costs tied to pest treatments, mold remediation, and settling cracks. For commercial spaces with strict fire codes, steel is almost always the more cost-effective compliant choice.",
+        "description": "Steel-stud framing has a comparable total cost to wood; while structural steel pieces may cost slightly more upfront, reduced job waste and faster installation balance out the budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

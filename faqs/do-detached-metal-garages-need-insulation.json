@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do detached metal garages need insulation?",
+  "description": "Insulation is recommended to prevent interior condensation caused by temperature swings and is essential if you plan to heat, cool, or use the garage as a works",
+  "url": "https://totalbuildingsystems.net/faq/do-detached-metal-garages-need-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do detached metal garages need insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steel garages require insulation if you plan to use the space as a workshop, store temperature-sensitive items, or prevent interior condensation. In northern and central Arizona, large daily temperature swings cause uninsulated metal roofs to sweat, dripping moisture onto tools and vehicles. Reflective radiant barriers or fiberglass blanket insulation installed under the steel panels control moisture and regulate heat. If you plan to heat or cool the garage year-round, rigid foam board or closed-cell spray foam provides superior thermal resistance, drastically lowering the operating costs of mini-split systems or space heaters.",
+        "description": "Insulation is recommended to prevent interior condensation caused by temperature swings and is essential if you plan to heat, cool, or use the garage as a workshop."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

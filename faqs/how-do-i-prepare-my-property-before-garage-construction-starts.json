@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare my property before garage construction starts?",
+  "description": "Clear vegetation, mark underground utilities, confirm setback lines, and have the pad professionally graded and compacted to ensure positive drainage.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-prepare-my-property-before-garage-construction-starts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare my property before garage construction starts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Site preparation begins with selecting a well-drained location clear of underground utility lines, easements, and overhead power wires. You must verify property line setbacks and clear the area of brush, trees, rocks, and topsoil. The building pad must be professionally graded and compacted to ensure a stable base that diverts rainwater away from the foundation. You should also map out access for concrete trucks and delivery flatbeds during construction, as well as the future driveway approach and utility routes for electric subpanels before excavation starts.",
+        "description": "Clear vegetation, mark underground utilities, confirm setback lines, and have the pad professionally graded and compacted to ensure positive drainage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

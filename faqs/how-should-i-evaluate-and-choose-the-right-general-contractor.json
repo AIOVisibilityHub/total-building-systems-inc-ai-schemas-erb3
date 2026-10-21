@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I evaluate and choose the right general contractor?",
+  "description": "Check their state license and insurance, evaluate past work comparable to your scope, ask for client references, and confirm they provide detailed written propo",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-evaluate-and-choose-the-right-general-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I evaluate and choose the right general contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a licensed, bonded, and insured contractor who has verified experience with projects matching your scope and architectural style. Always verify the contractor's license through the Arizona Registrar of Contractors (ROC) to review active license classifications and complaint history. Ask potential contractors for references from recently completed jobs and evaluate their communication approach during initial consultations. A dependable general contractor should provide detailed, written scopes of work rather than vague verbal estimates, explain how they handle change orders, and specify who will be the day-to-day project supervisor on your site.",
+        "description": "Check their state license and insurance, evaluate past work comparable to your scope, ask for client references, and confirm they provide detailed written proposals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

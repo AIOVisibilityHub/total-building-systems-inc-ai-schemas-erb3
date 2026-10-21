@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between custom and semi-custom residential construction?",
+  "description": "Custom builds offer total design flexibility from scratch, whereas semi-custom homes modify an established floor plan with predetermined finish options.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-custom-and-semi-custom-residential-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between custom and semi-custom residential construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom homes are designed entirely around your specific lot and living preferences, while semi-custom homes adapt pre-existing floor plans. With a custom home, you retain complete control over room layouts, ceiling heights, energy systems, and aesthetic details, but it demands longer design timelines and larger upfront planning budgets. Semi-custom builds allow cosmetic finish choices from a set catalog, which reduces design fees and shortens lead times but restricts structural modifications.",
+        "description": "Custom builds offer total design flexibility from scratch, whereas semi-custom homes modify an established floor plan with predetermined finish options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

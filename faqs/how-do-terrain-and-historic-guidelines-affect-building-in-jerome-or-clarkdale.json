@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do terrain and historic guidelines affect building in Jerome or Clarkdale?",
+  "description": "Steep hillsides require specialized foundation engineering and tight-access planning, while local historic preservation rules govern exterior material selection",
+  "url": "https://totalbuildingsystems.net/faq/how-do-terrain-and-historic-guidelines-affect-building-in-jerome-or-clarkdale",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do terrain and historic guidelines affect building in Jerome or Clarkdale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hillside topography and historic zoning in communities like Jerome and Clarkdale introduce specific engineering, access, and design review requirements. Steep slopes and uneven terrain often demand specialized foundation engineering, retaining walls, and deliberate staging strategies due to limited street access or parking. In designated historic districts, exterior remodeling, siding, roofing materials, and window replacements must conform to municipal historic preservation guidelines before building permits are issued. A regional general contractor familiar with Yavapai County jurisdictions understands how to coordinate with local design review boards and plan for terrain constraints during early project scheduling.",
+        "description": "Steep hillsides require specialized foundation engineering and tight-access planning, while local historic preservation rules govern exterior material selections and design approvals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

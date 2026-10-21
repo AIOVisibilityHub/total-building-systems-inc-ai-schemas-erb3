@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the steps involved in constructing a pre-engineered metal building?",
+  "description": "The process includes engineering design, local permitting, off-site fabrication, site excavation and foundation pouring, steel framing assembly, and final panel",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-steps-involved-in-constructing-a-pre-engineered-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the steps involved in constructing a pre-engineered metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an architectural and engineering consultation to determine your footprint, roof profile, and structural requirements. Next, engineered drawings are produced for county or municipal plan review and building permits. While permits process and the steel components are manufactured off-site, the construction site is cleared, graded, and prepped with concrete footings and a structural slab. Once delivered, steel erectors assemble the primary frames, install secondary framing, hang wall and roof panels, and install trim. Finally, inspections occur before doors, insulation, and interior finishes wrap up.",
+        "description": "The process includes engineering design, local permitting, off-site fabrication, site excavation and foundation pouring, steel framing assembly, and final panel installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

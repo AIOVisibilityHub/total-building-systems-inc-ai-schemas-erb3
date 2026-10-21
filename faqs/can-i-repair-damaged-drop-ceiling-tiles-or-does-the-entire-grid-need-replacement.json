@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I repair damaged drop ceiling tiles, or does the entire grid need replacement?",
+  "description": "Individual tiles can be replaced if the metal grid is level and undamaged. A full replacement is required if the grid is warped, rusted, or structurally misalig",
+  "url": "https://totalbuildingsystems.net/faq/can-i-repair-damaged-drop-ceiling-tiles-or-does-the-entire-grid-need-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I repair damaged drop ceiling tiles, or does the entire grid need replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can repair individual tiles if the underlying metal grid remains square, level, and rust-free. Spot replacement works well for isolated water stains or cracked acoustic panels once the original leak is resolved. However, complete system replacement is necessary when main runners are bent, hanger wires have pulled loose, or moisture has corroded the perimeter angles. Swapping out only the tiles on a warped grid leaves uneven gaps and risks tiles dropping. As a general contractor, Total Building Systems Inc. inspects both the framing suspension and above-ceiling mechanicals before recommending patch repairs versus a full teardown.",
+        "description": "Individual tiles can be replaced if the metal grid is level and undamaged. A full replacement is required if the grid is warped, rusted, or structurally misaligned."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

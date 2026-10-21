@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should you prepare before consulting a commercial general contractor?",
+  "description": "Prepare your site survey, zoning information, project budget, target timeline, and an outline of your operational and square footage requirements.",
+  "url": "https://totalbuildingsystems.net/faq/what-information-should-you-prepare-before-consulting-a-commercial-general-contr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should you prepare before consulting a commercial general contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a commercial general contractor, gather your property survey, zoning verification, conceptual sketches or preliminary plans, and an outline of your operational requirements. Document your intended square footage, special mechanical or electrical loads, parking needs, and your target completion timeline. Having a defined budget range and funding arrangement in place allows the contractor to evaluate whether your project parameters align with current material and labor costs. Preparing these details helps the contractor provide specific feedback on site feasibility, phasing, and initial pre-construction steps.",
+        "description": "Prepare your site survey, zoning information, project budget, target timeline, and an outline of your operational and square footage requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

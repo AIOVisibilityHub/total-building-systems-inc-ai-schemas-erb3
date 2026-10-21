@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of foundation is required for a metal workshop?",
+  "description": "Most metal workshops require an engineered concrete slab with reinforcement; heavy tools or automotive lifts require deeper, thickened concrete footings beneath",
+  "url": "https://totalbuildingsystems.net/faq/what-kind-of-foundation-is-required-for-a-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of foundation is required for a metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most metal workshops require a reinforced concrete slab designed to support concentrated point loads from machinery, workbenches, and vehicles. The slab typically ranges from 4 to 6 inches thick, reinforced with rebar or welded wire mesh, and poured over a compacted aggregate base. If you plan to install heavy-duty machinery or a two-post automotive lift, the foundation will need deeper, thickened footings engineered directly under the lift mounting points to meet structural anchoring specifications.",
+        "description": "Most metal workshops require an engineered concrete slab with reinforcement; heavy tools or automotive lifts require deeper, thickened concrete footings beneath them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What phases are involved in a commercial construction project?",
+  "description": "The phases include pre-construction planning, permitting, site civil work, structural framing, mechanical and electrical rough-ins, interior finishes, and final",
+  "url": "https://totalbuildingsystems.net/faq/what-phases-are-involved-in-a-commercial-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What phases are involved in a commercial construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard commercial construction project involves pre-construction planning, design and engineering, permitting, site work, vertical construction, and closeout. During pre-construction, your general contractor reviews architectural plans, conducts feasibility assessments, and finalizes budgets. Site work follows with earthmoving, utility installation, and foundation pouring. Structural framing, exterior envelope installation, and interior mechanical, electrical, and plumbing rough-ins come next. The process wraps up with interior finishes, local building inspections, and the issuance of a certificate of occupancy, ensuring your building meets all commercial safety standards before handover.",
+        "description": "The phases include pre-construction planning, permitting, site civil work, structural framing, mechanical and electrical rough-ins, interior finishes, and final occupancy inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

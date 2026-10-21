@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do repairs differ in older homes around Cottonwood, Clarkdale, or Jerome that have plaster walls?",
+  "description": "Older homes often feature true plaster over lath, which is thicker than modern drywall. Repairs require custom shimming and bonding compounds to blend flush wit",
+  "url": "https://totalbuildingsystems.net/faq/how-do-repairs-differ-in-older-homes-around-cottonwood-clarkdale-or-jerome-that",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do repairs differ in older homes around Cottonwood, Clarkdale, or Jerome that have plaster walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In older Verde Valley homes across areas like Cottonwood, Clarkdale, and Jerome, walls are frequently plaster over lath or early plasterboard rather than modern standard drywall. Plaster is thicker, brittle, and keys into wooden lath, meaning modern half-inch gypsum board does not sit flush without shimming or custom backing. Repairing historical or older plaster requires specialized fasteners, bonding agents, or multi-step plaster patching compounds to prevent cracking along the transition lines where modern materials meet original surfaces.",
+        "description": "Older homes often feature true plaster over lath, which is thicker than modern drywall. Repairs require custom shimming and bonding compounds to blend flush with original walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

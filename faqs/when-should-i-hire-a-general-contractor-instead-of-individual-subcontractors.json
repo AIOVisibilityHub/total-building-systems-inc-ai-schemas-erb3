@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a general contractor instead of individual subcontractors?",
+  "description": "Hire a general contractor for projects involving multiple trades, structural changes, or building permits. Single-trade updates can often be handled directly by",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-hire-a-general-contractor-instead-of-individual-subcontractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a general contractor instead of individual subcontractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a general contractor when a project involves multiple trades, structural alterations, or required building permits. Simple single-trade tasks, like replacing a standard water heater or painting a room, can usually be handled directly by specialized subcontractors or handy services. However, whole-home additions, commercial build-outs, and major kitchen or bathroom remodels require coordinating electricians, plumbers, framers, and dry-wallers. A general contractor oversees the entire schedule, secures necessary municipal permits, manages safety on-site, and ensures work meets building codes. Hiring a general contractor removes the burden of managing conflicting subcontractor schedules and resolves quality issues through a single point of accountability.",
+        "description": "Hire a general contractor for projects involving multiple trades, structural changes, or building permits. Single-trade updates can often be handled directly by specialized trades."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I prepare before requesting a custom steel building quote?",
+  "description": "Prepare your desired dimensions, door and window locations, intended use, property boundaries, and whether you plan to insulate or heat the interior space.",
+  "url": "https://totalbuildingsystems.net/faq/what-information-should-i-prepare-before-requesting-a-custom-steel-building-quot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I prepare before requesting a custom steel building quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a builder, identify your building's primary use, target dimensions, and any specific vehicle or equipment clearances you require. Note where you want walk-in doors, roll-up bay doors, and windows to sit relative to your driveway or access roads. You should also check for property easements, verify utility locations, and pull your parcel map. Knowing whether you plan to insulate or heat the structure allows your builder to specify the proper frame gauge and roof purlin spacing during the initial quote.",
+        "description": "Prepare your desired dimensions, door and window locations, intended use, property boundaries, and whether you plan to insulate or heat the interior space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

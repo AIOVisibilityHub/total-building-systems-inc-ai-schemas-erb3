@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is selective interior demolition?",
+  "description": "Selective interior demolition is the targeted removal of specific interior components, like walls or flooring, while preserving the surrounding framing, utiliti",
+  "url": "https://totalbuildingsystems.net/faq/what-is-selective-interior-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is selective interior demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selective interior demolition is the targeted removal of specific interior components while keeping the surrounding structure, framing, and finishes intact. Common targets include non-load-bearing partition walls, cabinetry, flooring, dropped ceilings, and fixtures. Unlike a full gut or structural tear-down, the primary goal is precision. Before work begins, contractors isolate the work zone with dust barriers and identify hidden MEP (mechanical, electrical, plumbing) lines to prevent accidental disruption to adjacent rooms that remain in use.",
+        "description": "Selective interior demolition is the targeted removal of specific interior components, like walls or flooring, while preserving the surrounding framing, utilities, and finishes intact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

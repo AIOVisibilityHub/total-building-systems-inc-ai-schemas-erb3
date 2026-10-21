@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the practical trade-offs between a steel-framed home and a traditional timber home?",
+  "description": "Steel framing delivers fire resistance, pest immunity, and wide-open spans, but requires precise upfront design since altering steel openings later is more comp",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-practical-trade-offs-between-a-steel-framed-home-and-a-traditional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the practical trade-offs between a steel-framed home and a traditional timber home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-engineered metal homes offer superior fire resistance, pest immunity, and structural spans, while wood-framed homes provide more familiarity for traditional subcontractors and simpler future wall modifications. Steel does not rot, warp, or feed termites, making it durable in arid, rural terrain. However, trade-offs exist: making major structural modifications or adding exterior windows after the steel frame is engineered and bolted requires specialized planning, unlike wood studs which can be easily cut and sistered. For open-concept living and low exterior maintenance, steel holds a significant advantage.",
+        "description": "Steel framing delivers fire resistance, pest immunity, and wide-open spans, but requires precise upfront design since altering steel openings later is more complex than modifying wood studs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

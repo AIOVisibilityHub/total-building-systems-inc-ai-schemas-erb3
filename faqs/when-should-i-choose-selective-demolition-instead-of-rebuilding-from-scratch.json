@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I choose selective demolition instead of rebuilding from scratch?",
+  "description": "Choose selective demolition when you want to change specific layouts or finishes, like removing a wall or old cabinetry, while leaving sound structural framing",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-choose-selective-demolition-instead-of-rebuilding-from-scratch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I choose selective demolition instead of rebuilding from scratch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need selective demolition when you plan to alter an interior layout, update finishes, or remediate localized damage without rebuilding the entire structure. Common scenarios include removing a non-structural wall to open a kitchen, stripping water-damaged drywall without tearing out framing, or converting commercial office partitions to an open-plan layout. Choosing selective removal over total gutting preserves functional infrastructure and keeps overall project timelines shorter.",
+        "description": "Choose selective demolition when you want to change specific layouts or finishes, like removing a wall or old cabinetry, while leaving sound structural framing and utilities intact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I want to change the scope of work during construction?",
+  "description": "Scope modifications are handled through a written change order that details price and schedule adjustments, requiring signatures from both parties before work p",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-if-i-want-to-change-the-scope-of-work-during-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I want to change the scope of work during construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A change order is a written amendment that alters the original contract's scope of work, price, or timeline. When an owner requests different materials, modifies a layout, or when unexpected conditions like dry rot or outdated wiring are uncovered behind walls, a change order is prepared. The document details the new work, the associated cost adjustment, and the expected impact on the completion schedule. Both the property owner and the general contractor must sign the change order before the additional work begins, ensuring cost transparency and avoiding billing surprises at the end of the project.",
+        "description": "Scope modifications are handled through a written change order that details price and schedule adjustments, requiring signatures from both parties before work proceeds."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

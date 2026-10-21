@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit to construct an RV garage in the Verde Valley?",
+  "description": "Yes, permanent RV garages require building permits to verify setback distances, building height limits, and engineered wind loads under local municipal building",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-to-construct-an-rv-garage-in-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit to construct an RV garage in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building permits are almost always required for permanent RV storage structures because of structural, zoning, and safety codes. In jurisdictions across the Verde Valley, including Cottonwood, Clarkdale, and Camp Verde, local building departments evaluate setback distances from property lines, maximum allowable building heights, and engineered wind ratings. Detached structures placed too close to a lot line or septic area may be rejected during plan review. Working with a licensed general contractor helps ensure structural engineering sheets, site plans, and zoning variance requests are filed correctly before any grading or concrete work starts.",
+        "description": "Yes, permanent RV garages require building permits to verify setback distances, building height limits, and engineered wind loads under local municipal building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before hiring a contractor for ceiling repairs?",
+  "description": "Document room dimensions, verify all overhead leaks are fixed, identify tile sizes, and note light fixtures, air vents, or sprinklers integrated into the ceilin",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-hiring-a-contractor-for-ceiling-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before hiring a contractor for ceiling repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before requesting a quote, note your room dimensions, ceiling height, current tile dimensions (typically 2x2 or 2x4 feet), and the cause of damage. Check whether water leaks above the ceiling have been fully repaired by a plumber or roofer before booking ceiling work. It is also helpful to count integrated features such as fluorescent or LED light troffers, air diffusers, and fire sprinkler heads that penetrate the grid. Having photos of water-damaged sections and loose framing helps contractors prepare accurate scopes of work.",
+        "description": "Document room dimensions, verify all overhead leaks are fixed, identify tile sizes, and note light fixtures, air vents, or sprinklers integrated into the ceiling grid."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

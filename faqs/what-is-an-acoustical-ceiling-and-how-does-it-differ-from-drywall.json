@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an acoustical ceiling and how does it differ from drywall?",
+  "description": "An acoustical ceiling is a suspended grid system holding sound-absorbing tiles, whereas drywall forms a solid, permanent surface that reflects sound and blocks",
+  "url": "https://totalbuildingsystems.net/faq/what-is-an-acoustical-ceiling-and-how-does-it-differ-from-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an acoustical ceiling and how does it differ from drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An acoustical ceiling, often called a drop ceiling or suspended ceiling, consists of a lightweight metal grid hung by wires from the main overhead structure, filled with sound-absorbing tiles. Unlike drywall, which reflects noise and seals off access to overhead utilities, acoustical ceilings provide easy access to ductwork, electrical wiring, and plumbing pipes. They are commonly installed in offices, retail spaces, basements, and commercial facilities to absorb sound reverberation and hide overhead building components without requiring major structural remodeling.",
+        "description": "An acoustical ceiling is a suspended grid system holding sound-absorbing tiles, whereas drywall forms a solid, permanent surface that reflects sound and blocks easy utility access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare for a custom ornamental iron estimate?",
+  "description": "Identify your primary goal, measure the approximate length and height, photograph the site, and note whether posts will mount into soil, concrete, or masonry.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-prepare-for-a-custom-ornamental-iron-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare for a custom ornamental iron estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before reaching out to a contractor, clarify the primary purpose of the ironwork—such as perimeter security, pool barrier compliance, pet containment, or decorative curb appeal. You should also take rough measurements of the opening or perimeter, take clear photos of the surrounding terrain, and inspect the mounting ground. Note whether posts will anchor into existing concrete, stone retaining walls, or dirt. Identifying any elevation changes or gate swing clearances in advance helps your contractor provide a much more accurate initial estimate.",
+        "description": "Identify your primary goal, measure the approximate length and height, photograph the site, and note whether posts will mount into soil, concrete, or masonry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

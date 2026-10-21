@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What drywall thickness is required for interior walls and ceilings?",
+  "description": "Half-inch drywall is standard for interior walls and ceilings, while five-eighths inch Type X is used where enhanced fire resistance or sound reduction is neede",
+  "url": "https://totalbuildingsystems.net/faq/what-drywall-thickness-is-required-for-interior-walls-and-ceilings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What drywall thickness is required for interior walls and ceilings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall panels are available in standard thicknesses: one-quarter inch, three-eighths inch, one-half inch, and five-eighths inch. One-half inch drywall is the standard choice for interior residential walls and standard joist-spaced ceilings. Five-eighths inch drywall is heavier and denser, commonly required as Type X fire-rated drywall on garage-to-house separation walls, furnace closets, and multi-family party walls. Thinner panels, such as one-quarter inch, are primarily used as bendable overlays over existing sound walls or curved surfaces rather than single-layer framing attachments.",
+        "description": "Half-inch drywall is standard for interior walls and ceilings, while five-eighths inch Type X is used where enhanced fire resistance or sound reduction is needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

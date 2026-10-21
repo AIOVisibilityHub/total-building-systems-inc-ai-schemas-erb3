@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can the exterior and interior of a pre-engineered metal home be customized?",
+  "description": "Yes. The exterior can incorporate stucco, stone, and traditional siding, while the interior clear-span structure allows completely custom, non-load-bearing room",
+  "url": "https://totalbuildingsystems.net/faq/can-the-exterior-and-interior-of-a-pre-engineered-metal-home-be-customized",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can the exterior and interior of a pre-engineered metal home be customized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can customize both the interior and exterior of a metal home to look indistinguishable from a conventional luxury residence. Steel clear-span frames carry roof loads directly to the exterior foundation, allowing you to position interior partition walls anywhere without load-bearing constraints. For the exterior, you are not limited to ribbed vertical steel panels; your contractor can integrate stucco, stone wainscoting, wood siding accents, and custom covered porches. This flexibility makes it easy to satisfy neighborhood aesthetics while maintaining the structural longevity of a steel frame.",
+        "description": "Yes. The exterior can incorporate stucco, stone, and traditional siding, while the interior clear-span structure allows completely custom, non-load-bearing room layouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

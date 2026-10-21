@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of suspended ceiling repair or replacement?",
+  "description": "Costs depend on room size, tile type, ceiling height, grid condition, and the complexity of working around overhead ductwork, wiring, and light fixtures.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-suspended-ceiling-repair-or-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of suspended ceiling repair or replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to repair or replace a suspended ceiling depends on square footage, tile material, ceiling height, and accessibility above the grid. Spot repairs on accessible standard 2x4 panels are the most budget-friendly. Full replacements cost more because they include removing old grids, re-anchoring hanger wires to structural joists, and adjusting for overhead HVAC ducting, plumbing lines, or lighting fixtures. Choosing specialty acoustic, moisture-resistant, or designer tiles also raises material expenses compared to standard mineral fiber panels. Total Building Systems Inc. provides itemized bids detailing labor, disposal, and materials.",
+        "description": "Costs depend on room size, tile type, ceiling height, grid condition, and the complexity of working around overhead ductwork, wiring, and light fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do professionals match an existing wall or ceiling texture on a patch?",
+  "description": "Professionals match texture by replicating original spray pressures or trowel techniques, feathering compound past the repair edge, and priming thoroughly to bl",
+  "url": "https://totalbuildingsystems.net/faq/how-do-professionals-match-an-existing-wall-or-ceiling-texture-on-a-patch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do professionals match an existing wall or ceiling texture on a patch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching existing wall texture requires replicating the application technique, compound consistency, and tool patterns of the original surface. Common interior styles include orange peel, knockdown, heavy hand trowel, and skip trowel. Achieving a seamless patch depends on adjusting compound thickness and featheredging into surrounding dry walls. A major tradeoff occurs when working around older walls that have multiple coats of paint; fresh joint compound absorbs moisture and paint differently than weathered paint layers. Feathering the repair out 6 to 12 inches past the damaged zone and priming with a dedicated drywall sealing primer helps blend the patch so borders disappear under final paint.",
+        "description": "Professionals match texture by replicating original spray pressures or trowel techniques, feathering compound past the repair edge, and priming thoroughly to blend into aged paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

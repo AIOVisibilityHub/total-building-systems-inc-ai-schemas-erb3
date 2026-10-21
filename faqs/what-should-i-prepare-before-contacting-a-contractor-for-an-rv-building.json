@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before contacting a contractor for an RV building?",
+  "description": "Measure your RV with accessories and slide-outs, locate property easements and septic areas on your site plan, and determine which electrical or water hookups y",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-contacting-a-contractor-for-an-rv-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before contacting a contractor for an RV building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before reaching out to a contractor, gather your RV dimensions, your property plot map, and a list of desired utilities. Measure your vehicle length including hitches, rear bike racks, and bumpers, along with the width with slide-outs extended. Check your property layout for overhead power lines, underground utility easements, and septic tank drain fields, which dictate where a pad can be poured. Deciding in advance whether you want indoor winterization hookups, a sanitary dump drain, or secondary vehicle parking will streamline early design consultations and site layout planning.",
+        "description": "Measure your RV with accessories and slide-outs, locate property easements and septic areas on your site plan, and determine which electrical or water hookups you require."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

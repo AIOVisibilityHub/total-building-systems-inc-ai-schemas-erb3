@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do before repairing water-damaged drywall?",
+  "description": "Always stop and repair the water source first. Ensure internal studs and insulation are completely dry before installing new drywall to prevent mold and rot.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-do-before-repairing-water-damaged-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do before repairing water-damaged drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before repairing the drywall, you must identify and fix the underlying moisture source, whether it is a leaking pipe, roof failure, or exterior seepage. Repairing drywall over active moisture traps dampness inside wall cavities, encouraging mold growth and framing rot. Once plumbing or structural fixes are completed, open the damaged area to confirm the internal insulation and wall studs are thoroughly dry. Only install new drywall once moisture meters confirm the cavity is safe to close.",
+        "description": "Always stop and repair the water source first. Ensure internal studs and insulation are completely dry before installing new drywall to prevent mold and rot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

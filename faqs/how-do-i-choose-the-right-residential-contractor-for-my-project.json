@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right residential contractor for my project?",
+  "description": "Check active state licensing and insurance, review portfolios of similar work, speak with previous clients, and ensure they provide clear, transparent contracts",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-residential-contractor-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right residential contractor for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To choose the right general contractor, verify current state licensing, general liability insurance, and worker compensation coverage through official state registrar databases. Ask candidates about their experience with your specific home style and local terrain. Request references from recent clients to learn how the builder communicates, resolves unexpected site challenges, and manages timelines. A reliable contractor provides clear contracts, detailed allowances, and transparent schedules before construction begins.",
+        "description": "Check active state licensing and insurance, review portfolios of similar work, speak with previous clients, and ensure they provide clear, transparent contracts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

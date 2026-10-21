@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before starting an end-to-end building project?",
+  "description": "Gather your property boundary survey, overall budget range, HOA rules, and a prioritized list of structural and functional needs.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-starting-an-end-to-end-building-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before starting an end-to-end building project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare effectively, gather your property survey, preliminary budget range, deed restrictions, and a list of functional priorities. It helps to define must-haves versus nice-to-haves, such as room counts, ceiling heights, or utility requirements. Documenting your property details beforehand allows the builder to evaluate lot access, existing utilities, and grading requirements early, ensuring the preliminary design aligns with site realities from the start.",
+        "description": "Gather your property boundary survey, overall budget range, HOA rules, and a prioritized list of structural and functional needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

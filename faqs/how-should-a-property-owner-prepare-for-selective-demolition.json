@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a property owner prepare for selective demolition?",
+  "description": "Clear personal items from the work area and hallways, confirm utility shutoff locations, and clearly mark which fixtures or architectural features must be prese",
+  "url": "https://totalbuildingsystems.net/faq/how-should-a-property-owner-prepare-for-selective-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a property owner prepare for selective demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preparation requires clearing personal belongings, identifying utility shutoffs, and establishing an accessible path for debris hauling. Property owners should clear out furniture, wall hangings, and sensitive items from both the work zone and immediate walkways. It is also critical to document which elements must stay versus what gets removed, and verify whether water, gas, or electrical supplies feeding the demolition zone can be isolated without shutting off the entire building.",
+        "description": "Clear personal items from the work area and hallways, confirm utility shutoff locations, and clearly mark which fixtures or architectural features must be preserved."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

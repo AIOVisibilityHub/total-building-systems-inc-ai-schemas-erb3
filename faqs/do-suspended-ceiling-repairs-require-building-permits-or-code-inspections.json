@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do suspended ceiling repairs require building permits or code inspections?",
+  "description": "Minor tile swaps do not need permits, but full grid replacements, fire-rated ceiling alterations, or light fixture reconfigurations often require local permits.",
+  "url": "https://totalbuildingsystems.net/faq/do-suspended-ceiling-repairs-require-building-permits-or-code-inspections",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do suspended ceiling repairs require building permits or code inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Suspended ceiling grid systems must comply with local building and fire safety codes, particularly regarding seismic bracing, clearance around sprinkler heads, and fire-rated assemblies. Building departments often require permits when moving primary grid supports, altering commercial fire barriers, or relocating hardwired light fixtures and emergency exit signage. Working with a licensed general contractor like Total Building Systems Inc. ensures the suspension grid meets local load requirements and inspections are handled properly alongside any electrical or mechanical adjustments.",
+        "description": "Minor tile swaps do not need permits, but full grid replacements, fire-rated ceiling alterations, or light fixture reconfigurations often require local permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

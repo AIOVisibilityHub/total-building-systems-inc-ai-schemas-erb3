@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What needs to be prepared before ceiling grid installation begins?",
+  "description": "Complete all overhead plumbing, electrical, and HVAC work first, and clear the room of furniture so installers have unobstructed floor access for scaffolding.",
+  "url": "https://totalbuildingsystems.net/faq/what-needs-to-be-prepared-before-ceiling-grid-installation-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What needs to be prepared before ceiling grid installation begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before installation begins, confirm all overhead rough-in mechanical work is fully completed, inspected, and approved. This includes electrical conduits, data cabling, plumbing lines, and HVAC duct runs. It is far more efficient to fix pipe leaks or run low-voltage wiring while the overhead space is completely open than after the grid is suspended. Property owners should also clear furniture and equipment from the work area to provide a safe, open footprint for ladders and laser levels.",
+        "description": "Complete all overhead plumbing, electrical, and HVAC work first, and clear the room of furniture so installers have unobstructed floor access for scaffolding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

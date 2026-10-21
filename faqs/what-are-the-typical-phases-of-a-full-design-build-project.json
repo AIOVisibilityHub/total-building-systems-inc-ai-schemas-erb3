@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical phases of a full design-build project?",
+  "description": "Projects move through feasibility, drafting, permitting, foundation, framing, interior and exterior finishing, and final inspection.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-typical-phases-of-a-full-design-build-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical phases of a full design-build project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with initial feasibility and budget alignment, followed by conceptual drafting and structural engineering. Once drawings are approved, your contractor submits plans to local building authorities for permits. When permits are issued, site preparation, foundation work, framing, rough-in mechanicals, and interior finishes proceed in scheduled phases. A thorough final inspection and walkthrough resolve any punch-list items before official handover.",
+        "description": "Projects move through feasibility, drafting, permitting, foundation, framing, interior and exterior finishing, and final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

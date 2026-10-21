@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for interior demolition work?",
+  "description": "Select a licensed, insured contractor experienced in structural framing and utility systems who uses formal dust containment and provides transparent disposal p",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-contractor-for-interior-demolition-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for interior demolition work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for a licensed, bonded, and insured general contractor or demolition specialist who carries active worker compensation coverage and liability insurance. Ask about their dust containment protocols, disposal procedures, and utility isolation steps. A dependable contractor will provide a clear scope of work detailing what will be removed, what will be protected, where dumpsters will be staged, and how debris will be hauled away. Choosing a contractor who understands building structure prevents costly accidents, such as punctured plumbing lines, severed live wires, or damage to critical load-bearing framing.",
+        "description": "Select a licensed, insured contractor experienced in structural framing and utility systems who uses formal dust containment and provides transparent disposal plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

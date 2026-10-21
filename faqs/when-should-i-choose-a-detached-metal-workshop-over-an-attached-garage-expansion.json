@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I choose a detached metal workshop over an attached garage expansion?",
+  "description": "Choose a detached workshop when you need higher ceilings, isolation from dust and equipment noise, or a larger footprint than your home's roofline allows.",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-choose-a-detached-metal-workshop-over-an-attached-garage-expansion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I choose a detached metal workshop over an attached garage expansion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standalone workshop offers freedom from space constraints, keeps noise, dust, and fumes away from your living quarters, and allows tailored structural features like higher ceilings and larger access doors. However, detached buildings require separate utility trenching, distinct foundation permits, and adequate acreage. An attached workshop shares existing exterior walls and can lower utility run costs, but it reduces living privacy, limits your building footprint, and increases fire-separation requirements mandated by residential building codes.",
+        "description": "Choose a detached workshop when you need higher ceilings, isolation from dust and equipment noise, or a larger footprint than your home's roofline allows."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

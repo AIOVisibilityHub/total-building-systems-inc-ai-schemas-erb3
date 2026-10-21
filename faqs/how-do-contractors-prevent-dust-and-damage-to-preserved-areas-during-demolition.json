@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do contractors prevent dust and damage to preserved areas during demolition?",
+  "description": "Crews set up plastic containment barriers, seal HVAC vents, lay floor protection along haul routes, and run HEPA air scrubbers to control airborne dust.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-contractors-prevent-dust-and-damage-to-preserved-areas-during-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do contractors prevent dust and damage to preserved areas during demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contractors use containment barriers, floor protection, and negative air filtration to safeguard surrounding rooms. Heavy plastic sheeting with zippered access points seals doorways, while temporary covers block HVAC supply and return vents to keep dust from circulating through ductwork. High-traffic walkways receive ram board or surface protection, and HEPA air scrubbers run continuously to capture fine particulate before it can settle outside the containment zone.",
+        "description": "Crews set up plastic containment barriers, seal HVAC vents, lay floor protection along haul routes, and run HEPA air scrubbers to control airborne dust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

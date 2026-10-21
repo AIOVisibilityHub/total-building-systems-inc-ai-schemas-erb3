@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my room before drywall repair work begins?",
+  "description": "Move furniture and wall decor away from the work area to give technicians clear access. Contractors will lay down drop cloths and plastic to contain fine sandin",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-room-before-drywall-repair-work-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my room before drywall repair work begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can help the process by clearing a four-to-six-foot perimeter around the damaged wall, removing hanging pictures, and moving nearby furniture or fragile items. Drywall cutting and sanding generate fine dust, so professional crews protect floors and nearby belongings with plastic sheeting and drop cloths. If the repair involves plumbing or electrical cuts, ensure clear access to the main shutoff valves or breaker panel in case technicians need to verify utility lines inside the cavity.",
+        "description": "Move furniture and wall decor away from the work area to give technicians clear access. Contractors will lay down drop cloths and plastic to contain fine sanding dust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

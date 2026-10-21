@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for interior demolition in the Verde Valley?",
+  "description": "Cosmetic demolition usually does not need a permit, but removing walls or altering plumbing, electrical, or gas lines requires permits from your local municipal",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-interior-demolition-in-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for interior demolition in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you need a permit depends on your local municipality and whether the demolition alters structural, electrical, plumbing, or mechanical systems. Simply removing cosmetic finishes like cabinets, tile, and flooring rarely requires a permit. However, taking down walls, capping gas lines, or modifying rough plumbing typically triggers municipal review. In municipalities across the Verde Valley, including Cottonwood, Clarkdale, and Camp Verde, building departments require permits if framing changes or trade alterations are planned. Checking with your local building safety division before swinging a hammer prevents stop-work orders.",
+        "description": "Cosmetic demolition usually does not need a permit, but removing walls or altering plumbing, electrical, or gas lines requires permits from your local municipal building department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

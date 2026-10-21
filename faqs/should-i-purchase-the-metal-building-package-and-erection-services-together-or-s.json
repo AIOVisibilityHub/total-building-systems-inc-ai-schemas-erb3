@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I purchase the metal building package and erection services together or separately?",
+  "description": "Purchasing both together ensures single-source accountability, avoiding disputes between fabricators and field crews over delivery logistics, missing parts, or",
+  "url": "https://totalbuildingsystems.net/faq/should-i-purchase-the-metal-building-package-and-erection-services-together-or-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I purchase the metal building package and erection services together or separately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Purchasing supply and erection as a single package creates single-source accountability and prevents costly delays. When steel is bought from one vendor and assembled by an independent third party, disputes often arise over missing hardware, fabricated hole alignments, or delivery damage. A combined supply-and-erection contractor oversees component detailing, coordinates delivery schedules with equipment rentals, and directly manages assembly tolerances. This integrated approach reduces overhead, simplifies communication, and ensures the building package matches the field team’s installation practices.",
+        "description": "Purchasing both together ensures single-source accountability, avoiding disputes between fabricators and field crews over delivery logistics, missing parts, or fit-up issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

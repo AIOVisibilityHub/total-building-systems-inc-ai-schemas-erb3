@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of drywall finishing and texture repairs?",
+  "description": "Costs depend on patch size, ceiling height, texture complexity, and drying time across multiple coats. Containment setup and blending out to natural corners als",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-drywall-finishing-and-texture-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of drywall finishing and texture repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall repair and texture matching costs depend primarily on the square footage, access height, the type of texture, and whether containment is required. Small localized patches under one square foot usually carry minimum trip charges because technicians must allow compound layers to dry between visits. In contrast, complex hand-applied textures like skip trowel or matching high ceilings in great rooms require more setup, labor time, and masking. Removing furniture, clearing work paths, and identifying whether you want spot repairs or corner-to-corner blending helps contractors provide an accurate initial scope without unexpected extra labor charges.",
+        "description": "Costs depend on patch size, ceiling height, texture complexity, and drying time across multiple coats. Containment setup and blending out to natural corners also affect pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which communities do you prioritize for residential drywall repairs?",
+  "description": "We primarily serve Cottonwood, Clarkdale, Jerome, Camp Verde, and Cornville. Grouping several drywall patches into one visit offers homeowners the most efficien",
+  "url": "https://totalbuildingsystems.net/faq/which-communities-do-you-prioritize-for-residential-drywall-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which communities do you prioritize for residential drywall repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our core drywall repair and general contracting services center on Cottonwood, Clarkdale, Jerome, Camp Verde, and Cornville, though we also evaluate projects across the broader regional area. When scheduling drywall repairs, grouping multiple small patches or punch-list repairs into a single visit provides the best value, as drying and setup times remain fairly constant whether we fix one hole or several in the same home.",
+        "description": "We primarily serve Cottonwood, Clarkdale, Jerome, Camp Verde, and Cornville. Grouping several drywall patches into one visit offers homeowners the most efficient scheduling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of an interior demolition project?",
+  "description": "Costs depend on square footage, material types, disposal requirements, and site accessibility, such as carrying debris through finished rooms versus using direc",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-an-interior-demolition-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of an interior demolition project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior demolition costs depend on the square footage, material density, ease of access, and disposal fees. Removing light drywall partitions and carpet is substantially less labor-intensive than breaking out concrete hearths, plaster walls, or glued-down hardwood floors. Hazardous material considerations, such as handling older paint or insulation materials, also alter pricing. Site access plays a major role: carrying debris down multiple flights of stairs or across finished living spaces increases labor hours compared to rolling roll-off bins directly adjacent to a ground-floor staging door.",
+        "description": "Costs depend on square footage, material types, disposal requirements, and site accessibility, such as carrying debris through finished rooms versus using direct dumpster access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

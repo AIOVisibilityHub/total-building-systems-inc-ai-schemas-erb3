@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I upgrade to modern ceiling tiles without tearing out my existing grid?",
+  "description": "Yes, as long as your existing grid is square and structurally sound, you can drop in modern acoustic, smooth, or washable tiles without replacing the metal fram",
+  "url": "https://totalbuildingsystems.net/faq/can-i-upgrade-to-modern-ceiling-tiles-without-tearing-out-my-existing-grid",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I upgrade to modern ceiling tiles without tearing out my existing grid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can easily upgrade to modern acoustic, washable, or aesthetic tiles without altering your metal grid, provided the existing grid is level and in sound condition. Standard commercial grids feature either 15/16-inch or 9/16-inch widths designed for 2x2 or 2x4 panels. If you want to switch from older 2x4 cracked panels to a modern 2x2 pattern, center tees can be added without tearing down the perimeter track. Upgrading to smooth, sag-resistant, or mold-inhibiting panels improves room appearance and acoustic performance with minimal downtime.",
+        "description": "Yes, as long as your existing grid is square and structurally sound, you can drop in modern acoustic, smooth, or washable tiles without replacing the metal frame."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

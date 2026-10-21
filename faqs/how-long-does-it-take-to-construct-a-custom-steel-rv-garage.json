@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a custom steel RV garage?",
+  "description": "Site prep, permitting, and concrete work usually take a few weeks, while the actual steel building assembly takes about one to two weeks depending on complexity",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-construct-a-custom-steel-rv-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a custom steel RV garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom metal RV garage typically takes several weeks to complete once construction starts, but the total timeline depends heavily on permitting, site prep, and slab curing. Engineering plans and local municipal approvals generally take a few weeks before any work begins on-site. Once permits are issued, excavation, concrete foundation work, and adequate curing take about one to two weeks. The erection of the steel frame, wall panels, and trim usually takes several days to two weeks depending on building complexity, door configurations, and weather conditions.",
+        "description": "Site prep, permitting, and concrete work usually take a few weeks, while the actual steel building assembly takes about one to two weeks depending on complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

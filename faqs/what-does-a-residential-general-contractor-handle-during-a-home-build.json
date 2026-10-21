@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a residential general contractor handle during a home build?",
+  "description": "A residential general contractor coordinates the entire build, managing subcontractors, ordering materials, scheduling inspections, and ensuring the project fol",
+  "url": "https://totalbuildingsystems.net/faq/what-does-a-residential-general-contractor-handle-during-a-home-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a residential general contractor handle during a home build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general contractor oversees your residential build from initial planning through final inspection. Rather than managing dozens of individual trade workers yourself, a general contractor coordinates licensed subcontractors, procures materials, schedules site inspections, and ensures structural work meets approved plans. When building in the Verde Valley or surrounding Yavapai County communities, hiring a local general contractor also provides direct familiarity with regional ground conditions, local municipal building departments, and regional utility connection steps.",
+        "description": "A residential general contractor coordinates the entire build, managing subcontractors, ordering materials, scheduling inspections, and ensuring the project follows approved building plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

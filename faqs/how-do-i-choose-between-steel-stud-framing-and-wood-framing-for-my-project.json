@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose between steel-stud framing and wood framing for my project?",
+  "description": "Choose steel for commercial fire compliance, straight walls, and termite protection; choose wood if your design relies on standard residential light-frame wood",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-between-steel-stud-framing-and-wood-framing-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose between steel-stud framing and wood framing for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose steel framing if you are building a commercial space, want unmatched fire resistance, or need completely straight, maintenance-free walls that never warp. Steel is the preferred choice for commercial interiors, tenant improvements, and modern basements because it meets strict non-combustible building codes. Choose wood if your project involves standard residential construction where local framers are primarily wood-oriented, or where exterior thermal bridging without foam sheathing is a concern. If your priority is termite immunity, dimensional stability, and crisp drywall finishes, steel framing is an outstanding alternative to traditional lumber.",
+        "description": "Choose steel for commercial fire compliance, straight walls, and termite protection; choose wood if your design relies on standard residential light-frame wood conventions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can ornamental iron gates be automated with motorized openers?",
+  "description": "Yes, ornamental iron provides the structural rigidity needed for gate openers, provided the frame includes reinforced mounting plates and heavy-duty hinges.",
+  "url": "https://totalbuildingsystems.net/faq/can-ornamental-iron-gates-be-automated-with-motorized-openers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can ornamental iron gates be automated with motorized openers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, ornamental iron gates are frequently customized to support both residential and commercial automatic gate operators. Because iron is rigid and heavy, it resists the twisting forces applied by swing-arm or slide-gate motors much better than lightweight materials. When planning an automated gate, the contractor must design reinforced hinge posts, weld dedicated mounting tabs into the gate frame, and ensure smooth ground clearance along the entire swing path. Electrical conduit and control boxes must also be planned during the layout phase.",
+        "description": "Yes, ornamental iron provides the structural rigidity needed for gate openers, provided the frame includes reinforced mounting plates and heavy-duty hinges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

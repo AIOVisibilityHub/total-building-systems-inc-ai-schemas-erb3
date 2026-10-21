@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local building conditions in Cottonwood and the Verde Valley affect ceiling systems?",
+  "description": "High summer cooling loads cause duct condensation that damages tiles, while foundation settling in historic Verde Valley structures requires re-leveling suspens",
+  "url": "https://totalbuildingsystems.net/faq/how-do-local-building-conditions-in-cottonwood-and-the-verde-valley-affect-ceili",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local building conditions in Cottonwood and the Verde Valley affect ceiling systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, commercial and residential properties across Cottonwood, Clarkdale, Jerome, Camp Verde, and Cornville experience significant summer heat and winter temperature swings, which drive heavy HVAC use and duct condensation. In historic or older structures in communities like Jerome and Clarkdale, uneven structural settling often pulls ceiling framing out of level. Total Building Systems Inc. inspects structural attachment points in older wood or masonry framing and checks overhead AC duct condensation lines to ensure new ceiling grids remain level, stable, and dry over time.",
+        "description": "High summer cooling loads cause duct condensation that damages tiles, while foundation settling in historic Verde Valley structures requires re-leveling suspension grids."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I choose ornamental iron over wood or vinyl fencing?",
+  "description": "Choose ornamental iron when you need non-combustible durability, rigid security, wind stability, and clear sightlines that wood and vinyl cannot provide.",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-choose-ornamental-iron-over-wood-or-vinyl-fencing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I choose ornamental iron over wood or vinyl fencing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need ornamental iron when standard wood, vinyl, or chain-link fencing fails to provide the necessary structural strength, wind resistance, or architectural match for your property. It is ideal for security gates, steep hillside railings, courtyard entries, and retaining wall barriers where open sightlines and rigid physical strength are both required. It is also an excellent option when local building codes or HOA guidelines demand long-lasting, fire-resistant exterior materials that will not warp, burn, or rot in arid outdoor environments.",
+        "description": "Choose ornamental iron when you need non-combustible durability, rigid security, wind stability, and clear sightlines that wood and vinyl cannot provide."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

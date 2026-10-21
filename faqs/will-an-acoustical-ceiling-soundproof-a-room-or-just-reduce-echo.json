@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will an acoustical ceiling soundproof a room or just reduce echo?",
+  "description": "Acoustical ceilings absorb sound reverberation to reduce room echo, but blocking sound transmission between rooms requires tiles with high Ceiling Attenuation C",
+  "url": "https://totalbuildingsystems.net/faq/will-an-acoustical-ceiling-soundproof-a-room-or-just-reduce-echo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will an acoustical ceiling soundproof a room or just reduce echo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard drop ceiling tiles excel at dampening room echo and internal chatter, but they do not completely soundproof a room against sound traveling into adjacent spaces. Mineral fiber and fiberglass tiles have high Noise Reduction Coefficient ratings to control reverberation within the room. However, to block noise from traveling through the ceiling plenum into next-door offices, you must install tiles with a high Ceiling Attenuation Class rating or add sound-barrier batts above the grid system.",
+        "description": "Acoustical ceilings absorb sound reverberation to reduce room echo, but blocking sound transmission between rooms requires tiles with high Ceiling Attenuation Class ratings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

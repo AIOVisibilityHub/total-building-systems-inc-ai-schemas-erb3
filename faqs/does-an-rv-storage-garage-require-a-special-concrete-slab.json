@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does an RV storage garage require a special concrete slab?",
+  "description": "Yes, RVs require a reinforced concrete slab five to six inches thick with thickened perimeter footings to support heavy axle loads without cracking over time.",
+  "url": "https://totalbuildingsystems.net/faq/does-an-rv-storage-garage-require-a-special-concrete-slab",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does an RV storage garage require a special concrete slab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard four-inch residential garage slab is insufficient for large Class A motorhomes, fifth wheels, and heavy toy haulers. Most RV buildings require a concrete slab at least five to six inches thick, reinforced with rebar and poured with a higher compressive strength concrete mix. Heavily loaded axles create concentrated point loads that crack unreinforced concrete. Proper preparation includes a compacted aggregate sub-base, perimeter thickened footings, and specific apron design at the garage door threshold to handle repeated heavy vehicle transitions without spalling or fracturing.",
+        "description": "Yes, RVs require a reinforced concrete slab five to six inches thick with thickened perimeter footings to support heavy axle loads without cracking over time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between pre-engineered metal buildings and custom structural steel?",
+  "description": "Pre-engineered buildings use standardized kit designs ideal for basic rectangular layouts, while custom structural steel handles complex, heavy, or multi-story",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-pre-engineered-metal-buildings-and-custom-structu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between pre-engineered metal buildings and custom structural steel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-engineered metal buildings (PEMB) use standardized, tapered steel frames designed as a complete manufacturer package, whereas custom structural steel uses hot-rolled shapes (like standard I-beams) fabricated to custom architectural plans. The practical tradeoff is flexibility versus speed and cost. PEMBs are cost-effective and fast for standard rectangular footprints like storage facilities or basic barns. Custom structural steel accommodates complex geometry, heavy equipment hanging loads, multi-story layouts, and custom exterior facades where standard metal building kits cannot perform.",
+        "description": "Pre-engineered buildings use standardized kit designs ideal for basic rectangular layouts, while custom structural steel handles complex, heavy, or multi-story architectural designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design and erect a pre-engineered metal building?",
+  "description": "The entire process usually takes several months, including engineering, permitting, off-site manufacturing, foundation pouring, and one to three weeks for steel",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-design-and-erect-a-pre-engineered-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design and erect a pre-engineered metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical pre-engineered metal building project takes anywhere from a few months to over half a year from initial planning to completion. The process starts with structural design and engineering calculations, followed by local permitting. Once plans are approved, off-site steel fabrication generally takes several weeks. While components are manufactured, on-site grading, excavation, and concrete slab work take place. When the steel package arrives on-site, erection moves quickly, often taking one to three weeks depending on the structure's square footage and roof height. Mechanical rough-ins and interior finishing follow afterward.",
+        "description": "The entire process usually takes several months, including engineering, permitting, off-site manufacturing, foundation pouring, and one to three weeks for steel erection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

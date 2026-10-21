@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What site preparation is required before a steel building can be erected?",
+  "description": "You need a cured, engineered concrete foundation with set anchor bolts, cleared delivery access for semi-trucks, level ground for staging, and overhead clearanc",
+  "url": "https://totalbuildingsystems.net/faq/what-site-preparation-is-required-before-a-steel-building-can-be-erected",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What site preparation is required before a steel building can be erected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Site preparation requires completed zoning approvals, grading, engineered foundation work, and adequate equipment staging space. A certified concrete foundation with properly aligned anchor bolts must be poured and cured to specified compressive strength before erection begins. In addition, the job site must provide stable, level ground capable of supporting heavy delivery flatbeds and rough-terrain forklifts or cranes. Erection crews also require unobstructed clearance overhead, free of low-hanging utility lines, to allow crane booms to safely raise primary frames into place.",
+        "description": "You need a cured, engineered concrete foundation with set anchor bolts, cleared delivery access for semi-trucks, level ground for staging, and overhead clearance for crane operations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

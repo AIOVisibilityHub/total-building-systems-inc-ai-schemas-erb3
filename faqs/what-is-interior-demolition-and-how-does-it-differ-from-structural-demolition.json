@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is interior demolition and how does it differ from structural demolition?",
+  "description": "Interior demolition removes interior components like walls, floors, and fixtures while preserving the building shell. Structural demolition tears down the core",
+  "url": "https://totalbuildingsystems.net/faq/what-is-interior-demolition-and-how-does-it-differ-from-structural-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is interior demolition and how does it differ from structural demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior demolition involves the selective removal of non-structural and interior elements inside a building while keeping the exterior shell and core structure intact. Typical projects include stripping kitchens, gutting bathrooms, pulling up flooring, and removing non-load-bearing partition walls. In commercial spaces, it often refers to tenant improvement strip-outs down to the concrete slab and perimeter studs. Structural demolition, by contrast, removes foundational components, bearing walls, roof structures, or entire buildings. A selective interior demo allows property owners to reconfigure layouts, update mechanical systems, and prepare spaces for remodeling without rebuilding from the ground up.",
+        "description": "Interior demolition removes interior components like walls, floors, and fixtures while preserving the building shell. Structural demolition tears down the core framing or the entire building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

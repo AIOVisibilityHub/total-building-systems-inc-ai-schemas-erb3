@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is structural steel needed instead of traditional wood framing?",
+  "description": "Structural steel is needed for wide clear spans, heavy roof loads, or tall open spaces where wood framing lacks the strength to support the structure without in",
+  "url": "https://totalbuildingsystems.net/faq/when-is-structural-steel-needed-instead-of-traditional-wood-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is structural steel needed instead of traditional wood framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structural steel is required whenever a project demands wide, open floor plans, heavy roof loads, or structural support that exceeds standard wood framing capacities. Commercial facilities, industrial warehouses, custom multi-story homes, and buildings with expansive clear-span entries frequently rely on steel framing. The decision factor usually comes down to architectural spans and weight distribution. If your design eliminates interior load-bearing walls or incorporates large overhead doors, an engineered steel frame or steel I-beam system provides the required load resistance without sagging over time.",
+        "description": "Structural steel is needed for wide clear spans, heavy roof loads, or tall open spaces where wood framing lacks the strength to support the structure without interior columns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

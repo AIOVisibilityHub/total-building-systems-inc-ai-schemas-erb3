@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What site preparation is required for commercial construction in Cottonwood and the Verde Valley?",
+  "description": "Site prep requires civil grading, soil stability assessments, stormwater drainage planning, and proper utility infrastructure connections to meet local Verde Va",
+  "url": "https://totalbuildingsystems.net/faq/what-site-preparation-is-required-for-commercial-construction-in-cottonwood-and",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What site preparation is required for commercial construction in Cottonwood and the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ground-up commercial projects in Cottonwood and neighboring Verde Valley communities require comprehensive civil engineering to address regional topography, local soil conditions, and stormwater runoff. Sites often require grading plans that accommodate drainage washes and soil stability assessments before foundation designs are finalized. Additionally, commercial properties must connect to municipal water and sewer services or install commercial-grade septic systems in outlying areas. Proper site preparation also includes utility trenching, retention basin planning, and paved access that accommodates both customer traffic and emergency service vehicles per local standards.",
+        "description": "Site prep requires civil grading, soil stability assessments, stormwater drainage planning, and proper utility infrastructure connections to meet local Verde Valley standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

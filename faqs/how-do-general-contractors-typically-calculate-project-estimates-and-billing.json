@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do general contractors typically calculate project estimates and billing?",
+  "description": "Contracts are usually fixed-price based on exact plans or cost-plus based on actual expenses. Scope clarity and finalized material choices prevent estimate adju",
+  "url": "https://totalbuildingsystems.net/faq/how-do-general-contractors-typically-calculate-project-estimates-and-billing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do general contractors typically calculate project estimates and billing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General contracting pricing is commonly structured as either a fixed-price (lump sum) contract or a cost-plus contract. A fixed-price agreement sets an agreed total price based on explicit architectural drawings and material specifications, protecting the property owner from unexpected material cost increases. A cost-plus structure charges the direct cost of materials and labor plus an agreed-upon contractor management fee, offering flexibility for complex custom builds where the full scope cannot be detailed up front. Practical cost factors include existing structural condition, site access, material lead times, and client-requested change orders. Clear blueprints and finalized fixture selections help prevent costly revisions mid-project.",
+        "description": "Contracts are usually fixed-price based on exact plans or cost-plus based on actual expenses. Scope clarity and finalized material choices prevent estimate adjustments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

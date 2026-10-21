@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the cost of a pre-engineered metal home compare to traditional wood framing?",
+  "description": "Pre-engineered metal homes reduce framing labor and future maintenance, but total turnkey costs depend heavily on your interior finishes, site excavation, and f",
+  "url": "https://totalbuildingsystems.net/faq/how-does-the-cost-of-a-pre-engineered-metal-home-compare-to-traditional-wood-fra",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the cost of a pre-engineered metal home compare to traditional wood framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-engineered metal homes generally offer lower initial framing labor and long-term maintenance costs, though high-end interior finishes can bring overall prices comparable to custom stick-built construction. The main cost efficiency comes during the framing phase, where pre-punched, bolt-together steel packages erect significantly faster than traditional lumber framing. However, concrete foundation requirements are often more exacting because steel load points create concentrated structural loads. Homeowners save substantially over time on maintenance, pest treatments, and exterior repainting, but upfront site preparation, utility trenching, and interior finish selections remain identical to conventional builds.",
+        "description": "Pre-engineered metal homes reduce framing labor and future maintenance, but total turnkey costs depend heavily on your interior finishes, site excavation, and foundation work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

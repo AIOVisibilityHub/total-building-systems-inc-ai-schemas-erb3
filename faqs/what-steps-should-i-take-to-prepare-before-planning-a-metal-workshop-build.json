@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps should I take to prepare before planning a metal workshop build?",
+  "description": "Define your power and equipment needs, evaluate site access and ground slope, note utility locations, and outline your door and ceiling clearance requirements.",
+  "url": "https://totalbuildingsystems.net/faq/what-steps-should-i-take-to-prepare-before-planning-a-metal-workshop-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps should I take to prepare before planning a metal workshop build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dedicated metal workshop begins with a clear floor plan and site evaluation. First, define your specific utility needs, including the electrical panel amperage required for welders, air compressors, or heavy tools, as well as water or sewer rough-ins. Next, assess the build site for slope, soil stability, drainage, and property line access for delivery trucks and construction equipment. Gathering equipment dimensions and determining whether you require insulated overhead doors or walk-in doors prepares you for an efficient initial contractor consultation.",
+        "description": "Define your power and equipment needs, evaluate site access and ground slope, note utility locations, and outline your door and ceiling clearance requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

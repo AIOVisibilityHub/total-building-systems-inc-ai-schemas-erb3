@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before contacting a contractor for an RV garage quote?",
+  "description": "Gather your RV’s exact exterior dimensions with all rooftop gear, locate your property boundaries, and determine your driveway turning clearance and utility nee",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-contacting-a-contractor-for-an-rv-garage-quote",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before contacting a contractor for an RV garage quote?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before reaching out for an estimate, measure your RV's total length, width with slide-outs open, and total height including rooftop air units. Check your property boundary pins and note any existing overhead power lines or underground utilities that might restrict access. Consider how you will drive the RV into the building, accounting for turning radius, driveway slopes, and approach angles. Having a rough idea of added needs—like a 50-amp electrical outlet, sewer cleanout access, or extra room for standard vehicles—streamlines the initial consultation.",
+        "description": "Gather your RV’s exact exterior dimensions with all rooftop gear, locate your property boundaries, and determine your driveway turning clearance and utility needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

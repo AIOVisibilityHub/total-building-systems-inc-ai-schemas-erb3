@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are costs determined for selective interior demolition?",
+  "description": "Costs depend on square footage, materials being removed, debris disposal fees, access constraints, and the labor required to protect nearby intact structures.",
+  "url": "https://totalbuildingsystems.net/faq/how-are-costs-determined-for-selective-interior-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are costs determined for selective interior demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on project square footage, material accessibility, debris disposal, and whether utility re-routing or hazardous material handling is involved. Simple residential jobs like pulling tile or cabinets in a single room require less labor and containment than opening up multiple rooms or removing heavy masonry and plaster. Commercial spaces with high ceilings or complex fire suppression lines also incur higher disposal and labor expenses due to the specialized protection required.",
+        "description": "Costs depend on square footage, materials being removed, debris disposal fees, access constraints, and the labor required to protect nearby intact structures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

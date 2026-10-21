@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is insulation important in a metal workshop, and what are the options?",
+  "description": "Insulation regulates temperature and stops moisture condensation from rusting tools; popular options include vinyl-backed fiberglass blankets, rigid board, and",
+  "url": "https://totalbuildingsystems.net/faq/why-is-insulation-important-in-a-metal-workshop-and-what-are-the-options",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is insulation important in a metal workshop, and what are the options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulation is essential in metal workshops to prevent condensation buildup and control interior temperatures. Steel panels readily transfer external heat and cold, causing moisture to collect on interior surfaces during temperature shifts, which can rust tools and equipment. Common insulation choices include vinyl-faced fiberglass rolls, rigid foam board, or spray foam insulation. Spray foam provides high R-values and seals gaps against dust and air infiltration, though it carries a higher upfront cost than fiberglass blankets installed during initial framing.",
+        "description": "Insulation regulates temperature and stops moisture condensation from rusting tools; popular options include vinyl-backed fiberglass blankets, rigid board, and spray foam."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

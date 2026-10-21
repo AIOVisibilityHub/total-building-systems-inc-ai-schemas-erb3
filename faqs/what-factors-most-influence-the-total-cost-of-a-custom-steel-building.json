@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors most influence the total cost of a custom steel building?",
+  "description": "Total costs depend on building dimensions, roof pitch, insulation, door packages, site preparation, and the concrete slab required for your property.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-most-influence-the-total-cost-of-a-custom-steel-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors most influence the total cost of a custom steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom steel building depends on dimensions, roof pitch, door configurations, foundation requirements, and interior finishing. Clear-span widths, heavy overhead doors, and higher insulation ratings will shift the overall budget. Site preparation and concrete slab engineering also play a major role, as unlevel ground or poor soil demands additional earthwork. Choosing a turnkey contractor who coordinates both the concrete foundation and the steel erection helps you avoid unexpected change orders between separate subcontractors.",
+        "description": "Total costs depend on building dimensions, roof pitch, insulation, door packages, site preparation, and the concrete slab required for your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

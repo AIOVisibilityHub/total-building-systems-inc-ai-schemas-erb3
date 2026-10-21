@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is steel framing beneficial for buildings in the Verde Valley region?",
+  "description": "Steel does not warp in dry desert heat and is completely immune to subterranean termites, which are common across the Verde Valley and Cottonwood area.",
+  "url": "https://totalbuildingsystems.net/faq/why-is-steel-framing-beneficial-for-buildings-in-the-verde-valley-region",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is steel framing beneficial for buildings in the Verde Valley region?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steel-stud framing offers exceptional resistance to the arid, fluctuating high-desert climate found in the Verde Valley. In towns like Cottonwood, Camp Verde, and Clarkdale, wood framing faces dramatic temperature swings and dry air that cause lumber to twist, crown, and check. Steel remains completely unaffected by arid weather, humidity shifts, or extreme summer heat. Furthermore, subterranean termites are a persistent issue throughout the Verde Valley. Because steel provides no organic food source, it eliminates the threat of structural termite damage, making it a reliable choice for regional commercial and residential builds.",
+        "description": "Steel does not warp in dry desert heat and is completely immune to subterranean termites, which are common across the Verde Valley and Cottonwood area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

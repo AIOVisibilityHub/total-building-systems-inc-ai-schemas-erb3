@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a detached metal garage?",
+  "description": "On-site construction usually takes four to eight weeks, preceded by four to six weeks for engineering, permitting, and steel manufacturing.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-build-a-detached-metal-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a detached metal garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Constructing a detached metal garage typically takes between four to eight weeks once site work begins, though overall project length depends on pre-construction steps. Permitting reviews, custom steel manufacturing, and site engineering usually take four to six weeks prior to breaking ground. Once permits are issued, the on-site sequence moves quickly: site excavation and concrete foundation work take about one to two weeks, concrete curing takes roughly a week, and steel framing and metal panel erection take another one to two weeks. Severe weather or delays in utility trenching can extend this timeline.",
+        "description": "On-site construction usually takes four to eight weeks, preceded by four to six weeks for engineering, permitting, and steel manufacturing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

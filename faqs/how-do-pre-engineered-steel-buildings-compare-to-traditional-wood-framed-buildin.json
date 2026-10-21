@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do pre-engineered steel buildings compare to traditional wood-framed buildings?",
+  "description": "Steel buildings offer wide, column-free interiors, better fire resistance, and durability, while wood framing is typically limited to smaller footprints with mo",
+  "url": "https://totalbuildingsystems.net/faq/how-do-pre-engineered-steel-buildings-compare-to-traditional-wood-framed-buildin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do pre-engineered steel buildings compare to traditional wood-framed buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-engineered metal buildings offer clear-span interiors up to several hundred feet without load-bearing interior posts, whereas conventional wood framing generally requires internal supports or costly custom trusses for wide layouts. Steel provides superior fire resistance, zero risk of termite damage, and lower long-term structural maintenance. However, wood framing can offer simpler field modifications during construction and sometimes lower initial material costs for very small footprints like basic residential garages. For commercial storage, industrial shops, or large agricultural shelters, metal buildings provide significantly higher durability and volume per dollar.",
+        "description": "Steel buildings offer wide, column-free interiors, better fire resistance, and durability, while wood framing is typically limited to smaller footprints with more interior load supports."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an interior demolition project typically take?",
+  "description": "Most residential interior demos take 1 to 5 days. Full commercial strip-outs or whole-home gut jobs take longer depending on square footage, materials, and disp",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-an-interior-demolition-project-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an interior demolition project typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most non-structural interior tear-outs take between one and five business days, though commercial gut renovations or whole-home projects can run two weeks or more. Timeline factors include the square footage, accessibility of the work area, materials being removed, and disposal logistics. Removing tile set over a mortar bed, for instance, requires significantly more labor and time than peeling up floating vinyl plank flooring. Project duration also depends on whether salvageable fixtures must be carefully preserved and whether utility disconnects for water, gas, and power are scheduled ahead of demolition day.",
+        "description": "Most residential interior demos take 1 to 5 days. Full commercial strip-outs or whole-home gut jobs take longer depending on square footage, materials, and disposal access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do 2x2 foot tiles compare to 2x4 foot ceiling panels?",
+  "description": "The 2x2 tiles provide a modern look and better sag resistance, while 2x4 panels cost less in labor and materials for large commercial footprints.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-2x2-foot-tiles-compare-to-2x4-foot-ceiling-panels",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do 2x2 foot tiles compare to 2x4 foot ceiling panels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 2x2 grid offers a balanced, contemporary architectural look and resists center sagging better under humid conditions, while a 2x4 grid requires fewer pieces and installs faster. A 2x4 grid is often the most economical choice for large utility spaces or rental suites because it requires fewer cross tees and labor hours. However, 2x2 grids provide greater flexibility for modern square LED panel lighting, directional diffusers, and tighter architectural ceiling plans.",
+        "description": "The 2x2 tiles provide a modern look and better sag resistance, while 2x4 panels cost less in labor and materials for large commercial footprints."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

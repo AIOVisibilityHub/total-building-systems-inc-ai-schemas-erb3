@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during a full drop ceiling replacement project?",
+  "description": "The process includes removing old components, shooting laser levels, anchoring new hanger wires, assembling the metal grid, integrating lighting, and placing ne",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-during-a-full-drop-ceiling-replacement-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during a full drop ceiling replacement project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacing a suspended ceiling involves containment, teardown, structural layout, grid installation, and tile placement. Work begins by covering flooring and inventory beneath the work zone. Installers take down old tiles, lighting connections, and compromised T-bar grids. Next, laser levels establish the new perimeter wall track height, and heavy-gauge hanger wires are anchored into the ceiling framing. Installers assemble main runners and cross tees, square every bay, reinstall compatible lighting fixtures, and drop in new panels. A final inspection ensures panels sit flush without bowing or edge gaps.",
+        "description": "The process includes removing old components, shooting laser levels, anchoring new hanger wires, assembling the metal grid, integrating lighting, and placing new tiles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

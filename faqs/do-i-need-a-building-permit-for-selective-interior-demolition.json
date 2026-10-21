@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for selective interior demolition?",
+  "description": "Permits are usually required when removing load-bearing walls or moving electrical and plumbing lines, but simple finish removals may not require them.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-selective-interior-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for selective interior demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permits are typically required if the demolition alters load-bearing framing, modifies electrical circuits, or reroutes plumbing and HVAC lines. Removing superficial finishes like tile, carpet, or freestanding cabinets often bypasses structural permit triggers, though commercial tenant improvements almost always require local building department review. A licensed general contractor reviews building department guidelines to pull proper trade and demolition permits prior to commencing structural or utility work.",
+        "description": "Permits are usually required when removing load-bearing walls or moving electrical and plumbing lines, but simple finish removals may not require them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

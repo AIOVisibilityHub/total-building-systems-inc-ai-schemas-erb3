@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best acoustic tiles for my building?",
+  "description": "Select tiles based on room use: high NRC ratings for sound control in offices, moisture-resistant panels for humid areas, and standard mineral fiber for basic u",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-best-acoustic-tiles-for-my-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best acoustic tiles for my building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selecting the right ceiling tile depends on your room function, humidity levels, and acoustic goals. For offices and conference rooms, choose tiles with a high Noise Reduction Coefficient (NRC) to absorb conversations. In humid areas, basements, or commercial kitchen prep zones, moisture-resistant or vinyl-faced tiles prevent mold, sagging, and water staining. For standard retail or dry commercial spaces, cost-effective mineral fiber panels provide adequate insulation and sound dampening without exceeding your budget.",
+        "description": "Select tiles based on room use: high NRC ratings for sound control in offices, moisture-resistant panels for humid areas, and standard mineral fiber for basic utility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a load-bearing wall be removed during selective interior demolition?",
+  "description": "Yes, but only with temporary shoring in place and an engineered beam installed to support the structural load before framing is cut.",
+  "url": "https://totalbuildingsystems.net/faq/can-a-load-bearing-wall-be-removed-during-selective-interior-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a load-bearing wall be removed during selective interior demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but it requires temporary shoring, engineered support beams, and structural review before any studs are cut. A general contractor must install temporary support walls to carry roof or upper-floor loads while the existing wall is removed. Once the opening is clear, permanent headers or steel beams are placed to redistribute weight. Attempting to demo any wall without confirming its load-bearing status risks ceiling sagging and structural failure.",
+        "description": "Yes, but only with temporary shoring in place and an engineered beam installed to support the structural load before framing is cut."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

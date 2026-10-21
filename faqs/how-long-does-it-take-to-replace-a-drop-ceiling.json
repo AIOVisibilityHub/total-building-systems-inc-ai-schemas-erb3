@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to replace a drop ceiling?",
+  "description": "Small repairs take a few hours, while full room grid and tile replacements generally take one to three days depending on ceiling height and overhead mechanicals",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-replace-a-drop-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to replace a drop ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minor spot repairs usually take a few hours, while standard commercial or residential room replacements typically take one to three business days. The schedule expands if your space has high ceilings requiring scaffolding, intricate room perimeters, or dense MEP (mechanical, electrical, plumbing) infrastructure overhead. Coordinating with electrical trades to disconnect and remount recessed troffer lights can also affect turnaround. Contractors plan phases to isolate dusty teardowns so workspace downtime remains minimal throughout installation.",
+        "description": "Small repairs take a few hours, while full room grid and tile replacements generally take one to three days depending on ceiling height and overhead mechanicals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

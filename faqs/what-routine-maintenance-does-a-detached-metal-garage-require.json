@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What routine maintenance does a detached metal garage require?",
+  "description": "Routinely rinse exterior panels, clear foundation drainage paths, lubricate door tracks, and inspect weather seals to keep the building in peak condition.",
+  "url": "https://totalbuildingsystems.net/faq/what-routine-maintenance-does-a-detached-metal-garage-require",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What routine maintenance does a detached metal garage require?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a detached metal garage requires minimal work compared to other building types. Periodically wash down the exterior metal wall and roof panels with water and a mild detergent to clear away dust, airborne mineral deposits, and debris. Clean out gutters, downspouts, and the base perimeter to ensure rainwater drains away from the foundation. Inspect door tracks, hinges, and weatherstripping twice a year, lubricating moving mechanical parts to keep overhead doors operating smoothly. Promptly touch up any deep surface scratches on coated panels to protect the underlying galvanized steel from oxidation.",
+        "description": "Routinely rinse exterior panels, clear foundation drainage paths, lubricate door tracks, and inspect weather seals to keep the building in peak condition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

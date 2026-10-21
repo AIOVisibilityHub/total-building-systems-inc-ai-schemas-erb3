@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can structural steel framing be added to an existing wood or masonry building?",
+  "description": "Yes, steel beams and columns can replace load-bearing walls in existing structures, provided an engineer confirms that the foundation can support the concentrat",
+  "url": "https://totalbuildingsystems.net/faq/can-structural-steel-framing-be-added-to-an-existing-wood-or-masonry-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can structural steel framing be added to an existing wood or masonry building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, structural steel can be integrated into existing wood, masonry, or concrete buildings, usually to remove load-bearing walls or support building additions. When opening up a floor plan, contractors often insert a steel I-beam supported by steel posts to carry the upper-floor or roof weight previously held by multiple studs. A structural engineer must review the existing structure to confirm the loads can transfer down to the foundation, which may require pouring new concrete footings beneath the new steel posts.",
+        "description": "Yes, steel beams and columns can replace load-bearing walls in existing structures, provided an engineer confirms that the foundation can support the concentrated loads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

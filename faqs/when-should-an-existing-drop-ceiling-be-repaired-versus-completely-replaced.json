@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should an existing drop ceiling be repaired versus completely replaced?",
+  "description": "Isolated damaged tiles can be individually replaced, but widespread water damage, sagging, or bent and corroded metal grid rails call for a full system replacem",
+  "url": "https://totalbuildingsystems.net/faq/when-should-an-existing-drop-ceiling-be-repaired-versus-completely-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should an existing drop ceiling be repaired versus completely replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacement if tiles show persistent water stains, extensive sagging, mold growth, or widespread edge chipping. Individual damaged tiles can easily be swapped out if matching stock is available. However, if the underlying metal grid is bent, rusted, or significantly out of level, replacing the full grid and tile assembly is generally the most durable and cost-effective solution. Upgrading also lets you incorporate modern energy-efficient LED lay-in fixtures.",
+        "description": "Isolated damaged tiles can be individually replaced, but widespread water damage, sagging, or bent and corroded metal grid rails call for a full system replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

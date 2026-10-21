@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between clear-span and multi-span metal framing?",
+  "description": "Clear-span offers completely column-free interior space using heavier steel members, whereas multi-span uses interior support columns to reduce framing weight a",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-clear-span-and-multi-span-metal-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between clear-span and multi-span metal framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clear-span design provides complete, column-free interior floor space, but multi-span framing reduces material costs on large buildings. Clear-span frames use heavier, deeper structural rafters and columns to bridge the entire distance without center posts, which maximizes usable interior room for equipment or inventory. Multi-span frames introduce interior support columns, which reduces the required steel weight and foundation sizing. If your floor plan accommodates interior posts, multi-span construction provides significant structural cost savings for wide commercial footprints.",
+        "description": "Clear-span offers completely column-free interior space using heavier steel members, whereas multi-span uses interior support columns to reduce framing weight and overall cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

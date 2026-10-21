@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does steel framing compare to wood regarding insulation and energy efficiency?",
+  "description": "Steel conducts heat faster than wood, so exterior walls require continuous exterior rigid insulation to prevent thermal bridging and ensure energy efficiency.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-steel-framing-compare-to-wood-regarding-insulation-and-energy-efficienc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does steel framing compare to wood regarding insulation and energy efficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While steel studs provide fire resistance, thermal conductivity is a major factor to manage. Steel conducts heat much faster than wood, creating thermal bridges that can transfer outside heat into your building during hot Arizona summers. When framing exterior walls with steel, you must combine cavity insulation with continuous exterior rigid foam insulation to break the thermal bridge and comply with local energy conservation codes. For interior walls, steel-stud framing is often paired with sound-dampening mineral wool batts to achieve superior acoustic privacy between offices or living spaces.",
+        "description": "Steel conducts heat faster than wood, so exterior walls require continuous exterior rigid insulation to prevent thermal bridging and ensure energy efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

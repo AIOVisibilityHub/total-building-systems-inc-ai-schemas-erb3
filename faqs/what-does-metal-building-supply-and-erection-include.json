@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does metal building supply and erection include?",
+  "description": "It includes supplying pre-engineered structural steel framing, roof and wall sheeting, and trims, followed by on-site structural assembly, bracing, and exterior",
+  "url": "https://totalbuildingsystems.net/faq/what-does-metal-building-supply-and-erection-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does metal building supply and erection include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-engineered metal building supply and erection covers the complete structural package, from procurement of engineered steel components to on-site assembly. The supplier designs and manufactures the primary frames, secondary framing like purlins and girts, metal roof panels, and wall cladding according to project specifications. The erection crew offloads the delivered steel, sets the anchor bolts onto the foundation, erects the structural columns and rafters, installs bracing, and secures the exterior sheeting and trim. Working with a general contractor who handles both supply and erection prevents schedule misalignments between component manufacturing and on-site assembly.",
+        "description": "It includes supplying pre-engineered structural steel framing, roof and wall sheeting, and trims, followed by on-site structural assembly, bracing, and exterior panel installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

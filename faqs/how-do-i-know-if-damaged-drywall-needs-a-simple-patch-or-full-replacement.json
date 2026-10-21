@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if damaged drywall needs a simple patch or full replacement?",
+  "description": "Small puncture holes require only simple patches, but moisture saturation, sagging, large cracks, or mold infestations require full sheet replacement.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-know-if-damaged-drywall-needs-a-simple-patch-or-full-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if damaged drywall needs a simple patch or full replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Isolated holes smaller than six inches can usually be patched with a backing plate, mesh, and compound without tearing down surrounding boards. However, you should replace the entire drywall sheet if there is widespread water damage, sagging from ceiling leaks, extensive mold growth, or structural cracking along multiple stud lines. Moisture weakens the gypsum core permanently, preventing it from holding fasteners or resisting future movement. A professional can inspect whether framing behind the damaged panel is sound or if underlying issues must be corrected before new drywall is hung.",
+        "description": "Small puncture holes require only simple patches, but moisture saturation, sagging, large cracks, or mold infestations require full sheet replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

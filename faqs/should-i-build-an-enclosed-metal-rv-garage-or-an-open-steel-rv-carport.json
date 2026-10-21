@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I build an enclosed metal RV garage or an open steel RV carport?",
+  "description": "Choose a carport for affordable sun and weather protection, or pick an enclosed garage for complete climate control, rodent prevention, security, and extra work",
+  "url": "https://totalbuildingsystems.net/faq/should-i-build-an-enclosed-metal-rv-garage-or-an-open-steel-rv-carport",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I build an enclosed metal RV garage or an open steel RV carport?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An enclosed garage offers total security, complete weather protection, and pest defense, whereas a metal RV carport is a lower-cost option that provides overhead shade and roof protection. An open carport protects your vehicle's paint and seals from direct sun, rain, and hail at a fraction of the cost and with faster installation. However, fully enclosed buildings protect against blowing dust, rodent intrusion, freezing temperatures, and unauthorized access, while also offering secure space for tools, workbenches, and seasonal storage.",
+        "description": "Choose a carport for affordable sun and weather protection, or pick an enclosed garage for complete climate control, rodent prevention, security, and extra workshop space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

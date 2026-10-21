@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to deliver and erect a pre-engineered steel building?",
+  "description": "Erection takes one to four weeks on-site once steel arrives. Overall timelines take several months due to engineering design, factory fabrication lead times, an",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-deliver-and-erect-a-pre-engineered-steel-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to deliver and erect a pre-engineered steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The erection phase for a standard pre-engineered metal building typically takes one to four weeks once structural steel arrives on-site. Total project timelines, however, span several months because engineering, manufacturing, and site preparation must occur first. Lead times for component fabrication generally take six to twelve weeks depending on building complexity. Concurrently, foundation work and concrete curing must finish before the steel arrives. Inclement weather, such as high winds or monsoon rains in the Verde Valley, can temporarily halt crane work and overhead panel installation for crew safety.",
+        "description": "Erection takes one to four weeks on-site once steel arrives. Overall timelines take several months due to engineering design, factory fabrication lead times, and concrete curing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

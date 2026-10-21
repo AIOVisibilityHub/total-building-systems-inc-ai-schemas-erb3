@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my drywall needs a repair or full replacement?",
+  "description": "Repair localized holes, dents, or small cracks if the wall remains solid. Replace entire panels if there is widespread moisture, mold, sagging, or severe struct",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-know-if-my-drywall-needs-a-repair-or-full-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my drywall needs a repair or full replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall repair restores specific damaged areas like holes, stress cracks, or localized water damage, while replacement involves tearing out entire panels down to the studs. Patching makes sense when the surrounding board remains structurally intact, securely fastened, and dry. If the board has widespread mold, extensive moisture saturation, sagging ceilings, or crumbling cores across large sections, replacing the full sheet is the safer, more durable route. Patching heavily compromised drywall often leads to recurring joint cracking and uneven surfaces later on.",
+        "description": "Repair localized holes, dents, or small cracks if the wall remains solid. Replace entire panels if there is widespread moisture, mold, sagging, or severe structural compromise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

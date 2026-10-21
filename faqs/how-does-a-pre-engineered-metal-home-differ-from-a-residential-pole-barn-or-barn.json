@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a pre-engineered metal home differ from a residential pole barn or barndominium?",
+  "description": "Pre-engineered homes use heavy steel I-beam frames bolted to permanent concrete foundations, unlike pole barns which rely on timber posts set in soil or shallow",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-pre-engineered-metal-home-differ-from-a-residential-pole-barn-or-barn",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a pre-engineered metal home differ from a residential pole barn or barndominium?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pre-engineered metal home uses rigid red-iron I-beams or heavy-gauge steel framing bolted directly to an engineered concrete foundation, whereas a pole barn home relies on wood posts buried in the ground. Pole barns (post-frame buildings) have shorter lifespans due to subterranean wood rot and foundation shifting over time. Pre-engineered steel buildings are designed under commercial-grade residential structural codes, offering superior structural longevity, higher wind resistance ratings, and greater stability for permanent, multi-generational living without risk of sagging or pest infestation.",
+        "description": "Pre-engineered homes use heavy steel I-beam frames bolted to permanent concrete foundations, unlike pole barns which rely on timber posts set in soil or shallow pads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

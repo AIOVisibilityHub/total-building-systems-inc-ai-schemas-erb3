@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does ornamental iron compare to ornamental aluminum?",
+  "description": "Ornamental iron is heavier, stronger, and more customizable than aluminum, but requires protective coatings to prevent rust, whereas aluminum resists rust natur",
+  "url": "https://totalbuildingsystems.net/faq/how-does-ornamental-iron-compare-to-ornamental-aluminum",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does ornamental iron compare to ornamental aluminum?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ornamental iron is much denser, stronger, and more customizable than aluminum, but it requires proactive rust prevention. Aluminum does not rust and is lighter, making it easier to install on light-duty structures, but it bends more easily under impact and offers fewer custom forging details. If you prioritize maximum durability, high security, and unique handcrafted scrollwork, ornamental iron is the superior choice. If you prefer a lower-maintenance, lower-cost metal for basic yard fencing where impact strength is not a concern, aluminum is often suitable.",
+        "description": "Ornamental iron is heavier, stronger, and more customizable than aluminum, but requires protective coatings to prevent rust, whereas aluminum resists rust naturally but bends more easily."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

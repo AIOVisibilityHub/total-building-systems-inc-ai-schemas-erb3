@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical drywall patch and repair take?",
+  "description": "Most drywall repairs take one to two days. Applying multiple thin coats of joint compound requires adequate drying time between steps before sanding and priming",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-typical-drywall-patch-and-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical drywall patch and repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most small to medium drywall repairs take between one and two days to complete, excluding final paint curing. The physical work of cutting, backing, and setting the patch takes only a couple of hours, but applying multiple coats of joint compound requires mandatory drying time between layers. In cooler weather or higher humidity, compound dry times extend significantly. Once the final coat dries, our crew sands the surface flush and primes the repair so it is ready for paint.",
+        "description": "Most drywall repairs take one to two days. Applying multiple thin coats of joint compound requires adequate drying time between steps before sanding and priming."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

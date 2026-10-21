@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does design-to-completion construction assistance include?",
+  "description": "It is an end-to-end service where a general contractor manages planning, architectural coordination, permitting, and building under one unified contract.",
+  "url": "https://totalbuildingsystems.net/faq/what-does-design-to-completion-construction-assistance-include",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does design-to-completion construction assistance include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design-to-completion construction assistance covers your entire build from initial concepts through the final walkthrough. Instead of hiring separate designers, architects, and builders independently, a single general contractor oversees feasibility, engineering, permitting, trade scheduling, and construction. A primary decision factor is whether you already own detailed architectural plans; if you do not, this integrated model prevents miscommunication between designers and trade crews, ensuring structural drawings match your real-world budget before any physical ground is broken.",
+        "description": "It is an end-to-end service where a general contractor manages planning, architectural coordination, permitting, and building under one unified contract."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

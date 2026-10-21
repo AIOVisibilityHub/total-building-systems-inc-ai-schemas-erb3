@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to fabricate and install ornamental iron?",
+  "description": "Most custom ornamental iron projects take three to eight weeks, covering site measurements, shop fabrication, protective coating, and final field installation.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-fabricate-and-install-ornamental-iron",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to fabricate and install ornamental iron?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom ornamental iron projects typically take between three to eight weeks from design approval to final installation. The timeline begins with precise on-site measurements and drafting, followed by fabrication in the shop, which involves cutting, shaping, and welding the components. The pieces then undergo surface prep and protective finishing, such as sandblasting and powder coating, which takes several days. Finally, on-site installation usually takes one to three days, depending on whether new footings must cure before mounting the ironwork.",
+        "description": "Most custom ornamental iron projects take three to eight weeks, covering site measurements, shop fabrication, protective coating, and final field installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

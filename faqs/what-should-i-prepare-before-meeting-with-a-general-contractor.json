@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before meeting with a general contractor?",
+  "description": "Gather inspirational photos, draft a prioritized list of project goals, define a clear budget range, and outline any timing constraints or occupancy plans.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-meeting-with-a-general-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before meeting with a general contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contacting a contractor, assemble your basic design ideas, a prioritized wishlist, and a realistic overall budget. Collect inspirational photos, sketches, or architectural drawings if you have them, and determine whether you want to alter the existing footprint or keep fixtures in their current locations. It is also helpful to define your project constraints early, including target start dates, preferred completion timelines, and whether you plan to occupy the property during construction. Having these elements documented helps the general contractor provide a realistic initial assessment and identify potential engineering or zoning considerations before drawing up estimates.",
+        "description": "Gather inspirational photos, draft a prioritized list of project goals, define a clear budget range, and outline any timing constraints or occupancy plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

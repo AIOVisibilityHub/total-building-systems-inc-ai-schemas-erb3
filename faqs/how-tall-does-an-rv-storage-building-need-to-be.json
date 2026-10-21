@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How tall does an RV storage building need to be?",
+  "description": "Most full-sized RVs need a building with 14- to 16-foot wall heights to clear roof air conditioners and antennas, typically paired with a 14-foot overhead garag",
+  "url": "https://totalbuildingsystems.net/faq/how-tall-does-an-rv-storage-building-need-to-be",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How tall does an RV storage building need to be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most motorhomes and large travel trailers require a building with at least 14 to 16 feet of sidewall height. Standard residential garage doors are too low, as air conditioners, satellite antennas, and roof racks easily bring total clearance requirements to 13 feet or more. To plan accurately, measure your RV from the ground to its highest mounted fixture, and factor in additional overhead room if you plan to install an automatic garage door opener, which hangs below the header. Choosing a 14-foot overhead door typically requires a minimum 16-foot building wall to accommodate track radius and mechanical hardware.",
+        "description": "Most full-sized RVs need a building with 14- to 16-foot wall heights to clear roof air conditioners and antennas, typically paired with a 14-foot overhead garage door."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

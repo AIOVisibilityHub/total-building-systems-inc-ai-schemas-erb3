@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of a steel metal workshop over traditional wood framing?",
+  "description": "Steel metal workshops provide open, clear-span interior space without interior load-bearing posts, resist pests and rot, and require less maintenance than wood",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-advantages-of-a-steel-metal-workshop-over-traditional-wood-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of a steel metal workshop over traditional wood framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal workshop offers clear-span interior space, high durability against rot or pests, and lower long-term maintenance compared to wood framing. Steel framing eliminates load-bearing interior posts, allowing you to maximize usable square footage for heavy machinery, vehicle lifts, or storage. However, wood construction often allows easier DIY modifications like hanging heavy cabinetry without specialized fasteners. Metal buildings also heat up and cool down faster, making proper insulation and ventilation design essential right from the start to maintain a comfortable workspace.",
+        "description": "Steel metal workshops provide open, clear-span interior space without interior load-bearing posts, resist pests and rot, and require less maintenance than wood framing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design, manufacture, and build a pre-engineered metal home?",
+  "description": "Total project timelines usually range from 6 to 9 months, with the structural steel framing erecting on-site in just a few weeks once the foundation cures.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-design-manufacture-and-build-a-pre-engineered-metal-hom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design, manufacture, and build a pre-engineered metal home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most pre-engineered metal homes take between 6 to 9 months from initial engineering to completion, which is often several months faster than standard custom wood framing. The overall schedule divides into distinct phases: engineering and permitting, factory fabrication, foundation pouring, steel shell erection, and interior fit-out. While fabrication takes several weeks at the plant, erecting the structural steel shell on-site often takes just two to three weeks. Delays most commonly occur during municipal permitting reviews or site excavation rather than the building assembly itself, making early planning essential.",
+        "description": "Total project timelines usually range from 6 to 9 months, with the structural steel framing erecting on-site in just a few weeks once the foundation cures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

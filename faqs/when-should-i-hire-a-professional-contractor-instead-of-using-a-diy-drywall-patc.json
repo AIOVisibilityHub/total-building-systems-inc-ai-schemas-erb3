@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a professional contractor instead of using a DIY drywall patch kit?",
+  "description": "DIY kits handle small nail holes or minor dents. Call a professional for holes over six inches, ceiling repairs, water damage, or complex texture matching.",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-hire-a-professional-contractor-instead-of-using-a-diy-drywall-patc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a professional contractor instead of using a DIY drywall patch kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DIY drywall kits work well for minor surface scuffs, nail holes, or small dents smaller than a baseball. However, hiring a professional contractor makes sense when dealing with holes larger than six inches, ceiling patches, plumbing cuts requiring framing support, or heavily textured surfaces. Ceiling repairs present physical risks and require overhead support, while matching textured surfaces takes specialized equipment and practice. Professionals ensure seams stay flat and invisible under critical lighting.",
+        "description": "DIY kits handle small nail holes or minor dents. Call a professional for holes over six inches, ceiling repairs, water damage, or complex texture matching."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

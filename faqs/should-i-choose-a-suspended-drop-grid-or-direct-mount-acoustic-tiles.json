@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose a suspended drop grid or direct-mount acoustic tiles?",
+  "description": "Suspended grids conceal utilities and allow ongoing plenum access, while direct-mount tiles preserve maximum ceiling height in rooms with low clearance.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-choose-a-suspended-drop-grid-or-direct-mount-acoustic-tiles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose a suspended drop grid or direct-mount acoustic tiles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Direct-mount tiles attach straight to existing drywall or joists, preserving maximum headroom, while suspended grid ceilings hang down to hide utilities and mechanical equipment. A suspended grid requires at least three to four inches of clearance below the lowest pipe or duct, which lowers the finished ceiling height. However, direct-mount tiles eliminate plenum utility access, making future electrical or plumbing repairs much harder compared to simply lifting out a suspended panel.",
+        "description": "Suspended grids conceal utilities and allow ongoing plenum access, while direct-mount tiles preserve maximum ceiling height in rooms with low clearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

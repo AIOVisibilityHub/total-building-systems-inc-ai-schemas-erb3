@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a suspended ceiling and why is it used?",
+  "description": "A suspended ceiling is a secondary grid system hung below the structural deck to conceal mechanical utilities, reduce sound transmission, and allow easy utility",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-suspended-ceiling-and-why-is-it-used",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a suspended ceiling and why is it used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A suspended ceiling, also called a drop ceiling, is a secondary ceiling hung below the main structural ceiling using a metal grid and acoustic tiles. It conceals wiring, plumbing, ductwork, and structural beams while maintaining easy access to those mechanical systems for future maintenance. In commercial spaces, basements, or retail shops, suspended ceilings also improve room acoustics by absorbing sound and allow for the integrated installation of recessed lighting and air diffusers.",
+        "description": "A suspended ceiling is a secondary grid system hung below the structural deck to conceal mechanical utilities, reduce sound transmission, and allow easy utility access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

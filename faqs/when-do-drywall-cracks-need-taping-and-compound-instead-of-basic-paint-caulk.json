@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do drywall cracks need taping and compound instead of basic paint caulk?",
+  "description": "Cracks along drywall seams, corners, or stress points require embedded tape and joint compound. Surface caulk fails quickly whenever underlying framing shifts o",
+  "url": "https://totalbuildingsystems.net/faq/when-do-drywall-cracks-need-taping-and-compound-instead-of-basic-paint-caulk",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do drywall cracks need taping and compound instead of basic paint caulk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall crack repair requires taping and finishing when the crack stems from structural settling, board seam failure, or recurring movement, rather than superficial paint checks. Hairline paint cracks can sometimes be sealed with elastomeric paint, but any crack that opens and closes with seasonal shifts or shows movement when pressed needs reinforcement. The proper repair involves grooving out loose plaster or gypsum, embedding paper or fiberglass mesh tape into fresh joint compound, and feathering multiple coats outward. Neglecting to tape the joint ensures the crack will reappear along the original stress line within months.",
+        "description": "Cracks along drywall seams, corners, or stress points require embedded tape and joint compound. Surface caulk fails quickly whenever underlying framing shifts or boards move."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

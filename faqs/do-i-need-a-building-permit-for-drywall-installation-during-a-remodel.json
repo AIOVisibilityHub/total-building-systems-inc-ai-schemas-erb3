@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for drywall installation during a remodel?",
+  "description": "Minor repairs do not need permits, but new walls, room additions, or code-required fire barriers require permits and rough-in inspections before drywall is hung",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-drywall-installation-during-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for drywall installation during a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A home renovation or room addition that involves framing alterations, electrical rewiring, or structural changes typically requires a building permit from your local municipal or county authority. While cosmetic drywall repairs rarely trigger permits, new wall construction and garage fire-barrier installations require inspections before and after drywall is hung. Wall inspections confirm that framing, plumbing, mechanical rough-ins, and insulation meet building codes before they are concealed behind gypsum board. Working with a licensed general contractor ensures that required permits are filed and inspections pass smoothly.",
+        "description": "Minor repairs do not need permits, but new walls, room additions, or code-required fire barriers require permits and rough-in inspections before drywall is hung."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

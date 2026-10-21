@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete an acoustical ceiling installation?",
+  "description": "Most standard rooms take one to three days, though project duration varies based on room dimensions, ceiling height, and the number of lighting or HVAC cutouts.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-complete-an-acoustical-ceiling-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete an acoustical ceiling installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most commercial or residential rooms require one to three days for completion, depending on square footage and utility complexity. A straightforward rectangular basement or retail space can often have the grid hung and tiled in a single day. Larger commercial buildouts or spaces with intricate angles, multiple HVAC drops, and complex light fixture integrations require additional layout and cutting time. Clear site access without furniture or operational disruptions speeds up installation.",
+        "description": "Most standard rooms take one to three days, though project duration varies based on room dimensions, ceiling height, and the number of lighting or HVAC cutouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

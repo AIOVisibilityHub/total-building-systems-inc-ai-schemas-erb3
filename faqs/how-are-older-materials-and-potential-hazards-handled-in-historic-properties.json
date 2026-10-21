@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are older materials and potential hazards handled in historic properties?",
+  "description": "Properties built before 1978 should undergo material testing for lead and asbestos. If identified, certified abatement must occur before regular demolition begi",
+  "url": "https://totalbuildingsystems.net/faq/how-are-older-materials-and-potential-hazards-handled-in-historic-properties",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are older materials and potential hazards handled in historic properties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structures built before 1978 commonly contain materials like lead-based paint, while older flooring adhesives, thermal pipe wrap, ceiling textures, and acoustic tiles may contain asbestos. In historic communities like Jerome and Clarkdale with significant vintage building stock, disturbing these materials without testing creates serious health hazards. A licensed contractor will evaluate the age of the structure and recommend sampling through an accredited testing lab before tearing into suspicious materials. If hazardous substances are confirmed, certified abatement protocols must be completed before standard demolition resumes.",
+        "description": "Properties built before 1978 should undergo material testing for lead and asbestos. If identified, certified abatement must occur before regular demolition begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

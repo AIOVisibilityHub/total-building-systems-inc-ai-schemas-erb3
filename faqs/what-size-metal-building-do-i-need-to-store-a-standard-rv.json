@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size metal building do I need to store a standard RV?",
+  "description": "Most RVs need a garage at least 16 feet wide, 40 to 50 feet long, and 14 to 16 feet tall, with a 14-foot door opening to clear rooftop AC units and accessories.",
+  "url": "https://totalbuildingsystems.net/faq/what-size-metal-building-do-i-need-to-store-a-standard-rv",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size metal building do I need to store a standard RV?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard metal RV garage typically requires a minimum clearance of 14 to 16 feet in height, with door openings at least 12 to 14 feet wide and 14 feet tall. Total building length should generally be 40 to 50 feet to comfortably house the vehicle and slide-outs. Before finalizing dimensions, measure your rig with all roof-mounted accessories included, such as air conditioning units, solar panels, and satellite dishes. Factoring in bumper extensions, rear ladders, and tow hitches ensures you retain adequate walk-around room and clearance for interior storage or maintenance tasks.",
+        "description": "Most RVs need a garage at least 16 feet wide, 40 to 50 feet long, and 14 to 16 feet tall, with a 14-foot door opening to clear rooftop AC units and accessories."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

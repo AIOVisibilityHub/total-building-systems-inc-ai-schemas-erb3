@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the total cost of building a metal RV garage?",
+  "description": "Building dimensions, door sizes, excavation complexity, foundation engineering, electrical hookups, and insulation choices are the primary drivers of total proj",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-total-cost-of-building-a-metal-rv-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the total cost of building a metal RV garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The overall cost is primarily driven by building dimensions, door specifications, site preparation, and interior finishes. Taller eave heights and oversized commercial roll-up doors cost more than standard garage components. Extensive dirt work, rocky terrain, or steep grades will raise site excavation and foundation costs. Adding electrical hookups—such as a 30-amp or 50-amp shore power circuit—insulation packages, interior plumbing, or concrete aprons will also expand the budget. Deciding early whether the space will double as a workshop helps determine the most cost-effective scope.",
+        "description": "Building dimensions, door sizes, excavation complexity, foundation engineering, electrical hookups, and insulation choices are the primary drivers of total project cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

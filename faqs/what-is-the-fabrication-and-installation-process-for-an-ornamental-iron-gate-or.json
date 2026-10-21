@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the fabrication and installation process for an ornamental iron gate or fence?",
+  "description": "The process involves site measurements, design layout, shop cutting and welding, protective powder coating, and on-site mounting and latch alignment by an insta",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-fabrication-and-installation-process-for-an-ornamental-iron-gate-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the fabrication and installation process for an ornamental iron gate or fence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an initial site consultation to assess the property, confirm design requirements, and take detailed measurements. Once the layout and specifications are agreed upon, fabrication starts in the workshop, cutting and welding heavy-gauge steel to the exact dimensions. The assembled iron is treated with a corrosion-resistant primer and a durable topcoat or powder coat. Finally, a licensed installation crew sets the structural posts, secures the panels or gates with heavy anchors, verifies latch alignment, and performs any necessary touch-ups.",
+        "description": "The process involves site measurements, design layout, shop cutting and welding, protective powder coating, and on-site mounting and latch alignment by an installation crew."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

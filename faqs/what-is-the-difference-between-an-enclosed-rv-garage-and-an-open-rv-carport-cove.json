@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an enclosed RV garage and an open RV carport cover?",
+  "description": "Enclosed buildings protect completely from UV rays, pests, and windblown debris, while open carports cost significantly less but leave the vehicle sides exposed",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-an-enclosed-rv-garage-and-an-open-rv-carport-cove",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an enclosed RV garage and an open RV carport cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A fully enclosed RV building provides total weather protection and security, while an open-sided RV cover is more economical and quicker to build. Enclosed structures protect tires, roof seals, and paint from severe UV degradation, pests, and windblown debris, while also allowing climate control or workshop storage. An open carport costs substantially less in concrete, framing, and siding, but leaves side panels exposed to sun glare and blown dirt. If your budget is limited, an open cover solves overhead weather exposure, but an enclosed building better preserves vehicle resale value over the long term.",
+        "description": "Enclosed buildings protect completely from UV rays, pests, and windblown debris, while open carports cost significantly less but leave the vehicle sides exposed to the elements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

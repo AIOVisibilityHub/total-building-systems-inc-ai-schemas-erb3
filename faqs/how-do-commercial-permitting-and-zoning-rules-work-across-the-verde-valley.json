@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do commercial permitting and zoning rules work across the Verde Valley?",
+  "description": "Permitting depends on whether your site is in an incorporated town like Cottonwood or Camp Verde or under Yavapai County, each having specific zoning, drainage,",
+  "url": "https://totalbuildingsystems.net/faq/how-do-commercial-permitting-and-zoning-rules-work-across-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do commercial permitting and zoning rules work across the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial building permits in the Verde Valley depend on whether your project falls within city limits, such as Cottonwood or Camp Verde, or within unincorporated Yavapai County jurisdiction. Each governing entity enforces distinct commercial zoning overlays, setbacks, and local amendments to building codes. For example, local requirements often include specific drainage plans, local fire district approvals, and exterior design standards that match regional character. Involving a contractor familiar with Yavapai County and Verde Valley municipal departments ensures your engineering plans satisfy local utility and grading requirements without unnecessary delays during permit reviews.",
+        "description": "Permitting depends on whether your site is in an incorporated town like Cottonwood or Camp Verde or under Yavapai County, each having specific zoning, drainage, and code reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

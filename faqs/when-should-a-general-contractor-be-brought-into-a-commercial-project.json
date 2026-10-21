@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a general contractor be brought into a commercial project?",
+  "description": "Involving a general contractor during initial design helps catch structural issues early, provides realistic budget estimates, and minimizes costly redesigns.",
+  "url": "https://totalbuildingsystems.net/faq/when-should-a-general-contractor-be-brought-into-a-commercial-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a general contractor be brought into a commercial project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a general contractor during the early design phase provides direct cost control and construction feasibility insight before drawings are finalized. When a contractor reviews preliminary plans, they can identify costly structural details, suggest practical material alternatives, and evaluate utility layouts before permit submission. This early coordination reduces expensive change orders, ensures mechanical systems fit within building designs, and helps establish an accurate construction schedule. Waiting until architectural plans are complete to involve a contractor often leads to redesigns if initial bids exceed the project budget.",
+        "description": "Involving a general contractor during initial design helps catch structural issues early, provides realistic budget estimates, and minimizes costly redesigns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

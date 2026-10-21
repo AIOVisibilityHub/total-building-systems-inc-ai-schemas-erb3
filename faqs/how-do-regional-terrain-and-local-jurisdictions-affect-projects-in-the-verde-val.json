@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do regional terrain and local jurisdictions affect projects in the Verde Valley?",
+  "description": "Local rules vary by town; hillside lots in Jerome require historic and slope reviews, while flatlands in Cornville or Camp Verde focus on wells and septic.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-regional-terrain-and-local-jurisdictions-affect-projects-in-the-verde-val",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do regional terrain and local jurisdictions affect projects in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Verde Valley, building requirements vary considerably between incorporated municipalities like Cottonwood or Jerome and unincorporated Yavapai County jurisdictions. For example, hillside lots in Jerome require specialized foundation engineering, slope stability reviews, and strict historic district design compliance. In Valley flatlands like Camp Verde or Cornville, site evaluations focus more heavily on septic feasibility, well access, and local flood plain overlays during the design stage.",
+        "description": "Local rules vary by town; hillside lots in Jerome require historic and slope reviews, while flatlands in Cornville or Camp Verde focus on wells and septic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

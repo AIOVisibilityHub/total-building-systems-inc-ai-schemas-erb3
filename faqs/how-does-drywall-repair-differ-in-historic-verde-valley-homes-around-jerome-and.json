@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does drywall repair differ in historic Verde Valley homes around Jerome and Clarkdale?",
+  "description": "Historic homes often feature plaster or aged framing, requiring setting-type compounds, mechanical stabilization, and custom hand-troweled texturing to match hi",
+  "url": "https://totalbuildingsystems.net/faq/how-does-drywall-repair-differ-in-historic-verde-valley-homes-around-jerome-and",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does drywall repair differ in historic Verde Valley homes around Jerome and Clarkdale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In regional communities like Jerome and Clarkdale, older homes with original lath-and-plaster walls or historic settling require specialized bonding and flexible compound choices. Traditional plaster moves differently than modern gypsum drywall, and historical walls often have subtle, hand-troweled undulations rather than uniform machine finishes. When patching drywall into historic plaster, contractors must mechanically secure loose lath, use setting-type compounds that bond to old plaster keys, and custom-trowel the texture to match irregular surfaces. Standard production spray textures often look out of place against historic, hand-worked architectural interiors found in these Verde Valley mining towns.",
+        "description": "Historic homes often feature plaster or aged framing, requiring setting-type compounds, mechanical stabilization, and custom hand-troweled texturing to match historic wall contours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

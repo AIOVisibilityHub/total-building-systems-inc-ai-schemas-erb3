@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for my remodeling project in the Verde Valley?",
+  "description": "Permits are required for structural alterations, additions, and major electrical or plumbing work, while cosmetic updates usually do not require permits.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-my-remodeling-project-in-the-verde-valley",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for my remodeling project in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most construction projects require permits whenever structural framing changes, square footage increases, or electrical, plumbing, or mechanical lines are moved. Purely cosmetic updates—such as replacing countertops, changing flooring, or repainting—generally do not require building permits in the Verde Valley region. In places like Cottonwood, Clarkdale, and Jerome, historic overlay guidelines or local municipal zoning codes can introduce extra review steps before structural or exterior work begins. Your general contractor typically prepares the plan submissions, pulls the required permits, and coordinates the mandatory city or county building inspections at each stage of construction.",
+        "description": "Permits are required for structural alterations, additions, and major electrical or plumbing work, while cosmetic updates usually do not require permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

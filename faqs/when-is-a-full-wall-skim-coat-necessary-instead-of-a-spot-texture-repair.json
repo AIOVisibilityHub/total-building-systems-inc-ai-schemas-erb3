@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is a full wall skim coat necessary instead of a spot texture repair?",
+  "description": "A full skim coat is best when walls have widespread damage, multiple old patches, or outdated heavy textures, ensuring an even, seamless plane under direct ligh",
+  "url": "https://totalbuildingsystems.net/faq/when-is-a-full-wall-skim-coat-necessary-instead-of-a-spot-texture-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a full wall skim coat necessary instead of a spot texture repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should plan to skim coat an entire wall rather than spot-patching when the surface has extensive damage, previous uneven repairs, or heavy obsolete textures like acoustic popcorn. Spot texturing works well for isolated holes from plumbing or electrical repairs, but attempting multiple adjacent spot patches often produces visible lap marks and mismatched sheen under overhead lighting. A full skim coat transforms an uneven, heavily stippled wall into an even, unified plane ready for consistent texturing or paint. While a full skim coat increases upfront labor, it eliminates patchy patterns that distract the eye across open sightlines.",
+        "description": "A full skim coat is best when walls have widespread damage, multiple old patches, or outdated heavy textures, ensuring an even, seamless plane under direct light."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

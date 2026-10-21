@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is required before acoustic ceiling installers arrive?",
+  "description": "Complete all rough-in electrical, plumbing, and mechanical ductwork, clear the floor of furniture or equipment, and ensure adequate clearance heights are verifi",
+  "url": "https://totalbuildingsystems.net/faq/what-preparation-is-required-before-acoustic-ceiling-installers-arrive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is required before acoustic ceiling installers arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before installation begins, confirm the locations of all overhead HVAC ducting, plumbing lines, lighting fixtures, and electrical wiring. Any rough-in work, plumbing repairs, or mechanical adjustments must be finished and inspected before hanging the ceiling grid. Property owners should clear the floor space of equipment and furniture to allow room for ladders or rolling scaffolding. It is also beneficial to verify the minimum required clearance heights for local building codes.",
+        "description": "Complete all rough-in electrical, plumbing, and mechanical ductwork, clear the floor of furniture or equipment, and ensure adequate clearance heights are verified."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

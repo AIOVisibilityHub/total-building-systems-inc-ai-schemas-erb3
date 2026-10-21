@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is ornamental iron and what is it typically used for?",
+  "description": "Ornamental iron consists of custom-fabricated steel or wrought iron used for gates, railings, and security barriers, combining structural durability with decora",
+  "url": "https://totalbuildingsystems.net/faq/what-is-ornamental-iron-and-what-is-it-typically-used-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is ornamental iron and what is it typically used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ornamental iron is decorative and structural steel or wrought iron shaped into architectural features such as custom entry gates, exterior railings, privacy panels, and window guards. Unlike lightweight hollow aluminum or mass-produced chain link, ornamental iron offers high structural strength, custom fabrication, and a classic aesthetic. The main practical tradeoff is weight and surface care; iron is significantly heavier and requires a durable protective finish, such as powder coating or specialized paint, to prevent corrosion over time. Homeowners select it when they need a blend of physical security and high-end visual appeal.",
+        "description": "Ornamental iron consists of custom-fabricated steel or wrought iron used for gates, railings, and security barriers, combining structural durability with decorative design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a general contractor instead of managing trades myself?",
+  "description": "Hire a general contractor whenever a project requires building permits, structural work, or multiple trade specialists like electricians, plumbers, and framers.",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-hire-a-general-contractor-instead-of-managing-trades-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a general contractor instead of managing trades myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You generally need a general contractor when your project involves structural changes, foundation alterations, multiple licensed trades, or mandatory building permits. Projects like ground-up homes, large room additions, or major layout reconfigurations require synchronized scheduling among framing, electrical, plumbing, and mechanical crews. If a project requires city or county inspections and engineering plans, managing it through a licensed general contractor prevents costly code failures, safety hazards, and project delays.",
+        "description": "Hire a general contractor whenever a project requires building permits, structural work, or multiple trade specialists like electricians, plumbers, and framers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

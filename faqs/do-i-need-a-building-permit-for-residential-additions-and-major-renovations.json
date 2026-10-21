@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit for residential additions and major renovations?",
+  "description": "Yes, building permits are required for additions, structural changes, and significant electrical or plumbing work to verify compliance with local safety codes.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-for-residential-additions-and-major-renovations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit for residential additions and major renovations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a residential building permit for virtually all new construction, structural modifications, roofline expansions, and major mechanical upgrades. Building departments in towns like Cottonwood or Clarkdale, as well as Yavapai County development services, require permits to ensure structures comply with safety and energy codes. Minor cosmetic updates, such as replacing floor coverings or painting, generally do not require permits, but moving walls, adding square footage, or installing new plumbing lines does.",
+        "description": "Yes, building permits are required for additions, structural changes, and significant electrical or plumbing work to verify compliance with local safety codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

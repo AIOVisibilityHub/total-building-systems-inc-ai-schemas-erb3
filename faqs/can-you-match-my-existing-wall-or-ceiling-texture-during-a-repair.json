@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you match my existing wall or ceiling texture during a repair?",
+  "description": "Yes. Technicians replicate textures such as knockdown, orange peel, or skip trowel by feathering compound into the surrounding area before priming.",
+  "url": "https://totalbuildingsystems.net/faq/can-you-match-my-existing-wall-or-ceiling-texture-during-a-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you match my existing wall or ceiling texture during a repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, matching existing texture is standard during professional drywall repairs, though it requires specific technique. Common textures like orange peel, knockdown, skip trowel, or smooth finishes require matching the right compound consistency and application tool. Because older walls collect paint layers and subtle aging, a freshly textured patch often stands out until it is primed and painted. To create a seamless look, technicians feather the texture outwards into the surrounding undamaged wall.",
+        "description": "Yes. Technicians replicate textures such as knockdown, orange peel, or skip trowel by feathering compound into the surrounding area before priming."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

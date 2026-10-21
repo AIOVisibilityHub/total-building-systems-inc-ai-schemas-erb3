@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who handles building permits and inspections during a design-to-completion build?",
+  "description": "Your general contractor manages permit applications, plan examiner questions, and all scheduled municipal building inspections.",
+  "url": "https://totalbuildingsystems.net/faq/who-handles-building-permits-and-inspections-during-a-design-to-completion-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who handles building permits and inspections during a design-to-completion build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit submittals and tracking are managed directly by your general contractor as part of the complete service package. The builder coordinates with municipal or county building departments, handles plan reviews, answers plan examiner comments, and schedules mandatory field inspections. This process clarity removes the burden of managing structural calculations, setback verifications, and technical code compliance on your own.",
+        "description": "Your general contractor manages permit applications, plan examiner questions, and all scheduled municipal building inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes drop ceiling tiles to sag or discolor?",
+  "description": "Sagging and discoloration usually stem from roof leaks, pipe sweating, or HVAC condensation. The underlying moisture issue must be resolved before replacing til",
+  "url": "https://totalbuildingsystems.net/faq/what-causes-drop-ceiling-tiles-to-sag-or-discolor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes drop ceiling tiles to sag or discolor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water stains are the most frequent reason for drop ceiling repairs, but replacing tiles without addressing the root moisture source will ruin the new panels. Common culprits include condensation from uninsulated AC ductwork, leaking overhead supply pipes, or roof penetration leaks. Before installing replacement panels, ensure a contractor inspects overhead insulation, condensation drip pans, and pipe sleeves. Once overhead systems are dry and certified leak-free, discolored panels can be replaced and rusted grid sections swapped out cleanly.",
+        "description": "Sagging and discoloration usually stem from roof leaks, pipe sweating, or HVAC condensation. The underlying moisture issue must be resolved before replacing tiles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

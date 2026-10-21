@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I decide between full design-to-completion assistance and bid-only contracting?",
+  "description": "Choose full assistance for single-source accountability from scratch, or bid-only contracting if you already possess finished architectural plans.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-decide-between-full-design-to-completion-assistance-and-bid-only-contra",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I decide between full design-to-completion assistance and bid-only contracting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a full-service team if you want single-source accountability, a streamlined schedule, and a budget monitored throughout the entire design phase. If you have limited time to coordinate between separate designers and builders, integrated project delivery offers clear communication. Conversely, if you already hold complete, engineered architectural blueprints, hiring a general contractor strictly for building services without drafting assistance may be the more practical choice.",
+        "description": "Choose full assistance for single-source accountability from scratch, or bid-only contracting if you already possess finished architectural plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

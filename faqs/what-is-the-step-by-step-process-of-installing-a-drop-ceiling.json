@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the step-by-step process of installing a drop ceiling?",
+  "description": "Installers level and mount wall perimeter angles, hang wire supports, assemble the main and cross tees into a grid, and finish by setting tiles and fixtures.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-step-by-step-process-of-installing-a-drop-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the step-by-step process of installing a drop ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installation starts with establishing a level perimeter using a laser level and fastening wall angles around the room. Next, hanger wires are anchored into the structural overhead framing at set intervals. Main runners are suspended from these wires, followed by cross tees snapped into place to establish the 2x2 or 2x4 grid openings. After the grid is squared and leveled, trade contractors install overhead lighting and HVAC diffusers before the acoustic panels are placed into the openings.",
+        "description": "Installers level and mount wall perimeter angles, hang wire supports, assemble the main and cross tees into a grid, and finish by setting tiles and fixtures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

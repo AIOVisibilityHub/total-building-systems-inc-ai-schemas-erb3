@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a suspended ceiling installation take?",
+  "description": "A standard open space usually takes one to three days, while complex floor plans with extensive lighting or ductwork take longer.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-suspended-ceiling-installation-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a suspended ceiling installation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installation timelines depend on the square footage, room shape, and utility density. An unobstructed commercial room or open residential basement can often have a basic grid and tiles hung within one to three days. Projects with multiple small offices, irregular room perimeters, extensive fire-suppression sprinklers, or custom lighting layouts take longer to align and scribe around edges. Clear access to the floor space speeds up grid layout and ladder or scaffold staging.",
+        "description": "A standard open space usually takes one to three days, while complex floor plans with extensive lighting or ductwork take longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

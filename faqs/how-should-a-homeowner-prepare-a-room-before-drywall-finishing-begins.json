@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a homeowner prepare a room before drywall finishing begins?",
+  "description": "Clear the work area of decor and furniture, ensure work crews have power and water access, and maintain stable indoor temperatures so drywall compound dries pro",
+  "url": "https://totalbuildingsystems.net/faq/how-should-a-homeowner-prepare-a-room-before-drywall-finishing-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a homeowner prepare a room before drywall finishing begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your drywall contractor arrives, clear personal belongings, wall hangings, and small furniture out of the room to create an open workspace. Drywall sanding and texture spraying produce airborne dust and overspray, making containment essential. Technicians will lay down floor runners and hang plastic sheeting over doorways, cabinets, and vents, but moving large furniture to the room's center helps crews seal items completely. You should also verify that power and water are accessible on site for mixing compound and washing tools, and set your HVAC system to maintain stable indoor temperatures for reliable drying.",
+        "description": "Clear the work area of decor and furniture, ensure work crews have power and water access, and maintain stable indoor temperatures so drywall compound dries properly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

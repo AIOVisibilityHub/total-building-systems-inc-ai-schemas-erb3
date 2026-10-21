@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose a steel building or a wood-framed building for RV storage?",
+  "description": "Steel provides broad clear-span space with lower framing costs, while wood framing makes it simpler to match your primary home exterior and satisfy neighborhood",
+  "url": "https://totalbuildingsystems.net/faq/should-i-choose-a-steel-building-or-a-wood-framed-building-for-rv-storage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose a steel building or a wood-framed building for RV storage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Metal buildings offer fast erection, wide clear-span interiors, and lower material costs, while wood-framed structures make it easier to match your home exterior. Steel buildings eliminate interior load-bearing columns, giving you maximum maneuverability for wide vehicles and slide-out extensions. However, wood-framed buildings accept standard residential siding, stucco, and roofing finishes more easily, which is crucial if your neighborhood has strict homeowner association design standards. Evaluating your subdivision architectural guidelines against your interior clearance priorities will help decide which framing style best fits your property.",
+        "description": "Steel provides broad clear-span space with lower framing costs, while wood framing makes it simpler to match your primary home exterior and satisfy neighborhood design rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to design, permit, and erect a custom steel building?",
+  "description": "From initial design through erection, most projects take three to six months, depending on engineering review times, fabrication schedules, and site preparation",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-design-permit-and-erect-a-custom-steel-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to design, permit, and erect a custom steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most custom steel building projects take between three and six months from initial design to final erection. The timeline breaks down into architectural and engineering design, local permit review, steel fabrication at the manufacturing plant, foundation excavation and curing, and on-site assembly. Fabrication and permitting typically take the longest. Scheduling your dirt work and slab pouring while the steel components are in production helps streamline the schedule and prevent unnecessary on-site delays.",
+        "description": "From initial design through erection, most projects take three to six months, depending on engineering review times, fabrication schedules, and site preparation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

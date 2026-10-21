@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can lighting fixtures be mounted directly to a suspended ceiling grid?",
+  "description": "Lightweight drop-in LED panels rest in the grid, but heavier light fixtures or fans must be supported independently by wires anchored to the building structure.",
+  "url": "https://totalbuildingsystems.net/faq/can-lighting-fixtures-be-mounted-directly-to-a-suspended-ceiling-grid",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can lighting fixtures be mounted directly to a suspended ceiling grid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard suspended ceiling grids cannot support heavy light fixtures directly without sagging. Standard lightweight drop-in LED flat panels designed for 2x2 or 2x4 grids are supported by the grid if properly anchored, but heavier industrial fixtures, ceiling fans, or exit signs require independent suspension. These units must be anchored directly to the structural framing above with dedicated safety wires or chains to comply with building safety standards and prevent grid distortion.",
+        "description": "Lightweight drop-in LED panels rest in the grid, but heavier light fixtures or fans must be supported independently by wires anchored to the building structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

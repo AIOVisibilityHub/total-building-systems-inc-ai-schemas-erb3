@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the structural steel fabrication and erection process take?",
+  "description": "Fabrication usually takes 6 to 14 weeks after shop drawings are approved, while on-site crane erection typically takes anywhere from a few days to a couple of w",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-the-structural-steel-fabrication-and-erection-process-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the structural steel fabrication and erection process take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lead times for structural steel framing typically range from 6 to 14 weeks from approved shop drawings to job site delivery. Drafting and engineer review often take two to four weeks, followed by shop fabrication, hole punching, welding, and surface coating. Erecting the frame on site is comparatively fast, frequently taking just a few days to a few weeks depending on building scale. Changes made to structural drawings after fabrication begins can introduce significant delays and added shop costs.",
+        "description": "Fabrication usually takes 6 to 14 weeks after shop drawings are approved, while on-site crane erection typically takes anywhere from a few days to a couple of weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

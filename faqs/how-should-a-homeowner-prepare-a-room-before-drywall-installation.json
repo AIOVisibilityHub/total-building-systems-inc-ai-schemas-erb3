@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should a homeowner prepare a room before drywall installation?",
+  "description": "Clear all furniture, verify that electrical and plumbing rough-ins are inspected, ensure insulation is in place, and protect adjacent rooms from sanding dust.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-a-homeowner-prepare-a-room-before-drywall-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a homeowner prepare a room before drywall installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before installers arrive, clear the room entirely of furniture, personal items, window treatments, and wall decor. The framing inspection, electrical rough-ins, plumbing lines, and insulation must all be fully completed and signed off before board hanging starts. Provide clear pathways from the entry doors to the work area so full drywall sheets can be brought in without damaging doorframes. Covering nearby air returns and sealing doorways with plastic sheeting helps contain the fine gypsum dust generated during the sanding phase.",
+        "description": "Clear all furniture, verify that electrical and plumbing rough-ins are inspected, ensure insulation is in place, and protect adjacent rooms from sanding dust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

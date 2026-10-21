@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do contractors prevent demolition dust from spreading throughout the building?",
+  "description": "Crews hang plastic containment barriers, seal HVAC return vents, set up negative air scrubbers with HEPA filtration, and lay floor protection along all debris p",
+  "url": "https://totalbuildingsystems.net/faq/how-do-contractors-prevent-demolition-dust-from-spreading-throughout-the-buildin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do contractors prevent demolition dust from spreading throughout the building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dust containment is critical to protect your heating and cooling system and prevent fine particulate matter from spreading into living or working quarters. Professional crews install heavy plastic poly sheeting with zipper doors to seal off the work zone completely. HVAC supply and return vents inside the work area must be sealed, and negative air machines equipped with HEPA filters are often deployed to pull air through the space and exhaust it outside. Floor protection boards should also be laid down along all traffic pathways leading to dumpsters or exterior exits.",
+        "description": "Crews hang plastic containment barriers, seal HVAC return vents, set up negative air scrubbers with HEPA filtration, and lay floor protection along all debris pathways."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a general contractor and a subcontractor?",
+  "description": "A general contractor oversees the entire construction project and schedule, while subcontractors are hired by the general contractor to perform specialized trad",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-general-contractor-and-a-subcontractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a general contractor and a subcontractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general contractor oversees entire construction projects from start to finish, while a subcontractor specializes in a single trade. General contractors contract directly with the property owner to coordinate project schedules, manage building budgets, procure materials, and supervise quality control. Subcontractors—such as framing crews, plumbers, roofers, and electricians—are hired directly by the general contractor to execute specific parts of the scope. Choosing to act as your own general contractor trade-off requires you to take on full liability for worker coordination, site safety, and scheduling delays. Working with a dedicated general contractor provides a single accountable party who verifies each subcontractor's licensing, insurance, and work standard.",
+        "description": "A general contractor oversees the entire construction project and schedule, while subcontractors are hired by the general contractor to perform specialized trades like plumbing or roofing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

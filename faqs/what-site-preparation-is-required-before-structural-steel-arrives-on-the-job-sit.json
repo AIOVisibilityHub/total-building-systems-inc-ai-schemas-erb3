@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What site preparation is required before structural steel arrives on the job site?",
+  "description": "Sites require clear crane access, level ground away from overhead utilities, and verified anchor bolt placement in cured concrete footings prior to steel delive",
+  "url": "https://totalbuildingsystems.net/faq/what-site-preparation-is-required-before-structural-steel-arrives-on-the-job-sit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What site preparation is required before structural steel arrives on the job site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before structural steel delivery, verify site accessibility, crane staging areas, overhead utility clearance, and foundation anchor bolt alignment. A mobile crane requires solid, level ground with adequate clearance from overhead power lines to swing beams safely. Contractors must survey anchor bolt patterns in the concrete footings against approved shop drawings before delivery day. Finding misaligned anchor bolts before the crane arrives avoids costly crew standby time and fabrication delays.",
+        "description": "Sites require clear crane access, level ground away from overhead utilities, and verified anchor bolt placement in cured concrete footings prior to steel delivery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

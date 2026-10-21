@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can steel studs be used for load-bearing and exterior walls?",
+  "description": "Yes, but structural or exterior walls require heavier-gauge steel engineered to carry roof, floor, and wind loads, unlike standard partition studs.",
+  "url": "https://totalbuildingsystems.net/faq/can-steel-studs-be-used-for-load-bearing-and-exterior-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can steel studs be used for load-bearing and exterior walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, steel studs can be used for structural, load-bearing walls, but they require heavier gauge steel and engineered specifications. Non-load-bearing partition walls typically use 25-gauge light steel, whereas exterior or structural walls require heavier 16-gauge, 18-gauge, or 20-gauge structural steel. A key decision factor is the engineering load calculation: structural steel framing must be engineered to carry roof loads, floor assemblies, and seismic or wind pressures. If your project involves exterior framing or multi-story construction, an engineer must specify stud gauge, spacing, and connection hardware before construction begins.",
+        "description": "Yes, but structural or exterior walls require heavier-gauge steel engineered to carry roof, floor, and wind loads, unlike standard partition studs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

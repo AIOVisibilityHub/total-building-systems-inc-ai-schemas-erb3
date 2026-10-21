@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I plan before ordering a pre-engineered metal building?",
+  "description": "Identify your required dimensions, overhead door heights, climate control goals, zoning setbacks, and soil conditions to avoid costly structural redesigns durin",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-plan-before-ordering-a-pre-engineered-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I plan before ordering a pre-engineered metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before ordering a pre-engineered metal building, you must verify your site zoning, property setbacks, and required utility access. Determine your exact operational requirements: door sizes, overhead clearances for equipment, overhead crane requirements, and climate control needs. It is also critical to perform a site assessment or soil check to determine proper foundation engineering, as reactive soils or sloped terrain alter concrete slab specifications. Gathering these details beforehand prevents expensive mid-fabrication change orders and ensures your building plans clear local building department reviews without major revisions.",
+        "description": "Identify your required dimensions, overhead door heights, climate control goals, zoning setbacks, and soil conditions to avoid costly structural redesigns during fabrication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

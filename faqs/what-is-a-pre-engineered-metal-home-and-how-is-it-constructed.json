@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a pre-engineered metal home and how is it constructed?",
+  "description": "A pre-engineered metal home uses factory-fabricated steel structural framing assembled on a concrete slab, allowing open, clear-span floor plans with standard r",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-pre-engineered-metal-home-and-how-is-it-constructed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a pre-engineered metal home and how is it constructed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pre-engineered metal home is a residential building built using a factory-fabricated steel framing and panel system that is assembled on-site on a permanent foundation. Unlike standard stick-built timber houses, the main structural components—such as columns, rafters, and purlins—are pre-cut, pre-drilled, and engineered to exact design specifications before arriving at your property. Once the steel shell is erected, the interior can be finished out just like any traditional home, including standard drywall, custom kitchens, flooring, and electrical systems. Choosing this method offers clear-span interior spaces without load-bearing interior walls, allowing total freedom for custom open floor plans.",
+        "description": "A pre-engineered metal home uses factory-fabricated steel structural framing assembled on a concrete slab, allowing open, clear-span floor plans with standard residential interior finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

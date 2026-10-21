@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are costs structured for full design-through-construction services?",
+  "description": "Expenses are structured in phases covering planning, permitting, sitework, materials, and labor, with early estimates refined as plans develop.",
+  "url": "https://totalbuildingsystems.net/faq/how-are-costs-structured-for-full-design-through-construction-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are costs structured for full design-through-construction services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs depend on square footage, site terrain, structural complexity, and chosen finishes. Design and engineering typically represent a percentage of the total project budget, with the remainder allocated to site work, permits, labor, and materials. A major decision factor in budget planning is site conditions; steep ground or rocky soil can increase earthwork and foundation expenses before structural framing even begins. Detailed pre-construction planning provides clear cost visibility across each phase.",
+        "description": "Expenses are structured in phases covering planning, permitting, sitework, materials, and labor, with early estimates refined as plans develop."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

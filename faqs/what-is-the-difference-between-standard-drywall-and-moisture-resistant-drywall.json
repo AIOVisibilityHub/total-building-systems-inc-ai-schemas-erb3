@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between standard drywall and moisture-resistant drywall?",
+  "description": "Standard drywall is for dry living areas, while moisture-resistant drywall has treated facings and additives designed for humid rooms like bathrooms and laundry",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-standard-drywall-and-moisture-resistant-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between standard drywall and moisture-resistant drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard drywall works well for dry living spaces, but moisture-prone areas like bathrooms, laundry rooms, and basements require moisture-resistant drywall, often called green board or purple board. Standard drywall features a paper backing over gypsum that deteriorates and supports mold growth when exposed to humidity or direct water contact. Moisture-resistant panels incorporate water-repellent additives and treated facers to withstand moisture. For high-splash zones like shower enclosures, cement backer board is required instead of any paper-faced drywall. Choosing the correct board prevents costly water damage and wall failures later.",
+        "description": "Standard drywall is for dry living areas, while moisture-resistant drywall has treated facings and additives designed for humid rooms like bathrooms and laundry areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

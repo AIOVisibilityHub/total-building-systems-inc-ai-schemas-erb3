@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the total cost of a residential construction project?",
+  "description": "Overall costs depend on total square footage, site terrain, foundation requirements, material finishes, and utility infrastructure needs.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-total-cost-of-a-residential-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the total cost of a residential construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Residential construction costs are determined by square footage, foundation engineering, interior finish levels, and site conditions. Building on sloped or rocky terrain requires specialized earthmoving, retaining walls, or reinforced foundations, which raises initial site development costs compared to flat lots. Trade labor availability, custom architectural details, and mechanical system choices—such as high-efficiency heating and cooling—also significantly influence your total budget. Transparent bids break these elements into structural, mechanical, and finish categories.",
+        "description": "Overall costs depend on total square footage, site terrain, foundation requirements, material finishes, and utility infrastructure needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

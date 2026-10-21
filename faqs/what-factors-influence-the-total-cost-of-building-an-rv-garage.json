@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the total cost of building an RV garage?",
+  "description": "Key cost drivers include building dimensions, site grading, concrete slab thickness, door sizing, spray foam insulation, and electrical or plumbing utility inst",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-total-cost-of-building-an-rv-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the total cost of building an RV garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs depend primarily on structure dimensions, site preparation needs, materials, and utility rough-ins. Grading uneven ground, pouring a thickened-edge concrete slab capable of bearing heavy axle weights, and installing tall commercial doors are the main structural drivers. Optional features like 30-amp or 50-amp electrical hookups, interior spray foam insulation, water hookups, and exterior architectural matching to your primary residence also alter overall pricing. Obtaining a site evaluation helps identify hidden site costs such as slope issues, rock excavation, or utility run lengths before finalizing your budget.",
+        "description": "Key cost drivers include building dimensions, site grading, concrete slab thickness, door sizing, spray foam insulation, and electrical or plumbing utility installations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is insulation handled during metal building erection?",
+  "description": "Insulation blankets or panels are typically installed concurrently with roof and wall sheeting, sealing against vapor and thermal bridging before the exterior p",
+  "url": "https://totalbuildingsystems.net/faq/how-is-insulation-handled-during-metal-building-erection",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is insulation handled during metal building erection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulation should be integrated directly during the structural erection phase for optimal thermal performance and condensation control. Common systems include fiberglass blanket insulation with vapor barriers compressed over framing before exterior panels are fastened, or rigid foam and insulated metal panels (IMPs). In hot, arid climates like Cottonwood and Cornville, an effective vapor barrier and thermal break system prevent exterior heat from radiating into the interior and stop winter condensation from collecting on the undersides of roof sheets, extending building lifespan.",
+        "description": "Insulation blankets or panels are typically installed concurrently with roof and wall sheeting, sealing against vapor and thermal bridging before the exterior panels are secured."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

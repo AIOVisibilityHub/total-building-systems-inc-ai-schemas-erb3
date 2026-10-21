@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need dedicated electrical service inside my RV storage building?",
+  "description": "Yes, installing a dedicated 30-amp or 50-amp outlet protects vehicle electronics, keeps onboard batteries charged, and runs appliances without tripping househol",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-dedicated-electrical-service-inside-my-rv-storage-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need dedicated electrical service inside my RV storage building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding dedicated 30-amp or 50-amp electrical service is strongly recommended to keep vehicle house batteries charged and run onboard systems safely. Keeping your RV plugged into a shore power receptacle inside the building maintains battery life, runs climate systems during humid or freezing spells, and allows you to prep refrigerators prior to trips. Running a high-draw RV on a standard 15-amp household extension cord risks tripping circuit breakers and damaging sensitive inverter equipment. Planning electrical panel capacity early ensures you have adequate amperage without overloading your home electrical service.",
+        "description": "Yes, installing a dedicated 30-amp or 50-amp outlet protects vehicle electronics, keeps onboard batteries charged, and runs appliances without tripping household breakers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

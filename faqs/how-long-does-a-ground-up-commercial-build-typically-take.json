@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a ground-up commercial build typically take?",
+  "description": "Ground-up commercial builds usually take 6 to 18 months, depending on building size, site conditions, permit approvals, and material procurement lead times.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-ground-up-commercial-build-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a ground-up commercial build typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical commercial build can take anywhere from six months to over a year, depending on building size, scope, and site readiness. Minor interior build-outs or tenant improvements may take only a few months, while ground-up facilities require substantial time for grading, foundation work, and structural assembly. Timelines are heavily influenced by local jurisdiction review speeds for engineering plans, utility connection lead times, and material availability. Setting clear milestones during the pre-construction phase and ordering long-lead items, such as commercial HVAC units or electrical switchgear, early helps keep schedules realistic and predictable.",
+        "description": "Ground-up commercial builds usually take 6 to 18 months, depending on building size, site conditions, permit approvals, and material procurement lead times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

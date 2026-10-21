@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the installation process for interior steel-stud framing?",
+  "description": "Installers anchor top and bottom tracks, insert studs at measured intervals, reinforce openings, and use plastic grommets in pre-punched holes for utilities.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-installation-process-for-interior-steel-stud-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the installation process for interior steel-stud framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with layout markings snapped onto the concrete slab or subfloor, followed by securing top and bottom steel tracks with concrete fasteners or structural screws. Studs are cut to length using metal snips, chop saws, or shears, then fitted into the tracks and fastened with self-tapping pan-head screws. Openings for commercial doors, windows, and pass-throughs are reinforced with double studs and steel headers. Most steel studs feature pre-punched service knockouts, allowing electricians and plumbers to run lines with protective plastic grommets installed to protect wiring from sharp metal edges before insulation and drywall.",
+        "description": "Installers anchor top and bottom tracks, insert studs at measured intervals, reinforce openings, and use plastic grommets in pre-punched holes for utilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

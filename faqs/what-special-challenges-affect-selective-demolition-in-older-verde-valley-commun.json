@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What special challenges affect selective demolition in older Verde Valley communities like Jerome or Clarkdale?",
+  "description": "Historic Verde Valley buildings often feature fragile lathe-and-plaster, legacy utilities, and preservation guidelines that require extra containment and carefu",
+  "url": "https://totalbuildingsystems.net/faq/what-special-challenges-affect-selective-demolition-in-older-verde-valley-commun",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What special challenges affect selective demolition in older Verde Valley communities like Jerome or Clarkdale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In historic towns like Jerome and Clarkdale, selective demolition often involves older construction materials, non-standard framing, and strict historic preservation guidelines. Homes in these areas may have lathe-and-plaster walls, legacy wiring, or town-specific building codes aimed at preserving architectural character. Contractors must take extra care to protect historic millwork, stabilize fragile plaster transitions, and ensure debris disposal complies with local municipal transfer station and preservation standards across the Verde Valley.",
+        "description": "Historic Verde Valley buildings often feature fragile lathe-and-plaster, legacy utilities, and preservation guidelines that require extra containment and careful structural stabilization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

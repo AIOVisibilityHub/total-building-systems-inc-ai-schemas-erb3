@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of metal building supply and erection?",
+  "description": "Costs depend on building dimensions, clear-span width, design engineering loads, site access, concrete foundation requirements, insulation packages, and custom",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-metal-building-supply-and-erection",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of metal building supply and erection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total costs depend on building dimensions, engineering loads, roof style, architectural trim, and site conditions. Steel component fabrication, transport, crane rentals, and assembly labor all contribute to the final price. Foundation requirements also shift costs significantly, as larger clear-spans create heavier point loads that demand deeper footings and reinforced concrete. Upgrades such as standing-seam roofs, specialized insulation systems, overhangs, and custom door or window framed openings will increase material and labor expenses compared to a basic utility shell.",
+        "description": "Costs depend on building dimensions, clear-span width, design engineering loads, site access, concrete foundation requirements, insulation packages, and custom door or window openings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

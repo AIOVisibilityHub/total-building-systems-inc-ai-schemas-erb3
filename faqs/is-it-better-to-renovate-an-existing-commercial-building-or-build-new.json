@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to renovate an existing commercial building or build new?",
+  "description": "Renovation can reduce sitework and exterior costs, while building new offers full layout customization and eliminates hidden code upgrades found in older proper",
+  "url": "https://totalbuildingsystems.net/faq/is-it-better-to-renovate-an-existing-commercial-building-or-build-new",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to renovate an existing commercial building or build new?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing between renovation and new construction depends on structural condition, zoning allowances, and how well an existing facility supports your operations. Renovating or retrofitting an existing building can save time on site development and exterior shell work, but older structures may present hidden costs in bringing electrical, plumbing, and accessibility up to current codes. Ground-up construction requires greater upfront investment for land development, grading, and utility installations, yet it provides total flexibility in layout, modern energy efficiency, and long-term operational workflow. A structural and financial feasibility assessment can clarify which path offers the best return.",
+        "description": "Renovation can reduce sitework and exterior costs, while building new offers full layout customization and eliminates hidden code upgrades found in older properties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

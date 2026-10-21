@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do financing and building permits work for pre-engineered metal residences?",
+  "description": "They follow standard residential permitting and conventional construction loan paths, requiring fully engineered plans to demonstrate compliance with local resi",
+  "url": "https://totalbuildingsystems.net/faq/how-do-financing-and-building-permits-work-for-pre-engineered-metal-residences",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do financing and building permits work for pre-engineered metal residences?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-engineered metal homes are fully code-compliant residential structures eligible for standard residential construction loans and permanent mortgages, though some lenders require education on steel residential construction. The primary challenge is finding lenders and appraisers familiar with pre-engineered steel residences rather than classifying them as commercial outbuildings or pole barns. Working with an experienced licensed general contractor who provides comprehensive, turnkey line-item estimates and engineered architectural drawings ensures your lender and local building department treat the project as a conventional, insurable single-family residence.",
+        "description": "They follow standard residential permitting and conventional construction loan paths, requiring fully engineered plans to demonstrate compliance with local residential codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a pre-engineered metal building cost?",
+  "description": "Costs vary based on building dimensions, site foundation needs, insulation, and interior finishes. An accurate estimate requires defining your building's size a",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-a-pre-engineered-metal-building-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a pre-engineered metal building cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a pre-engineered metal building depends on design complexity, building dimensions, roof pitch, insulation package, and local engineering loads. Basic steel building shells are cost-effective, but foundation work, interior build-outs, custom doors, overhangs, and mechanical trades significantly impact the final budget. Adding clear-span width beyond standard dimensions or incorporating high-bay cranes will also increase raw steel requirements. To establish an accurate budget, you will need to determine your intended use early, which determines the slab thickness, energy code insulation levels, and required exterior finishes.",
+        "description": "Costs vary based on building dimensions, site foundation needs, insulation, and interior finishes. An accurate estimate requires defining your building's size and intended use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

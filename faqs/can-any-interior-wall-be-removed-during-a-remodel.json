@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can any interior wall be removed during a remodel?",
+  "description": "No. Non-load-bearing walls can be taken down directly, but load-bearing walls require structural assessment, temporary shoring, and installation of load-bearing",
+  "url": "https://totalbuildingsystems.net/faq/can-any-interior-wall-be-removed-during-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can any interior wall be removed during a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A non-load-bearing wall can be removed safely, but taking down a load-bearing wall requires temporary shoring and structural reinforcement, such as an engineered beam and support posts. Before any demolition starts, a qualified contractor inspects the attic, basement, or crawlspace to identify which direction joists and rafters run relative to the wall. Removing a load-bearing partition without proper support will cause ceiling sag, cracked drywall in adjacent rooms, or serious structural collapse. When planning a layout change, structural verification must happen prior to wall removal.",
+        "description": "No. Non-load-bearing walls can be taken down directly, but load-bearing walls require structural assessment, temporary shoring, and installation of load-bearing support beams."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

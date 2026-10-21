@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of an acoustical ceiling installation?",
+  "description": "Cost depends on square footage, ceiling height, grid layout complexity, utility obstacles, and whether you choose standard mineral fiber or premium specialty ti",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-an-acoustical-ceiling-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of an acoustical ceiling installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total cost depends on square footage, ceiling height, structural accessibility, and the type of ceiling tile selected. Basic mineral fiber tiles installed on a standard grid are the most budget-friendly, while premium fiberglass, wood veneer, metal panels, or moisture-resistant tiles increase material costs. Higher ceilings or spaces crowded with existing ductwork, fire sprinklers, and electrical conduits add labor time. Setting up scaffolding or working around active business operations will also influence the overall project estimate.",
+        "description": "Cost depends on square footage, ceiling height, grid layout complexity, utility obstacles, and whether you choose standard mineral fiber or premium specialty tiles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

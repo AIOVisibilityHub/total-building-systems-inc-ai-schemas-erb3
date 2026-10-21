@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to frame an interior space using steel studs?",
+  "description": "Interior steel framing usually takes three to seven days for typical commercial or residential spaces due to the lightweight, uniform components and rapid faste",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-frame-an-interior-space-using-steel-studs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to frame an interior space using steel studs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior steel-stud framing is typically faster to install than wood framing. Because steel studs are uniformly straight and lightweight, crews can carry multiple studs easily and do not spend time sorting through lumber piles to discard twisted or bowed boards. For an average commercial tenant buildout or large residential basement/addition, interior framing usually takes anywhere from three to seven days, depending on ceiling heights and structural complexities. Delays generally stem from structural engineering approvals or custom steel gauge orders rather than the actual on-site assembly, which proceeds quickly once materials arrive.",
+        "description": "Interior steel framing usually takes three to seven days for typical commercial or residential spaces due to the lightweight, uniform components and rapid fastening."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

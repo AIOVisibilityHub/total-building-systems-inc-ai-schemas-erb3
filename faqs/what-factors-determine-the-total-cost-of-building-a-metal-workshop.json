@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the total cost of building a metal workshop?",
+  "description": "Total cost depends on building dimensions, concrete slab thickness, insulation types, custom door openings, electrical capacity, and ground preparation requirem",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-total-cost-of-building-a-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the total cost of building a metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom metal workshop depends heavily on building dimensions, roof style, site preparation, and interior buildouts. Key price drivers include the thickness of the concrete slab, which must match the weight of equipment like car lifts or tooling machines. Framing height, heavy-duty electrical service, insulation packages, and customized roll-up door sizes also substantially shift costs. Ground grading, excavation, and utility trenching are separate site-work expenses that must be planned before framing begins.",
+        "description": "Total cost depends on building dimensions, concrete slab thickness, insulation types, custom door openings, electrical capacity, and ground preparation requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

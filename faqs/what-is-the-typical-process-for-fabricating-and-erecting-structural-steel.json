@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for fabricating and erecting structural steel?",
+  "description": "The process involves drafting detailed shop drawings, off-site shop fabrication, preparing concrete foundations, and on-site crane erection with bolting or fiel",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-typical-process-for-fabricating-and-erecting-structural-steel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for fabricating and erecting structural steel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The structural steel phase moves through shop drawings, fabrication, delivery, and erection. First, a detailer produces fabrication shop drawings from engineering plans, which the structural engineer reviews. Once approved, the fabricator cuts, drills, and prepares the steel members off-site. On-site preparation requires cured concrete foundations with accurately placed anchor bolts. When the steel arrives, a crane lifts columns and beams into place so crews can bolt or weld connections. Site access and foundation readiness are the most critical factors influencing this schedule.",
+        "description": "The process involves drafting detailed shop drawings, off-site shop fabrication, preparing concrete foundations, and on-site crane erection with bolting or field welding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

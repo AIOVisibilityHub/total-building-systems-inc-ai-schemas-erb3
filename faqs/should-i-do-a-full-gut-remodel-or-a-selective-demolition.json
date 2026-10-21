@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I do a full gut remodel or a selective demolition?",
+  "description": "A full gut exposes framing and utilities for comprehensive redesign and system upgrades. Selective demo targets specific elements, lowering disposal and rebuild",
+  "url": "https://totalbuildingsystems.net/faq/should-i-do-a-full-gut-remodel-or-a-selective-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I do a full gut remodel or a selective demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full gut down to the studs strips every surface, exposing the framing, rough plumbing, and wiring, while a selective tear-out only targets specific elements. A full gut gives trade contractors an open canvas to fix out-of-plumb walls, re-insulate, update electrical panels, and reroute plumbing with lower labor friction. However, it increases disposal volume, material replacement costs, and project duration. Selective demolition saves money and time by preserving usable drywall and finishes, but trades will have to fish new lines through closed cavities, which can increase subsequent installation labor.",
+        "description": "A full gut exposes framing and utilities for comprehensive redesign and system upgrades. Selective demo targets specific elements, lowering disposal and rebuilding costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

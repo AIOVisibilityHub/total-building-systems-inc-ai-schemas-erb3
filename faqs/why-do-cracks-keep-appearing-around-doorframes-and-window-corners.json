@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do cracks keep appearing around doorframes and window corners?",
+  "description": "Settling and temperature shifts create stress at frame corners. Durable repairs require taping the seam with mesh or paper tape rather than simply filling it wi",
+  "url": "https://totalbuildingsystems.net/faq/why-do-cracks-keep-appearing-around-doorframes-and-window-corners",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do cracks keep appearing around doorframes and window corners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stress cracks usually stem from normal house settling, seasonal thermal expansion, or minor framing movement, particularly around door and window corners. To repair them properly so they do not return, a technician must cut a shallow V-notch along the crack, apply fiberglass mesh or paper tape, and float several coats of joint compound across the seam. Simply filling a crack with spackle without tape almost always results in the crack reappearing as the building expands and contracts.",
+        "description": "Settling and temperature shifts create stress at frame corners. Durable repairs require taping the seam with mesh or paper tape rather than simply filling it with spackle."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

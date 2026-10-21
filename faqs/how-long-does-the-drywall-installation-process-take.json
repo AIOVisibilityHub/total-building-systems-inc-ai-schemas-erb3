@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the drywall installation process take?",
+  "description": "Drywall installation generally takes three to seven days for a typical space, including hanging, multiple coats of mudding, drying time, and final sanding.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-the-drywall-installation-process-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the drywall installation process take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall installation typically takes three to seven days for an average room or remodel. The physical hanging of the wallboards usually wraps up in one to two days. Taping, applying multiple coats of joint compound, and sanding require several additional days because each layer must dry completely before the next step. High humidity or cold weather can extend drying intervals between coats, whereas dry climates accelerate curing. Once the final sanding is finished and dust is cleared, the walls are ready for primer and paint.",
+        "description": "Drywall installation generally takes three to seven days for a typical space, including hanging, multiple coats of mudding, drying time, and final sanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

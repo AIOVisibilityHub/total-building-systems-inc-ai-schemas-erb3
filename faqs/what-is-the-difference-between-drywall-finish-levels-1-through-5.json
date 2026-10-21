@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between drywall finish levels 1 through 5?",
+  "description": "Drywall finish levels range from 0 (unfinished boards) to 5 (a full skim coat). Levels 3 and 4 support textured or flat finishes, while Level 5 prevents visible",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-drywall-finish-levels-1-through-5",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between drywall finish levels 1 through 5?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall finish levels range from Level 0 to Level 5, established by trade associations to define surface smoothness before decoration. Level 1 involves basic tape embedded in joint compound, commonly used in concealed service corridors or attics. Level 2 adds a thin coat over tape and fastener heads, typical for garage utility areas or under tile. Level 3 includes an additional coat suited for heavy wall textures. Level 4 is standard residential construction, receiving two coats over joints and designed for light textures or flat paints. Level 5 applies a skim coat over the entire surface, which is necessary to prevent joint flashing under high-gloss paint or intense directional lighting.",
+        "description": "Drywall finish levels range from 0 (unfinished boards) to 5 (a full skim coat). Levels 3 and 4 support textured or flat finishes, while Level 5 prevents visible seams under glossy paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

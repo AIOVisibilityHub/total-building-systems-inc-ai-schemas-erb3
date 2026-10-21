@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a drywall repair project?",
+  "description": "Cost depends on damage size, location (walls vs. high ceilings), whether framing backing must be added, and the labor required to match existing textures.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-a-drywall-repair-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a drywall repair project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall repair costs depend primarily on the damage size, wall height, backing requirements, and whether the surface has a custom texture. A small puncture from a doorknob requires minimal material and labor, keeping costs low. Large ceiling holes, deep plumbing access cuts, or water-damaged sections requiring structural backing and texture blending take more time and specialized labor, increasing the total expense. Requesting an on-site evaluation ensures an accurate scope before work begins.",
+        "description": "Cost depends on damage size, location (walls vs. high ceilings), whether framing backing must be added, and the labor required to match existing textures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

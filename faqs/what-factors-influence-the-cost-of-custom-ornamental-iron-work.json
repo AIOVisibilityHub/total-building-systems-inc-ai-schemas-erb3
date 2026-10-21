@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of custom ornamental iron work?",
+  "description": "Pricing is driven by design complexity, material gauge, total dimensions, finishing treatments, and site installation factors such as mounting to concrete or un",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-custom-ornamental-iron-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of custom ornamental iron work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an ornamental iron project depends on linear footage, the complexity of the scrollwork, structural post requirements, and the finishing method. Standard prefabricated panel designs are generally more budget-friendly, while custom hand-forged gates or railings require specialized metal fabrication, driving labor costs higher. Additional site factors include mounting conditions—such as anchoring directly into concrete patios, masonry pillars, or uneven rock grade—and hardware choices like heavy-duty self-closing hinges, gravity latches, or automatic gate operators.",
+        "description": "Pricing is driven by design complexity, material gauge, total dimensions, finishing treatments, and site installation factors such as mounting to concrete or uneven terrain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

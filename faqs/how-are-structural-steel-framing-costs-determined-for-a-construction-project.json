@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are structural steel framing costs determined for a construction project?",
+  "description": "Costs are determined by total tonnage, market raw material rates, fabrication complexity, site crane access requirements, and the labor needed for erection and",
+  "url": "https://totalbuildingsystems.net/faq/how-are-structural-steel-framing-costs-determined-for-a-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are structural steel framing costs determined for a construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structural steel costs depend on total steel tonnage, current metal market pricing, connection types (bolted versus welded), and site crane access. Custom fabrication details, such as complex moment connections, primer coatings, or specialized plate work, also influence pricing. Before requesting an estimate, prepare complete architectural plans and structural engineering sheets. Having detailed drawings showing member sizes and connection details helps a general contractor provide an accurate estimate based on fabricated steel, freight, crane rental, and erection labor.",
+        "description": "Costs are determined by total tonnage, market raw material rates, fabrication complexity, site crane access requirements, and the labor needed for erection and field welding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

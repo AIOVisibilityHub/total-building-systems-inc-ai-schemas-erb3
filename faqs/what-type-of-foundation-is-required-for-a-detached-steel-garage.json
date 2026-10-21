@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of foundation is required for a detached steel garage?",
+  "description": "A reinforced, monolithic concrete slab with engineered perimeter footings is required to anchor the steel frame and support vehicle weight.",
+  "url": "https://totalbuildingsystems.net/faq/what-type-of-foundation-is-required-for-a-detached-steel-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of foundation is required for a detached steel garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A monolithic concrete slab with reinforced footings is the standard, most durable foundation for a detached metal garage. The slab must be engineered to bear the point loads of the steel frame as well as the weight of heavy vehicles, trucks, or workshop machinery. Before concrete is poured, the building pad must be leveled, compacted, and set with anchor bolts embedded according to the steel manufacturer's engineering drawings. Choosing dirt or gravel floors is not recommended for fully enclosed metal garages, as solid concrete prevents shifting, moisture intrusion, and pest entry while providing a clean, level working surface.",
+        "description": "A reinforced, monolithic concrete slab with engineered perimeter footings is required to anchor the steel frame and support vehicle weight."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

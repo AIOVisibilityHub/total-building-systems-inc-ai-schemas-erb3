@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much vertical space is required to install a drop ceiling?",
+  "description": "A drop ceiling typically needs at least 3 to 4 inches of clearance below the lowest obstruction to place tiles, or more if recessed fixtures are installed.",
+  "url": "https://totalbuildingsystems.net/faq/how-much-vertical-space-is-required-to-install-a-drop-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much vertical space is required to install a drop ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most standard suspended ceiling installations require at least 3 to 4 inches of clearance between the original ceiling structure and the new drop grid. This gap is necessary to tilt, insert, and remove the ceiling tiles during and after installation. However, if your overhead plenum contains recessed lighting, large HVAC ducts, or electrical junction boxes, you may need 6 to 12 inches or more of overhead clearance. Measuring your existing vertical clearance from the lowest hanging pipe or duct helps determine your final ceiling height.",
+        "description": "A drop ceiling typically needs at least 3 to 4 inches of clearance below the lowest obstruction to place tiles, or more if recessed fixtures are installed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

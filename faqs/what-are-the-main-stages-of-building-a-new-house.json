@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main stages of building a new house?",
+  "description": "The main stages include architectural planning and permitting, site prep and foundation, structural framing, plumbing and electrical rough-ins, finish work, and",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-main-stages-of-building-a-new-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main stages of building a new house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The construction process moves in clear phases: pre-construction design and permitting, site excavation, foundation pouring, framing, mechanical installations, interior and exterior finishes, and final inspections. Before breaking ground, your team conducts site surveys, finalizes structural engineering, and submits plans to local building officials. Once inspections for plumbing, electrical, and framing pass, drywall, trim, cabinetry, and exterior siding or stucco are installed, concluding with a comprehensive walkthrough before move-in.",
+        "description": "The main stages include architectural planning and permitting, site prep and foundation, structural framing, plumbing and electrical rough-ins, finish work, and final municipal inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

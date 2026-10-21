@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before meeting with a residential builder?",
+  "description": "Gather your rough budget, inspirational ideas or functional needs, property boundary surveys, utility information, and any HOA design guidelines.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-meeting-with-a-residential-builder",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before meeting with a residential builder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before holding your first detailed contractor meeting, compile a clear wish list, establish an initial budget range, and gather any existing property information. If you already own land, collect boundary surveys, topography maps, utility availability notes, and subdivision covenants or HOA architectural rules. Having these documents ready allows your contractor to evaluate buildability, anticipate zoning setbacks or grading needs, and provide realistic feedback on your proposed scope and timeline.",
+        "description": "Gather your rough budget, inspirational ideas or functional needs, property boundary surveys, utility information, and any HOA design guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

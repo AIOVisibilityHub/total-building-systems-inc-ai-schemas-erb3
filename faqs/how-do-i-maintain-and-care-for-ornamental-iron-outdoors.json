@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I maintain and care for ornamental iron outdoors?",
+  "description": "Rinse the metal periodically with mild soap and water, grease mechanical hinges, and promptly touch up any surface scratches with rust-inhibiting paint.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-maintain-and-care-for-ornamental-iron-outdoors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I maintain and care for ornamental iron outdoors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Routine maintenance is minimal if the iron is properly coated at installation, usually requiring an inspection once or twice a year. Wash the metal occasionally with mild soapy water to remove mineral dust and dirt buildup, especially around hinges and latch assemblies. Check moving parts like hinges and drop rods, lubricating them with silicone spray or grease. If rocks or garden equipment scratch through the paint to bare metal, sand the spot lightly and apply a rust-inhibiting touch-up paint immediately to prevent oxidation.",
+        "description": "Rinse the metal periodically with mild soap and water, grease mechanical hinges, and promptly touch up any surface scratches with rust-inhibiting paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a steel garage compare to a traditional wood-framed garage?",
+  "description": "Metal garages are fire-resistant, impervious to termites and rot, and provide clear-span interior space with significantly lower maintenance than wood framing.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-steel-garage-compare-to-a-traditional-wood-framed-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a steel garage compare to a traditional wood-framed garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Detached metal garages deliver distinct structural advantages over traditional wood-framed buildings in central Arizona's arid climate. Steel is noncombustible, which provides crucial fire resistance in wildfire-prone communities like Jerome, Sedona, and Cornville. Metal framing will not rot, warp, split, or suffer damage from subterranean termites, which frequently affect conventional wood framing. Steel buildings also handle heavy structural spans without interior load-bearing posts, maximizing open floor space. While wood framing offers simpler attachment points for traditional drywall, steel requires far less exterior maintenance over its lifespan.",
+        "description": "Metal garages are fire-resistant, impervious to termites and rot, and provide clear-span interior space with significantly lower maintenance than wood framing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to complete a metal workshop build?",
+  "description": "A custom build usually takes a few months from engineering and permitting through foundation work, steel erection, and final interior utility installation.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-typically-take-to-complete-a-metal-workshop-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to complete a metal workshop build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The total timeline typically ranges from a few months to several months, depending largely on permitting reviews and site conditions. The initial phase involves design, engineering plans, and municipal permit processing. Once permits are issued, site excavation, utility rough-ins, and pouring the concrete foundation take several weeks, including mandatory concrete cure times. Erecting the pre-engineered steel framing, siding, and roofing moves relatively quickly, followed by interior work like electrical wiring, insulation, and door installation. Inclement weather or utility scheduling can alter this timeline.",
+        "description": "A custom build usually takes a few months from engineering and permitting through foundation work, steel erection, and final interior utility installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

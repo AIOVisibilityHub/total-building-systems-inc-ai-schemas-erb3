@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if I want to make changes after construction has started?",
+  "description": "Changes are handled via written change orders detailing cost and timeline adjustments before revised construction takes place.",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-if-i-want-to-make-changes-after-construction-has-started",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if I want to make changes after construction has started?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mid-project design modifications are managed through formal change orders that document the specific scope adjustments, price impacts, and schedule effects before work proceeds. A practical tradeoff of changing floor plans or utility layouts after framing or mechanical rough-ins begin is that work may pause while revised calculations are verified or re-inspected. Addressing core structural preferences during early conceptual drafting keeps your project on schedule and avoids costly rework.",
+        "description": "Changes are handled via written change orders detailing cost and timeline adjustments before revised construction takes place."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

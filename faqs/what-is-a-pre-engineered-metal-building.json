@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a pre-engineered metal building?",
+  "description": "A pre-engineered metal building is an engineered steel structure designed and fabricated off-site, then shipped to the job site for faster, bolt-together assemb",
+  "url": "https://totalbuildingsystems.net/faq/what-is-a-pre-engineered-metal-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a pre-engineered metal building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pre-engineered metal building (PEMB) is a steel structure designed and fabricated in an off-site manufacturing plant before being shipped to your job site for assembly. The components, including primary rigid frames, secondary purlins and girts, and exterior sheeting, are engineered to bolt together precisely. This method differs from traditional field-fabricated steel because the engineering is calculated upfront to optimize material usage and meet specific structural loads. For property owners, this provides a balance of open clear-span interior space, seismic and wind resistance, and faster on-site assembly compared to wood or masonry construction.",
+        "description": "A pre-engineered metal building is an engineered steel structure designed and fabricated off-site, then shipped to the job site for faster, bolt-together assembly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

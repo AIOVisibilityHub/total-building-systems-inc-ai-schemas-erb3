@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in the construction process of a custom steel building?",
+  "description": "The process involves layout design, engineering plans, permitting, site grading and concrete foundation pouring, steel framing assembly, and final panel install",
+  "url": "https://totalbuildingsystems.net/faq/what-steps-are-involved-in-the-construction-process-of-a-custom-steel-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in the construction process of a custom steel building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an initial consultation to determine your square footage, door openings, clear-span clearance, and property boundaries. Next, engineers produce stamped structural drawings tailored to your property. Once municipal or county permits are secured, the site is excavated, forms are set, and the concrete slab is poured and cured. Finally, structural steel framing, wall panels, roofing, insulation, and trim are erected, followed by any scheduled interior buildouts or electrical walk-throughs.",
+        "description": "The process involves layout design, engineering plans, permitting, site grading and concrete foundation pouring, steel framing assembly, and final panel installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

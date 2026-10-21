@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit and concrete foundation for a metal RV garage?",
+  "description": "Yes, permanent metal RV garages require engineered concrete slabs and building permits to meet local wind, seismic, and zoning setback regulations.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-and-concrete-foundation-for-a-metal-rv-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit and concrete foundation for a metal RV garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you will almost always need a building permit and an engineered concrete foundation for a permanent steel RV garage. Municipal building departments require structural drawings that meet local wind, seismic, and snow load requirements. You will need to check your property’s setback lines, height restrictions, and utility easements before submitting plans. As your general contractor, we manage the permit submission process and ensure the concrete foundation is engineered specifically for your building dimensions, soil conditions, and the heavy axle loads of your recreational vehicle.",
+        "description": "Yes, permanent metal RV garages require engineered concrete slabs and building permits to meet local wind, seismic, and zoning setback regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

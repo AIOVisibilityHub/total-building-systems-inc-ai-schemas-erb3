@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right size and wall height for my metal garage?",
+  "description": "Measure your largest vehicles with mirrors extended, add buffer room for doors and workbenches, and ensure side walls are at least two feet taller than your gar",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-size-and-wall-height-for-my-metal-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right size and wall height for my metal garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To select the right dimensions, list everything you plan to store and measure your largest vehicle, including mirrors, hitches, and roof racks. A standard two-car garage is typically 24x24 feet, but if you need workbench space, lawn equipment storage, or wide truck clearance, 24x30 or 30x30 feet provides adequate room to open doors safely. Pay close attention to side wall height: overhead roll-up doors require one to two feet of clearance below the eave. If you intend to house an RV or commercial truck, you may need 14- to 16-foot side walls to accommodate a 12- or 14-foot tall door.",
+        "description": "Measure your largest vehicles with mirrors extended, add buffer room for doors and workbenches, and ensure side walls are at least two feet taller than your garage door height."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local site conditions in the Verde Valley affect residential construction?",
+  "description": "Verde Valley builds often involve sloped terrain, rocky soils, rural utility hookups, and municipal guidelines that influence foundation design and site prepara",
+  "url": "https://totalbuildingsystems.net/faq/how-do-local-site-conditions-in-the-verde-valley-affect-residential-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local site conditions in the Verde Valley affect residential construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building in the Verde Valley—such as Cottonwood, Clarkdale, Camp Verde, or Jerome—often requires addressing distinctive topography, rocky or expansive soils, and historic district standards. Sites in Jerome or hilly sections of Clarkdale frequently need specialized retaining walls, deep-set foundations, and careful staging on narrow roads. Camp Verde and Cornville projects often require private septic systems, well connections, or long utility runs. Local jurisdiction rules also dictate specific setback and drainage requirements.",
+        "description": "Verde Valley builds often involve sloped terrain, rocky soils, rural utility hookups, and municipal guidelines that influence foundation design and site preparation costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are commercial construction costs determined?",
+  "description": "Costs are determined by building square footage, intended use, mechanical requirements, interior finish levels, and necessary site development work like utiliti",
+  "url": "https://totalbuildingsystems.net/faq/how-are-commercial-construction-costs-determined",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are commercial construction costs determined?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercial construction costs depend on building type, square footage, site conditions, architectural complexity, and interior finish levels. A basic warehouse or industrial shell will cost substantially less per square foot than a medical clinic, restaurant, or custom corporate office that requires specialized plumbing, ventilation, and power distribution. Site development factors, such as grading, utility extensions, paving, and stormwater management, also impact the initial budget. Early pre-construction planning and value engineering help determine realistic cost boundaries before architectural drawings are finalized, allowing you to weigh structural materials and mechanical systems against your operational budget.",
+        "description": "Costs are determined by building square footage, intended use, mechanical requirements, interior finish levels, and necessary site development work like utilities and grading."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

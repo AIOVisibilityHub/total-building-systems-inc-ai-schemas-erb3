@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before consulting a contractor about building a metal home?",
+  "description": "Gather your boundary survey, HOA or CC&R guidelines, utility connection details, and a functional list of desired room layouts and square footage before your in",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-consulting-a-contractor-about-building-a-metal-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before consulting a contractor about building a metal home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before approaching a general contractor, gather your property deed, a boundary survey, preliminary site topography, and a clear list of room requirements. You should also check for property covenants, conditions, and restrictions (CC&Rs) or HOA guidelines that may dictate exterior aesthetic materials, roof pitches, or minimum square footage. Having documentation regarding available utilities—such as electric grid connection, well depth, or septic feasibility—helps your builder determine foundation elevations, driveway access for delivery cranes, and utility tie-in logistics early in the pre-construction phase.",
+        "description": "Gather your boundary survey, HOA or CC&R guidelines, utility connection details, and a functional list of desired room layouts and square footage before your initial meeting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

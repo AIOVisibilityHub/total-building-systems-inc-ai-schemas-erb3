@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I determine the right size and height for my metal workshop?",
+  "description": "Calculate the footprint of your tools, vehicles, and workbenches, add ample walking clearance, and select sidewall heights based on vertical needs like vehicle",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-determine-the-right-size-and-height-for-my-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I determine the right size and height for my metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right size depends on your primary use, planned equipment, and workflow clearance. Measure the footprint of everything you intend to store or operate, such as vehicles, workbenches, welding stations, and tooling equipment, and add at least three to four feet of walking clearance around each station. Consider vertical height as well: auto lifts, overhead hoists, or future mezzanine storage demand taller sidewalls, often 12 to 16 feet minimum. Planning for future expansion now prevents costly building additions later.",
+        "description": "Calculate the footprint of your tools, vehicles, and workbenches, add ample walking clearance, and select sidewall heights based on vertical needs like vehicle lifts or lofts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

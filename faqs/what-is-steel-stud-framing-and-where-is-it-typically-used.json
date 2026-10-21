@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is steel-stud framing and where is it typically used?",
+  "description": "Steel-stud framing uses galvanized steel members instead of lumber to construct durable, fire-resistant, and straight interior walls and load-bearing structures",
+  "url": "https://totalbuildingsystems.net/faq/what-is-steel-stud-framing-and-where-is-it-typically-used",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is steel-stud framing and where is it typically used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steel-stud framing uses cold-formed, galvanized steel tracks and studs instead of traditional lumber to build walls, partitions, and ceilings. It is non-combustible, perfectly straight, and resistant to termites, rot, and moisture damage. Light-gauge steel is widely used for interior commercial partition walls, while heavy-gauge structural steel handles load-bearing exterior framing. Unlike wood, steel will not warp, twist, or shrink over time, which prevents drywall popping and nail pops down the line. It creates a dimensionally stable framework that works well for both commercial buildouts and modern residential interiors.",
+        "description": "Steel-stud framing uses galvanized steel members instead of lumber to construct durable, fire-resistant, and straight interior walls and load-bearing structures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

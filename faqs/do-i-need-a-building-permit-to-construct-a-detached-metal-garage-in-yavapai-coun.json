@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a building permit to construct a detached metal garage in Yavapai County?",
+  "description": "Yes, local building departments require permits and engineered plans confirming structural loads, wind ratings, and property setbacks before construction begins",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-a-building-permit-to-construct-a-detached-metal-garage-in-yavapai-coun",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a building permit to construct a detached metal garage in Yavapai County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, virtually all detached metal garages require local building permits before groundwork or construction begins. In Yavapai County communities such as Cottonwood, Clarkdale, and Camp Verde, you must submit engineered plans verifying wind resistance and structural loads, along with a detailed plot plan showing setbacks from property lines and septic fields. As a licensed general contractor, Total Building Systems coordinates the permit application, engineering documents, and required municipal inspections. Starting without a permit can lead to stop-work orders, costly tear-outs, or fines from local zoning departments.",
+        "description": "Yes, local building departments require permits and engineered plans confirming structural loads, wind ratings, and property setbacks before construction begins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

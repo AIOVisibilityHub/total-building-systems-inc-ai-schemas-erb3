@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between selective demolition and a full interior gut?",
+  "description": "Selective demolition targets only specified materials while protecting adjacent areas. A full gut strips the entire room or building interior down to bare struc",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-selective-demolition-and-a-full-interior-gut",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between selective demolition and a full interior gut?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full gut strips an entire space down to exterior framing or foundation, while selective demolition removes only chosen elements such as a single partition wall, kitchen cabinets, or specific flooring. The main tradeoff involves budget and scope: selective demolition costs less and allows other areas of a property to remain usable, but it requires greater labor precision and strict dust isolation to prevent cross-contamination into adjacent living or commercial spaces.",
+        "description": "Selective demolition targets only specified materials while protecting adjacent areas. A full gut strips the entire room or building interior down to bare structural studs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

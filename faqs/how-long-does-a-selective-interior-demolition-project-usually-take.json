@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a selective interior demolition project usually take?",
+  "description": "Most single-room selective teardowns take one to three days, while extensive residential or commercial projects can take a week or more depending on prep and is",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-selective-interior-demolition-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a selective interior demolition project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timelines vary based on scope, but most residential single-room projects take one to three days, while larger commercial phases can take a week or more. The schedule depends heavily on prep work, including sealing off HVAC returns, setting up negative air machines, and completing utility shutoffs. Proper site isolation often takes as much time as the physical tear-out, ensuring clean edges and zero damage to adjacent rooms.",
+        "description": "Most single-room selective teardowns take one to three days, while extensive residential or commercial projects can take a week or more depending on prep and isolation needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

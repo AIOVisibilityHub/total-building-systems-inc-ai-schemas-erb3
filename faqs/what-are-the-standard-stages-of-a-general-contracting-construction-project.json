@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the standard stages of a general contracting construction project?",
+  "description": "Projects progress through pre-construction planning, structural work and rough-ins, finish installations, and a final inspection and owner walk-through.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-standard-stages-of-a-general-contracting-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the standard stages of a general contracting construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The general contracting process moves through pre-construction, site preparation, rough construction, interior finishes, and the final walk-through. Pre-construction involves reviewing blueprints, finalizing budgets, signing contracts, and acquiring local building permits. Once construction begins, the job progresses sequentially: demolition and foundation work occur first, followed by framing, rough-in mechanicals (HVAC, plumbing, electrical), insulation, and drywall. After walls are closed, finishes like cabinetry, flooring, fixtures, and paint are completed. The process concludes with a punch-list walk-through with the property owner and passing the final municipal inspection to receive a certificate of occupancy.",
+        "description": "Projects progress through pre-construction planning, structural work and rough-ins, finish installations, and a final inspection and owner walk-through."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

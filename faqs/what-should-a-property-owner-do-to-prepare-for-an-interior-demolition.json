@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a property owner do to prepare for an interior demolition?",
+  "description": "Clear all personal belongings and furniture from the area, label any fixtures you want to salvage, shut off relevant utilities, and reserve space outside for wa",
+  "url": "https://totalbuildingsystems.net/faq/what-should-a-property-owner-do-to-prepare-for-an-interior-demolition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a property owner do to prepare for an interior demolition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before the crew arrives, property owners should clear all furniture, artwork, and personal items from the work zone and along paths to exterior doors. Clearly mark items or fixtures you plan to reuse or salvage, such as specialty lighting, appliances, or historic trim, so they are not disposed of by mistake. Arrange for utility shutoffs or isolations if water, gas, or circuit breakers need to be deactivated before work begins. Securing pets, notifying neighbors of anticipated noise, and designating parking space for dumpsters or haul trucks also keeps the process moving smoothly.",
+        "description": "Clear all personal belongings and furniture from the area, label any fixtures you want to salvage, shut off relevant utilities, and reserve space outside for waste dumpsters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

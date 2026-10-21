@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does drywall taping, mudding, and texturing usually take?",
+  "description": "Most drywall finishing and texture repairs take 1 to 3 days. Each coat of joint compound must dry fully before sanding, re-coating, or applying final texture.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-drywall-taping-mudding-and-texturing-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does drywall taping, mudding, and texturing usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical drywall finishing and texture project takes between one and three days depending on humidity, temperature, and scope. Day one focuses on hanging board, applying joint tape, and laying down initial coats of joint compound. Because compound must dry completely before sanding or applying subsequent coats, weather conditions and compound formulation directly govern the schedule. Day two usually covers final skim passes, light sanding, and applying the matching texture. Day three is often reserved for drying, inspection, and priming or painting. Rushing wet compound with artificial heat can cause cracking, shrinkage, and premature bond failure.",
+        "description": "Most drywall finishing and texture repairs take 1 to 3 days. Each coat of joint compound must dry fully before sanding, re-coating, or applying final texture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

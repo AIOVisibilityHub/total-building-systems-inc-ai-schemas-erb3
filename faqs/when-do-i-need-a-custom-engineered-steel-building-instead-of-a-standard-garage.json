@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need a custom-engineered steel building instead of a standard garage?",
+  "description": "Choose custom engineering when you need wide clear-span space without posts, high ceilings for vehicle lifts, oversized doors, or planned interior living spaces",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-a-custom-engineered-steel-building-instead-of-a-standard-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need a custom-engineered steel building instead of a standard garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should opt for a custom design when you need wide clear-span interiors without load-bearing posts, oversized doors for heavy equipment, or exact height clearances for lifts. Standard buildings work well for basic vehicle parking, but custom engineering is essential if your project involves overhead cranes, uneven grade conditions, or plans to finish the interior into conditioned office or living space. Tailoring the frame beforehand guarantees that wall girts and roof purlins can carry additional interior loads.",
+        "description": "Choose custom engineering when you need wide clear-span space without posts, high ceilings for vehicle lifts, oversized doors, or planned interior living spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

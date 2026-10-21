@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you hang heavy fixtures and cabinets on steel-stud walls?",
+  "description": "Heavy cabinets and fixtures require wood or steel backing straps installed inside the framing before drywall, or heavy-duty toggle bolts after completion.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-hang-heavy-fixtures-and-cabinets-on-steel-stud-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you hang heavy fixtures and cabinets on steel-stud walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steel framing requires different fasteners and wall preparation than wood framing. Heavy items like wall-mounted televisions, commercial shelving, or upper cabinets cannot simply be screwed into light-gauge steel with standard drywall screws. Contractors plan ahead by installing horizontal wood blocking, flat steel backing straps, or heavier-gauge studs in designated mounting areas before hanging drywall. If you are mounting lighter objects later, heavy-duty hollow-wall toggle bolts or self-drilling drywall anchors are necessary. Disclosing where heavy fixtures, equipment, or cabinetry will go before drywall installation saves significant time and effort.",
+        "description": "Heavy cabinets and fixtures require wood or steel backing straps installed inside the framing before drywall, or heavy-duty toggle bolts after completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

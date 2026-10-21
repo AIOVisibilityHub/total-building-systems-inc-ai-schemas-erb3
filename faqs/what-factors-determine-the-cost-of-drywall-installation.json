@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of drywall installation?",
+  "description": "Costs depend on square footage, ceiling height, job complexity, and whether old materials must be removed. Expect higher rates for vaulted ceilings or tight spa",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-drywall-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of drywall installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professional drywall installation costs depend primarily on total square footage, ceiling height, and accessibility. Labor and materials generally range between two and four dollars per square foot of wall and ceiling area. Vaulted ceilings, curved walls, and tight architectural spaces require extra scaffolding, specialized cuts, and additional labor, which raises the final cost. Demolition of existing damaged walls, waste disposal fees, and water-damage remediation before hanging will also affect the estimate. A clear floor plan and room measurements help contractors provide precise bids.",
+        "description": "Costs depend on square footage, ceiling height, job complexity, and whether old materials must be removed. Expect higher rates for vaulted ceilings or tight spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

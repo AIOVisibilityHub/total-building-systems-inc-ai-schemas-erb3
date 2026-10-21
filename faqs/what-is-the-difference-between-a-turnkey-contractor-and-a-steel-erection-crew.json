@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a turnkey contractor and a steel erection crew?",
+  "description": "A turnkey contractor oversees the entire project including permits, concrete, and assembly, while an erection crew only puts together the delivered steel framew",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-turnkey-contractor-and-a-steel-erection-crew",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a turnkey contractor and a steel erection crew?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A turnkey general contractor manages the entire project from initial design and zoning review through concrete placement, steel erection, and interior build-out under a single contract. In contrast, an erection-only crew simply puts up the delivered steel frame and panels on a foundation someone else poured. Choosing a turnkey contractor eliminates coordination gaps between the concrete crew, steel delivery logistics, and finish trades. If foundation anchor bolts are misaligned by an independent concrete crew, an erection team may halt work, creating delays and unexpected change orders.",
+        "description": "A turnkey contractor oversees the entire project including permits, concrete, and assembly, while an erection crew only puts together the delivered steel framework."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

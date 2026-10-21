@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a property owner prepare before steel-stud framing begins?",
+  "description": "Provide clear floor plans, identify mounting locations for heavy equipment to allow blocking installation, and confirm engineering requirements for stud gauges.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-a-property-owner-prepare-before-steel-stud-framing-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a property owner prepare before steel-stud framing begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before hiring a framing contractor, gather detailed architectural floor plans, ceiling height requirements, and engineering specifications. Prepare a clear layout marking where heavy cabinets, plumbing runs, HVAC ducts, and wall-mounted electronics will sit, as framing crews must install blocking in those exact locations. Confirm whether the building jurisdiction requires stamped structural drawings for cold-formed steel framing. Having your electrical and mechanical pathways outlined in advance allows the contractor to select the correct stud size, gauge, and knockout orientation to accommodate your trades smoothly without cutting or compromising steel members.",
+        "description": "Provide clear floor plans, identify mounting locations for heavy equipment to allow blocking installation, and confirm engineering requirements for stud gauges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

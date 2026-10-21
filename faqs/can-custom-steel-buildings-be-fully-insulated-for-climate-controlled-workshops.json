@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can custom steel buildings be fully insulated for climate-controlled workshops?",
+  "description": "Yes, custom steel framing easily accommodates blanket insulation, spray foam, or insulated metal panels to create a completely climate-controlled environment.",
+  "url": "https://totalbuildingsystems.net/faq/can-custom-steel-buildings-be-fully-insulated-for-climate-controlled-workshops",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can custom steel buildings be fully insulated for climate-controlled workshops?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, rigid-frame custom steel buildings are well suited for high-density spray foam, fiberglass blanket systems, or insulated metal panels (IMPs). The primary decision factor is how you intend to use the structure. Basic unconditioned equipment storage only needs a roof vapor barrier to manage condensation. If you intend to heat or cool the workspace during hot summers or cold winters, ordering your building with thermal break tape and framing configured for thicker insulation packages is necessary to maintain energy efficiency.",
+        "description": "Yes, custom steel framing easily accommodates blanket insulation, spray foam, or insulated metal panels to create a completely climate-controlled environment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a custom steel building and a standard prefab kit?",
+  "description": "Custom steel buildings are engineered to your exact dimensions, site conditions, and door openings, whereas prefab kits use fixed dimensions that often require",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-custom-steel-building-and-a-standard-prefab-kit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a custom steel building and a standard prefab kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom steel buildings offer complete design flexibility and structural durability tailored to your site and purpose. Unlike off-the-shelf prefabricated kits sold in fixed dimensions, custom steel structures are engineered around your specific layout, door placements, ceiling heights, and local wind or snow load demands. A practical tradeoff is that fully custom engineering requires upfront design coordination, but it prevents the costly field modifications often required when forcing a stock kit to suit specialized workshop, commercial, or storage needs.",
+        "description": "Custom steel buildings are engineered to your exact dimensions, site conditions, and door openings, whereas prefab kits use fixed dimensions that often require modifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
