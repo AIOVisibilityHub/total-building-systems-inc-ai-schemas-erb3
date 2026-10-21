@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to repair drywall after plumbing cuts?",
+  "description": "Repairing drywall usually takes two to three visits over two to four days to allow multiple coats of joint compound and texture to cure properly.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-repair-drywall-after-plumbing-cuts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to repair drywall after plumbing cuts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall repair after a plumbing repair usually takes two to three visits over two to four days. While hanging the replacement drywall board takes less than an hour, proper finishing requires applying multiple thin coats of joint compound, with each layer needing several hours to dry thoroughly before sanding. Applying matching wall texture and primer adds extra drying time. Rushing the drying phase or applying compound too thick often causes shrinkage, surface cracking, and noticeable seams.",
+        "description": "Repairing drywall usually takes two to three visits over two to four days to allow multiple coats of joint compound and texture to cure properly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

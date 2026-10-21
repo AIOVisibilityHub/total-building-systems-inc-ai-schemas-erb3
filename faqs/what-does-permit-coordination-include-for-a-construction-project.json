@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does permit coordination include for a construction project?",
+  "description": "Permit coordination manages the entire process of assembling plans, filing municipal applications, resolving plan-check reviews, and booking required job-site i",
+  "url": "https://totalbuildingsystems.net/faq/what-does-permit-coordination-include-for-a-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does permit coordination include for a construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit coordination involves managing the entire building permit workflow from initial document preparation through final municipal sign-off. As your general contractor, Total Building Systems compiles engineered drawings, completes jurisdiction applications, tracks review comments with local building departments, and schedules required phase inspections. Choosing dedicated permit coordination saves property owners from spending hours researching local zoning codes, interpreting complex plan-check corrections, or making repeated trips to municipal planning desks. We handle the technical back-and-forth so your build stays on schedule.",
+        "description": "Permit coordination manages the entire process of assembling plans, filing municipal applications, resolving plan-check reviews, and booking required job-site inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

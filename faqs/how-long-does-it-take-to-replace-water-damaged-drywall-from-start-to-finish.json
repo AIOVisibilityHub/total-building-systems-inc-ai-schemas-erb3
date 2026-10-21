@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to replace water-damaged drywall from start to finish?",
+  "description": "A typical project takes 3 to 5 days. Structural drying takes 1 to 3 days, followed by installation, multiple coats of drywall mud, texturing, and priming.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-replace-water-damaged-drywall-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to replace water-damaged drywall from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a drywall replacement project depends primarily on the required drying time and the number of finish coats. For a standard room, the entire repair typically spans three to five days. Demolition and cutting out damp material takes only a few hours, but commercial dehumidifiers and air movers often must run for 24 to 72 hours to dry internal framing completely. Once the structure is certified dry, hanging the drywall takes half a day, followed by two to three days for mud application, drying between coats, texturing, and final painting.",
+        "description": "A typical project takes 3 to 5 days. Structural drying takes 1 to 3 days, followed by installation, multiple coats of drywall mud, texturing, and priming."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

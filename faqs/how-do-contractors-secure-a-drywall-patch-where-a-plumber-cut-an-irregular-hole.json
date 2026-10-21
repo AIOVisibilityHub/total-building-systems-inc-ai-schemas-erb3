@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do contractors secure a drywall patch where a plumber cut an irregular hole?",
+  "description": "Contractors square the edges, secure solid wood blocking inside the cavity, and screw the new board firmly to the backing to prevent cracking.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-contractors-secure-a-drywall-patch-where-a-plumber-cut-an-irregular-hole",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do contractors secure a drywall patch where a plumber cut an irregular hole?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plumbing access cuts are rarely cut flush to studs, so the repair requires installing wood backing or drywall clips inside the opening to support the new patch. The contractor cuts the hole square, adds solid blocking behind the edges, screws in matched-thickness drywall, and applies fiberglass mesh or paper tape across the seams. Skipping backer support leads to patch movement, which causes the compound joint to crack whenever nearby doors close or wall vibrations occur.",
+        "description": "Contractors square the edges, secure solid wood blocking inside the cavity, and screw the new board firmly to the backing to prevent cracking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

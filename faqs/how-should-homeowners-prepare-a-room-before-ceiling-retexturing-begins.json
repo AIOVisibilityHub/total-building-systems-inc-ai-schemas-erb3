@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should homeowners prepare a room before ceiling retexturing begins?",
+  "description": "Remove all furniture, decor, and window treatments from the work area. Turn off HVAC systems to keep dust out of vents, and ensure clear space for ladders or sc",
+  "url": "https://totalbuildingsystems.net/faq/how-should-homeowners-prepare-a-room-before-ceiling-retexturing-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should homeowners prepare a room before ceiling retexturing begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before the drywall contractor arrives, clear the room of all furniture, wall hangings, window treatments, and breakables. Ceiling retexturing creates fine dust and potential overspray, so clearing the room ensures your belongings stay clean and provides clear floor space for ladders or scaffolding. Turn off heating and air conditioning units during the scraping and spraying phases to keep dust from circulating through your ductwork. Also, make sure ceiling fans and light fixtures are identified; your contractor will either mask them thoroughly or lower them temporarily to ensure clean coverage around electrical boxes.",
+        "description": "Remove all furniture, decor, and window treatments from the work area. Turn off HVAC systems to keep dust out of vents, and ensure clear space for ladders or scaffolding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

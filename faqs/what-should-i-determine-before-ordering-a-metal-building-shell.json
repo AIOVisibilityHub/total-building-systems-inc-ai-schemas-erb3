@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I determine before ordering a metal building shell?",
+  "description": "Determine your zoning setbacks, required clear-height and door sizes, utility entry points, and future heating or cooling plans before finalizing your steel ord",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-determine-before-ordering-a-metal-building-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I determine before ordering a metal building shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before ordering a steel building shell, confirm your site's zoning allowances, setback lines, height restrictions, and intended utility layout. You should also determine your exact vehicle, equipment, or storage dimensions so you can specify adequate ceiling clearance and door widths. Securing a professional property survey and soil test helps your engineer design the correct foundation. Deciding whether you plan to climate-control the space later is also critical, as it determines the framing depth needed for insulation packages.",
+        "description": "Determine your zoning setbacks, required clear-height and door sizes, utility entry points, and future heating or cooling plans before finalizing your steel order."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

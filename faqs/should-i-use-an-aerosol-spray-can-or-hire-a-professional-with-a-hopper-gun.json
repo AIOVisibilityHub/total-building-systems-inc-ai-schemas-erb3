@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use an aerosol spray can or hire a professional with a hopper gun?",
+  "description": "Spray cans suit tiny spots but lack pressure control. Professional hopper guns allow precise adjustment of droplet size and air pressure, ensuring seamless blen",
+  "url": "https://totalbuildingsystems.net/faq/should-i-use-an-aerosol-spray-can-or-hire-a-professional-with-a-hopper-gun",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use an aerosol spray can or hire a professional with a hopper gun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary tradeoff lies between control and convenience. Aerosol texture cans work adequately for tiny touch-ups under a few square inches, but they often produce erratic pressure, splatter large droplets, and dry unpredictably. A professional hopper gun connected to a compressor allows the technician to adjust fluid viscosity and air volume precisely. This control is critical for matching existing wall profiles on repairs larger than a fist, preventing visible lap marks or uneven buildup.",
+        "description": "Spray cans suit tiny spots but lack pressure control. Professional hopper guns allow precise adjustment of droplet size and air pressure, ensuring seamless blends on larger patches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

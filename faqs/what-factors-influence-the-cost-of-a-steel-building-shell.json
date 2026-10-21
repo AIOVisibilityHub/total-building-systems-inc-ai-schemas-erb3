@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a steel building shell?",
+  "description": "Building dimensions, clear-span width, roof pitch, local wind and snow load ratings, and the number of framed openings for doors and windows drive the overall c",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-a-steel-building-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a steel building shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost per square foot depends heavily on the building's clear-span width, height, wind or snow load ratings, and door openings. A bare-bones, uninsulated shell is significantly less expensive per square foot than a finished building. Costs increase when you add framed openings for large commercial roll-up doors, overhangs, heavier gauge steel, or reflective roof coatings. Site preparation and concrete slab engineering are separate expenses that also vary based on soil conditions and terrain slope.",
+        "description": "Building dimensions, clear-span width, roof pitch, local wind and snow load ratings, and the number of framed openings for doors and windows drive the overall cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

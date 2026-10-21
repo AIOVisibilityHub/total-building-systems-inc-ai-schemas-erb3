@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of repairing drywall joints?",
+  "description": "Cost depends on joint length, ceiling height, underlying framing movement, and the complexity of matching the wall’s existing texture and paint.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-cost-of-repairing-drywall-joints",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of repairing drywall joints?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost depends on seam length, ceiling height, whether water damage caused the failure, and the surrounding texture. Repairing an isolated seam on a smooth wall costs substantially less than repairing joints across high vaulted ceilings or blending complex hand-applied textures. If structural fasteners failed or insulation behind the wall settled, the repair scope increases to include framing reinforcement. For accurate pricing, clear the work area, document whether the crack returns seasonally, and identify whether the surface has an orange peel, knockdown, or smooth finish.",
+        "description": "Cost depends on joint length, ceiling height, underlying framing movement, and the complexity of matching the wall’s existing texture and paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

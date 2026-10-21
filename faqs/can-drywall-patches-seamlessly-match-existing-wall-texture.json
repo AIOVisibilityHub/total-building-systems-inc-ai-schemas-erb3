@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can drywall patches seamlessly match existing wall texture?",
+  "description": "Yes, by matching the specific texture type—like orange peel or knockdown—and feathering the compound edges into the surrounding surface.",
+  "url": "https://totalbuildingsystems.net/faq/can-drywall-patches-seamlessly-match-existing-wall-texture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can drywall patches seamlessly match existing wall texture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching existing wall texture requires identifying the application method, such as orange peel, knockdown, or hand-trowel finish, and feathering the edges into the existing wall. Hand-applied southwestern textures common in central Arizona homes require specific trowel techniques and compound consistency to blend properly. A skilled finisher sprays or trowels the texture past the patch seam and lightly feathers it into the surrounding wall, ensuring no visible boundary remains once primer and paint are applied.",
+        "description": "Yes, by matching the specific texture type—like orange peel or knockdown—and feathering the compound edges into the surrounding surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between scraping off ceiling texture and skim coating over it?",
+  "description": "Scraping removes the physical texture directly, while skim coating hides the texture under smooth layers of compound. Skim coating is safer for painted textures",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-scraping-off-ceiling-texture-and-skim-coating-ove",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between scraping off ceiling texture and skim coating over it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Skim coating and full texture removal have distinct tradeoffs depending on the ceiling's condition. Complete removal gets rid of the heavy material entirely, preserving ceiling height and leaving original framing untouched, but it creates significant dust and can gouge the drywall paper if texture was painted. Skim coating leaves the existing texture encapsulated under several layers of joint compound, avoiding aggressive scraping and tear-out, but it adds weight and requires significant drying time between coats. If a ceiling has stubborn heavy knockdown texture or multiple paint layers, skim coating is frequently more predictable and less damaging to the framing structure.",
+        "description": "Scraping removes the physical texture directly, while skim coating hides the texture under smooth layers of compound. Skim coating is safer for painted textures that cannot be scraped easily."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

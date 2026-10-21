@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do plumbers patch the drywall after fixing a pipe leak?",
+  "description": "No, most plumbers only fix the plumbing and leave wall patching to a general contractor or drywall repair professional.",
+  "url": "https://totalbuildingsystems.net/faq/do-plumbers-patch-the-drywall-after-fixing-a-pipe-leak",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do plumbers patch the drywall after fixing a pipe leak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most plumbers focus exclusively on pipe repair and do not repair the drywall they cut open. Because plumbing and drywall finishing require completely different tools, licenses, and skill sets, homeowners usually need to hire a drywall specialist or general contractor to patch the hole. When hiring someone for the repair, confirm whether their scope covers only hanging the patch board, or if it also includes taping, joint compound coats, sanding, matching existing wall texture, and final paint blending.",
+        "description": "No, most plumbers only fix the plumbing and leave wall patching to a general contractor or drywall repair professional."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between orange-peel and knockdown texture?",
+  "description": "Orange-peel leaves rounded, uniform spray droplets across the wall. Knockdown uses larger splatter droplets that are smoothed flat with a trowel before drying.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-orange-peel-and-knockdown-texture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between orange-peel and knockdown texture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Orange-peel texture provides a dimpled, slightly bumpy surface reminiscent of citrus skin, created by spraying thinned joint compound under high air pressure. Knockdown texture starts with a similar spray application, but the raised droplets are allowed to set partially and then flattened with a wide trowel. Matching requires identifying this difference immediately, as applying a standard orange-peel spray to a knockdown surface creates a distinct, mismatched finish.",
+        "description": "Orange-peel leaves rounded, uniform spray droplets across the wall. Knockdown uses larger splatter droplets that are smoothed flat with a trowel before drying."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

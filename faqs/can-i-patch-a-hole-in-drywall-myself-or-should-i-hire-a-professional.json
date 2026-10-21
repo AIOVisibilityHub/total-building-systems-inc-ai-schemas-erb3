@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I patch a hole in drywall myself or should I hire a professional?",
+  "description": "Small holes under an inch are easy DIY projects, but holes larger than a doorknob need structural backing, joint compound, and texture matching best handled by",
+  "url": "https://totalbuildingsystems.net/faq/can-i-patch-a-hole-in-drywall-myself-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I patch a hole in drywall myself or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minor nail holes and small gouges under an inch can usually be fixed with simple spackle and a putty knife. Larger openings, such as doorknob holes or cutouts from plumbing access, require structural backing, drywall tape, and multiple coats of joint compound to stay rigid. A key tradeoff is durability: self-adhesive mesh patches are fast for small fixes, but larger impacts need a solid drywall scrap anchored to framing or backing wood to prevent future cracking. If an area experiences vibration or frequent contact, a properly taped and framed patch is essential.",
+        "description": "Small holes under an inch are easy DIY projects, but holes larger than a doorknob need structural backing, joint compound, and texture matching best handled by a professional."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

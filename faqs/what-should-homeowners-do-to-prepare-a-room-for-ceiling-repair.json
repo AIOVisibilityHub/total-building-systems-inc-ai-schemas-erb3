@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should homeowners do to prepare a room for ceiling repair?",
+  "description": "Clear furniture, electronics, and decor from under and around the damaged area. Crews need clear floor space to set ladders and establish dust containment.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-homeowners-do-to-prepare-a-room-for-ceiling-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should homeowners do to prepare a room for ceiling repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before technicians arrive, clear furniture from directly underneath the damaged section and remove fragile items or electronics from the room. Ceiling repairs generate airborne gypsum dust during cutout and sanding, and overspray can occur during texture application. Total Building Systems Inc. sets up containment plastic and floor protection, but clearing a wide perimeter helps crews set up ladders, manage waste disposal, and work safely overhead without endangering household belongings.",
+        "description": "Clear furniture, electronics, and decor from under and around the damaged area. Crews need clear floor space to set ladders and establish dust containment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to convert textured ceilings to smooth ceilings?",
+  "description": "A typical room takes two to four days to complete, allowing sufficient time for prep, scraping or compound coats, drying, sanding, and painting.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-convert-textured-ceilings-to-smooth-ceilings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to convert textured ceilings to smooth ceilings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most single-room ceiling conversions take two to four days from preparation through final paint. The first day involves masking walls and floors with plastic sheeting and performing initial scraping or applying the base coat of joint compound. Additional days are required because each skim coat must dry completely before the next application and final sanding. Dry desert air in the Verde Valley can speed up drying times compared to humid climates, but thicker mud applications still need adequate curing to prevent joint cracking before primer and ceiling paint are applied.",
+        "description": "A typical room takes two to four days to complete, allowing sufficient time for prep, scraping or compound coats, drying, sanding, and painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

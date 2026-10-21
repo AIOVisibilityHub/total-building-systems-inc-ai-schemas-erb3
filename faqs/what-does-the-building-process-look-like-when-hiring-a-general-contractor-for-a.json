@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does the building process look like when hiring a general contractor for a metal workshop?",
+  "description": "The contractor oversees site grading, foundation pouring, steel framing, insulation, panel installation, and all municipal code inspections.",
+  "url": "https://totalbuildingsystems.net/faq/what-does-the-building-process-look-like-when-hiring-a-general-contractor-for-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the building process look like when hiring a general contractor for a metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A turnkey general contractor manages the entire build process from empty lot to finished, insulated structure. The process begins with preliminary design, zoning reviews, and engineered structural drawings. Next, the contractor manages grading, utility trenching, and concrete slab installation. Once the foundation cures, crews erect the primary steel framing, apply vapor barriers and insulation blankets, secure the exterior metal panels, and install walk doors and roll-up bays. A dedicated contractor coordinates inspections at every stage, ensuring the finished building meets local structural and wind load codes.",
+        "description": "The contractor oversees site grading, foundation pouring, steel framing, insulation, panel installation, and all municipal code inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

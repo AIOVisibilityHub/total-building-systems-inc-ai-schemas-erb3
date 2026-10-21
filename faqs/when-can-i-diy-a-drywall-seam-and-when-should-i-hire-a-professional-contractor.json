@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When can I DIY a drywall seam, and when should I hire a professional contractor?",
+  "description": "DIY works for small, firm surface cracks. Hire a professional if the boards flex, seams gap widely, doors stick, or the joint extends across vaulted framing or",
+  "url": "https://totalbuildingsystems.net/faq/when-can-i-diy-a-drywall-seam-and-when-should-i-hire-a-professional-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When can I DIY a drywall seam, and when should I hire a professional contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can fix hairline surface cracks yourself if the underlying drywall panels are rigid and firmly attached. However, you should call a general contractor if the drywall flexes when pressed, spans across vaulted ceiling trusses, or accompanies doors that suddenly stick in their frames. Large cracks exceeding one-quarter inch or joint tape pulling off across entire rooms often point to broader framing movement or framing issues. A licensed contractor can assess whether structural backing, panel replacement, or truss clip installation is required before closing and finishing the drywall.",
+        "description": "DIY works for small, firm surface cracks. Hire a professional if the boards flex, seams gap widely, doors stick, or the joint extends across vaulted framing or load-bearing walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it necessary to repair knockdown texture instead of painting over it?",
+  "description": "Repair is necessary when there are gouges, holes, water damage, or peeling compound. Painting over bare or damaged spots highlights the missing texture rather t",
+  "url": "https://totalbuildingsystems.net/faq/when-is-it-necessary-to-repair-knockdown-texture-instead-of-painting-over-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it necessary to repair knockdown texture instead of painting over it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Knockdown texture should be repaired whenever you notice cracks, peeling, water stains, or holes from drywall anchors or plumbing cutouts. If the drywall beneath has softened from a leak, the damaged drywall must be cut out and replaced before texturing can occur. Hairline cracks often point to minor house settling or joint tape failure, which requires re-taping and mudding before applying the texture coat. Delaying repairs can allow peeling edges to catch and pull away larger texture sections.",
+        "description": "Repair is necessary when there are gouges, holes, water damage, or peeling compound. Painting over bare or damaged spots highlights the missing texture rather than hiding it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is a building permit required versus optional?",
+  "description": "Permits are mandatory for structural changes, additions, and mechanical or plumbing alterations, while cosmetic finishes like painting and flooring typically do",
+  "url": "https://totalbuildingsystems.net/faq/when-is-a-building-permit-required-versus-optional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a building permit required versus optional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most construction projects in the Verde Valley require a permit, including room additions, structural framing alterations, new electrical or plumbing runs, deck builds, and complete commercial build-outs. Cosmetic interior upgrades—like replacing flooring, painting, or swapping standard cabinetry without moving plumbing or walls—generally do not require permits. If your work alters the footprint, structural integrity, mechanical systems, or utility connections of your building, filing permits is legally required before breaking ground. When planning your scope, we review your intended updates against local municipal guidelines to determine exact permitting needs.",
+        "description": "Permits are mandatory for structural changes, additions, and mechanical or plumbing alterations, while cosmetic finishes like painting and flooring typically do not need them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can older homes in the Verde Valley with plaster walls be skim coated successfully?",
+  "description": "Yes, but older plaster must be tested and mechanically stabilized first to ensure it is firmly attached to the lath before any skim compound is applied.",
+  "url": "https://totalbuildingsystems.net/faq/can-older-homes-in-the-verde-valley-with-plaster-walls-be-skim-coated-successful",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can older homes in the Verde Valley with plaster walls be skim coated successfully?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, older homes across the Verde Valley, including historic properties in Clarkdale, Jerome, and Cottonwood, often feature lath-and-plaster walls that require specific inspection before skim coating. Plaster must be checked for key failure, where the plaster pulls away from the wood lath behind it, creating hollow, spongy sections. Applying a wet, heavy skim coat directly over unbonded plaster can cause the entire surface to sag or pull loose. In these older homes, stabilizing loose plaster with specialized washers or removing failing sections must happen before skim coating begins.",
+        "description": "Yes, but older plaster must be tested and mechanically stabilized first to ensure it is firmly attached to the lath before any skim compound is applied."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

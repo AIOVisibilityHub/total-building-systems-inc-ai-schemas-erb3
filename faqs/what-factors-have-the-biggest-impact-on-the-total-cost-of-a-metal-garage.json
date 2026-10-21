@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors have the biggest impact on the total cost of a metal garage?",
+  "description": "Total cost is mainly driven by building dimensions, steel gauge, roof design, site grading, concrete foundation needs, and optional add-ons like insulation.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-have-the-biggest-impact-on-the-total-cost-of-a-metal-garage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors have the biggest impact on the total cost of a metal garage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary cost drivers for a custom metal garage include overall square footage, building height, steel gauge thickness, and roof pitch style. Site conditions significantly affect the total as well; uneven ground requires extra grading, retaining walls, or deeper concrete footings. Choosing custom overhead doors, high R-value insulation, lean-tos, or interior partition walls will also increase the initial scope. Evaluating your storage needs early helps prevent costly structural change orders later in the process.",
+        "description": "Total cost is mainly driven by building dimensions, steel gauge, roof design, site grading, concrete foundation needs, and optional add-ons like insulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

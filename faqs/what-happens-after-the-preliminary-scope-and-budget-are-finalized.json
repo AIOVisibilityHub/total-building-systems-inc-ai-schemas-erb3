@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens after the preliminary scope and budget are finalized?",
+  "description": "Your project moves into detailed architectural drafting and engineering, followed by exact trade bidding, final contract approval, and permit submission.",
+  "url": "https://totalbuildingsystems.net/faq/what-happens-after-the-preliminary-scope-and-budget-are-finalized",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens after the preliminary scope and budget are finalized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once the preliminary scope and budget are approved, the project transitions into detailed architectural drafting, structural engineering, and formal preconstruction development. During this phase, your contractor and designer coordinate to ensure construction drawings adhere to the agreed budget limits. You will finalize material specifications, window schedules, and interior finishes. After engineering and construction documents are complete, Total Building Systems Inc. solicits firm subcontractor bids to convert the preliminary framework into a final, binding construction contract and submits plans for permitting.",
+        "description": "Your project moves into detailed architectural drafting and engineering, followed by exact trade bidding, final contract approval, and permit submission."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

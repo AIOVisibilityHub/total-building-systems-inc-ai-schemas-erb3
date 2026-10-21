@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to repair and repaint knockdown texture?",
+  "description": "Repairs usually take 1 to 2 days. While applying the texture is quick, drywall mud and primer need ample drying time before applying the final coat of paint.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-repair-and-repaint-knockdown-texture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to repair and repaint knockdown texture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most small knockdown texture repairs take between one to two days to complete, primarily due to drying times between steps. The initial drywall patch and joint compound base layer take a few hours to install and cure. Texturing itself takes less than an hour once prepped, but the flattened compound requires 24 hours to dry fully before it can accept primer and paint. Cold or humid conditions can prolong cure times, while good airflow speeds up the process.",
+        "description": "Repairs usually take 1 to 2 days. While applying the texture is quick, drywall mud and primer need ample drying time before applying the final coat of paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

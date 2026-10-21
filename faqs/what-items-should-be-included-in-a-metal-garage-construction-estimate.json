@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What items should be included in a metal garage construction estimate?",
+  "description": "A detailed estimate includes site prep, concrete slab work, framing, siding, roofing, doors, insulation, labor, engineering drawings, and local permit fees.",
+  "url": "https://totalbuildingsystems.net/faq/what-items-should-be-included-in-a-metal-garage-construction-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What items should be included in a metal garage construction estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive metal garage construction estimate should outline concrete slab foundation specifications, steel framing packages, exterior siding, and roof panels. It should also detail door and window openings, trim packages, insulation types, and required site prep. Beyond raw materials, the estimate must clearly state labor, equipment fees, engineered plans, and local building permit handling. Reviewing line items for foundation engineering versus simple dirt grading ensures you avoid unexpected out-of-pocket costs once construction begins.",
+        "description": "A detailed estimate includes site prep, concrete slab work, framing, siding, roofing, doors, insulation, labor, engineering drawings, and local permit fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

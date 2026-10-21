@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a smooth ceiling easier to repair and maintain than a textured ceiling?",
+  "description": "Yes. Smooth ceilings do not collect dust like textured surfaces, and drywall patches can be feathered flat and blended without trying to match complex spray pat",
+  "url": "https://totalbuildingsystems.net/faq/is-a-smooth-ceiling-easier-to-repair-and-maintain-than-a-textured-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a smooth ceiling easier to repair and maintain than a textured ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A smooth ceiling is much easier to repair seamlessly than a textured ceiling. When plumbing leaks, roof repairs, or electrical modifications cause ceiling damage, matching an existing acoustic, orange peel, or knockdown texture requires precise spraying pressure and technique that rarely blends invisibly. With a smooth ceiling, a skilled drywall professional can cut out damaged board, tape the joint, feather the compound across the seam, and sand it flat, resulting in an undetectable repair once painted.",
+        "description": "Yes. Smooth ceilings do not collect dust like textured surfaces, and drywall patches can be feathered flat and blended without trying to match complex spray patterns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

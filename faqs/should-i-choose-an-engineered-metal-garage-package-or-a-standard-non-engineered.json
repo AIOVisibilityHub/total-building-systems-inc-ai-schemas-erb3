@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose an engineered metal garage package or a standard non-engineered kit?",
+  "description": "Choose an engineered package to ensure the structure satisfies municipal building codes, wind speeds, snow loads, and local permitting requirements.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-choose-an-engineered-metal-garage-package-or-a-standard-non-engineered",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose an engineered metal garage package or a standard non-engineered kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selecting certified engineering is recommended whenever you are building a permanent structure that must satisfy local building codes, snow loads, or wind requirements. Non-engineered buildings may offer lower upfront material costs, but municipal building departments usually reject uncertified plans during permit review. Opting for fully engineered plans ensures the steel gauge, anchoring bolts, and foundation design are certified by a licensed professional to withstand local environmental stresses safely.",
+        "description": "Choose an engineered package to ensure the structure satisfies municipal building codes, wind speeds, snow loads, and local permitting requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

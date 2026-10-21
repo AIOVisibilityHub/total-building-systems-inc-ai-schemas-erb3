@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before a drywall contractor arrives to patch plumbing holes?",
+  "description": "Clear the workspace, verify pipe protection plates are installed, photograph open pipes for your records, and locate matching paint.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-a-drywall-contractor-arrives-to-patch-plumbing-hole",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before a drywall contractor arrives to patch plumbing holes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before the drywall contractor arrives, measure the cutouts, take photos of the interior pipes for future reference, and ensure the plumber added nail plates over any pipes set shallow in the studs. Clear furniture and floor items within at least six feet of the work area to protect against drywall dust. Additionally, locate any leftover matching wall paint, or cut a small one-inch sample of existing drywall paper so the contractor can get an exact color and sheen match.",
+        "description": "Clear the workspace, verify pipe protection plates are installed, photograph open pipes for your records, and locate matching paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

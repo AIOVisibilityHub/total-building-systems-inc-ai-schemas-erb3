@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an orange-peel texture repair take to complete?",
+  "description": "Most repairs take one to two days. Applying the patch and texture is quick, but joint compound and texture need 12 to 24 hours to cure fully before priming and",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-an-orange-peel-texture-repair-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an orange-peel texture repair take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most drywall and orange-peel texture repairs take between one and two days from start to finish. The repair area requires multiple thin coats of joint compound, each needing several hours to dry before sanding smooth. Applying the texture spray takes only minutes, but the mud must cure fully—usually 12 to 24 hours depending on indoor humidity—before it can be sealed with primer and finished with matching wall paint.",
+        "description": "Most repairs take one to two days. Applying the patch and texture is quick, but joint compound and texture need 12 to 24 hours to cure fully before priming and painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

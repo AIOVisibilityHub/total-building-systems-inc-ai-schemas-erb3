@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my home before a ceiling conversion project starts?",
+  "description": "Clear out smaller belongings, cover or move large furniture, and ensure clear room access. Contractors will tape off vents, walls, and doorways with plastic to",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-home-before-a-ceiling-conversion-project-starts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my home before a ceiling conversion project starts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before work begins, clear the room of small items, electronics, and fragile decor, and move large furniture to the center if it cannot be taken out completely. Contractors will seal off doorways and HVAC vents with heavy plastic sheeting to contain fine gypsum dust. Homeowners should also verify whether the ceiling has suffered previous roof leaks or water stains, as damaged drywall boards or compromised fasteners must be repaired before applying smooth compound finishes. Having clear walking paths helps the crew move staging and ladders safely.",
+        "description": "Clear out smaller belongings, cover or move large furniture, and ensure clear room access. Contractors will tape off vents, walls, and doorways with plastic to contain dust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

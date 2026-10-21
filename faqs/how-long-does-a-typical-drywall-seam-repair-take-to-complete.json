@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical drywall seam repair take to complete?",
+  "description": "Most drywall seam repairs take one to three days. The actual labor is fast, but multiple coats of compound need sufficient drying time between applications befo",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-typical-drywall-seam-repair-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical drywall seam repair take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard drywall seam repair usually takes between one and three days from start to final finish. While the hands-on labor for scraping, fastening, and taping takes only a couple of hours, drying times between compound coats dictate the overall schedule. Standard air-drying joint compound requires 12 to 24 hours per layer depending on indoor humidity and ventilation. Fast-setting chemical compounds can speed up the application process, but proper sanding, dust containment, texture application, and primer dry times still make multiple site visits standard for a seamless finish.",
+        "description": "Most drywall seam repairs take one to three days. The actual labor is fast, but multiple coats of compound need sufficient drying time between applications before sanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

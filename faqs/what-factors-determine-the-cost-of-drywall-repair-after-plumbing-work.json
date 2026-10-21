@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of drywall repair after plumbing work?",
+  "description": "Costs depend on the size and number of wall cuts, whether work is on walls or ceilings, texture complexity, and if complete wall painting is needed.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-drywall-repair-after-plumbing-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of drywall repair after plumbing work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to patch drywall after plumbing work typically depends on the cut size, wall texture complexity, and whether painting is included. Small access holes cut for pipe inspections cost significantly less than large trenches cut across studs for full pipe replacements or shower valve swaps. Factors that increase the price include repairs on ceilings, matching custom troweled textures, and painting the entire wall section rather than spot-priming, which is often required to avoid noticeable sheen differences.",
+        "description": "Costs depend on the size and number of wall cuts, whether work is on walls or ceilings, texture complexity, and if complete wall painting is needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

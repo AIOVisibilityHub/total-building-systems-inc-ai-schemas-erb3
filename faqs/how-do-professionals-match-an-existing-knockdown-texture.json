@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do professionals match an existing knockdown texture?",
+  "description": "Professionals match knockdown texture by testing mud consistency on scrap board, mimicking droplet size, feathering edges, and flattening the mud at the exact r",
+  "url": "https://totalbuildingsystems.net/faq/how-do-professionals-match-an-existing-knockdown-texture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do professionals match an existing knockdown texture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching knockdown texture requires careful adjustment of mud consistency, droplet size, and knockdown timing. The existing wall determines whether you need a fine, medium, or heavy splatter. Before touching the actual repair, technicians test spray patterns on scrap drywall or cardboard to dial in air pressure and thickness. If the patch has sharp edges, feathering the surrounding drywall compound outward prevents a noticeable raised border. Finally, applying matching primer and sheen-matched paint prevents light reflection differences that expose the patched area.",
+        "description": "Professionals match knockdown texture by testing mud consistency on scrap board, mimicking droplet size, feathering edges, and flattening the mud at the exact right moment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

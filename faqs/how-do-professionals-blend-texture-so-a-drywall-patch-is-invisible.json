@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do professionals blend texture so a drywall patch is invisible?",
+  "description": "Pros dial in mud thickness, test spray patterns on scrap boards, and feather compound past the repair edges to avoid noticeable outlines.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-professionals-blend-texture-so-a-drywall-patch-is-invisible",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do professionals blend texture so a drywall patch is invisible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching an existing drywall texture requires testing mud consistency and spray patterns on scrap drywall before touching the wall. The practical tradeoff with DIY aerosol texture cans is that they offer limited pressure control and frequently spit or dry unevenly, leaving obvious patch borders. Professional contractors use adjustable hopper guns, specialized trowels, or custom hand-application methods. They also feather the compound well past the patch boundary to prevent a noticeable outline once the final coat of paint is applied.",
+        "description": "Pros dial in mud thickness, test spray patterns on scrap boards, and feather compound past the repair edges to avoid noticeable outlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

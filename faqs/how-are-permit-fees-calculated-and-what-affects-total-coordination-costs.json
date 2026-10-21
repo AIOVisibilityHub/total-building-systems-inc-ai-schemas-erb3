@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are permit fees calculated, and what affects total coordination costs?",
+  "description": "Total costs consist of municipal plan-check fees based on project valuation and contractor coordination fees for preparing, submitting, and tracking the applica",
+  "url": "https://totalbuildingsystems.net/faq/how-are-permit-fees-calculated-and-what-affects-total-coordination-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are permit fees calculated, and what affects total coordination costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit costs include two separate components: municipal fees charged directly by the city or county, and general contractor coordination fees. Local jurisdictions calculate permit and plan-check fees based on project valuation, total square footage, and scope of work. Coordination services cover compiling documentation, attending development meetings, and addressing plan examiner notes. While coordinating permits yourself avoids contractor coordination fees, unaddressed submittal errors frequently trigger revision fees and multi-week construction delays, making professional handling more cost-effective overall.",
+        "description": "Total costs consist of municipal plan-check fees based on project valuation and contractor coordination fees for preparing, submitting, and tracking the application."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

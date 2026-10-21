@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a metal garage estimate include provisions for future expansion or workshop build-outs?",
+  "description": "Yes, an estimate can incorporate structural headers, higher eaves, and reinforced foundations to make future additions simpler and more affordable.",
+  "url": "https://totalbuildingsystems.net/faq/can-a-metal-garage-estimate-include-provisions-for-future-expansion-or-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a metal garage estimate include provisions for future expansion or workshop build-outs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, metal garage estimates frequently include provisions for future electrical, plumbing, insulation, or lean-to additions. It is much more cost-effective to engineer the building frame and concrete slab for future expansions during the initial design phase. Informing your general contractor early allows them to specify taller eave heights, structural header openings, and reinforced perimeter slab footings to easily accommodate future overhead doors or extended utility bays later.",
+        "description": "Yes, an estimate can incorporate structural headers, higher eaves, and reinforced foundations to make future additions simpler and more affordable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does knockdown texture repair cost?",
+  "description": "Cost depends on the patch size, wall vs. ceiling location, accessibility, and whether primer and paint blending are required for the finished project.",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-knockdown-texture-repair-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does knockdown texture repair cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to repair and match knockdown texture depends on patch size, ceiling height, and whether painting is included. Small repairs involving a single hole typically cost less, while larger ceiling patches or water damage repairs require extra scaffolding, containment, and prep work. Other cost factors include whether multiple mud coats are needed to level an uneven drywall joint beneath the texture. Combining multiple texture repairs throughout the home during a single visit lowers the overall per-patch cost.",
+        "description": "Cost depends on the patch size, wall vs. ceiling location, accessibility, and whether primer and paint blending are required for the finished project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

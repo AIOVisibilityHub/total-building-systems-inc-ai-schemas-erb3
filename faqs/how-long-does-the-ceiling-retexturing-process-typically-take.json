@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the ceiling retexturing process typically take?",
+  "description": "A standard room usually takes one to three days, allowing sufficient time for prep masking, texture application, drying between compound layers, and finish pain",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-the-ceiling-retexturing-process-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the ceiling retexturing process typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The retexturing process typically takes between one and three days for an average-sized residential area. Day one focuses heavily on site protection: hanging plastic sheeting on walls, sealing doorways, and covering flooring, followed by scraping or skim-coating and repairing underlying seams. Day two usually involves applying the primer, spraying or hand-applying the texture, and allowing proper dry times. Day three covers finish painting and site cleanup. Humidity and temperature heavily influence these stages; high humidity or cold indoor air slows compound drying times, which can extend the overall turnaround before the final paint coats can cure safely.",
+        "description": "A standard room usually takes one to three days, allowing sufficient time for prep masking, texture application, drying between compound layers, and finish painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

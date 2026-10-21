@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do older homes in the Verde Valley require testing before removing textured ceilings?",
+  "description": "Yes, homes built before 1978 should be tested for asbestos before disturbing ceiling texture. If present, encapsulation with new drywall or certified abatement",
+  "url": "https://totalbuildingsystems.net/faq/do-older-homes-in-the-verde-valley-require-testing-before-removing-textured-ceil",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do older homes in the Verde Valley require testing before removing textured ceilings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Older homes across Cottonwood, Clarkdale, and Jerome built before 1978 may contain asbestos in acoustic popcorn ceiling textures. Before scraping or disturbing textured ceilings in vintage homes, testing a small physical sample is a critical safety step. If tests confirm asbestos, simple scraping is not an option without certified abatement. In some cases, safely encapsulating the ceiling by hanging new gypsum board directly over the undisturbed material avoids releasing fibers while achieving the desired smooth finish.",
+        "description": "Yes, homes built before 1978 should be tested for asbestos before disturbing ceiling texture. If present, encapsulation with new drywall or certified abatement is required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

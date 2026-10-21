@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of concrete foundation is required for a steel building shell?",
+  "description": "A foundation with reinforced perimeter footings or piers designed for heavy uplift and column loads is required, built according to engineered anchor bolt plans",
+  "url": "https://totalbuildingsystems.net/faq/what-type-of-concrete-foundation-is-required-for-a-steel-building-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of concrete foundation is required for a steel building shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Foundation engineering depends on your building footprint, column reactions, and site soil composition. Steel buildings exert high uplift and lateral horizontal forces at each column anchor bolt, requiring thicker perimeter footings, grade beams, or piers compared to standard residential wood framing. A standard floating slab is rarely sufficient on its own without dedicated structural footings under each frame connection. Your structural engineer will calculate anchor bolt patterns and footing depths based on stamped building loads.",
+        "description": "A foundation with reinforced perimeter footings or piers designed for heavy uplift and column loads is required, built according to engineered anchor bolt plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

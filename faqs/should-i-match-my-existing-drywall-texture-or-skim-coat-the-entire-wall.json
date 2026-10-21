@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I match my existing drywall texture or skim coat the entire wall?",
+  "description": "Match the texture for localized repairs to save time and cost; skim coat the entire surface if existing walls suffer from multiple inconsistent past patches.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-match-my-existing-drywall-texture-or-skim-coat-the-entire-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I match my existing drywall texture or skim coat the entire wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Texture matching blends a localized patch into the rest of the room, whereas skim coating covers the entire surface to eliminate texture completely. The decision factor comes down to the extent of wall damage and your aesthetic goals. If damage is isolated to a plumbing cut or settling crack, matching the texture preserves the room's consistency at a lower cost. If the walls have multiple mismatched previous patches or outdated heavy textures, skim coating the entire wall creates a uniform, modern finish.",
+        "description": "Match the texture for localized repairs to save time and cost; skim coat the entire surface if existing walls suffer from multiple inconsistent past patches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

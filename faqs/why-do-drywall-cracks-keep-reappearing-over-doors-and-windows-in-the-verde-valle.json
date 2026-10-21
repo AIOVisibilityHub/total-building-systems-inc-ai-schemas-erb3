@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do drywall cracks keep reappearing over doors and windows in the Verde Valley?",
+  "description": "Seasonal humidity swings and soil shifting cause minor framing movement. Proper repair requires widening the crack and reinforcing it with tape and joint compou",
+  "url": "https://totalbuildingsystems.net/faq/why-do-drywall-cracks-keep-reappearing-over-doors-and-windows-in-the-verde-valle",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do drywall cracks keep reappearing over doors and windows in the Verde Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stress cracks above door frames and window corners typically stem from seasonal foundation movement, settling, or framing lumber drying out. In regions like the Verde Valley, including Camp Verde and Cornville, shifts between dry heat and monsoon moisture can cause minor structural shifting. To prevent recurring cracks, simply applying spackle is rarely enough. The crack must be cleared of loose gypsum, reinforced with fiberglass mesh or paper tape embedded in setting-type compound, and feathered out broadly to absorb future micro-movements without cracking again.",
+        "description": "Seasonal humidity swings and soil shifting cause minor framing movement. Proper repair requires widening the crack and reinforcing it with tape and joint compound."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

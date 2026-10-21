@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I convert ceilings throughout the whole house at once or room by room?",
+  "description": "Converting the whole house or common living areas at once minimizes repeated dust containment setups and ensures uniform paint sheen and texture transitions acr",
+  "url": "https://totalbuildingsystems.net/faq/should-i-convert-ceilings-throughout-the-whole-house-at-once-or-room-by-room",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I convert ceilings throughout the whole house at once or room by room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can convert ceilings room by room, but doing the entire house or an entire open-concept zone at once is usually more efficient. Textured ceiling removal and sanding create airborne dust, meaning prep work—such as covering floors, sealing off doorways, and masking light fixtures—must be repeated for each separate visit. If your kitchen, living room, and hallways share continuous sightlines, doing them together ensures consistent drywall finishing levels and avoids visible seams where smooth finishes meet remaining textured surfaces.",
+        "description": "Converting the whole house or common living areas at once minimizes repeated dust containment setups and ensures uniform paint sheen and texture transitions across open rooms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

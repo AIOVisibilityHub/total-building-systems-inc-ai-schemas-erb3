@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if a cracked seam is cosmetic or a sign of structural settling?",
+  "description": "Cosmetic failures stay flat along the seam line. Structural settling causes diagonal cracks from door corners, misaligned wall planes, and sticking windows or d",
+  "url": "https://totalbuildingsystems.net/faq/how-can-i-tell-if-a-cracked-seam-is-cosmetic-or-a-sign-of-structural-settling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if a cracked seam is cosmetic or a sign of structural settling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Joint compound failure happens right at the seam, while foundation movement produces broader structural symptoms throughout the room. If the crack is purely a joint tape failure, the wall remains flat on both sides of the seam, the gap stays narrow, and adjacent windows or doors operate smoothly. If your home has foundation movement or soil settling, you will often notice stair-step cracks through masonry, diagonal cracks shooting from door headers, doors binding against frames, or one panel visibly protruding past the adjoining sheet.",
+        "description": "Cosmetic failures stay flat along the seam line. Structural settling causes diagonal cracks from door corners, misaligned wall planes, and sticking windows or doors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

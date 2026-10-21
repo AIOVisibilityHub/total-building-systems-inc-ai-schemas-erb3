@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a metal building kit price and a turnkey estimate?",
+  "description": "A kit price covers only raw manufactured materials, while a turnkey estimate includes site prep, concrete, installation labor, doors, and permit management.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-metal-building-kit-price-and-a-turnkey-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a metal building kit price and a turnkey estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standalone metal building kit includes only the structural steel framing, exterior metal sheeting, hardware, and assembly plans. Turnkey construction estimates cover the entire scope: site excavation, formwork, pouring the concrete slab, building assembly, overhead door installation, and building permit coordination. Buying a kit alone requires you to hire subcontractors or finish foundation and mechanical tasks yourself, while a turnkey estimate provides a single accountable general contractor.",
+        "description": "A kit price covers only raw manufactured materials, while a turnkey estimate includes site prep, concrete, installation labor, doors, and permit management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you patch a drywall hole directly over wallpaper?",
+  "description": "No, compound moisture causes wallpaper glue to lift. You must peel away the loose wallpaper and seal the underlying paper before patching and taping.",
+  "url": "https://totalbuildingsystems.net/faq/can-you-patch-a-drywall-hole-directly-over-wallpaper",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you patch a drywall hole directly over wallpaper?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spreading joint compound over wallpaper is not recommended because moisture in the compound weakens the wallpaper adhesive, causing blistering and peeling over time. The correct approach depends on the room: either strip the wallpaper from the damaged section and prime the exposed facing paper with a sealing primer, or remove the wallpaper completely across that wall face. Applying a proper drywall patch requires direct bonding to clean gypsum board or existing sound drywall paper to prevent bubbling under the repair.",
+        "description": "No, compound moisture causes wallpaper glue to lift. You must peel away the loose wallpaper and seal the underlying paper before patching and taping."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

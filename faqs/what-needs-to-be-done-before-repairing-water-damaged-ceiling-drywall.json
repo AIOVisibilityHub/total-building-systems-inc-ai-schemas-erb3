@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What needs to be done before repairing water-damaged ceiling drywall?",
+  "description": "You must fully resolve the water source and allow internal framing to dry before hanging drywall. Wet insulation must also be removed to prevent recurring damag",
+  "url": "https://totalbuildingsystems.net/faq/what-needs-to-be-done-before-repairing-water-damaged-ceiling-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What needs to be done before repairing water-damaged ceiling drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most critical step is ensuring the underlying moisture issue is completely fixed before starting any drywall work. Even minor residual dampness behind the ceiling can compromise new joint compound, cause tape failure, and encourage mold growth. Check overhead plumbing lines, roof flashing, or HVAC condensation pans. Once the source is repaired, the framing must dry thoroughly, and any saturated insulation above the ceiling must be removed and replaced prior to hanging new drywall.",
+        "description": "You must fully resolve the water source and allow internal framing to dry before hanging drywall. Wet insulation must also be removed to prevent recurring damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

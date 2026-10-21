@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the total cost of an insulated metal workshop?",
+  "description": "Cost factors include building dimensions, roof height, foundation specifications, insulation thickness, door configurations, and interior utility rough-ins.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-total-cost-of-an-insulated-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the total cost of an insulated metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total construction cost depends on the building footprint, wall height, insulation R-value, site preparation needs, and custom features. Costs encompass site clearing, concrete foundation engineering, structural steel framing, roof and wall insulation systems, and exterior trim. Adding high-clearance overhead doors, reinforced floor slabs for vehicle lifts, or electrical conduit rough-ins will increase the baseline budget. Before requesting estimates, decide on the building dimensions, ceiling height needed for machinery, and your primary heating or cooling plans, as these direct choices shape the structural design and overall investment.",
+        "description": "Cost factors include building dimensions, roof height, foundation specifications, insulation thickness, door configurations, and interior utility rough-ins."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

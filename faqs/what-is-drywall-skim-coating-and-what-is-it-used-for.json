@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is drywall skim coating, and what is it used for?",
+  "description": "Drywall skim coating applies a thin layer of joint compound to smooth out rough, damaged, or textured surfaces, creating an even, paint-ready wall.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-drywall-skim-coating-and-what-is-it-used-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is drywall skim coating, and what is it used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall skim coating is the application of a thin layer of diluted joint compound over walls or ceilings to smooth out textured, damaged, or uneven surfaces. It is typically used to repair torn drywall paper after wallpaper removal, fix minor surface gouges, or prepare a room for a smooth Level 5 drywall finish. Unlike hanging new drywall, skim coating restores the existing substrate without tearing into framing. To prepare the room before work begins, clear furniture away from the walls, remove wall hangings and outlet switch plates, and ensure the room has adequate airflow to assist the drying process.",
+        "description": "Drywall skim coating applies a thin layer of joint compound to smooth out rough, damaged, or textured surfaces, creating an even, paint-ready wall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

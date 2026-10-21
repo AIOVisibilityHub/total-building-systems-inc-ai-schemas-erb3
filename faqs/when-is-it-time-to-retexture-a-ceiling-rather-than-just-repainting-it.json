@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it time to retexture a ceiling rather than just repainting it?",
+  "description": "Retexture when you have physical damage like flaking compound, water-stained drywall patches, or visible seams after taking down interior walls, rather than jus",
+  "url": "https://totalbuildingsystems.net/faq/when-is-it-time-to-retexture-a-ceiling-rather-than-just-repainting-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it time to retexture a ceiling rather than just repainting it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should address ceiling retexturing when you notice cracked joints, peeling mud, water damage, or when you are planning an overall interior renovation. If a ceiling has suffered a roof or plumbing leak, painting over the water mark is only a temporary fix; the damaged drywall must be cut back or resealed, patched, and retextured to prevent mold and peeling. Retexturing is also ideal when removing interior partition walls, as the newly exposed ceiling line will leave a visible gap that requires seamless retexturing to blend the adjoining spaces naturally.",
+        "description": "Retexture when you have physical damage like flaking compound, water-stained drywall patches, or visible seams after taking down interior walls, rather than just color wear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

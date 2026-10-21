@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire a drywall installer or a licensed general contractor for water-damaged walls?",
+  "description": "A general contractor is best when water damage involves structural framing, insulation replacement, plumbing leaks, or electrical concerns behind the wallboard.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-hire-a-drywall-installer-or-a-licensed-general-contractor-for-water-dam",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire a drywall installer or a licensed general contractor for water-damaged walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both trades can install gypsum board, water intrusion creates distinct structural risks that benefit from a general contractor. A handyman can patch small, dry holes, but water damage often involves wet structural framing, saturated insulation, compromised electrical wiring, or hidden plumbing failures. A general contractor oversees the complete scope: identifying the underlying leak, coordinating structural drying, replacing insulation, ensuring structural studs are sound, and finishing the drywall to match existing architectural finishes across the space.",
+        "description": "A general contractor is best when water damage involves structural framing, insulation replacement, plumbing leaks, or electrical concerns behind the wallboard."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

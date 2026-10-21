@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a drywall hole repair?",
+  "description": "Costs depend on the hole's size, accessibility, whether backing framing is needed, and the complexity of blending wall textures and paint.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-a-drywall-hole-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a drywall hole repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to repair damaged drywall depends on the size of the hole, location, and the finish texture required. Patching a single small puncture typically involves minimal labor and materials, while fixing multiple cutouts or water-damaged ceiling sections requires more setup, blending, and drying time. A key factor influencing your estimate is whether the work requires custom texture matching, high-reach ladder work, or primer and paint blending across an entire accent wall to ensure the repair is invisible under normal lighting.",
+        "description": "Costs depend on the hole's size, accessibility, whether backing framing is needed, and the complexity of blending wall textures and paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

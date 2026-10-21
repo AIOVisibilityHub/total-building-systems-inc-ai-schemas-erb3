@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a contractor for ceiling smoothing?",
+  "description": "Look for clear dust containment plans, proper disposal procedures, clear finishing standards (Level 4 or 5), and the ability to correct underlying joist or dryw",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-look-for-when-choosing-a-contractor-for-ceiling-smoothing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a contractor for ceiling smoothing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evaluate the contractor's containment strategy, dust management procedures, and drywall finishing standard. Ask if their proposal includes sealing adjacent rooms, protecting HVAC returns, and handling waste disposal. You should also confirm whether they finish to a Level 4 or Level 5 smooth standard, which includes applying a dedicated drywall primer before final painting. A contractor experienced with older regional framing in communities like Camp Verde or Cornville will also know how to spot ceiling joist sagging or uneven framing that needs shimming before finishing smooth.",
+        "description": "Look for clear dust containment plans, proper disposal procedures, clear finishing standards (Level 4 or 5), and the ability to correct underlying joist or drywall flaws."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

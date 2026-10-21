@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you retexture over an existing ceiling texture without scraping it first?",
+  "description": "Direct retexturing works only over low-profile finishes after skim-coating. Heavy or popcorn textures must be scraped first to prevent moisture and weight from",
+  "url": "https://totalbuildingsystems.net/faq/can-you-retexture-over-an-existing-ceiling-texture-without-scraping-it-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you retexture over an existing ceiling texture without scraping it first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applying new texture directly over existing texture depends on the current material and its condition. You can rarely spray a light texture directly over thick, brittle textures like heavy popcorn because the added moisture and weight can cause the original material to peel, sag, or fail entirely. However, low-profile textures like light orange peel can sometimes be covered if the surface is cleaned, primed, and skim-coated with a thin joint compound first. The practical tradeoff is preparation time: scraping down to the bare drywall requires more labor up front, but it guarantees that the new texture bonds permanently without bubbling or delaminating.",
+        "description": "Direct retexturing works only over low-profile finishes after skim-coating. Heavy or popcorn textures must be scraped first to prevent moisture and weight from peeling the ceiling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

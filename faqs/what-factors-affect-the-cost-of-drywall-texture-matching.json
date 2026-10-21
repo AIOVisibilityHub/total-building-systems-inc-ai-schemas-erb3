@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors affect the cost of drywall texture matching?",
+  "description": "Costs depend on repair dimensions, ceiling height, the complexity of hand or spray textures, and whether full wall painting is included.",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-affect-the-cost-of-drywall-texture-matching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors affect the cost of drywall texture matching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall texture matching costs depend on patch size, ceiling height, and the texture style. Minor repairs like doorknob holes typically fall at the lower end of standard service call rates, while expansive ceiling repairs or custom hand-trowel finishes cost more due to labor intensity. Additional factors affecting price include whether the scope covers texture application alone or complete primer and wall-to-wall paint blending, which prevents noticeable color flashing under natural daylight.",
+        "description": "Costs depend on repair dimensions, ceiling height, the complexity of hand or spray textures, and whether full wall painting is included."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

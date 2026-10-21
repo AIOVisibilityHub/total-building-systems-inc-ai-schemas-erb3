@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a pre-engineered steel shell compare to post-frame construction?",
+  "description": "Steel shells offer wider clear-span interiors without interior support posts, noncombustible framing, and zero risk of rot or termites compared to wood post-fra",
+  "url": "https://totalbuildingsystems.net/faq/how-does-a-pre-engineered-steel-shell-compare-to-post-frame-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a pre-engineered steel shell compare to post-frame construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rigid-frame pre-engineered steel buildings feature heavy I-beam framing, while post-frame construction uses wood posts anchored into the ground or slab. A steel shell provides clear-span interiors up to several hundred feet without load-bearing interior posts, making it ideal for large equipment storage, workshops, and commercial warehouses. Steel is also noncombustible, resistant to termites, and does not warp or rot over time. While post-frame structures can have lower upfront material costs for smaller footprints, steel offers greater structural longevity and expansive open space.",
+        "description": "Steel shells offer wider clear-span interiors without interior support posts, noncombustible framing, and zero risk of rot or termites compared to wood post-frame builds."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

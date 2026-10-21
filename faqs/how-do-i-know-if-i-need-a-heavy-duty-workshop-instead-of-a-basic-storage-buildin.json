@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if I need a heavy-duty workshop instead of a basic storage building?",
+  "description": "Choose a heavy-duty workshop if you run industrial equipment, require heavy vehicle lifts, need high ceilings, or use welding setups.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-know-if-i-need-a-heavy-duty-workshop-instead-of-a-basic-storage-buildin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if I need a heavy-duty workshop instead of a basic storage building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a commercial or heavy-duty insulated shop if your activities generate high heat, noise, heavy vehicle traffic, or require overhead lifting. A standard hobby garage works for light woodworking, storage, or lawn care equipment. If your work involves auto restoration, CNC milling, welding, or storing heavy machinery, you will need taller eave heights, a thickened concrete slab, heavier gauge steel, and fire-resistant interior liner panels. Clarifying your intended equipment loads early ensures the foundation and electrical layout are properly engineered before construction starts.",
+        "description": "Choose a heavy-duty workshop if you run industrial equipment, require heavy vehicle lifts, need high ceilings, or use welding setups."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

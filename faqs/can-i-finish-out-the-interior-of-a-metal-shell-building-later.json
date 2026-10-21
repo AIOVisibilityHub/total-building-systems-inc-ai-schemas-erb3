@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I finish out the interior of a metal shell building later?",
+  "description": "Yes, you can finish the interior later, provided you install adequate insulation during shell erection and place plumbing rough-ins prior to pouring the concret",
+  "url": "https://totalbuildingsystems.net/faq/can-i-finish-out-the-interior-of-a-metal-shell-building-later",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I finish out the interior of a metal shell building later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can finish the interior, but you should plan structural attachments and insulation early. Red iron or cold-formed steel frames expand and contract slightly with temperature shifts, so interior framing must accommodate this movement. Installing a thermal break and a vapor barrier behind the metal wall panels during the initial shell erection is critical to prevent interior condensation. Planning your plumbing rough-ins before the concrete slab is poured avoids the need to saw-cut cured concrete later.",
+        "description": "Yes, you can finish the interior later, provided you install adequate insulation during shell erection and place plumbing rough-ins prior to pouring the concrete slab."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my home before a drywall texturing appointment?",
+  "description": "Clear the work area, protect valuables, and locate your existing paint codes or leftover paint cans for the final touch-up.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-home-before-a-drywall-texturing-appointment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my home before a drywall texturing appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before a drywall contractor arrives, clear furniture and wall decor at least four to five feet away from the work zone. Take clear photos of the damage alongside a coin or tape measure if requesting an estimate remotely. Because spray texturing generates airborne mist and fine sanding dust, professional crews mask floors and plastic-wrap nearby items. Knowing the original paint sheen and keeping leftover paint codes on hand also helps ensure seamless final blending.",
+        "description": "Clear the work area, protect valuables, and locate your existing paint codes or leftover paint cans for the final touch-up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

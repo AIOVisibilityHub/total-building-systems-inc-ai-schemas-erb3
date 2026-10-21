@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need to skim coat my walls instead of just painting or replacing the drywall?",
+  "description": "Skim coating is ideal for smoothing out heavy textures, repairing widespread minor surface damage, or fixing torn drywall paper where simple paint cannot hide t",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-to-skim-coat-my-walls-instead-of-just-painting-or-replacing-the-d",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need to skim coat my walls instead of just painting or replacing the drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider a skim coat if your walls have rough textures like knockdown or orange peel that you want removed, or if the surface has extensive cosmetic damage from peeled wallpaper, dings, and water stain patches. A practical tradeoff to weigh is whether the underlying drywall is structurally sound; if the drywall is sagging, deeply water-damaged, or cracked from framing movement, skim coating will only act as a temporary cosmetic band-aid. In those cases, replacing sections of drywall or re-taping loose joints is the better long-term decision before attempting any surface finish work.",
+        "description": "Skim coating is ideal for smoothing out heavy textures, repairing widespread minor surface damage, or fixing torn drywall paper where simple paint cannot hide the flaws."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

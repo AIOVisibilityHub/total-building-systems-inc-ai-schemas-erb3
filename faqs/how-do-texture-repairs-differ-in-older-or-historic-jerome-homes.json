@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do texture repairs differ in older or historic Jerome homes?",
+  "description": "Older homes often have plaster or settling movement beneath the surface. Repairs require stabilizing the backing and using specialized setting compounds before",
+  "url": "https://totalbuildingsystems.net/faq/how-do-texture-repairs-differ-in-older-or-historic-jerome-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do texture repairs differ in older or historic Jerome homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Historic homes in hillside communities like Jerome often feature underlying plaster, wood lath, or heavy settling cracks rather than standard modern drywall. Patching orange-peel texture over plaster requires stabilizing the backing, anchoring loose substrate, and using flexible setting-type compounds. Standard drywall mud alone may crack along old movement lines, so repairs in older regional structures often demand deeper structural prep before texture blending begins.",
+        "description": "Older homes often have plaster or settling movement beneath the surface. Repairs require stabilizing the backing and using specialized setting compounds before spraying texture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

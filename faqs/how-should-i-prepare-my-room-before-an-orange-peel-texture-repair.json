@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my room before an orange-peel texture repair?",
+  "description": "Move furniture away from the wall, clear decor, and keep existing paint codes or leftover cans ready so your contractor can verify color and sheen matching.",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-room-before-an-orange-peel-texture-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my room before an orange-peel texture repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your contractor arrives, clear personal items and furniture at least four to six feet away from the work zone. Spraying orange-peel texture generates airborne mist and fine drywall dust, so the work area must be masked with plastic sheeting and drop cloths. It is also helpful to locate leftover interior paint from previous projects to confirm the color code and sheen match before finishing.",
+        "description": "Move furniture away from the wall, clear decor, and keep existing paint codes or leftover cans ready so your contractor can verify color and sheen matching."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

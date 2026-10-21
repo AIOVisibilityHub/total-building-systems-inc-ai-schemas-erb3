@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does site preparation and concrete work affect the final garage estimate?",
+  "description": "Site prep and the concrete slab typically account for 25% to 40% of your total budget, depending on slope, soil compaction, and footing depth.",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-site-preparation-and-concrete-work-affect-the-final-garage-estimat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does site preparation and concrete work affect the final garage estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Site preparation and concrete work can represent 25% to 40% of the total project investment. A steel building requires a level, properly compacted sub-base and an engineered concrete slab designed to support structural column loads. If your property has significant slope, rocky soil, or poor drainage, excavation and footing depths will increase total expenditures. Review your quote carefully to confirm whether the concrete pad and dirt work are bundled or bid as separate allowances.",
+        "description": "Site prep and the concrete slab typically account for 25% to 40% of your total budget, depending on slope, soil compaction, and footing depth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

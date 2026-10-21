@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of an orange-peel texture repair?",
+  "description": "Costs depend on the patch size, the extent of underlying drywall replacement, ceiling accessibility, and whether repainting requires corner-to-corner coverage t",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-an-orange-peel-texture-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of an orange-peel texture repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repair cost is determined by the size of the damage, the depth of the drywall repair needed behind it, and whether painting is included. Small surface punctures or drywall anchor repairs require less material and setup than cutting out water-damaged wallboard or blending texture across wide seams. Costs also shift based on ceiling height and whether adjacent walls must be painted corner-to-corner to hide paint sheen differences.",
+        "description": "Costs depend on the patch size, the extent of underlying drywall replacement, ceiling accessibility, and whether repainting requires corner-to-corner coverage to blend the finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

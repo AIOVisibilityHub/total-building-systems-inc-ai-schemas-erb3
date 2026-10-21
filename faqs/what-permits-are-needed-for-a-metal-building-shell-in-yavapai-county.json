@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for a metal building shell in Yavapai County?",
+  "description": "You need approved zoning clearance, engineered foundation plans, and stamped structural drawings submitted to Yavapai County or your local municipality before b",
+  "url": "https://totalbuildingsystems.net/faq/what-permits-are-needed-for-a-metal-building-shell-in-yavapai-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for a metal building shell in Yavapai County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building codes in the Verde Valley require structural designs tailored to regional wind patterns, seismic factors, and local soil conditions. Yavapai County and municipal planning departments require engineered foundation plans and stamped steel frame calculations before granting permits. Soil types vary widely between river valley basins like Camp Verde and rocky foothill grades like Jerome, directly impacting footer depth and concrete design. Total Building Systems manages this local permitting and engineering submittal process to verify your shell meets all Yavapai County building standards.",
+        "description": "You need approved zoning clearance, engineered foundation plans, and stamped structural drawings submitted to Yavapai County or your local municipality before building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

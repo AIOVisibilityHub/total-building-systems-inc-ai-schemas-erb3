@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do permitting requirements differ between Cottonwood and unincorporated areas like Cornville?",
+  "description": "Cottonwood enforces municipal zoning and local town ordinances, whereas unincorporated Cornville properties are reviewed under Yavapai County Development Servic",
+  "url": "https://totalbuildingsystems.net/faq/how-do-permitting-requirements-differ-between-cottonwood-and-unincorporated-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do permitting requirements differ between Cottonwood and unincorporated areas like Cornville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permitting requirements vary significantly between incorporated municipalities like Cottonwood, Clarkdale, and Jerome, and unincorporated Yavapai County jurisdictions such as Cornville. Incorporated towns enforce localized zoning overlays, historic district preservation guidelines, and specific building setbacks through their own municipal development departments. In contrast, properties in Cornville fall under Yavapai County Development Services, which applies county-level zoning ordinances and environmental codes. Our team works across both municipal desks and county offices, ensuring submittals reflect the exact jurisdiction governing your parcel.",
+        "description": "Cottonwood enforces municipal zoning and local town ordinances, whereas unincorporated Cornville properties are reviewed under Yavapai County Development Services regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

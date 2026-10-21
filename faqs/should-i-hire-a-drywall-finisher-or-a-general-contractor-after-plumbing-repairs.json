@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire a drywall finisher or a general contractor after plumbing repairs?",
+  "description": "Hire a general contractor if you need framing backing, insulation, and paint matching handled together; hire a drywall finisher for simple patches.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-hire-a-drywall-finisher-or-a-general-contractor-after-plumbing-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire a drywall finisher or a general contractor after plumbing repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general contractor handles the entire restoration from framing backing to final paint, whereas a dedicated drywall finisher usually focuses only on hanging, taping, and texturing. If the plumber cut through structural backing, damaged insulation, or left irregular cuts across multiple rooms, a licensed general contractor can manage framing support, insulation replacement, drywall finishing, and paint matching under one contract. For a clean, single-hole access cut where framing remains intact, a drywall finisher is often sufficient.",
+        "description": "Hire a general contractor if you need framing backing, insulation, and paint matching handled together; hire a drywall finisher for simple patches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

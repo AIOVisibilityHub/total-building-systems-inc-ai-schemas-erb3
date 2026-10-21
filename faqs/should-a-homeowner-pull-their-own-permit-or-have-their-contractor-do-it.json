@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should a homeowner pull their own permit or have their contractor do it?",
+  "description": "Having your licensed contractor pull the permit is recommended because they assume legal responsibility for code compliance, safety standards, and passing munic",
+  "url": "https://totalbuildingsystems.net/faq/should-a-homeowner-pull-their-own-permit-or-have-their-contractor-do-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should a homeowner pull their own permit or have their contractor do it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pulling an owner-builder permit places full legal and safety liability on the property owner, whereas letting your licensed general contractor pull the permit protects your project. When Total Building Systems pulls the permit, we assume contractual responsibility for building code compliance, job-site safety, worker coverage, and scheduling inspections. If an owner pulls the permit to manage subcontractors independently, they must handle all code violations, submittal revisions, and safety audits themselves. Hiring a licensed contractor shifts this regulatory burden and ensures your project complies with Arizona Registrar of Contractors standards.",
+        "description": "Having your licensed contractor pull the permit is recommended because they assume legal responsibility for code compliance, safety standards, and passing municipal inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

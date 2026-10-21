@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of replacing water-damaged drywall?",
+  "description": "Total costs depend on the square footage damaged, whether wall insulation must be replaced, drying equipment needs, and the labor required to match existing wal",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-determine-the-cost-of-replacing-water-damaged-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of replacing water-damaged drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs depend on the square footage affected, whether insulation behind the wall was ruined, ceiling height, and the texture style required to blend the repair. Patching a localized, small section costs significantly less than a full flood cut along the entire lower perimeter of a room. Other key cost drivers include replacing wet insulation, treating framing for mildew prevention, and applying specialized drywall textures—such as knockdown, orange peel, or smooth skim coats—so the new section blends invisibly with older existing walls.",
+        "description": "Total costs depend on the square footage damaged, whether wall insulation must be replaced, drying equipment needs, and the labor required to match existing wall textures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

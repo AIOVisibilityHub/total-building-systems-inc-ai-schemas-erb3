@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my home before a drywall seam repair crew arrives?",
+  "description": "Move furniture at least six feet away, clear wall decor, secure pets, and locate your matching paint. Crews will protect floors and set up dust containment zone",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-prepare-my-home-before-a-drywall-seam-repair-crew-arrives",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my home before a drywall seam repair crew arrives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before work begins, clear furniture and fragile wall hangings at least six feet away from the damaged wall or ceiling. Drywall repair involves scraping and fine sanding, which generates airborne dust. Professional crews set up plastic floor protection and dust barriers around the workspace. Having leftover wall paint and original paint codes ready helps speed up color matching after the patch cures. Inform the team about any plumbing pipes or electrical conduits running directly behind the damaged joint so screws are placed safely.",
+        "description": "Move furniture at least six feet away, clear wall decor, secure pets, and locate your matching paint. Crews will protect floors and set up dust containment zones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

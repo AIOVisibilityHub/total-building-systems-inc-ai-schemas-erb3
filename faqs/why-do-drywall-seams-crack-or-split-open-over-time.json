@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why do drywall seams crack or split open over time?",
+  "description": "Drywall seams crack primarily from seasonal foundation settling, framing expansion, or poorly embedded joint tape. Resecuring loose panels with screws is necess",
+  "url": "https://totalbuildingsystems.net/faq/why-do-drywall-seams-crack-or-split-open-over-time",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do drywall seams crack or split open over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall seams usually crack due to natural seasonal building movement, humidity fluctuations, or poor original taping. In regions like the Verde Valley, wide temperature swings between hot days and cool desert nights cause structural framing to expand and contract. This puts stress on gypsum joints. Improper fastener spacing or applying joint compound too thickly without sufficient embedding tape also creates weak seams. Before repairing, check if the drywall moves under pressure when pushed; loose boards need fresh drywall screws anchored directly into wall studs before any new tape is applied.",
+        "description": "Drywall seams crack primarily from seasonal foundation settling, framing expansion, or poorly embedded joint tape. Resecuring loose panels with screws is necessary before re-taping."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

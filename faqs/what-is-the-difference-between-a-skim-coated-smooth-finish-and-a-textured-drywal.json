@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a skim-coated smooth finish and a textured drywall finish?",
+  "description": "A skim-coated smooth finish creates an entirely flat, uniform surface, whereas textured finishes hide minor wall flaws under raised decorative patterns.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-a-skim-coated-smooth-finish-and-a-textured-drywal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a skim-coated smooth finish and a textured drywall finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in the finished look and how light reflects across the wall. Textured drywall finishes, such as orange peel or knockdown, use specialized spray techniques to create raised patterns that hide small framing irregularities and minor wall blemishes. In contrast, a smooth finish created by skim coating covers every ridge to achieve an entirely flat plane. The tradeoff involves maintenance and lighting: smooth walls provide a clean, modern aesthetic but will show surface scuffs and imperfections under angled lighting far more readily than textured surfaces, requiring more precision during application.",
+        "description": "A skim-coated smooth finish creates an entirely flat, uniform surface, whereas textured finishes hide minor wall flaws under raised decorative patterns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

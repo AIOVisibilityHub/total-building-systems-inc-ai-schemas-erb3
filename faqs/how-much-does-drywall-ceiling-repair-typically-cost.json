@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does drywall ceiling repair typically cost?",
+  "description": "Drywall ceiling repair costs depend on damage size, height, and texture matching. Small patches cost significantly less than large water-damaged or sagging sect",
+  "url": "https://totalbuildingsystems.net/faq/how-much-does-drywall-ceiling-repair-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does drywall ceiling repair typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cost depends on the extent of the damage, access height, and whether structural framing needs work. Minor cracks or small patches typically cost far less than addressing large water-damaged sections or sagging sheets. Key cost drivers include whether the leak source has already been resolved, ceiling height requiring scaffolding, and whether the ceiling has texture that must be blended across a broad area. Total Building Systems Inc. evaluates the full framing and surface condition to provide a clear estimate rather than a surface-only patch.",
+        "description": "Drywall ceiling repair costs depend on damage size, height, and texture matching. Small patches cost significantly less than large water-damaged or sagging sections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

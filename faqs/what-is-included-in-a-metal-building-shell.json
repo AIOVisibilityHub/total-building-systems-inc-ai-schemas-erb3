@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a metal building shell?",
+  "description": "A metal building shell includes the structural steel framing, roof panels, wall siding, trim, and fasteners to form a weather-tight exterior, excluding interior",
+  "url": "https://totalbuildingsystems.net/faq/what-is-included-in-a-metal-building-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a metal building shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A metal building shell includes the primary structural steel frame, secondary framing like purlins and girts, metal roof panels, exterior wall panels, trim, and weatherproofing fasteners. It creates a fully enclosed, weather-tight structure. The shell package typically excludes interior buildouts such as framing partitions, drywall, plumbing, electrical wiring, HVAC, and finished flooring. Opting for a shell-only build allows you to secure an exterior structure quickly while managing the interior fit-out in phases as your budget and scheduling permit.",
+        "description": "A metal building shell includes the structural steel framing, roof panels, wall siding, trim, and fasteners to form a weather-tight exterior, excluding interior fit-outs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

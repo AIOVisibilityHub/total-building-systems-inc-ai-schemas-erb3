@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the foundation for an insulated metal workshop differ from a standard garage slab?",
+  "description": "Workshop slabs feature thicker concrete, heavy rebar reinforcement, and perimeter footings engineered to handle structural steel and equipment loads.",
+  "url": "https://totalbuildingsystems.net/faq/how-does-the-foundation-for-an-insulated-metal-workshop-differ-from-a-standard-g",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the foundation for an insulated metal workshop differ from a standard garage slab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dedicated workshop requires a concrete slab engineered to support concentrated loads, vehicle jacks, and structural anchor bolts. Standard residential flatwork is often four inches thick with light mesh, whereas a functional metal workshop generally requires a four- to six-inch slab, higher compressive strength concrete, and steel rebar reinforcement. Along the perimeter, thickened footings must be formed to transfer the downward and uplift forces of the steel rigid frames. If you plan to install a two-post automotive lift, specific pad depths are poured in those locations.",
+        "description": "Workshop slabs feature thicker concrete, heavy rebar reinforcement, and perimeter footings engineered to handle structural steel and equipment loads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before contacting a builder about a custom metal workshop?",
+  "description": "Identify your machinery dimensions, target ceiling height, preferred door placements, property setbacks, and electrical service demands.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-contacting-a-builder-about-a-custom-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before contacting a builder about a custom metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before meeting with a builder, establish your primary use, minimum door dimensions, ceiling clearance, and rough property layout. Measure the largest vehicle, lift, or machinery you plan to house to determine the required eave height and door clearances. Check your property deed for setbacks, easements, and power line locations. You should also consider your power requirements, such as whether you need 200-amp service or three-phase power, as conduit runs should be placed beneath the concrete slab before pouring the foundation.",
+        "description": "Identify your machinery dimensions, target ceiling height, preferred door placements, property setbacks, and electrical service demands."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When can water-damaged drywall be patched versus fully replaced?",
+  "description": "Drywall can be patched if the leak is resolved and the area is small, but soft, crumbling, or mold-contaminated drywall requires full section replacement.",
+  "url": "https://totalbuildingsystems.net/faq/when-can-water-damaged-drywall-be-patched-versus-fully-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When can water-damaged drywall be patched versus fully replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before scheduling or beginning drywall repair, you must confirm that the underlying moisture source is completely fixed and the wall cavity is fully dried. Patching wet or damp drywall leads to mold growth and joint compound failure. You should also check for structural framing damage or compromised insulation behind the wall. In areas like Cottonwood, Clarkdale, and Jerome, older homes may have settled or experienced leaks around older plumbing or rooflines; identifying these issues early prevents having to redo the patch later.",
+        "description": "Drywall can be patched if the leak is resolved and the area is small, but soft, crumbling, or mold-contaminated drywall requires full section replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

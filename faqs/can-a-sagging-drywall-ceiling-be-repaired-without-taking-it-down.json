@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a sagging drywall ceiling be repaired without taking it down?",
+  "description": "If the drywall core is dry and intact, it can often be re-fastened to joists. If the board has softened or permanently warped, replacement is required.",
+  "url": "https://totalbuildingsystems.net/faq/can-a-sagging-drywall-ceiling-be-repaired-without-taking-it-down",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a sagging drywall ceiling be repaired without taking it down?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A sagging ceiling usually indicates drywall screws have pulled through the gypsum core or moisture has weakened the board. You can sometimes re-secure panels if the drywall remains sound, but this only works if the core is dry and structurally intact. If the panels have softened, bowed permanently, or separated from the joists over a wide area, simply driving new fasteners will not hold. The compromised drywall must be cut back to sound framing and replaced with fresh board.",
+        "description": "If the drywall core is dry and intact, it can often be re-fastened to joists. If the board has softened or permanently warped, replacement is required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

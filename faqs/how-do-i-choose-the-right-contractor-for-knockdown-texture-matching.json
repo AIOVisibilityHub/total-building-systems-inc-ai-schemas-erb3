@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for knockdown texture matching?",
+  "description": "Look for an experienced drywall specialist who includes prep, containment, and paint blending in their scope, and who tests texture patterns prior to applicatio",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-choose-the-right-contractor-for-knockdown-texture-matching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for knockdown texture matching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a licensed general contractor or drywall specialist with proven experience in custom texture matching and interior finishing. Ask whether their quote includes complete surface preparation, dust containment, primer, and finish painting, or if they only spray the raw texture. It helps to ask how they handle containment for lived-in homes, as well as their approach to testing pattern size prior to spraying. Reviewing examples of previous patch repairs confirms their ability to blend edges smoothly.",
+        "description": "Look for an experienced drywall specialist who includes prep, containment, and paint blending in their scope, and who tests texture patterns prior to application."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does drywall ceiling repair take from start to finish?",
+  "description": "Most drywall ceiling repairs take one to three days. The overall timeline depends primarily on the drying time needed between multiple coats of joint compound.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-drywall-ceiling-repair-take-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does drywall ceiling repair take from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard small patch typically takes one to two days, while extensive repairs can take three days or more. The repair itself involves hanging new board, taping, applying multiple coats of joint compound, and texturing. The primary variable controlling the schedule is drying time between compound layers, which depends heavily on indoor temperature and ventilation. Once compound and texture fully cure, the repaired section must be primed and painted to blend seamlessly with the rest of the ceiling.",
+        "description": "Most drywall ceiling repairs take one to three days. The overall timeline depends primarily on the drying time needed between multiple coats of joint compound."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the permit review and approval process usually take?",
+  "description": "Reviews typically take 2 to 4 weeks for minor residential work and 6 to 12 weeks or more for complex additions or commercial builds, depending on departmental r",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-the-permit-review-and-approval-process-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the permit review and approval process usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit approval timelines depend on your project scope and the specific municipality reviewing the plans. Minor residential alterations may take two to four weeks, while large additions, custom homes, or commercial projects often require six to twelve weeks or longer. Reviews can encounter delays if local planning departments request revisions, engineering clarifications, or additional site plans. Starting the permitting process early during your design phase ensures that plan reviews occur concurrently with material ordering, preventing costly downtime before site work starts.",
+        "description": "Reviews typically take 2 to 4 weeks for minor residential work and 6 to 12 weeks or more for complex additions or commercial builds, depending on departmental review queues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

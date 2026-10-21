@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do to prepare my home before drywall replacement begins?",
+  "description": "Shut off the water leak, take photos for insurance, clear furniture out of the work area, and switch off electrical breakers connected to outlets on the damp wa",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-do-to-prepare-my-home-before-drywall-replacement-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do to prepare my home before drywall replacement begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contractors arrive, locate and shut off the water source to stop ongoing moisture intrusion. Photograph the damaged walls, ceilings, and affected personal property for insurance records before touching anything. Clear furniture, rugs, and decorations at least six feet away from the work zone to allow clear workspace and room for containment barriers. If water pooled near baseboards or outlets, turn off electrical breakers to that room to eliminate shock hazards while the area remains wet.",
+        "description": "Shut off the water leak, take photos for insurance, clear furniture out of the work area, and switch off electrical breakers connected to outlets on the damp wall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

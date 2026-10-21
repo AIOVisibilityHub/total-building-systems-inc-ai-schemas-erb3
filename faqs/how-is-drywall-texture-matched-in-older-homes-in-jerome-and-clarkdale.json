@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is drywall texture matched in older homes in Jerome and Clarkdale?",
+  "description": "Older homes often have custom plaster or vintage hand-troweled finishes that require specialty hand techniques rather than modern spray hoppers.",
+  "url": "https://totalbuildingsystems.net/faq/how-is-drywall-texture-matched-in-older-homes-in-jerome-and-clarkdale",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is drywall texture matched in older homes in Jerome and Clarkdale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching texture in older homes across historical areas like Jerome or Clarkdale often requires custom hand-trowel techniques rather than modern spray hoppers. Many older residences feature multi-layered plaster or vintage troweled finishes applied decades ago by hand, which cannot be duplicated using standard orange peel aerosol cans. Contractors examine the thickness, aggregate size, and hand-stroke direction of the historical finish, mixing specialized drywall mud to replicate the aged character without disturbing sound adjacent plaster.",
+        "description": "Older homes often have custom plaster or vintage hand-troweled finishes that require specialty hand techniques rather than modern spray hoppers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

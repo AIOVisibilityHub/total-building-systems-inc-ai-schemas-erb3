@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need professional drywall texture matching instead of a simple patch?",
+  "description": "Hire a professional after plumbing cuts, electrical updates, or water repairs in visible rooms where standard flat patches would stand out against textured wall",
+  "url": "https://totalbuildingsystems.net/faq/when-do-i-need-professional-drywall-texture-matching-instead-of-a-simple-patch",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need professional drywall texture matching instead of a simple patch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a professional drywall texture match anytime drywall is cut or damaged during plumbing, electrical rewiring, water damage remediation, or settling crack repairs. It is also needed after removing wallpaper, recessed light fixtures, or wall-mounted TVs. If a repair is in a high-visibility hallway or large open-concept living room, matching the original hand-applied trowel or spray finish prevents the patch from drawing immediate attention under natural sunlight.",
+        "description": "Hire a professional after plumbing cuts, electrical updates, or water repairs in visible rooms where standard flat patches would stand out against textured walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

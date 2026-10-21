@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Total Building Systems provide ceiling retexturing across Cottonwood and nearby communities?",
+  "description": "Yes, Total Building Systems provides ceiling retexturing and drywall finishing across Cottonwood, Clarkdale, Jerome, Camp Verde, and Cornville as part of full g",
+  "url": "https://totalbuildingsystems.net/faq/does-total-building-systems-provide-ceiling-retexturing-across-cottonwood-and-ne",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Total Building Systems provide ceiling retexturing across Cottonwood and nearby communities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total Building Systems provides ceiling retexturing and drywall services throughout the Verde Valley and surrounding Central Arizona areas, including Cottonwood, Clarkdale, Jerome, Camp Verde, and Cornville. As a licensed general contractor, we manage the complete scope of the project, including room isolation, drywall patching, texture spraying, hand-troweling, and finish painting. Service timing and scheduling depend on project scale, ceiling accessibility, and seasonal demand across our coverage area. Homeowners should specify their home’s age and whether prior paint coats cover existing textures when requesting an estimate.",
+        "description": "Yes, Total Building Systems provides ceiling retexturing and drywall finishing across Cottonwood, Clarkdale, Jerome, Camp Verde, and Cornville as part of full general contracting services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

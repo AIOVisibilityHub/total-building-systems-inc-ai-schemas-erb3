@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire a general contractor or a handyman for ceiling repairs?",
+  "description": "A handyman suits basic surface patches. A general contractor is best when repairs involve roof leaks, framing adjustments, insulation replacement, or trade coor",
+  "url": "https://totalbuildingsystems.net/faq/should-i-hire-a-general-contractor-or-a-handyman-for-ceiling-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire a general contractor or a handyman for ceiling repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dedicated drywall finisher handles taping and texturing, but a licensed general contractor is better equipped when repairs involve framing, insulation, or multiple trades. In older homes across the Verde Valley and surrounding areas, ceiling damage frequently stems from roof penetrations, plumbing issues, or aged truss systems. A general contractor coordinates both the source repair and the structural rebuild, ensuring the roof, framing, and interior drywall are addressed under one accountable scope of work.",
+        "description": "A handyman suits basic surface patches. A general contractor is best when repairs involve roof leaks, framing adjustments, insulation replacement, or trade coordination."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

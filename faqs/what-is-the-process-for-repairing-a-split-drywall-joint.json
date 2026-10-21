@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for repairing a split drywall joint?",
+  "description": "Repairing a joint requires cutting out failed tape, fastening loose drywall to studs, applying fresh joint tape, feathering several coats of compound, and sandi",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-process-for-repairing-a-split-drywall-joint",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for repairing a split drywall joint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A proper repair involves removing failed tape, re-securing the drywall, and building up smooth, tapered coats of joint compound. The technician cuts away loose paper or mesh, checks for popped screws, and drives new drywall screws into solid backing. A high-strength setting-type compound or fresh paper tape is embedded across the seam. After drying, two to three wider finishing coats are applied, feathering the edges outwards 8 to 12 inches to conceal the ridge. Once completely dry, the seam is sanded smooth, texture-matched if necessary, and primed.",
+        "description": "Repairing a joint requires cutting out failed tape, fastening loose drywall to studs, applying fresh joint tape, feathering several coats of compound, and sanding smooth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

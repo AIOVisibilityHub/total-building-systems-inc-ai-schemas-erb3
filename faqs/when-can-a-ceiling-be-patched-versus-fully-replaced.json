@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When can a ceiling be patched versus fully replaced?",
+  "description": "Minor holes, isolated leaks, and hairline cracks can be patched. Widespread sagging, persistent moisture damage, or detached gypsum panels require full replacem",
+  "url": "https://totalbuildingsystems.net/faq/when-can-a-ceiling-be-patched-versus-fully-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When can a ceiling be patched versus fully replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repair is suitable when damage is confined to a specific area, such as an isolated leak, a small crack along a seam, or an accidental impact hole. Replacement becomes necessary if large sections are sagging, panels have detached from joists, or chronic moisture has degraded the gypsum core across multiple sheets. The main tradeoff involves budget versus longevity: patching heavily compromised drywall often leads to recurring cracks, whereas replacing the affected drywall panels ensures structural stability and a flat finish.",
+        "description": "Minor holes, isolated leaks, and hairline cracks can be patched. Widespread sagging, persistent moisture damage, or detached gypsum panels require full replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

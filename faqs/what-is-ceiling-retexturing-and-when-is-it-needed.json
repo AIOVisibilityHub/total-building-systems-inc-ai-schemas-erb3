@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is ceiling retexturing and when is it needed?",
+  "description": "Ceiling retexturing updates or repairs ceiling surfaces by removing or skimming old patterns, patching drywall, and applying a new finish such as knockdown or s",
+  "url": "https://totalbuildingsystems.net/faq/what-is-ceiling-retexturing-and-when-is-it-needed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is ceiling retexturing and when is it needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ceiling retexturing is the process of altering, smoothing, or reapplying a textured finish to an existing ceiling surface. It is commonly done to modernize outdated acoustic popcorn finishes, repair water-damaged drywall, or match textures across remodeled rooms. The process generally involves masking the room completely, scraping or skim-coating the old finish, fixing any underlying drywall flaws, and spraying or hand-troweling a fresh pattern like knockdown or orange peel before priming and painting. If older textured ceilings were applied before the late 1970s, homeowners must first test for asbestos before disturbing the material.",
+        "description": "Ceiling retexturing updates or repairs ceiling surfaces by removing or skimming old patterns, patching drywall, and applying a new finish such as knockdown or smooth drywall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

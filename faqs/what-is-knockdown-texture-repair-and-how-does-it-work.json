@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is knockdown texture repair and how does it work?",
+  "description": "Knockdown texture repair fixes damaged drywall by spraying or dabbing joint compound, letting it partially set, and lightly flattening the peaks to match the su",
+  "url": "https://totalbuildingsystems.net/faq/what-is-knockdown-texture-repair-and-how-does-it-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is knockdown texture repair and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Knockdown texture repair involves patching damaged drywall, applying joint compound in a splatter pattern, and flattening the peaks with a knockdown knife to match the surrounding surface. The process begins with securing and sanding the drywall patch flat. Joint compound is then sprayed or hand-applied in droplets. Timing is critical: the compound must set until it loses its wet sheen before being lightly skimmed flat. Once fully cured, the area is primed and painted to seamlessly blend with the original wall or ceiling.",
+        "description": "Knockdown texture repair fixes damaged drywall by spraying or dabbing joint compound, letting it partially set, and lightly flattening the peaks to match the surrounding wall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

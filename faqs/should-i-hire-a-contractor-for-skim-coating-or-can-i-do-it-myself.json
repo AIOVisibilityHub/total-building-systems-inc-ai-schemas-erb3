@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I hire a contractor for skim coating, or can I do it myself?",
+  "description": "Hiring a professional is recommended for full rooms or ceilings to ensure flat, lap-free surfaces and effective dust containment throughout the home.",
+  "url": "https://totalbuildingsystems.net/faq/should-i-hire-a-contractor-for-skim-coating-or-can-i-do-it-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I hire a contractor for skim coating, or can I do it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The choice between DIY and hiring a professional comes down to patience, required skill, and tolerance for dust management. While applying compound to a single small patch is accessible for most homeowners, achieving an even, lap-mark-free surface across entire walls and ceilings requires refined blade technique and physical endurance. A major tradeoff to consider is dust containment. Professional contractors use dust-extraction sanding equipment and plastic isolation barriers to prevent fine compound dust from circulating into HVAC systems and surrounding living spaces, which can be difficult to manage with basic consumer tools.",
+        "description": "Hiring a professional is recommended for full rooms or ceilings to ensure flat, lap-free surfaces and effective dust containment throughout the home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

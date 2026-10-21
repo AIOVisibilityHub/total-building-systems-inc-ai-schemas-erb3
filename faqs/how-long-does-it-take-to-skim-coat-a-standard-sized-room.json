@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to skim coat a standard-sized room?",
+  "description": "Most average rooms take two to four days to skim coat, allowing sufficient drying time between thin compound layers and final sanding.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-skim-coat-a-standard-sized-room",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to skim coat a standard-sized room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an average-sized room, the skim coating process generally takes between two and four days. Skim coating cannot be rushed in a single day because each thin layer of compound must dry completely before the next layer is applied or sanded. A key process detail that affects timing is ambient indoor humidity and airflow. If the home has limited ventilation or cooler interior temperatures, drying times between coats extend. Once the final sanding pass is complete and the dust settles, the walls are vacuumed and wiped down so they are ready for paint.",
+        "description": "Most average rooms take two to four days to skim coat, allowing sufficient drying time between thin compound layers and final sanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

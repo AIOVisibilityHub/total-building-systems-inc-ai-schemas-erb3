@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to receive a complete metal garage estimate?",
+  "description": "Most detailed estimates take 3 to 7 business days, depending on custom dimensions, engineering requirements, and site excavation complexity.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-receive-a-complete-metal-garage-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to receive a complete metal garage estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A detailed written estimate generally takes between three to seven business days to finalize. Simple, standard-size garage kits with flat-ground pad preparation can be estimated quickly. However, custom footprints, heavy commercial doors, integrated electrical layouts, or sites requiring major excavation require coordination with structural engineers, concrete suppliers, and steel fabricators. Gathering accurate subcontractor pricing during the bidding stage prevents unexpected revisions to your contract later.",
+        "description": "Most detailed estimates take 3 to 7 business days, depending on custom dimensions, engineering requirements, and site excavation complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

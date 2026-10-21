@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I spot-repair damaged knockdown texture or resurface the entire wall?",
+  "description": "Spot repairs work well for small, localized holes or cracks. If damage is widespread or under harsh angled light, re-texturing the entire surface ensures a seam",
+  "url": "https://totalbuildingsystems.net/faq/should-i-spot-repair-damaged-knockdown-texture-or-resurface-the-entire-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I spot-repair damaged knockdown texture or resurface the entire wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A spot repair is ideal for isolated damage smaller than a few square feet, while full wall resurfacing makes sense if there are dozens of widespread patches or significant water damage. With a spot repair, you save time and money, but slight variations in texture or paint sheen might show under raking light. Resurfacing or skimming an entire wall creates a uniform look across the room, but requires moving all furniture, extensive masking, and longer dry times.",
+        "description": "Spot repairs work well for small, localized holes or cracks. If damage is widespread or under harsh angled light, re-texturing the entire surface ensures a seamless appearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the risks of doing construction work without a permit?",
+  "description": "Unpermitted work can trigger stop-work orders, municipal fines, forced demolition, denied insurance claims, and complications during future property sales.",
+  "url": "https://totalbuildingsystems.net/faq/what-are-the-risks-of-doing-construction-work-without-a-permit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the risks of doing construction work without a permit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building without required permits risks stop-work orders, steep municipal fines, and mandatory removal of unpermitted work at your own expense. Unpermitted construction can also complicate future property sales, as buyers and lenders routinely check municipal records during escrow. Furthermore, homeowner insurance policies often deny claims for damage caused by unpermitted electrical, plumbing, or structural additions. Involving a general contractor to coordinate proper permits ensures every phase receives formal municipal sign-off, protecting your investment and property value.",
+        "description": "Unpermitted work can trigger stop-work orders, municipal fines, forced demolition, denied insurance claims, and complications during future property sales."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

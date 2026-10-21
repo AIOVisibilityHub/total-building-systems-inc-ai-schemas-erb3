@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can water-damaged drywall be dried and saved, or does it always need to be replaced?",
+  "description": "Drywall must be replaced if it has softened, sagged, pulled away from studs, or stayed wet for over 48 hours. Surface drying cannot fix compromised gypsum.",
+  "url": "https://totalbuildingsystems.net/faq/can-water-damaged-drywall-be-dried-and-saved-or-does-it-always-need-to-be-replac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can water-damaged drywall be dried and saved, or does it always need to be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall must be replaced whenever it has softened, sagged, begun crumbling, or remained wet for more than 48 hours. A key decision factor is structural integrity: if pressing on the wall leaves an indentation or the paper has separated from the gypsum core, drying it out is no longer safe. Even if the surface appears dry later, trapped moisture behind the wallboard compromises its strength and quickly fosters mold growth inside the wall cavity. Any sheetrock exposed to sewage or contaminated runoff must always be cut out and discarded immediately.",
+        "description": "Drywall must be replaced if it has softened, sagged, pulled away from studs, or stayed wet for over 48 hours. Surface drying cannot fix compromised gypsum."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does the drywall skim coating process involve from start to finish?",
+  "description": "The process involves cleaning and priming the wall, applying two to three thin layers of joint compound, sanding smooth between coats, and applying a final prim",
+  "url": "https://totalbuildingsystems.net/faq/what-does-the-drywall-skim-coating-process-involve-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the drywall skim coating process involve from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Skim coating typically involves surface cleaning, applying multiple thin layers of joint compound, drying, and sanding. The process begins by scraping off high spots, removing loose paint or paper, and applying a primer to seal the drywall. A contractor then applies the first thin coat of mud using a wide squeegee blade or drywall knife. After it dries fully, it is sanded or scraped down, followed by a second coat to fill minor pinholes and hollow spots. Once the final coat is thoroughly dry and lightly sanded smooth, applying a quality drywall primer is necessary before painting to prevent uneven sheen.",
+        "description": "The process involves cleaning and priming the wall, applying two to three thin layers of joint compound, sanding smooth between coats, and applying a final primer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of insulation works best for an insulated metal workshop?",
+  "description": "Common options include vinyl-faced fiberglass blankets, rigid foam board, and spray foam, depending on your budget and fabrication activities.",
+  "url": "https://totalbuildingsystems.net/faq/what-type-of-insulation-works-best-for-an-insulated-metal-workshop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of insulation works best for an insulated metal workshop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common choices are fiberglass blanket systems with vinyl vapor barriers, rigid foam boards, and spray foam insulation. Fiberglass blankets are cost-effective and installed during the initial framing and sheeting phases. Rigid foam board offers consistent thermal performance and installs neatly between or over framing. Spray foam expands to seal air gaps and framing joints, providing high thermal resistance and moisture control. When deciding, consider your planned interior wall finish; spray foam can remain exposed or be covered, while fiberglass vinyl facings require careful protection around welding or fabrication areas.",
+        "description": "Common options include vinyl-faced fiberglass blankets, rigid foam board, and spray foam, depending on your budget and fabrication activities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

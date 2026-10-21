@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can damaged orange-peel texture be patched without seeing the repair line?",
+  "description": "Yes. An invisible repair requires feathering the base drywall flat, matching the exact spray droplet size, and tapering the texture into the surrounding wall be",
+  "url": "https://totalbuildingsystems.net/faq/can-damaged-orange-peel-texture-be-patched-without-seeing-the-repair-line",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can damaged orange-peel texture be patched without seeing the repair line?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a skilled contractor can blend a patch seamlessly into surrounding orange-peel texture. Achieving an exact match requires feathering the underlying joint compound flat, matching the droplet size (fine, medium, or heavy), and adjusting the air pressure and spray consistency. The fresh texture must also be lightly feathered beyond the patch boundary into the sound drywall. Once primed and painted with the correct sheen, the repair will blend in completely with the existing wall.",
+        "description": "Yes. An invisible repair requires feathering the base drywall flat, matching the exact spray droplet size, and tapering the texture into the surrounding wall before priming and painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

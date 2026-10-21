@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does the water-damaged drywall replacement process involve?",
+  "description": "The process involves stopping the leak, cutting out damaged sections 12 to 24 inches above water marks, drying framing studs, hanging new drywall, taping, textu",
+  "url": "https://totalbuildingsystems.net/faq/what-does-the-water-damaged-drywall-replacement-process-involve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the water-damaged drywall replacement process involve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacing water-damaged drywall follows a clear multi-step process: finding and fixing the moisture source, cutting away damaged sections, drying the framing, and installing fresh boards. Workers typically cut at least 12 to 24 inches above the highest visible water mark to ensure hidden moisture is removed. Before hanging new drywall, the exposed wall cavity, framing studs, and insulation must be fully dried and treated with an antimicrobial spray. Once dry, contractors hang matching sheetrock, tape joints, apply multiple coats of joint compound, texture to match, and prime before painting.",
+        "description": "The process involves stopping the leak, cutting out damaged sections 12 to 24 inches above water marks, drying framing studs, hanging new drywall, taping, texturing, and painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I prepare before requesting a metal garage estimate?",
+  "description": "Measure your build site, determine required building height and door dimensions, locate property setbacks, and clarify how you plan to use the building.",
+  "url": "https://totalbuildingsystems.net/faq/what-information-should-i-prepare-before-requesting-a-metal-garage-estimate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I prepare before requesting a metal garage estimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before requesting an estimate, measure your available yard area and determine the intended use, such as parking vehicles, RV storage, or housing a workshop. Identify the vehicle clearances you need to establish door heights and roof clearance. Check your property boundary setbacks, utility lines, and HOA guidelines. Providing your contractor with a clear concept sketch and photos of the building pad helps them calculate accurate grading, concrete slab thickness, and framing requirements from the start.",
+        "description": "Measure your build site, determine required building height and door dimensions, locate property setbacks, and clarify how you plan to use the building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

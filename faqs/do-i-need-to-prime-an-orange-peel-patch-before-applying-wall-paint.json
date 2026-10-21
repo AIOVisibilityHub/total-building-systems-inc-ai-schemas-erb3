@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to prime an orange-peel patch before applying wall paint?",
+  "description": "Yes. Unprimed texture absorbs paint unevenly, causing noticeable dull spots. A quality drywall primer seals the porous patch and ensures consistent color and sh",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-to-prime-an-orange-peel-patch-before-applying-wall-paint",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to prime an orange-peel patch before applying wall paint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always apply primer over fresh orange-peel texture before painting. Unprimed joint compound absorbs paint differently than the surrounding painted drywall, a defect known as flashing. This causes dull, discolored blotches where the repair occurred, even if the texture match is physically perfect. Applying a dedicated drywall primer seals the new compound, equalizes porosity, and ensures the topcoat sheen appears uniform across the entire surface.",
+        "description": "Yes. Unprimed texture absorbs paint unevenly, causing noticeable dull spots. A quality drywall primer seals the porous patch and ensures consistent color and sheen."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

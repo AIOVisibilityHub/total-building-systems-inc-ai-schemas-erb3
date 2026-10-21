@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What documents must be gathered before submitting a permit application?",
+  "description": "You need detailed architectural drawings, engineering calculations, a site plot plan showing property setbacks, and any applicable HOA approval documents.",
+  "url": "https://totalbuildingsystems.net/faq/what-documents-must-be-gathered-before-submitting-a-permit-application",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents must be gathered before submitting a permit application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before submitting a permit application, you should gather a detailed project scope, a current property survey or plot plan, existing floor plans, and any HOA guidelines. If your project involves structural modifications, you will also need engineered drawings and stamped architectural plans. Preparing these documents ahead of time prevents initial submittal rejections at the planning counter. During pre-construction planning, we conduct a documentation audit to verify that setback dimensions, utility easements, and square-footage totals match municipal submission requirements.",
+        "description": "You need detailed architectural drawings, engineering calculations, a site plot plan showing property setbacks, and any applicable HOA approval documents."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if a ceiling crack is cosmetic or structural?",
+  "description": "Cosmetic cracks follow drywall seams and remain narrow. Cracks that widen, cause sagging, or reappear quickly after repair suggest structural framing movement.",
+  "url": "https://totalbuildingsystems.net/faq/how-do-i-know-if-a-ceiling-crack-is-cosmetic-or-structural",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if a ceiling crack is cosmetic or structural?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hairline cracks along straight lines usually stem from standard building settling or thermal expansion along drywall seams. While cosmetic cracks can be taped and re-mudded, cracks paired with downward deflection, popping fasteners, or widening gaps often point to structural movement or truss uplift. If the crack reappears shortly after being patched, having a licensed general contractor inspect the overhead framing and attic load paths is necessary to determine if structural reinforcement is required before re-finishing.",
+        "description": "Cosmetic cracks follow drywall seams and remain narrow. Cracks that widen, cause sagging, or reappear quickly after repair suggest structural framing movement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

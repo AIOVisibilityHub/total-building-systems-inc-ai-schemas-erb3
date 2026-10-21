@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do historic districts like Jerome require additional permit reviews?",
+  "description": "Yes, projects in historic areas like Jerome or Clarkdale require design review board approval for exterior alterations before standard building permits are gran",
+  "url": "https://totalbuildingsystems.net/faq/do-historic-districts-like-jerome-require-additional-permit-reviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do historic districts like Jerome require additional permit reviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building in historic districts such as Jerome or designated sections of Clarkdale requires historic preservation board review before standard building permits are issued. These boards evaluate exterior materials, paint colors, window profiles, and building massing to ensure architectural integrity with the surrounding historic context. This supplementary review adds an extra administrative step to your timeline before standard structural plan checks begin. We coordinate presentation materials and attend design review meetings to keep your historic renovation aligned with local preservation ordinances.",
+        "description": "Yes, projects in historic areas like Jerome or Clarkdale require design review board approval for exterior alterations before standard building permits are granted."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to replace the insulation behind water-damaged drywall?",
+  "description": "Yes. Wet insulation compresses, loses its insulating value, and traps moisture against wood framing, making replacement essential to prevent rot and mold.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-to-replace-the-insulation-behind-water-damaged-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to replace the insulation behind water-damaged drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, wet fiberglass or cellulose insulation inside the wall cavity must always be pulled out and replaced. While framing studs can dry in place, damp insulation compresses, permanently loses its thermal resistance (R-value), and holds water against the framing for weeks like a sponge. Leaving wet insulation behind new drywall traps moisture, guarantees hidden mold growth, and can cause wood rot. Blown-in insulation or batt insulation should be removed as soon as the damaged drywall is opened up.",
+        "description": "Yes. Wet insulation compresses, loses its insulating value, and traps moisture against wood framing, making replacement essential to prevent rot and mold."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

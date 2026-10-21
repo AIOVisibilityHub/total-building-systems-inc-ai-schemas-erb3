@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should insulation be installed during metal shell erection or afterward?",
+  "description": "Insulation should be installed during shell erection to provide a continuous thermal vapor barrier over the framing and prevent costly interior retrofits.",
+  "url": "https://totalbuildingsystems.net/faq/should-insulation-be-installed-during-metal-shell-erection-or-afterward",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should insulation be installed during metal shell erection or afterward?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulation is easiest and most cost-effective to install while the roof and wall panels are being fastened to the secondary framing. Installing blanket fiberglass or insulated metal panels during the shell erection compresses the insulation over the purlins, creating a continuous vapor barrier that stops condensation. If you attempt to insulate after the exterior panels are fully installed, you must work around the framing from the inside, which often requires more labor-intensive spray foam or framing modifications.",
+        "description": "Insulation should be installed during shell erection to provide a continuous thermal vapor barrier over the framing and prevent costly interior retrofits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

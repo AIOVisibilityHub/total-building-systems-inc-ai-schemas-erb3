@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a drywall texture matching project take to complete?",
+  "description": "Most drywall texture patches take one to two days to allow joint compound to dry fully before priming and painting.",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-a-drywall-texture-matching-project-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a drywall texture matching project take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard drywall texture patch generally takes one to two days from start to finish. The repair, taping, and texturing can often occur in several hours, but drying times vary based on ambient humidity and patch depth. Because applying primer and paint over damp texture causes flaking and color mismatch, the compound must cure fully overnight. Larger repairs or heavy hand-troweled textures require additional drying hours before painters can apply matching finish coats.",
+        "description": "Most drywall texture patches take one to two days to allow joint compound to dry fully before priming and painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

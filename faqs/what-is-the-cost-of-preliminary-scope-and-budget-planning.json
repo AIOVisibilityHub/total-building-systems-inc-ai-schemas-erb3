@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of preliminary scope and budget planning?",
+  "description": "Preliminary planning fees vary by project scale, but the service typically saves substantial money by eliminating costly redesigns and surprise field changes.",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-cost-of-preliminary-scope-and-budget-planning",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of preliminary scope and budget planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preliminary budgeting typically costs a fraction of total project expenses, often structured as a standalone preconstruction service agreement or incorporated into comprehensive preconstruction consulting. The investment depends on project complexity, site evaluation requirements, and whether initial concept drafts exist. The practical tradeoff is clear: spending modest funds on professional preconstruction planning saves significant money by preventing architectural rework and unforeseen site change orders. This step ensures every line item is vetted against current regional labor and material costs.",
+        "description": "Preliminary planning fees vary by project scale, but the service typically saves substantial money by eliminating costly redesigns and surprise field changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

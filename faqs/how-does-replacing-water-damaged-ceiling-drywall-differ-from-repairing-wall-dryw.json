@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does replacing water-damaged ceiling drywall differ from repairing wall drywall?",
+  "description": "Ceilings pose immediate collapse hazards due to pooling water weight. They require draining, complete removal of sagging sections, and secured refastening to ce",
+  "url": "https://totalbuildingsystems.net/faq/how-does-replacing-water-damaged-ceiling-drywall-differ-from-repairing-wall-dryw",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does replacing water-damaged ceiling drywall differ from repairing wall drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ceiling drywall poses a severe collapse danger when saturated, whereas wall drywall primarily faces mold and stability concerns. Water pooling on top of ceiling board adds massive weight; gypsum dissolves under water, causing screws to tear through and panels to fall without warning. If your ceiling is sagging, bulging, or discolored, place a bucket underneath and carefully puncture the center with a screwdriver to relieve water weight before it tears down entire sheets. Saturated ceiling drywall almost always requires immediate replacement.",
+        "description": "Ceilings pose immediate collapse hazards due to pooling water weight. They require draining, complete removal of sagging sections, and secured refastening to ceiling joists."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

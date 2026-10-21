@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the total cost of a drywall skim coating project?",
+  "description": "Cost is driven by room square footage, wall height, existing texture depth, the extent of surface repairs, and the labor required for multiple coats and sanding",
+  "url": "https://totalbuildingsystems.net/faq/what-factors-influence-the-total-cost-of-a-drywall-skim-coating-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the total cost of a drywall skim coating project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of skim coating depends primarily on the square footage of the space, ceiling height, and the current condition of the walls. Heavy, hard textures like repeated coats of painted knockdown take significantly more labor, scraping, and mud passes than minor paper repair, which increases overall labor costs. Accessibility is another factor: high ceilings, stairwells, and rooms with extensive corner bead work require more staging and detail work. Measuring your room dimensions and identifying whether you have standard drywall or damaged plaster beforehand helps produce a more accurate project estimate.",
+        "description": "Cost is driven by room square footage, wall height, existing texture depth, the extent of surface repairs, and the labor required for multiple coats and sanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

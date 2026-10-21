@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to do a small patch or a continuous flood cut?",
+  "description": "Small patches work for isolated leaks. A continuous flood cut (cutting 2 to 4 feet up) is cleaner, faster, and better for rising water or widespread moisture is",
+  "url": "https://totalbuildingsystems.net/faq/is-it-better-to-do-a-small-patch-or-a-continuous-flood-cut",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to do a small patch or a continuous flood cut?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A partial patch is suitable for isolated leaks that affect only a small area, whereas a flood cut is necessary when standing water touches the floor or moisture wicks upward across a room. The practical tradeoff comes down to cost versus seamless appearance. Patching a small hole requires less demolition, but blending multiple small patches can result in visible seams. A uniform flood cut—removing a continuous horizontal strip 2 or 4 feet up—provides clean access to studs, simplifies insulation installation, and often yields a smoother, faster finish.",
+        "description": "Small patches work for isolated leaks. A continuous flood cut (cutting 2 to 4 feet up) is cleaner, faster, and better for rising water or widespread moisture issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

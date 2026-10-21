@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to construct a metal building shell?",
+  "description": "Erecting the steel shell usually takes one to three weeks after the concrete slab cures, though permitting and steel fabrication require an additional eight to",
+  "url": "https://totalbuildingsystems.net/faq/how-long-does-it-take-to-construct-a-metal-building-shell",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to construct a metal building shell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Erecting the steel shell of a standard commercial or residential metal building generally takes one to three weeks once the foundation is fully cured. However, total project lead time takes longer due to engineering, permitting, steel fabrication, and delivery, which often spans eight to twelve weeks prior to site work. Bad weather, site access challenges, or changes to window and overhead door placements during engineering can extend the delivery timeline. Having an engineered foundation poured and inspected ahead of delivery keeps the erection process on schedule.",
+        "description": "Erecting the steel shell usually takes one to three weeks after the concrete slab cures, though permitting and steel fabrication require an additional eight to twelve weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

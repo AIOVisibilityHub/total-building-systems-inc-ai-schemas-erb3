@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is drywall texture matching and how does it work?",
+  "description": "Drywall texture matching duplicates existing wall finishes like knockdown or orange peel onto repaired areas so patches blend seamlessly with the surrounding su",
+  "url": "https://totalbuildingsystems.net/faq/what-is-drywall-texture-matching-and-how-does-it-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is drywall texture matching and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall texture matching involves identifying the existing wall pattern, prepping the repair area, and applying joint compound using specific tools to duplicate the surrounding look. Common finishes include orange peel, knockdown, skip trowel, and smooth wall. A contractor adjusts mud consistency, nozzle pressure, or trowel angles to mirror the original thickness and spacing. Once the compound dries completely, the patch is primed and painted so the repair blends invisibly into the surrounding drywall without harsh transition edges.",
+        "description": "Drywall texture matching duplicates existing wall finishes like knockdown or orange peel onto repaired areas so patches blend seamlessly with the surrounding surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it better to retexture an entire wall instead of patching a spot?",
+  "description": "Spot repairs work well for localized holes. Retexturing the whole wall is better if there are multiple mismatched patches, widespread water damage, or heavily l",
+  "url": "https://totalbuildingsystems.net/faq/when-is-it-better-to-retexture-an-entire-wall-instead-of-patching-a-spot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it better to retexture an entire wall instead of patching a spot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repair is ideal if the damage is confined to a distinct section, such as an anchor blowout, plumbing access cutout, or minor impact hole. However, if the wall has extensive water damage, multiple layers of peeling paint, or mismatched textures from several older amateur patches, skim-coating the entire wall or retexturing corner-to-corner is often the better decision. Retexturing the full plane eliminates patchwork patterns and ensures a unified surface.",
+        "description": "Spot repairs work well for localized holes. Retexturing the whole wall is better if there are multiple mismatched patches, widespread water damage, or heavily layered paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

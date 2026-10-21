@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to prime a drywall patch before applying wall paint?",
+  "description": "Yes, priming is essential. Unprimed joint compound absorbs paint unevenly, causing noticeable dull spots and flashing on your finished wall.",
+  "url": "https://totalbuildingsystems.net/faq/do-i-need-to-prime-a-drywall-patch-before-applying-wall-paint",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to prime a drywall patch before applying wall paint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you should apply a drywall primer or PVA primer to any patched area before painting. Raw joint compound and fresh drywall paper absorb paint much faster than the surrounding painted surface, a problem known as flashing. Flashing causes the patch to appear duller, lighter, or uneven in sheen under daylight. Applying a dedicated primer seals the porosity of the compound, ensuring that your final coats of paint show an even color and uniform sheen across the entire wall.",
+        "description": "Yes, priming is essential. Unprimed joint compound absorbs paint unevenly, causing noticeable dull spots and flashing on your finished wall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you make a drywall patch match the existing wall texture?",
+  "description": "Matching texture involves identifying the specific finish, testing spray or trowel techniques on scrap board, and feathering the edges into the surrounding wall",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-make-a-drywall-patch-match-the-existing-wall-texture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you make a drywall patch match the existing wall texture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching existing texture requires identifying whether your wall has orange peel, knockdown, skip trowel, or a smooth finish, and testing application methods beforehand. Texture consistency is altered by adjusting compound thickness, spray pressure, or trowel angle. Before applying texture to your wall, a technician will typically test the pattern on a scrap piece of cardboard to match the density and droplet size of the surrounding surface. Feathering the edges outward beyond the patched area prevents a visible raised ridge around the repair.",
+        "description": "Matching texture involves identifying the specific finish, testing spray or trowel techniques on scrap board, and feathering the edges into the surrounding wall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

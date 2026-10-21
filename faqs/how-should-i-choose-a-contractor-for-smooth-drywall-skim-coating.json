@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I choose a contractor for smooth drywall skim coating?",
+  "description": "Look for a contractor experienced in Level 5 finishes who uses proper dust containment, inspects under directional light, and includes wall priming in their sco",
+  "url": "https://totalbuildingsystems.net/faq/how-should-i-choose-a-contractor-for-smooth-drywall-skim-coating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I choose a contractor for smooth drywall skim coating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a drywall contractor, look for demonstrated experience in Level 5 smooth finishes and a clear dust-management protocol. Smooth drywall requires significantly more skill than rough texturing, so ask contractors how many passes they plan to apply and whether they inspect their work with halogen or directional work lights before final sign-off. You should also confirm what preparation and cleanup steps are included in their quote, such as whether they tape off trim, mask flooring, seal doorways with plastic sheeting, and prime the walls after the final sanding is finished.",
+        "description": "Look for a contractor experienced in Level 5 finishes who uses proper dust containment, inspects under directional light, and includes wall priming in their scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

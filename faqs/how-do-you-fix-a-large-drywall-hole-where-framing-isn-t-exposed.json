@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you fix a large drywall hole where framing isn't exposed?",
+  "description": "Large holes are squared off, fitted with wooden backing strips screwed behind the opening, covered with a new drywall piece, taped, and finished with joint comp",
+  "url": "https://totalbuildingsystems.net/faq/how-do-you-fix-a-large-drywall-hole-where-framing-isn-t-exposed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you fix a large drywall hole where framing isn't exposed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Holes wider than six inches cannot rely on surface tape alone and require mechanical backing. The repair process starts by squaring off the damaged area with a drywall saw to create clean edges. A wooden backing strip or furring strip is inserted inside the wall cavity and secured to the existing drywall with screws. Then, a new drywall piece cut to exact dimensions is screwed into the backing. Fiber tape covers the seams, followed by two to three feathered coats of joint compound to blend the patch into the surrounding wall.",
+        "description": "Large holes are squared off, fitted with wooden backing strips screwed behind the opening, covered with a new drywall piece, taped, and finished with joint compound."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

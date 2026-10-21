@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between orange peel and knockdown ceiling textures?",
+  "description": "Orange peel is a light, sprayed dimpled finish, while knockdown is sprayed mud flattened with a knife to create low-profile, mottled plateaus with more visual d",
+  "url": "https://totalbuildingsystems.net/faq/what-is-the-difference-between-orange-peel-and-knockdown-ceiling-textures",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between orange peel and knockdown ceiling textures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference is the application technique and resulting surface profile. Orange peel is a subtle, dimpled texture created by spraying thinned joint compound through a drywall hopper gun, creating an appearance similar to citrus skin. Knockdown starts the same way, but once the sprayed mud begins to set slightly, a wide drywall knife or trowel is dragged across the peaks to flatten them, leaving a mottled, Mediterranean-style look. While orange peel creates a more uniform and low-profile surface that hides minor framing flaws well, knockdown offers higher contrast and visual depth, though it requires precise timing during the flattening phase.",
+        "description": "Orange peel is a light, sprayed dimpled finish, while knockdown is sprayed mud flattened with a knife to create low-profile, mottled plateaus with more visual depth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

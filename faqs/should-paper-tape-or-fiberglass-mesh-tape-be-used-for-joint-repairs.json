@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should paper tape or fiberglass mesh tape be used for joint repairs?",
+  "description": "Paper tape offers higher strength against cracking along flat joints, while fiberglass mesh is easier to apply quickly but requires setting-type compound to pre",
+  "url": "https://totalbuildingsystems.net/faq/should-paper-tape-or-fiberglass-mesh-tape-be-used-for-joint-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should paper tape or fiberglass mesh tape be used for joint repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The choice depends on the type of mud and room conditions. Paper tape provides higher tensile strength against movement and is best for flat wall seams, but it requires an embedding bed of standard compound that can bubble if applied dry. Fiberglass mesh tape self-adheres and works well with fast-setting chemically cured compound (hot mud), though it flexes more easily under stress. A common practical tradeoff is ease versus durability: self-adhesive mesh is faster to position initially, but paper tape bedded properly in joint compound creates a stiffer, flatter seam that resists future hairline cracks better.",
+        "description": "Paper tape offers higher strength against cracking along flat joints, while fiberglass mesh is easier to apply quickly but requires setting-type compound to prevent cracking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

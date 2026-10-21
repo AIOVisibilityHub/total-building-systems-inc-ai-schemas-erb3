@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before a contractor arrives for drywall patching?",
+  "description": "Move nearby furniture away from the wall, clear a walking path, and locate any leftover paint cans so the technician can match your wall color and sheen.",
+  "url": "https://totalbuildingsystems.net/faq/what-should-i-prepare-before-a-contractor-arrives-for-drywall-patching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before a contractor arrives for drywall patching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clear furniture, curtains, and wall art at least four to five feet away from the repair area to provide clear working space. Drywall sanding creates fine airborne dust, so having a clear pathway allows technicians to put down drop cloths and hang plastic barrier sheets if necessary. If you have leftover touch-up paint with the color formula label intact, set it out for review, as finding a match is much faster when the original sheen and paint base are already known.",
+        "description": "Move nearby furniture away from the wall, clear a walking path, and locate any leftover paint cans so the technician can match your wall color and sheen."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

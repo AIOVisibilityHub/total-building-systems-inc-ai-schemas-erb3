@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I install an access panel instead of patching the drywall permanently?",
+  "description": "Install an access panel over shutoff valves or cleanouts that require future maintenance; permanently patch closed, continuous pipe runs.",
+  "url": "https://totalbuildingsystems.net/faq/when-should-i-install-an-access-panel-instead-of-patching-the-drywall-permanentl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I install an access panel instead of patching the drywall permanently?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you need an access panel or a permanent drywall patch depends on whether you will need ongoing access to that plumbing component. Shutoff valves, cleanouts, shower mixing valves, and whole-house filtration connections should typically be covered with a removable access panel for future maintenance. Standard supply lines, copper re-pipes, or drain lines with no mechanical joints should be permanently patched, textured, and painted to restore the wall to its original appearance.",
+        "description": "Install an access panel over shutoff valves or cleanouts that require future maintenance; permanently patch closed, continuous pipe runs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
