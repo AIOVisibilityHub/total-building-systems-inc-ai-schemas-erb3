@@ -24,6 +24,14 @@ Canonical AI Data Package for Total Building Systems Inc..
 - [ai-data-hub] Total Building Systems Inc. — AI Data Hub — https://totalbuildingsystems.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/total-building-systems-inc-ai-schemas-erb3
 - [mirror-pages] GitHub — AI Data Hub mirror — http://totalbuildingsystems.aiovisibility.net/ai-data.html
+- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/total-building-systems-inc-ai-schemas-zw5o
+- [mirror-pages] GitLab — AI Data Hub mirror — https://total-building-systems-inc-ai-schemas-zw5o-f9cc3b.gitlab.io/ai-data.html
+- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/total-building-systems-inc-ai-schemas
+- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/total-building-systems-inc-ai-schemas/ai-data.html
+- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/total-building-systems-inc-ai-schemas
+- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/total-building-systems-inc-ai-schemas/
+- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/total-building-systems-inc-ai-schemas/ai-data.html
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/23522703
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
