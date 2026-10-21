@@ -7,7 +7,7 @@
 Total Building Systems Inc. publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **630** faqs
+- **770** faqs
 - **78** services
 - **36** webpages
 - **155** personnel
