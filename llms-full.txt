@@ -19,7 +19,7 @@ Package contents:
 - [canonical] Total Building Systems Inc. — canonical website — https://totalbuildingsystems.aiovisibility.net
 - [ai-data-hub] Total Building Systems Inc. — AI Data Hub — https://totalbuildingsystems.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/total-building-systems-inc-ai-schemas-erb3
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/total-building-systems-inc-ai-schemas-erb3/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — http://totalbuildingsystems.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

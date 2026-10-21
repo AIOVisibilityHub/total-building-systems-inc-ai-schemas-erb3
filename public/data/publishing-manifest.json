@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-21T01:51:38.586Z",
+  "generatedAt": "2026-10-21T01:51:51.639Z",
   "client": {
     "name": "Total Building Systems Inc.",
     "canonicalUrl": "https://totalbuildingsystems.aiovisibility.net",
@@ -117,7 +117,7 @@
   },
   "package": {
     "totalFiles": 1068,
-    "totalBytes": 3825082,
+    "totalBytes": 3786992,
     "stats": {
       "faqs": 770,
       "helpArticles": 0,
@@ -5398,42 +5398,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20492,
+        "bytes": 15594,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 254756,
+        "bytes": 249998,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 91484,
+        "bytes": 86482,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 18426,
+        "bytes": 13870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18539,
+        "bytes": 13908,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 754924,
+        "bytes": 750263,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 86281,
+        "bytes": 81672,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 38299,
+        "bytes": 33612,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -5445,7 +5445,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4204,
+        "bytes": 4172,
         "purpose": "LLM hint"
       },
       {
@@ -5465,32 +5465,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1784,
+        "bytes": 1720,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 501504,
+        "bytes": 501440,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 143277,
+        "bytes": 143245,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 143277,
+        "bytes": 143245,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4175,
+        "bytes": 4143,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 172979,
+        "bytes": 172947,
         "purpose": "Repository README"
       },
       {
@@ -5508,7 +5508,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/total-building-systems-inc-ai-schemas-erb3",
-      "pagesUrl": "https://aiovisibilityhub.github.io/total-building-systems-inc-ai-schemas-erb3/",
+      "pagesUrl": "http://totalbuildingsystems.aiovisibility.net/",
       "repo": "AIOVisibilityHub/total-building-systems-inc-ai-schemas-erb3"
     }
   }
