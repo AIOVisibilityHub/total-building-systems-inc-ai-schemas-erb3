@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Web Pages — Total Building Systems Inc.</title>
+<meta name="description" content="Focused guides from Total Building Systems Inc. for specific situations and decisions.">
+<style>
+body{font-family:system-ui,-apple-system,sans-serif;max-width:900px;margin:0 auto;padding:2rem 1.5rem;color:#1a1a2e;line-height:1.7}
+h1{border-bottom:2px solid #222;padding-bottom:.4rem}
+h2{margin-top:2.5rem}
+a{color:#1a5276}
+nav{margin:1.5rem 0}
+nav a{margin-right:1.2rem;text-decoration:none;font-weight:600}
+nav a:hover{text-decoration:underline}
+table{width:100%;border-collapse:collapse;margin:1rem 0}
+th,td{border:1px solid #ccc;padding:.6rem .8rem;text-align:left}
+th{background:#f0f0f0}
+details{margin:.8rem 0}
+summary{cursor:pointer;font-weight:600}
+address{font-style:normal;margin:1rem 0;padding:1rem;background:#f8f8f8;border-left:3px solid #333}
+ul{padding-left:1.2rem}
+.card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
+.svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
+.svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
+.svc-index .n{font-weight:400;color:#666}
+.cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
+.cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
+.cat .count{font-size:.68rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#555;background:#eceff1;border-radius:999px;padding:.15rem .55rem}
+.svc-list{list-style:none;margin:0;padding:0}
+.svc-list li{padding:.38rem 0;border-bottom:1px dotted #e4e4e4;font-size:.9rem;line-height:1.55}
+.svc-list li:last-child{border-bottom:0}
+.svc-list .scope{color:#555}
+.svc-list .more{font-size:.8rem;white-space:nowrap}
+.cat .top{font-size:.78rem;margin:.6rem 0 0}
+footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85rem;color:#666}
+</style>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="author" content="Total Building Systems Inc.">
+<meta property="og:title" content="Web Pages — Total Building Systems Inc." />
+<meta property="og:description" content="Focused guides from Total Building Systems Inc. for specific situations and decisions." />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Total Building Systems Inc." />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Web Pages — Total Building Systems Inc." />
+<meta name="twitter:description" content="Focused guides from Total Building Systems Inc. for specific situations and decisions." />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://totalbuildingsystems.aiovisibility.net/web-pages.html#webpage",
+  "url": "https://totalbuildingsystems.aiovisibility.net/web-pages.html",
+  "name": "Web Pages — Total Building Systems Inc.",
+  "description": "Focused guides from Total Building Systems Inc. for specific situations and decisions.",
+  "inLanguage": "en-US",
+  "dateModified": "2026-10-21",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.aiovisibility.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.aiovisibility.net"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "h2",
+      "p",
+      ".speakable"
+    ],
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1"
+    ]
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://totalbuildingsystems.aiovisibility.net/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Web Pages",
+      "item": "https://totalbuildingsystems.aiovisibility.net/web-pages.html"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Total Building Systems Inc.",
+  "url": "https://totalbuildingsystems.aiovisibility.net",
+  "description": "Total Building Systems Inc. is a commercial and residential construction company based in Cottonwood, Arizona, providing general contracting, subcontracting, pre-engineered metal-building supply and erection, structural steel, ornamental iron, and interior construction services. Total Building Systems Inc. has been operating since 1996 with an A+ BBB rating, and the company offers assistance from the design phase through construction completion, serving customers who need coordinated project delivery or specialized construction trades.\n\nMetal Buildings and Metal Homes\nTotal Building Systems supplies and erects pre-engineered metal buildings and metal homes. Its services support customers seeking steel-building construction for residential, commercial, storage, and workshop applications. The company’s advertised capabilities include both metal-building supply and erection, allowing customers to discuss their building requirements and determine the appropriate construction scope with its team.\n\nThird-party permit records document experience with detached metal garages, RV garages and storage buildings, garage-and-workshop buildings, self-storage facilities, steel buildings, garage additions, and horse-stall structures. These records illustrate the range of projects associated with the company, although availability and scope for any new project should be confirmed directly.\n\nStructural Steel and Ornamental Iron\nStructural steel and ornamental iron are core specialties of Total Building Systems. These services complement its broader general-contracting and metal-building capabilities, giving customers a dedicated point of contact for steel and iron project inquiries. Specific fabrication, supply, installation, and decorative ironwork requirements can be discussed with the company to establish the appropriate scope of work.\n\nSteel-Stud Framing and Drywall\nThe company provides steel-stud framing and drywall services as part of its interior construction offering. It works as both a general contractor and subcontractor, enabling customers and other construction professionals to engage the business for broader projects or particular trade packages. Drywall repair is also separately advertised, providing a contact pathway for customers seeking repairs rather than new installation alone.\n\nAcoustical and Suspended Ceilings\nTotal Building Systems offers acoustical and suspended ceiling services alongside its framing and drywall work. These capabilities allow customers to discuss multiple interior construction components with one company, including wall framing, drywall, and ceiling systems. The company maintains a designated contact for these related interior trades.\n\nInterior Demolition\nInterior demolition is another advertised service. Customers can contact Total Building Systems to discuss demolition requirements and how that work may fit into a larger interior construction project. Combining demolition inquiries with the company’s framing, drywall, and suspended-ceiling capabilities provides a starting point for planning work that involves removing existing interior elements and constructing new ones.\n\nLeadership and Project Coordination\nJason Steward is identified in his professional profile as the owner and president of Total Building Systems Inc. and as a project manager with the company. The company’s website also lists him as the contact for steel-stud framing, drywall, suspended ceilings, and interior demolition. Separate contacts are published for general contracting and metal buildings, structural steel and ornamental iron, drywall repairs, and bookkeeping and billing.\n\nLocation and Project Inquiries\nBased in Cottonwood, Total Building Systems provides a local point of contact for commercial and residential construction inquiries. Customers can contact the company to discuss project location, building type, trade requirements, repair needs, and the extent of contracting assistance required. Service availability outside Cottonwood should be confirmed for the specific project rather than assumed from the company’s location.\n\nThe company can be reached at (928) 649-0131 or info@totalbuildingsystems.net. Its published mailing address is 440 S 7th St, Cottonwood, AZ 86326",
+  "knowsAbout": [
+    "General contracting",
+    "Commercial construction",
+    "Residential construction",
+    "Pre-engineered metal buildings",
+    "Pre-engineered metal homes",
+    "Metal building supply and erection",
+    "Structural steel",
+    "Ornamental iron",
+    "Steel-stud framing",
+    "Drywall installation",
+    "Drywall repair",
+    "Drywall finishing and texture matching",
+    "Acoustical ceiling installation",
+    "Suspended ceiling installation",
+    "Suspended ceiling repair and replacement",
+    "Interior demolition",
+    "Selective interior demolition",
+    "Design-to-completion construction assistance",
+    "Metal RV garages",
+    "RV storage buildings",
+    "Metal workshops",
+    "Detached metal garages",
+    "Custom steel buildings",
+    "Self-storage and mini-storage construction",
+    "Garage additions",
+    "Metal building additions",
+    "Horse barns and equine buildings",
+    "Barndominium construction",
+    "Metal-home shell construction",
+    "Metal-home interior finish-outs"
+  ],
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Cottonwood"
+    },
+    {
+      "@type": "Place",
+      "name": "Clarkdale"
+    },
+    {
+      "@type": "Place",
+      "name": "Jerome"
+    },
+    {
+      "@type": "Place",
+      "name": "Camp Verde"
+    },
+    {
+      "@type": "Place",
+      "name": "Cornville"
+    },
+    {
+      "@type": "Place",
+      "name": "Rimrock"
+    },
+    {
+      "@type": "Place",
+      "name": "Lake Montezuma"
+    },
+    {
+      "@type": "Place",
+      "name": "Sedona"
+    },
+    {
+      "@type": "Place",
+      "name": "Village of Oak Creek"
+    },
+    {
+      "@type": "Place",
+      "name": "Prescott"
+    },
+    {
+      "@type": "Place",
+      "name": "Prescott Valley"
+    },
+    {
+      "@type": "Place",
+      "name": "Chino Valley"
+    },
+    {
+      "@type": "Place",
+      "name": "Flagstaff"
+    }
+  ]
+}
+</script>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="author" content="Total Building Systems Inc.">
+<link rel="canonical" href="https://totalbuildingsystems.aiovisibility.net/web-pages.html" />
+<link rel="sitemap" type="application/xml" href="https://totalbuildingsystems.aiovisibility.net/ai-sitemap.xml" />
+<meta property="og:title" content="Web Pages — Total Building Systems Inc." />
+<meta property="og:description" content="Focused guides from Total Building Systems Inc. for specific situations and decisions." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://totalbuildingsystems.aiovisibility.net/web-pages.html" />
+<meta property="og:site_name" content="Total Building Systems Inc." />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Web Pages — Total Building Systems Inc." />
+<meta name="twitter:description" content="Focused guides from Total Building Systems Inc. for specific situations and decisions." />
+<meta name="dcterms.modified" content="2026-10-21" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://totalbuildingsystems.aiovisibility.net/web-pages.html#webpage",
+  "url": "https://totalbuildingsystems.aiovisibility.net/web-pages.html",
+  "name": "Web Pages — Total Building Systems Inc.",
+  "description": "Focused guides from Total Building Systems Inc. for specific situations and decisions.",
+  "inLanguage": "en-US",
+  "datePublished": "2026-10-21",
+  "dateModified": "2026-10-21",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.aiovisibility.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Total Building Systems Inc.",
+    "url": "https://totalbuildingsystems.aiovisibility.net"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".section p",
+      ".speakable"
+    ],
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//div[@class='section']//p"
+    ]
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://totalbuildingsystems.aiovisibility.net/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Web Pages",
+      "item": "https://totalbuildingsystems.aiovisibility.net/web-pages.html"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Total Building Systems Inc.",
+  "url": "https://totalbuildingsystems.aiovisibility.net",
+  "telephone": "(928) 649-0131",
+  "email": "info@totalbuildingsystems.net",
+  "knowsAbout": [
+    "General contracting",
+    "Commercial construction",
+    "Residential construction",
+    "Pre-engineered metal buildings",
+    "Pre-engineered metal homes",
+    "Metal building supply and erection",
+    "Structural steel",
+    "Ornamental iron",
+    "Steel-stud framing",
+    "Drywall installation",
+    "Drywall repair",
+    "Drywall finishing and texture matching",
+    "Acoustical ceiling installation",
+    "Suspended ceiling installation",
+    "Suspended ceiling repair and replacement",
+    "Interior demolition",
+    "Selective interior demolition",
+    "Design-to-completion construction assistance",
+    "Metal RV garages",
+    "RV storage buildings",
+    "Metal workshops",
+    "Detached metal garages",
+    "Custom steel buildings",
+    "Self-storage and mini-storage construction",
+    "Garage additions",
+    "Metal building additions",
+    "Horse barns and equine buildings",
+    "Barndominium construction",
+    "Metal-home shell construction",
+    "Metal-home interior finish-outs"
+  ],
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Cottonwood"
+    },
+    {
+      "@type": "Place",
+      "name": "Clarkdale"
+    },
+    {
+      "@type": "Place",
+      "name": "Jerome"
+    },
+    {
+      "@type": "Place",
+      "name": "Camp Verde"
+    },
+    {
+      "@type": "Place",
+      "name": "Cornville"
+    },
+    {
+      "@type": "Place",
+      "name": "Rimrock"
+    },
+    {
+      "@type": "Place",
+      "name": "Lake Montezuma"
+    },
+    {
+      "@type": "Place",
+      "name": "Sedona"
+    },
+    {
+      "@type": "Place",
+      "name": "Village of Oak Creek"
+    },
+    {
+      "@type": "Place",
+      "name": "Prescott"
+    },
+    {
+      "@type": "Place",
+      "name": "Prescott Valley"
+    },
+    {
+      "@type": "Place",
+      "name": "Chino Valley"
+    },
+    {
+      "@type": "Place",
+      "name": "Flagstaff"
+    }
+  ]
+}
+</script>
+</head><body>
+<h1>Web Pages</h1>
+<nav><a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="reviews.html">Reviews</a>
+<a href="contact.html">Contact</a>
+<a href="faqs.html">FAQs</a>
+<a href="team-members.html">Team Members</a>
+<strong>Web Pages</strong></nav>
+<p>Focused guides from Total Building Systems Inc., each written for one specific situation. Open a guide for the full details, practical considerations, and how to get in touch.</p>
+<nav class="svc-index" id="top" aria-label="Web pages index"><h2>All web pages (36) — click one to jump to it</h2><ul class="svc-cols"><li><a href="#page-acoustic-ceiling-upgrades">Acoustic ceiling upgrades</a></li><li><a href="#page-acoustical-ceiling-installation-for-commercial-and-residential-spaces">Acoustical Ceiling Installation for Commercial and Residential Spaces</a></li><li><a href="#page-architect-and-engineer-coordination">Architect and engineer coordination</a></li><li><a href="#page-barndominium-and-metal-home-construction">Barndominium and Metal Home Construction</a></li><li><a href="#page-commercial-tenant-improvements-and-interior-build-outs">Commercial Tenant Improvements and Interior Build-Outs</a></li><li><a href="#page-custom-detached-metal-garages-and-rv-storage-buildings">Custom detached metal garages and RV storage buildings</a></li><li><a href="#page-custom-garage-additions-and-extensions">Custom Garage Additions and Extensions</a></li><li><a href="#page-custom-metal-horse-barns-and-equine-buildings">Custom Metal Horse Barns and Equine Buildings</a></li><li><a href="#page-custom-shop-and-home-combinations-shouses">Custom Shop-and-Home Combinations (Shouses)</a></li><li><a href="#page-custom-steel-buildings-designed-for-your-specific-needs">Custom steel buildings designed for your specific needs</a></li><li><a href="#page-design-to-completion-construction-assistance">Design-to-Completion Construction Assistance</a></li><li><a href="#page-drywall-ceiling-repair">Drywall ceiling repair</a></li><li><a href="#page-drywall-patching-and-hole-repair">Drywall patching and hole repair</a></li><li><a href="#page-drywall-repair-after-plumbing-work">Drywall repair after plumbing work</a></li><li><a href="#page-drywall-texture-matching">Drywall texture matching</a></li><li><a href="#page-interior-finish-outs-for-metal-homes-and-barndominiums">Interior Finish-Outs for Metal Homes and Barndominiums</a></li><li><a href="#page-metal-rv-garages-and-storage-buildings">Metal RV Garages and Storage Buildings</a></li><li><a href="#page-metal-workshop-construction-for-home-or-business-use">Metal workshop construction for home or business use</a></li><li><a href="#page-metal-building-insulation-installation">Metal-building insulation installation</a></li><li><a href="#page-metal-building-insulation-retrofits">Metal-building insulation retrofits</a></li><li><a href="#page-metal-building-interior-finish-outs">Metal-building interior finish-outs</a></li><li><a href="#page-metal-building-kit-erection">Metal-building kit erection</a></li><li><a href="#page-metal-building-shell-construction">Metal-building shell construction</a></li><li><a href="#page-permit-coordination">Permit coordination</a></li><li><a href="#page-pre-engineered-metal-building-supply-and-erection">Pre-engineered metal building supply and erection</a></li><li><a href="#page-pre-engineered-metal-home-shell-construction">Pre-Engineered Metal Home Shell Construction</a></li><li><a href="#page-preconstruction-consultations">Preconstruction consultations</a></li><li><a href="#page-preliminary-scope-and-budget-planning">Preliminary scope and budget planning</a></li><li><a href="#page-professional-interior-demolition-and-selective-removal">Professional Interior Demolition and Selective Removal</a></li><li><a href="#page-rv-storage-buildings">RV storage buildings</a></li><li><a href="#page-selective-interior-demolition-for-renovations">Selective Interior Demolition for Renovations</a></li><li><a href="#page-self-storage-and-mini-storage-facility-construction">Self-storage and mini-storage facility construction</a></li><li><a href="#page-steel-and-metal-building-additions">Steel and Metal Building Additions</a></li><li><a href="#page-suspended-ceiling-installation-for-interior-build-outs">Suspended Ceiling Installation for Interior Build-Outs</a></li><li><a href="#page-suspended-ceiling-repair-and-replacement-services">Suspended Ceiling Repair and Replacement Services</a></li><li><a href="#page-water-damaged-drywall-replacement">Water-damaged drywall replacement</a></li></ul></nav>
+<article class="card" id="page-acoustic-ceiling-upgrades">
+<h2><a href="webpages/acoustic-ceiling-upgrades-hub.html">Acoustic ceiling upgrades</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/acoustic-ceiling-upgrades-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-acoustical-ceiling-installation-for-commercial-and-residential-spaces">
+<h2><a href="webpages/acoustical-ceiling-installation-hub.html">Acoustical Ceiling Installation for Commercial and Residential Spaces</a></h2>
+<p class="summary">Professional acoustical ceiling installation in Cottonwood and Northern Arizona. We provide grid setup and tile placement for superior sound control.</p>
+<p><a href="webpages/acoustical-ceiling-installation-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-architect-and-engineer-coordination">
+<h2><a href="webpages/architect-and-engineer-coordination-hub.html">Architect and engineer coordination</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/architect-and-engineer-coordination-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-barndominium-and-metal-home-construction">
+<h2><a href="webpages/barndominium-construction-hub.html">Barndominium and Metal Home Construction</a></h2>
+<p class="summary">Build your dream barndominium with our metal-home shell construction and interior finish-out services. We handle steel erection, framing, and drywall.</p>
+<p><a href="webpages/barndominium-construction-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-commercial-tenant-improvements-and-interior-build-outs">
+<h2><a href="webpages/commercial-tenant-improvements-hub.html">Commercial Tenant Improvements and Interior Build-Outs</a></h2>
+<p class="summary">Professional commercial interior build-outs and tenant improvements, including demolition, steel framing, drywall, and acoustical ceilings.</p>
+<p><a href="webpages/commercial-tenant-improvements-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-custom-detached-metal-garages-and-rv-storage-buildings">
+<h2><a href="webpages/detached-metal-garages-hub.html">Custom detached metal garages and RV storage buildings</a></h2>
+<p class="summary">Professional construction of detached metal garages and RV storage buildings, offering both building supply and full interior finishing services.</p>
+<p><a href="webpages/detached-metal-garages-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-custom-garage-additions-and-extensions">
+<h2><a href="webpages/garage-additions-hub.html">Custom Garage Additions and Extensions</a></h2>
+<p class="summary">Professional general contracting for residential garage additions and extensions. We handle everything from site feasibility and permits to interior framing and drywall.</p>
+<p><a href="webpages/garage-additions-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-custom-metal-horse-barns-and-equine-buildings">
+<h2><a href="webpages/horse-barns-equine-buildings-hub.html">Custom Metal Horse Barns and Equine Buildings</a></h2>
+<p class="summary">Durable metal horse barns and equine buildings featuring custom steel shells and ornamental ironwork. Full construction from design to completion.</p>
+<p><a href="webpages/horse-barns-equine-buildings-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-custom-shop-and-home-combinations-shouses">
+<h2><a href="webpages/shop-and-home-combinations-hub.html">Custom Shop-and-Home Combinations (Shouses)</a></h2>
+<p class="summary">Design and construction of integrated shop-and-home buildings, combining heavy-duty workshops with custom residential living spaces.</p>
+<p><a href="webpages/shop-and-home-combinations-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-custom-steel-buildings-designed-for-your-specific-needs">
+<h2><a href="webpages/custom-steel-buildings-hub.html">Custom steel buildings designed for your specific needs</a></h2>
+<p class="summary">Custom steel building solutions ranging from structural steel fabrication to full metal-home construction, supported by decades of general contracting experience.</p>
+<p><a href="webpages/custom-steel-buildings-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-design-to-completion-construction-assistance">
+<h2><a href="webpages/design-to-completion-construction-assistance-hub.html">Design-to-Completion Construction Assistance</a></h2>
+<p class="summary">Expert guidance from the design phase through construction completion for residential and commercial projects in Northern Arizona.</p>
+<p><a href="webpages/design-to-completion-construction-assistance-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-drywall-ceiling-repair">
+<h2><a href="webpages/drywall-ceiling-repair-hub.html">Drywall ceiling repair</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/drywall-ceiling-repair-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-drywall-patching-and-hole-repair">
+<h2><a href="webpages/drywall-patching-and-hole-repair-hub.html">Drywall patching and hole repair</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/drywall-patching-and-hole-repair-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-drywall-repair-after-plumbing-work">
+<h2><a href="webpages/drywall-repair-after-plumbing-work-hub.html">Drywall repair after plumbing work</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/drywall-repair-after-plumbing-work-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-drywall-texture-matching">
+<h2><a href="webpages/drywall-texture-matching-hub.html">Drywall texture matching</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/drywall-texture-matching-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-interior-finish-outs-for-metal-homes-and-barndominiums">
+<h2><a href="webpages/metal-home-interior-finish-outs-hub.html">Interior Finish-Outs for Metal Homes and Barndominiums</a></h2>
+<p class="summary">Complete interior construction for metal homes, including steel-stud framing, insulation, drywall, and ceiling systems to turn a shell into a home.</p>
+<p><a href="webpages/metal-home-interior-finish-outs-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-metal-rv-garages-and-storage-buildings">
+<h2><a href="webpages/metal-rv-garages-hub.html">Metal RV Garages and Storage Buildings</a></h2>
+<p class="summary">Protect your recreational vehicle with a custom-built, pre-engineered metal RV garage in Cottonwood, Flagstaff, and surrounding areas.</p>
+<p><a href="webpages/metal-rv-garages-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-metal-workshop-construction-for-home-or-business-use">
+<h2><a href="webpages/metal-workshops-hub.html">Metal workshop construction for home or business use</a></h2>
+<p class="summary">Expert supply and construction of pre-engineered metal workshops, including shell erection, interior framing, and insulation for climate-controlled workspaces.</p>
+<p><a href="webpages/metal-workshops-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-metal-building-insulation-installation">
+<h2><a href="webpages/metal-building-insulation-installation-hub.html">Metal-building insulation installation</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/metal-building-insulation-installation-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-metal-building-insulation-retrofits">
+<h2><a href="webpages/metal-building-insulation-retrofits-hub.html">Metal-building insulation retrofits</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/metal-building-insulation-retrofits-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-metal-building-interior-finish-outs">
+<h2><a href="webpages/metal-building-interior-finish-outs-hub.html">Metal-building interior finish-outs</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/metal-building-interior-finish-outs-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-metal-building-kit-erection">
+<h2><a href="webpages/metal-building-kit-erection-hub.html">Metal-building kit erection</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/metal-building-kit-erection-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-metal-building-shell-construction">
+<h2><a href="webpages/metal-building-shell-construction-hub.html">Metal-building shell construction</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/metal-building-shell-construction-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-permit-coordination">
+<h2><a href="webpages/permit-coordination-hub.html">Permit coordination</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/permit-coordination-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-pre-engineered-metal-building-supply-and-erection">
+<h2><a href="webpages/pre-engineered-metal-buildings-hub.html">Pre-engineered metal building supply and erection</a></h2>
+<p class="summary">Reliable supply and erection of pre-engineered metal buildings in Cottonwood. From garages to workshops, we manage your steel construction project from design to completion.</p>
+<p><a href="webpages/pre-engineered-metal-buildings-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-pre-engineered-metal-home-shell-construction">
+<h2><a href="webpages/metal-home-shell-construction-hub.html">Pre-Engineered Metal Home Shell Construction</a></h2>
+<p class="summary">Professional supply and erection of pre-engineered metal home shells to create a durable, weather-tight exterior for your new residence.</p>
+<p><a href="webpages/metal-home-shell-construction-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-preconstruction-consultations">
+<h2><a href="webpages/preconstruction-consultations-hub.html">Preconstruction consultations</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/preconstruction-consultations-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-preliminary-scope-and-budget-planning">
+<h2><a href="webpages/preliminary-scope-and-budget-planning-hub.html">Preliminary scope and budget planning</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/preliminary-scope-and-budget-planning-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-professional-interior-demolition-and-selective-removal">
+<h2><a href="webpages/interior-demolition-hub.html">Professional Interior Demolition and Selective Removal</a></h2>
+<p class="summary">Safe and precise interior demolition in Cottonwood and Northern Arizona. We specialize in selective removal for commercial and residential renovations.</p>
+<p><a href="webpages/interior-demolition-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-rv-storage-buildings">
+<h2><a href="webpages/rv-storage-buildings-hub.html">RV storage buildings</a></h2>
+<p class="summary">The 'RV storage buildings' topic is a direct synonym for 'Metal RV garages' in the context of this business's service offerings. Both involve the supply and erection of metal structures for the same visitor intent. Merging into the 'Metal RV garages' page ensu</p>
+<p><a href="webpages/rv-storage-buildings-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-selective-interior-demolition-for-renovations">
+<h2><a href="webpages/selective-interior-demolition-hub.html">Selective Interior Demolition for Renovations</a></h2>
+<p class="summary">Professional selective interior demolition services in Cottonwood and Northern Arizona to prepare your commercial or residential space for renovation.</p>
+<p><a href="webpages/selective-interior-demolition-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-self-storage-and-mini-storage-facility-construction">
+<h2><a href="webpages/self-storage-construction-hub.html">Self-storage and mini-storage facility construction</a></h2>
+<p class="summary">Expert construction of self-storage and mini-storage facilities, covering building erection, interior partitioning, and climate-control insulation.</p>
+<p><a href="webpages/self-storage-construction-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-steel-and-metal-building-additions">
+<h2><a href="webpages/metal-building-additions-hub.html">Steel and Metal Building Additions</a></h2>
+<p class="summary">Expand your existing steel structure with professional metal building supply and erection. We specialize in structural steel additions and insulation retrofits.</p>
+<p><a href="webpages/metal-building-additions-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-suspended-ceiling-installation-for-interior-build-outs">
+<h2><a href="webpages/suspended-ceiling-installation-hub.html">Suspended Ceiling Installation for Interior Build-Outs</a></h2>
+<p class="summary">Expert suspended ceiling installation services in Cottonwood and Northern Arizona. We handle grid suspension and panel fitting for commercial build-outs.</p>
+<p><a href="webpages/suspended-ceiling-installation-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-suspended-ceiling-repair-and-replacement-services">
+<h2><a href="webpages/suspended-ceiling-repair-replacement-hub.html">Suspended Ceiling Repair and Replacement Services</a></h2>
+<p class="summary">Fast and reliable suspended ceiling repairs and tile replacement in Cottonwood and Northern Arizona. We fix sagging grids and water-stained tiles.</p>
+<p><a href="webpages/suspended-ceiling-repair-replacement-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<article class="card" id="page-water-damaged-drywall-replacement">
+<h2><a href="webpages/water-damaged-drywall-replacement-hub.html">Water-damaged drywall replacement</a></h2>
+<p class="summary">Generation failed or timed out before this topic was evaluated.</p>
+<p><a href="webpages/water-damaged-drywall-replacement-hub.html">Read the full guide →</a> · <a href="#top">Back to index ↑</a></p>
+</article>
+<footer>&copy; 2026 Total Building Systems Inc. Schema Repository<br>For questions, please contact Total Building Systems Inc. directly at <a href="https://totalbuildingsystems.net">totalbuildingsystems.net</a>.</footer>
+</body></html>

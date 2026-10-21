@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-10-21T00:27:28.167Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Total Building Systems Inc.",
+    "canonicalUrl": "https://totalbuildingsystems.aiovisibility.net",
+    "primaryWebsiteUrl": "https://totalbuildingsystems.net",
+    "aiDataHub": "https://totalbuildingsystems.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Total Building Systems Inc. — canonical website",
+      "url": "https://totalbuildingsystems.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Total Building Systems Inc. — AI Data Hub",
+      "url": "https://totalbuildingsystems.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/total-building-systems-inc-ai-schemas-erb3"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/total-building-systems-inc-ai-schemas-erb3",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/total-building-systems-inc-ai-schemas-erb3"
+    }
+  }
+}
